@@ -3,6 +3,7 @@ library(glue)
 library(purrr)
 library(dplyr)
 library(stringr)
+library(robis)
 
 markers <- c("16s", "coi", "mifish", "mimammal", "teleo")
 fish_classes <- c("Actinopteri", "Cladistii", "Coelacanthi", "Elasmobranchii", "Holocephali", "Myxini", "Petromyzonti", "Teleostei")
@@ -15,7 +16,9 @@ sites <- fromJSON("https://raw.githubusercontent.com/iobis/mwhs-obis-species/mas
 
 obis_species <- map(sites, function(site_name) {
   site_list <- fromJSON(glue("https://raw.githubusercontent.com/iobis/mwhs-obis-species/master/lists/{site_name}.json"))$species
-  site_list$site <- site_name
+  if (length(site_list) > 0) {
+    site_list$site <- site_name
+  }
   return(site_list)
 }) %>%
   bind_rows() %>%
