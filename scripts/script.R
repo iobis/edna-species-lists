@@ -84,9 +84,26 @@ for (site_name in sites) {
     filter(site == site_name) %>%
     select(-site) %>%
     arrange(group, phylum, class, order, species)
+
+  group_stats <- site_list %>% group_by(group) %>% summarize(n_species = n()) %>% data.table::transpose(make.names = TRUE)
+  if (nrow(group_stats) == 0) {
+    group_stats <- NULL
+  }
+  
+  site_stats <- list(
+    groups = group_stats %>% unbox(),
+    redlist = site_list %>% filter(!is.na(redlist_category)) %>% summarize(n_species = n()) %>% pull(n_species) %>% unbox(),
+    source = list(
+      obis = site_list %>% filter(source_obis) %>% summarize(n_species = n()) %>% pull(n_species) %>% unbox(),
+      edna = site_list %>% filter(source_dna) %>% summarize(n_species = n()) %>% pull(n_species) %>% unbox(),
+      both = site_list %>% filter(source_dna & source_obis) %>% summarize(n_species = n()) %>% pull(n_species) %>% unbox()
+    )
+  )
+  
   json = toJSON(list(
     created = unbox(strftime(as.POSIXlt(Sys.time(), "UTC"), "%Y-%m-%dT%H:%M:%S")),
-    species = site_list
+    species = site_list,
+    stats = site_stats
   ), pretty = TRUE)
   write(json, glue("lists/json/{site_name}.json"))
   write.csv(site_list, glue("lists/csv/{site_name}.csv"), row.names = FALSE, na = "")

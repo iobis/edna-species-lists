@@ -1,5 +1,5 @@
 {
-  "created": "2023-09-25T10:30:07",
+  "created": "2023-09-26T12:47:26",
   "species": [
     {
       "AphiaID": 271349,
@@ -37699,5 +37699,18 @@
       "max_year": 2019,
       "source_obis": true
     }
-  ]
+  ],
+  "stats": {
+    "groups": {
+        "fish": 2869,
+        "mammal": 25,
+        "turtle": 6
+      },
+    "redlist": 134,
+    "source": {
+      "obis": 2900,
+      "edna": 0,
+      "both": 0
+    }
+  }
 }
