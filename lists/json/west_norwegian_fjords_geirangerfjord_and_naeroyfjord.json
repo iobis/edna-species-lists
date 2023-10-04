@@ -1,5 +1,5 @@
 {
-  "created": "2023-09-26T12:47:27",
+  "created": "2023-10-04T08:18:31",
   "species": [
     {
       "AphiaID": 343899,
@@ -12,19 +12,6 @@
       "group": "mammal",
       "records": 1,
       "max_year": 2001,
-      "source_obis": true
-    },
-    {
-      "AphiaID": 137102,
-      "phylum": "Chordata",
-      "class": "Mammalia",
-      "order": "Cetartiodactyla",
-      "family": "Delphinidae",
-      "genus": "Orcinus",
-      "species": "Orcinus orca",
-      "group": "mammal",
-      "records": 1,
-      "max_year": 2012,
       "source_obis": true
     },
     {
@@ -43,11 +30,11 @@
   ],
   "stats": {
     "groups": {
-        "mammal": 3
+        "mammal": 2
       },
     "redlist": 0,
     "source": {
-      "obis": 3,
+      "obis": 2,
       "edna": 0,
       "both": 0
     }

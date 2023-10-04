@@ -1,5 +1,5 @@
 {
-  "created": "2023-09-26T12:47:27",
+  "created": "2023-10-04T08:18:31",
   "species": [
     {
       "AphiaID": 217352,
@@ -901,7 +901,7 @@
       "species": "Acanthemblemaria stephensi",
       "group": "fish",
       "redlist_category": "VU",
-      "records": 5,
+      "records": 8,
       "max_year": 1972,
       "source_obis": true
     },
@@ -953,8 +953,9 @@
       "genus": "Gobioclinus",
       "species": "Gobioclinus dendriticus",
       "group": "fish",
-      "records": 9,
-      "max_year": 2020,
+      "redlist_category": "VU",
+      "records": 1,
+      "max_year": 1972,
       "source_obis": true
     },
     {
@@ -1333,7 +1334,8 @@
       "genus": "Istiophorus",
       "species": "Istiophorus platypterus",
       "group": "fish",
-      "records": 1,
+      "records": 2,
+      "max_year": 1968,
       "source_obis": true
     },
     {
@@ -3099,6 +3101,19 @@
       "source_obis": true
     },
     {
+      "AphiaID": 127030,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Scombriformes",
+      "family": "Scombrolabracidae",
+      "genus": "Scombrolabrax",
+      "species": "Scombrolabrax heterolepis",
+      "group": "fish",
+      "records": 1,
+      "max_year": 1968,
+      "source_obis": true
+    },
+    {
       "AphiaID": 127027,
       "phylum": "Chordata",
       "class": "Teleostei",
@@ -3108,7 +3123,7 @@
       "species": "Thunnus albacares",
       "group": "fish",
       "redlist_category": "NT",
-      "records": 2,
+      "records": 3,
       "max_year": 2019,
       "source_obis": true
     },
@@ -3622,7 +3637,7 @@
       "species": "Chelonia mydas",
       "group": "turtle",
       "redlist_category": "EN",
-      "records": 1,
+      "records": 2,
       "max_year": 2020,
       "source_obis": true
     },
@@ -3655,13 +3670,13 @@
   ],
   "stats": {
     "groups": {
-        "fish": 275,
+        "fish": 276,
         "mammal": 11,
         "turtle": 3
       },
-    "redlist": 42,
+    "redlist": 43,
     "source": {
-      "obis": 289,
+      "obis": 290,
       "edna": 0,
       "both": 0
     }

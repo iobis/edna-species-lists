@@ -1,5 +1,5 @@
 {
-  "created": "2023-09-26T12:47:27",
+  "created": "2023-10-04T08:18:31",
   "species": [
     {
       "AphiaID": 254537,
@@ -36,7 +36,7 @@
       "genus": "Hypomesus",
       "species": "Hypomesus nipponensis",
       "group": "fish",
-      "records": 1,
+      "records": 2,
       "max_year": 2007,
       "source_obis": true
     },
@@ -49,7 +49,7 @@
       "genus": "Alcichthys",
       "species": "Alcichthys elongatus",
       "group": "fish",
-      "records": 2,
+      "records": 1,
       "max_year": 2008,
       "source_obis": true
     },
@@ -127,7 +127,7 @@
       "genus": "Bero",
       "species": "Bero elegans",
       "group": "fish",
-      "records": 30,
+      "records": 29,
       "max_year": 2009,
       "source_obis": true
     },
@@ -740,7 +740,21 @@
       "genus": "Megaptera",
       "species": "Megaptera novaeangliae",
       "group": "mammal",
-      "records": 1,
+      "records": 2,
+      "max_year": 2023,
+      "source_obis": true
+    },
+    {
+      "AphiaID": 137119,
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetartiodactyla",
+      "family": "Physeteridae",
+      "genus": "Physeter",
+      "species": "Physeter macrocephalus",
+      "group": "mammal",
+      "redlist_category": "VU",
+      "records": 19,
       "max_year": 2023,
       "source_obis": true
     },
@@ -753,7 +767,7 @@
       "species": "Caretta caretta",
       "group": "turtle",
       "redlist_category": "VU",
-      "records": 10,
+      "records": 9,
       "max_year": 2011,
       "source_obis": true
     }
@@ -761,12 +775,12 @@
   "stats": {
     "groups": {
         "fish": 57,
-        "mammal": 1,
+        "mammal": 2,
         "turtle": 1
       },
-    "redlist": 1,
+    "redlist": 2,
     "source": {
-      "obis": 59,
+      "obis": 60,
       "edna": 0,
       "both": 0
     }

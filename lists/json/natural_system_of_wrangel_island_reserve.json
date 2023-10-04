@@ -1,5 +1,5 @@
 {
-  "created": "2023-09-26T12:47:27",
+  "created": "2023-10-04T08:18:31",
   "species": [
     {
       "AphiaID": 126433,
@@ -28,18 +28,6 @@
       "source_obis": true
     },
     {
-      "AphiaID": 127194,
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Perciformes",
-      "family": "Cottidae",
-      "genus": "Artediellus",
-      "species": "Artediellus scaber",
-      "group": "fish",
-      "records": 2,
-      "source_obis": true
-    },
-    {
       "AphiaID": 254583,
       "phylum": "Chordata",
       "class": "Teleostei",
@@ -48,7 +36,7 @@
       "genus": "Gymnelus",
       "species": "Gymnelus hemifasciatus",
       "group": "fish",
-      "records": 2,
+      "records": 1,
       "source_obis": true
     },
     {
@@ -99,20 +87,8 @@
       "genus": "Liparis",
       "species": "Liparis tunicatus",
       "group": "fish",
-      "records": 5,
+      "records": 4,
       "max_year": 2009,
-      "source_obis": true
-    },
-    {
-      "AphiaID": 254584,
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Perciformes",
-      "family": "Zoarcidae",
-      "genus": "Lycodes",
-      "species": "Lycodes mucosus",
-      "group": "fish",
-      "records": 1,
       "source_obis": true
     },
     {
@@ -137,8 +113,8 @@
       "species": "Ursus maritimus",
       "group": "mammal",
       "redlist_category": "VU",
-      "records": 103,
-      "max_year": 2012,
+      "records": 75,
+      "max_year": 2011,
       "source_obis": true
     },
     {
@@ -150,21 +126,8 @@
       "genus": "Balaena",
       "species": "Balaena mysticetus",
       "group": "mammal",
-      "records": 9,
-      "max_year": 2019,
-      "source_obis": true
-    },
-    {
-      "AphiaID": 137115,
-      "phylum": "Chordata",
-      "class": "Mammalia",
-      "order": "Cetartiodactyla",
-      "family": "Monodontidae",
-      "genus": "Delphinapterus",
-      "species": "Delphinapterus leucas",
-      "group": "mammal",
       "records": 1,
-      "max_year": 2010,
+      "max_year": 2019,
       "source_obis": true
     },
     {
@@ -183,12 +146,12 @@
   ],
   "stats": {
     "groups": {
-        "fish": 10,
-        "mammal": 4
+        "fish": 8,
+        "mammal": 3
       },
     "redlist": 1,
     "source": {
-      "obis": 14,
+      "obis": 11,
       "edna": 0,
       "both": 0
     }

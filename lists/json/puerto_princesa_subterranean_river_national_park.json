@@ -1,11 +1,105 @@
 {
-  "created": "2023-09-26T12:47:27",
-  "species": [],
+  "created": "2023-10-04T08:18:31",
+  "species": [
+    {
+      "AphiaID": 345843,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Carangaria incertae sedis",
+      "family": "Sphyraenidae",
+      "genus": "Sphyraena",
+      "species": "Sphyraena barracuda",
+      "group": "fish",
+      "records": 2,
+      "max_year": 1948,
+      "source_obis": true
+    },
+    {
+      "AphiaID": 276530,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Lutjanidae",
+      "genus": "Lutjanus",
+      "species": "Lutjanus decussatus",
+      "group": "fish",
+      "records": 2,
+      "source_obis": true
+    },
+    {
+      "AphiaID": 213658,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Caesionidae",
+      "genus": "Pterocaesio",
+      "species": "Pterocaesio pisang",
+      "group": "fish",
+      "records": 1,
+      "max_year": 1979,
+      "source_obis": true
+    },
+    {
+      "AphiaID": 209219,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Nemipteridae",
+      "genus": "Scolopsis",
+      "species": "Scolopsis bilineata",
+      "group": "fish",
+      "records": 1,
+      "max_year": 1979,
+      "source_obis": true
+    },
+    {
+      "AphiaID": 212814,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Ovalentaria incertae sedis",
+      "family": "Pomacentridae",
+      "genus": "Chromis",
+      "species": "Chromis analis",
+      "group": "fish",
+      "records": 1,
+      "max_year": 1979,
+      "source_obis": true
+    },
+    {
+      "AphiaID": 277159,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Ovalentaria incertae sedis",
+      "family": "Pomacentridae",
+      "genus": "Pomacentrus",
+      "species": "Pomacentrus moluccensis",
+      "group": "fish",
+      "records": 1,
+      "max_year": 1979,
+      "source_obis": true
+    },
+    {
+      "AphiaID": 137206,
+      "phylum": "Chordata",
+      "order": "Testudines",
+      "family": "Cheloniidae",
+      "genus": "Chelonia",
+      "species": "Chelonia mydas",
+      "group": "turtle",
+      "redlist_category": "EN",
+      "records": 6,
+      "max_year": 2015,
+      "source_obis": true
+    }
+  ],
   "stats": {
-    "groups": {},
-    "redlist": 0,
+    "groups": {
+        "fish": 6,
+        "turtle": 1
+      },
+    "redlist": 1,
     "source": {
-      "obis": 0,
+      "obis": 7,
       "edna": 0,
       "both": 0
     }

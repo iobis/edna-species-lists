@@ -1,6 +1,20 @@
 {
-  "created": "2023-09-26T12:47:27",
+  "created": "2023-10-04T08:18:31",
   "species": [
+    {
+      "AphiaID": 105837,
+      "phylum": "Chordata",
+      "class": "Elasmobranchii",
+      "order": "Lamniformes",
+      "family": "Cetorhinidae",
+      "genus": "Cetorhinus",
+      "species": "Cetorhinus maximus",
+      "group": "fish",
+      "redlist_category": "EN",
+      "records": 2,
+      "max_year": 2018,
+      "source_obis": true
+    },
     {
       "AphiaID": 137097,
       "phylum": "Chordata",
@@ -10,8 +24,21 @@
       "genus": "Globicephala",
       "species": "Globicephala melas",
       "group": "mammal",
-      "records": 1,
-      "max_year": 2019,
+      "records": 2,
+      "max_year": 2021,
+      "source_obis": true
+    },
+    {
+      "AphiaID": 137092,
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetartiodactyla",
+      "family": "Balaenopteridae",
+      "genus": "Megaptera",
+      "species": "Megaptera novaeangliae",
+      "group": "mammal",
+      "records": 28,
+      "max_year": 2023,
       "source_obis": true
     },
     {
@@ -23,18 +50,33 @@
       "genus": "Orcinus",
       "species": "Orcinus orca",
       "group": "mammal",
-      "records": 4,
-      "max_year": 2017,
+      "records": 14,
+      "max_year": 2022,
+      "source_obis": true
+    },
+    {
+      "AphiaID": 137119,
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetartiodactyla",
+      "family": "Physeteridae",
+      "genus": "Physeter",
+      "species": "Physeter macrocephalus",
+      "group": "mammal",
+      "redlist_category": "VU",
+      "records": 1,
+      "max_year": 2019,
       "source_obis": true
     }
   ],
   "stats": {
     "groups": {
-        "mammal": 2
+        "fish": 1,
+        "mammal": 4
       },
-    "redlist": 0,
+    "redlist": 2,
     "source": {
-      "obis": 2,
+      "obis": 5,
       "edna": 0,
       "both": 0
     }

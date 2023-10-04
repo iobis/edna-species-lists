@@ -1,5 +1,5 @@
 {
-  "created": "2023-09-26T12:47:26",
+  "created": "2023-10-04T08:18:31",
   "species": [
     {
       "AphiaID": 126417,
@@ -100,7 +100,7 @@
       "genus": "Pomatoschistus",
       "species": "Pomatoschistus minutus",
       "group": "fish",
-      "records": 154,
+      "records": 155,
       "max_year": 2014,
       "source_obis": true
     },
@@ -242,8 +242,21 @@
       "genus": "Halichoerus",
       "species": "Halichoerus grypus",
       "group": "mammal",
-      "records": 57,
+      "records": 100,
       "max_year": 2020,
+      "source_obis": true
+    },
+    {
+      "AphiaID": 159021,
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Phocidae",
+      "genus": "Pusa",
+      "species": "Pusa hispida",
+      "group": "mammal",
+      "records": 7,
+      "max_year": 2018,
       "source_obis": true
     },
     {
@@ -255,7 +268,7 @@
       "genus": "Pusa",
       "species": "Pusa hispida",
       "group": "mammal",
-      "records": 8,
+      "records": 1,
       "max_year": 2019,
       "source_obis": true
     }
@@ -263,11 +276,11 @@
   "stats": {
     "groups": {
         "fish": 18,
-        "mammal": 2
+        "mammal": 3
       },
     "redlist": 1,
     "source": {
-      "obis": 20,
+      "obis": 21,
       "edna": 0,
       "both": 0
     }
