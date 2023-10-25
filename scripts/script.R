@@ -5,6 +5,7 @@ library(dplyr)
 library(stringr)
 library(robis)
 
+include_dna <- FALSE
 markers <- c("16s", "coi", "mifish", "mimammal", "teleo")
 fish_classes <- c("Actinopteri", "Cladistii", "Coelacanthi", "Elasmobranchii", "Holocephali", "Myxini", "Petromyzonti", "Teleostei")
 turtle_orders <- c("Testudines")
@@ -65,7 +66,13 @@ dna_species <- dna_species %>%
   left_join(dna_species_obis, by = "AphiaID") %>%
   mutate(source_dna = TRUE)
 
-species <- bind_rows(obis_species, dna_species) %>%
+if (include_dna) {
+  combined_species <- bind_rows(obis_species, dna_species)
+} else {
+  combined_species <- obis_species %>% mutate(target_gene = NA, source_dna = NA)
+}
+
+species <- combined_species %>%
   group_by(AphiaID, phylum, class, order, family, genus, species, site, group) %>%
   summarize(
     redlist_category = first(na.omit(redlist_category)),

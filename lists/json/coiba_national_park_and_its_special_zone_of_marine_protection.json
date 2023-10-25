@@ -1,5 +1,5 @@
 {
-  "created": "2023-10-04T08:18:31",
+  "created": "2023-10-25T09:09:24",
   "species": [
     {
       "AphiaID": 105788,
@@ -38,6 +38,7 @@
       "group": "fish",
       "redlist_category": "NT",
       "records": 4,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -101,7 +102,8 @@
       "species": "Triaenodon obesus",
       "group": "fish",
       "redlist_category": "VU",
-      "records": 6,
+      "records": 22,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -113,8 +115,9 @@
       "genus": "Aetobatus",
       "species": "Aetobatus narinari",
       "group": "fish",
-      "redlist_category": "NT",
-      "records": 2,
+      "redlist_category": "EN",
+      "records": 1,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -127,7 +130,8 @@
       "species": "Hypanus dipterurus",
       "group": "fish",
       "redlist_category": "VU",
-      "records": 2,
+      "records": 3,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -140,8 +144,8 @@
       "species": "Hypanus longus",
       "group": "fish",
       "redlist_category": "VU",
-      "records": 5,
-      "max_year": 2001,
+      "records": 8,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -154,7 +158,8 @@
       "species": "Mobula birostris",
       "group": "fish",
       "redlist_category": "EN",
-      "records": 3,
+      "records": 6,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -179,8 +184,8 @@
       "genus": "Urobatis",
       "species": "Urobatis halleri",
       "group": "fish",
-      "records": 5,
-      "max_year": 1994,
+      "records": 12,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -193,7 +198,8 @@
       "species": "Urotrygon chilensis",
       "group": "fish",
       "redlist_category": "NT",
-      "records": 4,
+      "records": 6,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -205,7 +211,9 @@
       "genus": "Ginglymostoma",
       "species": "Ginglymostoma cirratum",
       "group": "fish",
+      "redlist_category": "VU",
       "records": 6,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -273,6 +281,19 @@
       "source_obis": true
     },
     {
+      "AphiaID": 1043469,
+      "phylum": "Chordata",
+      "class": "Elasmobranchii",
+      "order": "Rhinopristiformes",
+      "family": "Rhinobatidae",
+      "genus": "Pseudobatos",
+      "species": "Pseudobatos productus",
+      "group": "fish",
+      "redlist_category": "NT",
+      "records": 1,
+      "source_obis": true
+    },
+    {
       "AphiaID": 283214,
       "phylum": "Chordata",
       "class": "Elasmobranchii",
@@ -294,7 +315,8 @@
       "genus": "Diplobatis",
       "species": "Diplobatis ommata",
       "group": "fish",
-      "records": 7,
+      "records": 11,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -307,7 +329,8 @@
       "species": "Narcine entemedor",
       "group": "fish",
       "redlist_category": "VU",
-      "records": 4,
+      "records": 6,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -319,7 +342,7 @@
       "genus": "Acanthurus",
       "species": "Acanthurus nigricans",
       "group": "fish",
-      "records": 36,
+      "records": 64,
       "max_year": 2007,
       "source_obis": true
     },
@@ -332,7 +355,7 @@
       "genus": "Acanthurus",
       "species": "Acanthurus triostegus",
       "group": "fish",
-      "records": 11,
+      "records": 27,
       "max_year": 2003,
       "source_obis": true
     },
@@ -345,7 +368,7 @@
       "genus": "Acanthurus",
       "species": "Acanthurus xanthopterus",
       "group": "fish",
-      "records": 66,
+      "records": 110,
       "max_year": 2010,
       "source_obis": true
     },
@@ -358,7 +381,8 @@
       "genus": "Chaetodipterus",
       "species": "Chaetodipterus zonatus",
       "group": "fish",
-      "records": 4,
+      "records": 8,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -370,7 +394,7 @@
       "genus": "Chaetodon",
       "species": "Chaetodon humeralis",
       "group": "fish",
-      "records": 37,
+      "records": 68,
       "max_year": 2007,
       "source_obis": true
     },
@@ -383,8 +407,8 @@
       "genus": "Ctenochaetus",
       "species": "Ctenochaetus marginatus",
       "group": "fish",
-      "records": 17,
-      "max_year": 2001,
+      "records": 22,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -396,7 +420,7 @@
       "genus": "Holacanthus",
       "species": "Holacanthus passer",
       "group": "fish",
-      "records": 193,
+      "records": 236,
       "max_year": 2010,
       "source_obis": true
     },
@@ -409,7 +433,7 @@
       "genus": "Johnrandallia",
       "species": "Johnrandallia nigrirostris",
       "group": "fish",
-      "records": 90,
+      "records": 129,
       "max_year": 2010,
       "source_obis": true
     },
@@ -434,7 +458,7 @@
       "genus": "Pomacanthus",
       "species": "Pomacanthus zonipectus",
       "group": "fish",
-      "records": 19,
+      "records": 38,
       "max_year": 2006,
       "source_obis": true
     },
@@ -447,7 +471,8 @@
       "genus": "Prionurus",
       "species": "Prionurus laticlavius",
       "group": "fish",
-      "records": 6,
+      "records": 38,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -459,7 +484,7 @@
       "genus": "Zanclus",
       "species": "Zanclus cornutus",
       "group": "fish",
-      "records": 24,
+      "records": 56,
       "max_year": 2007,
       "source_obis": true
     },
@@ -472,8 +497,8 @@
       "genus": "Anarchias",
       "species": "Anarchias galapagensis",
       "group": "fish",
-      "records": 15,
-      "max_year": 1970,
+      "records": 25,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -485,7 +510,8 @@
       "genus": "Apterichtus",
       "species": "Apterichtus equatorialis",
       "group": "fish",
-      "records": 5,
+      "records": 8,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -510,7 +536,8 @@
       "genus": "Callechelys",
       "species": "Callechelys eristigma",
       "group": "fish",
-      "records": 4,
+      "records": 5,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -534,8 +561,8 @@
       "genus": "Echidna",
       "species": "Echidna nebulosa",
       "group": "fish",
-      "records": 15,
-      "max_year": 1990,
+      "records": 31,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -547,7 +574,21 @@
       "genus": "Echidna",
       "species": "Echidna nocturna",
       "group": "fish",
-      "records": 12,
+      "records": 16,
+      "max_year": 2003,
+      "source_obis": true
+    },
+    {
+      "AphiaID": 271807,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Anguilliformes",
+      "family": "Muraenidae",
+      "genus": "Enchelycore",
+      "species": "Enchelycore lichenosa",
+      "group": "fish",
+      "records": 1,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -559,7 +600,8 @@
       "genus": "Enchelycore",
       "species": "Enchelycore octaviana",
       "group": "fish",
-      "records": 8,
+      "records": 15,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -607,7 +649,8 @@
       "genus": "Gymnomuraena",
       "species": "Gymnomuraena zebra",
       "group": "fish",
-      "records": 14,
+      "records": 32,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -619,7 +662,8 @@
       "genus": "Gymnothorax",
       "species": "Gymnothorax buroensis",
       "group": "fish",
-      "records": 10,
+      "records": 12,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -631,8 +675,8 @@
       "genus": "Gymnothorax",
       "species": "Gymnothorax castaneus",
       "group": "fish",
-      "records": 13,
-      "max_year": 1998,
+      "records": 43,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -644,7 +688,8 @@
       "genus": "Gymnothorax",
       "species": "Gymnothorax dovii",
       "group": "fish",
-      "records": 8,
+      "records": 28,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -656,7 +701,7 @@
       "genus": "Gymnothorax",
       "species": "Gymnothorax equatorialis",
       "group": "fish",
-      "records": 17,
+      "records": 18,
       "max_year": 1987,
       "source_obis": true
     },
@@ -669,7 +714,8 @@
       "genus": "Gymnothorax",
       "species": "Gymnothorax flavimarginatus",
       "group": "fish",
-      "records": 5,
+      "records": 15,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -681,7 +727,8 @@
       "genus": "Gymnothorax",
       "species": "Gymnothorax javanicus",
       "group": "fish",
-      "records": 2,
+      "records": 4,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -693,8 +740,8 @@
       "genus": "Gymnothorax",
       "species": "Gymnothorax panamensis",
       "group": "fish",
-      "records": 29,
-      "max_year": 1990,
+      "records": 45,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -730,7 +777,7 @@
       "genus": "Gymnothorax",
       "species": "Gymnothorax undulatus",
       "group": "fish",
-      "records": 17,
+      "records": 31,
       "max_year": 2007,
       "source_obis": true
     },
@@ -743,7 +790,8 @@
       "genus": "Gymnothorax",
       "species": "Gymnothorax verrilli",
       "group": "fish",
-      "records": 2,
+      "records": 4,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -755,7 +803,8 @@
       "genus": "Heteroconger",
       "species": "Heteroconger klausewitzi",
       "group": "fish",
-      "records": 5,
+      "records": 12,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -767,7 +816,8 @@
       "genus": "Heteroconger",
       "species": "Heteroconger pellegrini",
       "group": "fish",
-      "records": 2,
+      "records": 4,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -792,8 +842,8 @@
       "genus": "Letharchus",
       "species": "Letharchus rosenblatti",
       "group": "fish",
-      "records": 9,
-      "max_year": 1970,
+      "records": 11,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -809,6 +859,19 @@
       "source_obis": true
     },
     {
+      "AphiaID": 271898,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Anguilliformes",
+      "family": "Muraenidae",
+      "genus": "Muraena",
+      "species": "Muraena clepsydra",
+      "group": "fish",
+      "records": 1,
+      "max_year": 2003,
+      "source_obis": true
+    },
+    {
       "AphiaID": 271900,
       "phylum": "Chordata",
       "class": "Teleostei",
@@ -817,7 +880,8 @@
       "genus": "Muraena",
       "species": "Muraena lentiginosa",
       "group": "fish",
-      "records": 17,
+      "records": 34,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -833,6 +897,18 @@
       "source_obis": true
     },
     {
+      "AphiaID": 217578,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Anguilliformes",
+      "family": "Ophichthidae",
+      "genus": "Myrichthys",
+      "species": "Myrichthys maculosus",
+      "group": "fish",
+      "records": 1,
+      "source_obis": true
+    },
+    {
       "AphiaID": 275489,
       "phylum": "Chordata",
       "class": "Teleostei",
@@ -841,8 +917,8 @@
       "genus": "Myrichthys",
       "species": "Myrichthys tigrinus",
       "group": "fish",
-      "records": 16,
-      "max_year": 1938,
+      "records": 28,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -854,7 +930,8 @@
       "genus": "Myrophis",
       "species": "Myrophis vafer",
       "group": "fish",
-      "records": 4,
+      "records": 6,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -890,7 +967,8 @@
       "genus": "Ophichthus",
       "species": "Ophichthus longipenis",
       "group": "fish",
-      "records": 5,
+      "records": 6,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -914,7 +992,8 @@
       "genus": "Paraletharchus",
       "species": "Paraletharchus pacificus",
       "group": "fish",
-      "records": 7,
+      "records": 10,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -950,8 +1029,8 @@
       "genus": "Scuticaria",
       "species": "Scuticaria tigrina",
       "group": "fish",
-      "records": 5,
-      "max_year": 1971,
+      "records": 7,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -975,8 +1054,8 @@
       "genus": "Uropterygius",
       "species": "Uropterygius macrocephalus",
       "group": "fish",
-      "records": 8,
-      "max_year": 1938,
+      "records": 10,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -988,7 +1067,8 @@
       "genus": "Uropterygius",
       "species": "Uropterygius versutus",
       "group": "fish",
-      "records": 6,
+      "records": 21,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -1012,7 +1092,8 @@
       "genus": "Atherinella",
       "species": "Atherinella argentea",
       "group": "fish",
-      "records": 3,
+      "records": 6,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -1037,7 +1118,8 @@
       "genus": "Atherinella",
       "species": "Atherinella nepenthe",
       "group": "fish",
-      "records": 3,
+      "records": 6,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -1049,8 +1131,8 @@
       "genus": "Atherinella",
       "species": "Atherinella starksi",
       "group": "fish",
-      "records": 5,
-      "max_year": 1970,
+      "records": 7,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -1062,7 +1144,7 @@
       "genus": "Membras",
       "species": "Membras gilberti",
       "group": "fish",
-      "records": 2,
+      "records": 3,
       "source_obis": true
     },
     {
@@ -1074,7 +1156,7 @@
       "genus": "Synodus",
       "species": "Synodus evermanni",
       "group": "fish",
-      "records": 19,
+      "records": 20,
       "source_obis": true
     },
     {
@@ -1086,8 +1168,8 @@
       "genus": "Synodus",
       "species": "Synodus lacertinus",
       "group": "fish",
-      "records": 13,
-      "max_year": 1990,
+      "records": 27,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -1099,7 +1181,7 @@
       "genus": "Synodus",
       "species": "Synodus scituliceps",
       "group": "fish",
-      "records": 9,
+      "records": 11,
       "source_obis": true
     },
     {
@@ -1111,7 +1193,7 @@
       "genus": "Synodus",
       "species": "Synodus sechurae",
       "group": "fish",
-      "records": 6,
+      "records": 8,
       "max_year": 1990,
       "source_obis": true
     },
@@ -1125,7 +1207,7 @@
       "species": "Daector reticulata",
       "group": "fish",
       "redlist_category": "VU",
-      "records": 2,
+      "records": 3,
       "source_obis": true
     },
     {
@@ -1149,7 +1231,7 @@
       "genus": "Ablennes",
       "species": "Ablennes hians",
       "group": "fish",
-      "records": 4,
+      "records": 5,
       "source_obis": true
     },
     {
@@ -1173,7 +1255,8 @@
       "genus": "Cypselurus",
       "species": "Cypselurus callopterus",
       "group": "fish",
-      "records": 5,
+      "records": 12,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -1223,7 +1306,8 @@
       "genus": "Fodiator",
       "species": "Fodiator rostratus",
       "group": "fish",
-      "records": 1,
+      "records": 2,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -1277,6 +1361,19 @@
       "source_obis": true
     },
     {
+      "AphiaID": 217872,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Beloniformes",
+      "family": "Exocoetidae",
+      "genus": "Parexocoetus",
+      "species": "Parexocoetus brachypterus",
+      "group": "fish",
+      "records": 1,
+      "max_year": 2003,
+      "source_obis": true
+    },
+    {
       "AphiaID": 126377,
       "phylum": "Chordata",
       "class": "Teleostei",
@@ -1311,7 +1408,7 @@
       "genus": "Tylosurus",
       "species": "Tylosurus crocodilus",
       "group": "fish",
-      "records": 1,
+      "records": 2,
       "source_obis": true
     },
     {
@@ -1323,8 +1420,8 @@
       "genus": "Tylosurus",
       "species": "Tylosurus fodiator",
       "group": "fish",
-      "records": 16,
-      "max_year": 1997,
+      "records": 18,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -1361,8 +1458,8 @@
       "genus": "Acanthemblemaria",
       "species": "Acanthemblemaria exilispinus",
       "group": "fish",
-      "records": 18,
-      "max_year": 1990,
+      "records": 49,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -1374,8 +1471,8 @@
       "genus": "Acanthemblemaria",
       "species": "Acanthemblemaria hancocki",
       "group": "fish",
-      "records": 12,
-      "max_year": 1976,
+      "records": 47,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -1387,8 +1484,20 @@
       "genus": "Axoclinus",
       "species": "Axoclinus lucillae",
       "group": "fish",
-      "records": 11,
-      "max_year": 1938,
+      "records": 40,
+      "max_year": 2003,
+      "source_obis": true
+    },
+    {
+      "AphiaID": 293559,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Blenniiformes",
+      "family": "Chaenopsidae",
+      "genus": "Chaenopsis",
+      "species": "Chaenopsis alepidota",
+      "group": "fish",
+      "records": 1,
       "source_obis": true
     },
     {
@@ -1426,8 +1535,8 @@
       "genus": "Coralliozetus",
       "species": "Coralliozetus springeri",
       "group": "fish",
-      "records": 6,
-      "max_year": 1970,
+      "records": 10,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -1463,7 +1572,7 @@
       "genus": "Dactyloscopus",
       "species": "Dactyloscopus byersorum",
       "group": "fish",
-      "records": 3,
+      "records": 4,
       "source_obis": true
     },
     {
@@ -1487,7 +1596,8 @@
       "genus": "Dactyloscopus",
       "species": "Dactyloscopus minutus",
       "group": "fish",
-      "records": 2,
+      "records": 3,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -1511,8 +1621,8 @@
       "genus": "Dialommus",
       "species": "Dialommus macrocephalus",
       "group": "fish",
-      "records": 10,
-      "max_year": 1970,
+      "records": 13,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -1524,8 +1634,8 @@
       "genus": "Ekemblemaria",
       "species": "Ekemblemaria myersi",
       "group": "fish",
-      "records": 13,
-      "max_year": 1976,
+      "records": 17,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -1550,8 +1660,8 @@
       "genus": "Emblemaria",
       "species": "Emblemaria piratica",
       "group": "fish",
-      "records": 4,
-      "max_year": 1990,
+      "records": 5,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -1563,7 +1673,8 @@
       "genus": "Enneanectes",
       "species": "Enneanectes carminalis",
       "group": "fish",
-      "records": 4,
+      "records": 9,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -1575,7 +1686,8 @@
       "genus": "Entomacrodus",
       "species": "Entomacrodus chiostictus",
       "group": "fish",
-      "records": 2,
+      "records": 3,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -1612,7 +1724,8 @@
       "genus": "Heteristius",
       "species": "Heteristius cinctus",
       "group": "fish",
-      "records": 3,
+      "records": 5,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -1624,8 +1737,8 @@
       "genus": "Hypsoblennius",
       "species": "Hypsoblennius brevipinnis",
       "group": "fish",
-      "records": 9,
-      "max_year": 1970,
+      "records": 20,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -1638,7 +1751,8 @@
       "species": "Hypsoblennius striatus",
       "group": "fish",
       "redlist_category": "NT",
-      "records": 2,
+      "records": 3,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -1650,7 +1764,8 @@
       "genus": "Labrisomus",
       "species": "Labrisomus multiporosus",
       "group": "fish",
-      "records": 2,
+      "records": 3,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -1662,8 +1777,8 @@
       "genus": "Lepidonectes",
       "species": "Lepidonectes clarkhubbsi",
       "group": "fish",
-      "records": 10,
-      "max_year": 1990,
+      "records": 29,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -1675,8 +1790,8 @@
       "genus": "Malacoctenus",
       "species": "Malacoctenus ebisui",
       "group": "fish",
-      "records": 14,
-      "max_year": 1970,
+      "records": 48,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -1688,7 +1803,8 @@
       "genus": "Malacoctenus",
       "species": "Malacoctenus margaritae",
       "group": "fish",
-      "records": 8,
+      "records": 22,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -1713,7 +1829,8 @@
       "genus": "Malacoctenus",
       "species": "Malacoctenus tetranemus",
       "group": "fish",
-      "records": 6,
+      "records": 16,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -1725,8 +1842,8 @@
       "genus": "Malacoctenus",
       "species": "Malacoctenus zonifer",
       "group": "fish",
-      "records": 14,
-      "max_year": 1970,
+      "records": 29,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -1739,8 +1856,8 @@
       "species": "Mccoskerichthys sandae",
       "group": "fish",
       "redlist_category": "NT",
-      "records": 20,
-      "max_year": 1976,
+      "records": 42,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -1752,8 +1869,8 @@
       "genus": "Ophioblennius",
       "species": "Ophioblennius steindachneri",
       "group": "fish",
-      "records": 15,
-      "max_year": 1970,
+      "records": 51,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -1790,8 +1907,8 @@
       "genus": "Paraclinus",
       "species": "Paraclinus mexicanus",
       "group": "fish",
-      "records": 7,
-      "max_year": 1970,
+      "records": 11,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -1803,7 +1920,8 @@
       "genus": "Paraclinus",
       "species": "Paraclinus monophthalmus",
       "group": "fish",
-      "records": 4,
+      "records": 5,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -1827,8 +1945,8 @@
       "genus": "Plagiotremus",
       "species": "Plagiotremus azaleus",
       "group": "fish",
-      "records": 19,
-      "max_year": 1990,
+      "records": 36,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -1841,7 +1959,8 @@
       "species": "Platygillellus altivelis",
       "group": "fish",
       "redlist_category": "NT",
-      "records": 4,
+      "records": 7,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -1854,7 +1973,21 @@
       "species": "Platygillellus bussingi",
       "group": "fish",
       "redlist_category": "NT",
-      "records": 2,
+      "records": 3,
+      "max_year": 2003,
+      "source_obis": true
+    },
+    {
+      "AphiaID": 282377,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Blenniiformes",
+      "family": "Chaenopsidae",
+      "genus": "Protemblemaria",
+      "species": "Protemblemaria bicirrus",
+      "group": "fish",
+      "records": 1,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -1866,8 +1999,8 @@
       "genus": "Starksia",
       "species": "Starksia fulva",
       "group": "fish",
-      "records": 10,
-      "max_year": 1970,
+      "records": 27,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -1909,6 +2042,19 @@
       "source_obis": true
     },
     {
+      "AphiaID": 280059,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Carangaria incertae sedis",
+      "family": "Centropomidae",
+      "genus": "Centropomus",
+      "species": "Centropomus armatus",
+      "group": "fish",
+      "records": 1,
+      "max_year": 2003,
+      "source_obis": true
+    },
+    {
       "AphiaID": 280061,
       "phylum": "Chordata",
       "class": "Teleostei",
@@ -1917,7 +2063,8 @@
       "genus": "Centropomus",
       "species": "Centropomus medius",
       "group": "fish",
-      "records": 4,
+      "records": 9,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -1929,7 +2076,8 @@
       "genus": "Centropomus",
       "species": "Centropomus nigrescens",
       "group": "fish",
-      "records": 3,
+      "records": 8,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -1941,7 +2089,8 @@
       "genus": "Centropomus",
       "species": "Centropomus robalito",
       "group": "fish",
-      "records": 2,
+      "records": 3,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -1953,7 +2102,8 @@
       "genus": "Centropomus",
       "species": "Centropomus unionensis",
       "group": "fish",
-      "records": 3,
+      "records": 6,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -1965,8 +2115,8 @@
       "genus": "Polydactylus",
       "species": "Polydactylus approximans",
       "group": "fish",
-      "records": 6,
-      "max_year": 1951,
+      "records": 7,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2002,7 +2152,8 @@
       "genus": "Sphyraena",
       "species": "Sphyraena ensis",
       "group": "fish",
-      "records": 3,
+      "records": 7,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2014,7 +2165,8 @@
       "genus": "Sphyraena",
       "species": "Sphyraena qenie",
       "group": "fish",
-      "records": 2,
+      "records": 5,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2026,7 +2178,7 @@
       "genus": "Alectis",
       "species": "Alectis ciliaris",
       "group": "fish",
-      "records": 3,
+      "records": 6,
       "max_year": 1951,
       "source_obis": true
     },
@@ -2039,7 +2191,7 @@
       "genus": "Carangoides",
       "species": "Carangoides otrynter",
       "group": "fish",
-      "records": 2,
+      "records": 3,
       "source_obis": true
     },
     {
@@ -2051,8 +2203,8 @@
       "genus": "Caranx",
       "species": "Caranx caballus",
       "group": "fish",
-      "records": 12,
-      "max_year": 2002,
+      "records": 39,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2064,7 +2216,8 @@
       "genus": "Caranx",
       "species": "Caranx caninus",
       "group": "fish",
-      "records": 6,
+      "records": 19,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2076,8 +2229,8 @@
       "genus": "Caranx",
       "species": "Caranx melampygus",
       "group": "fish",
-      "records": 14,
-      "max_year": 1994,
+      "records": 40,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2089,7 +2242,8 @@
       "genus": "Caranx",
       "species": "Caranx sexfasciatus",
       "group": "fish",
-      "records": 13,
+      "records": 38,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2101,7 +2255,8 @@
       "genus": "Caranx",
       "species": "Caranx vinctus",
       "group": "fish",
-      "records": 3,
+      "records": 5,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2152,7 +2307,8 @@
       "genus": "Decapterus",
       "species": "Decapterus macarellus",
       "group": "fish",
-      "records": 6,
+      "records": 12,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2164,8 +2320,8 @@
       "genus": "Elagatis",
       "species": "Elagatis bipinnulata",
       "group": "fish",
-      "records": 17,
-      "max_year": 2000,
+      "records": 32,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2177,8 +2333,21 @@
       "genus": "Gnathanodon",
       "species": "Gnathanodon speciosus",
       "group": "fish",
-      "records": 10,
-      "max_year": 1994,
+      "records": 28,
+      "max_year": 2003,
+      "source_obis": true
+    },
+    {
+      "AphiaID": 276353,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Carangiformes",
+      "family": "Carangidae",
+      "genus": "Hemicaranx",
+      "species": "Hemicaranx leucurus",
+      "group": "fish",
+      "records": 1,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2195,6 +2364,19 @@
       "source_obis": true
     },
     {
+      "AphiaID": 126811,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Carangiformes",
+      "family": "Carangidae",
+      "genus": "Naucrates",
+      "species": "Naucrates ductor",
+      "group": "fish",
+      "records": 1,
+      "max_year": 2003,
+      "source_obis": true
+    },
+    {
       "AphiaID": 281664,
       "phylum": "Chordata",
       "class": "Teleostei",
@@ -2203,7 +2385,7 @@
       "genus": "Nematistius",
       "species": "Nematistius pectoralis",
       "group": "fish",
-      "records": 4,
+      "records": 5,
       "source_obis": true
     },
     {
@@ -2215,7 +2397,8 @@
       "genus": "Oligoplites",
       "species": "Oligoplites altus",
       "group": "fish",
-      "records": 2,
+      "records": 4,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2252,7 +2435,7 @@
       "genus": "Selene",
       "species": "Selene brevoortii",
       "group": "fish",
-      "records": 2,
+      "records": 3,
       "source_obis": true
     },
     {
@@ -2301,8 +2484,8 @@
       "genus": "Seriola",
       "species": "Seriola rivoliana",
       "group": "fish",
-      "records": 16,
-      "max_year": 1994,
+      "records": 20,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2326,7 +2509,8 @@
       "genus": "Trachinotus",
       "species": "Trachinotus rhodopus",
       "group": "fish",
-      "records": 5,
+      "records": 25,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2338,7 +2522,7 @@
       "genus": "Uraspis",
       "species": "Uraspis helvola",
       "group": "fish",
-      "records": 2,
+      "records": 3,
       "source_obis": true
     },
     {
@@ -2350,8 +2534,8 @@
       "genus": "Cirrhitichthys",
       "species": "Cirrhitichthys oxycephalus",
       "group": "fish",
-      "records": 25,
-      "max_year": 1990,
+      "records": 67,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2363,7 +2547,8 @@
       "genus": "Cirrhitus",
       "species": "Cirrhitus rivulatus",
       "group": "fish",
-      "records": 8,
+      "records": 40,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2375,8 +2560,8 @@
       "genus": "Kyphosus",
       "species": "Kyphosus elegans",
       "group": "fish",
-      "records": 7,
-      "max_year": 1988,
+      "records": 36,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2388,8 +2573,8 @@
       "genus": "Kyphosus",
       "species": "Kyphosus ocyurus",
       "group": "fish",
-      "records": 7,
-      "max_year": 2001,
+      "records": 28,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2401,8 +2586,8 @@
       "genus": "Kyphosus",
       "species": "Kyphosus vaigiensis",
       "group": "fish",
-      "records": 11,
-      "max_year": 2002,
+      "records": 27,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2414,7 +2599,8 @@
       "genus": "Oxycirrhites",
       "species": "Oxycirrhites typus",
       "group": "fish",
-      "records": 3,
+      "records": 6,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2426,8 +2612,21 @@
       "genus": "Anchoa",
       "species": "Anchoa argentivittata",
       "group": "fish",
-      "records": 5,
-      "max_year": 1955,
+      "records": 6,
+      "max_year": 2003,
+      "source_obis": true
+    },
+    {
+      "AphiaID": 275516,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Clupeiformes",
+      "family": "Engraulidae",
+      "genus": "Anchoa",
+      "species": "Anchoa eigenmannia",
+      "group": "fish",
+      "records": 1,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2444,6 +2643,32 @@
       "source_obis": true
     },
     {
+      "AphiaID": 275529,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Clupeiformes",
+      "family": "Engraulidae",
+      "genus": "Anchoa",
+      "species": "Anchoa panamensis",
+      "group": "fish",
+      "records": 1,
+      "max_year": 2003,
+      "source_obis": true
+    },
+    {
+      "AphiaID": 279608,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Clupeiformes",
+      "family": "Engraulidae",
+      "genus": "Anchovia",
+      "species": "Anchovia macrolepidota",
+      "group": "fish",
+      "records": 1,
+      "max_year": 2003,
+      "source_obis": true
+    },
+    {
       "AphiaID": 277552,
       "phylum": "Chordata",
       "class": "Teleostei",
@@ -2452,8 +2677,8 @@
       "genus": "Harengula",
       "species": "Harengula thrissina",
       "group": "fish",
-      "records": 3,
-      "max_year": 1955,
+      "records": 5,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2465,7 +2690,8 @@
       "genus": "Lile",
       "species": "Lile stolifera",
       "group": "fish",
-      "records": 2,
+      "records": 6,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2477,7 +2703,7 @@
       "genus": "Opisthonema",
       "species": "Opisthonema bulleri",
       "group": "fish",
-      "records": 2,
+      "records": 3,
       "source_obis": true
     },
     {
@@ -2489,7 +2715,20 @@
       "genus": "Opisthonema",
       "species": "Opisthonema medirastre",
       "group": "fish",
-      "records": 2,
+      "records": 3,
+      "source_obis": true
+    },
+    {
+      "AphiaID": 281919,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Clupeiformes",
+      "family": "Pristigasteridae",
+      "genus": "Opisthopterus",
+      "species": "Opisthopterus dovii",
+      "group": "fish",
+      "records": 1,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2513,7 +2752,8 @@
       "genus": "Oxyzygonectes",
       "species": "Oxyzygonectes dovii",
       "group": "fish",
-      "records": 2,
+      "records": 6,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2526,7 +2766,8 @@
       "species": "Poeciliopsis elongata",
       "group": "fish",
       "redlist_category": "NT",
-      "records": 2,
+      "records": 6,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2538,7 +2779,7 @@
       "genus": "Poeciliopsis",
       "species": "Poeciliopsis turrubarensis",
       "group": "fish",
-      "records": 2,
+      "records": 3,
       "source_obis": true
     },
     {
@@ -2550,7 +2791,8 @@
       "genus": "Elops",
       "species": "Elops affinis",
       "group": "fish",
-      "records": 3,
+      "records": 7,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2575,7 +2817,8 @@
       "genus": "Anisotremus",
       "species": "Anisotremus caesius",
       "group": "fish",
-      "records": 4,
+      "records": 7,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2587,7 +2830,8 @@
       "genus": "Anisotremus",
       "species": "Anisotremus interruptus",
       "group": "fish",
-      "records": 5,
+      "records": 21,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2599,7 +2843,34 @@
       "genus": "Anisotremus",
       "species": "Anisotremus taeniatus",
       "group": "fish",
-      "records": 6,
+      "records": 13,
+      "max_year": 2003,
+      "source_obis": true
+    },
+    {
+      "AphiaID": 276068,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Sciaenidae",
+      "genus": "Bairdiella",
+      "species": "Bairdiella armata",
+      "group": "fish",
+      "records": 1,
+      "max_year": 2003,
+      "source_obis": true
+    },
+    {
+      "AphiaID": 276070,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Sciaenidae",
+      "genus": "Bairdiella",
+      "species": "Bairdiella ensifera",
+      "group": "fish",
+      "records": 1,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2611,7 +2882,7 @@
       "genus": "Bodianus",
       "species": "Bodianus diplotaenia",
       "group": "fish",
-      "records": 43,
+      "records": 83,
       "max_year": 2010,
       "source_obis": true
     },
@@ -2624,7 +2895,7 @@
       "genus": "Calamus",
       "species": "Calamus brachysomus",
       "group": "fish",
-      "records": 5,
+      "records": 6,
       "max_year": 1990,
       "source_obis": true
     },
@@ -2639,6 +2910,19 @@
       "group": "fish",
       "records": 3,
       "max_year": 1990,
+      "source_obis": true
+    },
+    {
+      "AphiaID": 1043458,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Gerreidae",
+      "genus": "Deckertichthys",
+      "species": "Deckertichthys aureolus",
+      "group": "fish",
+      "records": 1,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2666,6 +2950,32 @@
       "source_obis": true
     },
     {
+      "AphiaID": 276414,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Gerreidae",
+      "genus": "Diapterus",
+      "species": "Diapterus peruvianus",
+      "group": "fish",
+      "records": 3,
+      "max_year": 2003,
+      "source_obis": true
+    },
+    {
+      "AphiaID": 159732,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Gerreidae",
+      "genus": "Eucinostomus",
+      "species": "Eucinostomus argenteus",
+      "group": "fish",
+      "records": 1,
+      "max_year": 2003,
+      "source_obis": true
+    },
+    {
       "AphiaID": 276416,
       "phylum": "Chordata",
       "class": "Teleostei",
@@ -2674,7 +2984,8 @@
       "genus": "Eucinostomus",
       "species": "Eucinostomus currani",
       "group": "fish",
-      "records": 6,
+      "records": 10,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2686,7 +2997,8 @@
       "genus": "Eucinostomus",
       "species": "Eucinostomus entomelas",
       "group": "fish",
-      "records": 2,
+      "records": 3,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2698,7 +3010,8 @@
       "genus": "Eucinostomus",
       "species": "Eucinostomus gracilis",
       "group": "fish",
-      "records": 5,
+      "records": 12,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2710,7 +3023,7 @@
       "genus": "Eugerres",
       "species": "Eugerres brevimanus",
       "group": "fish",
-      "records": 2,
+      "records": 3,
       "source_obis": true
     },
     {
@@ -2722,7 +3035,20 @@
       "genus": "Genyatremus",
       "species": "Genyatremus dovii",
       "group": "fish",
-      "records": 2,
+      "records": 3,
+      "source_obis": true
+    },
+    {
+      "AphiaID": 276954,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Gerreidae",
+      "genus": "Gerres",
+      "species": "Gerres cinereus",
+      "group": "fish",
+      "records": 5,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2746,7 +3072,8 @@
       "genus": "Haemulon",
       "species": "Haemulon flaviguttatum",
       "group": "fish",
-      "records": 3,
+      "records": 4,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2758,8 +3085,8 @@
       "genus": "Haemulon",
       "species": "Haemulon maculicauda",
       "group": "fish",
-      "records": 15,
-      "max_year": 2002,
+      "records": 46,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2771,7 +3098,8 @@
       "genus": "Haemulon",
       "species": "Haemulon scudderii",
       "group": "fish",
-      "records": 6,
+      "records": 14,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2783,8 +3111,8 @@
       "genus": "Haemulon",
       "species": "Haemulon sexfasciatum",
       "group": "fish",
-      "records": 7,
-      "max_year": 1990,
+      "records": 13,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2796,7 +3124,7 @@
       "genus": "Haemulon",
       "species": "Haemulon steindachneri",
       "group": "fish",
-      "records": 9,
+      "records": 13,
       "max_year": 2006,
       "source_obis": true
     },
@@ -2809,7 +3137,7 @@
       "genus": "Haemulopsis",
       "species": "Haemulopsis elongatus",
       "group": "fish",
-      "records": 2,
+      "records": 3,
       "source_obis": true
     },
     {
@@ -2821,7 +3149,8 @@
       "genus": "Haemulopsis",
       "species": "Haemulopsis leuciscus",
       "group": "fish",
-      "records": 2,
+      "records": 6,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2845,7 +3174,8 @@
       "genus": "Halichoeres",
       "species": "Halichoeres aestuaricola",
       "group": "fish",
-      "records": 4,
+      "records": 5,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2857,8 +3187,8 @@
       "genus": "Halichoeres",
       "species": "Halichoeres chierchiae",
       "group": "fish",
-      "records": 8,
-      "max_year": 2001,
+      "records": 44,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2871,7 +3201,7 @@
       "species": "Halichoeres discolor",
       "group": "fish",
       "redlist_category": "VU",
-      "records": 2,
+      "records": 3,
       "source_obis": true
     },
     {
@@ -2883,8 +3213,8 @@
       "genus": "Halichoeres",
       "species": "Halichoeres dispilus",
       "group": "fish",
-      "records": 16,
-      "max_year": 1990,
+      "records": 52,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2896,8 +3226,8 @@
       "genus": "Halichoeres",
       "species": "Halichoeres melanotis",
       "group": "fish",
-      "records": 10,
-      "max_year": 1990,
+      "records": 31,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2909,8 +3239,8 @@
       "genus": "Halichoeres",
       "species": "Halichoeres nicholsi",
       "group": "fish",
-      "records": 12,
-      "max_year": 1990,
+      "records": 39,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2922,8 +3252,8 @@
       "genus": "Halichoeres",
       "species": "Halichoeres notospilus",
       "group": "fish",
-      "records": 16,
-      "max_year": 1990,
+      "records": 35,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2960,7 +3290,8 @@
       "genus": "Hoplopagrus",
       "species": "Hoplopagrus guentherii",
       "group": "fish",
-      "records": 6,
+      "records": 27,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2972,7 +3303,8 @@
       "genus": "Iniistius",
       "species": "Iniistius pavo",
       "group": "fish",
-      "records": 7,
+      "records": 15,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -2997,7 +3329,8 @@
       "genus": "Lutjanus",
       "species": "Lutjanus aratus",
       "group": "fish",
-      "records": 7,
+      "records": 18,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3009,7 +3342,7 @@
       "genus": "Lutjanus",
       "species": "Lutjanus argentiventris",
       "group": "fish",
-      "records": 86,
+      "records": 134,
       "max_year": 2010,
       "source_obis": true
     },
@@ -3022,7 +3355,8 @@
       "genus": "Lutjanus",
       "species": "Lutjanus colorado",
       "group": "fish",
-      "records": 3,
+      "records": 8,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3047,7 +3381,7 @@
       "genus": "Lutjanus",
       "species": "Lutjanus guttatus",
       "group": "fish",
-      "records": 27,
+      "records": 43,
       "max_year": 2010,
       "source_obis": true
     },
@@ -3060,8 +3394,21 @@
       "genus": "Lutjanus",
       "species": "Lutjanus inermis",
       "group": "fish",
-      "records": 6,
-      "max_year": 1990,
+      "records": 14,
+      "max_year": 2003,
+      "source_obis": true
+    },
+    {
+      "AphiaID": 276541,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Lutjanidae",
+      "genus": "Lutjanus",
+      "species": "Lutjanus jordani",
+      "group": "fish",
+      "records": 1,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3073,8 +3420,8 @@
       "genus": "Lutjanus",
       "species": "Lutjanus novemfasciatus",
       "group": "fish",
-      "records": 15,
-      "max_year": 1998,
+      "records": 43,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3086,7 +3433,7 @@
       "genus": "Lutjanus",
       "species": "Lutjanus peru",
       "group": "fish",
-      "records": 3,
+      "records": 5,
       "source_obis": true
     },
     {
@@ -3098,8 +3445,8 @@
       "genus": "Lutjanus",
       "species": "Lutjanus viridis",
       "group": "fish",
-      "records": 45,
-      "max_year": 1990,
+      "records": 67,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3111,8 +3458,8 @@
       "genus": "Malacanthus",
       "species": "Malacanthus brevirostris",
       "group": "fish",
-      "records": 9,
-      "max_year": 1971,
+      "records": 27,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3124,8 +3471,8 @@
       "genus": "Microlepidotus",
       "species": "Microlepidotus brevipinnis",
       "group": "fish",
-      "records": 4,
-      "max_year": 1990,
+      "records": 6,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3150,7 +3497,7 @@
       "genus": "Novaculichthys",
       "species": "Novaculichthys taeniourus",
       "group": "fish",
-      "records": 78,
+      "records": 100,
       "max_year": 2010,
       "source_obis": true
     },
@@ -3163,7 +3510,8 @@
       "genus": "Odontoscion",
       "species": "Odontoscion xanthops",
       "group": "fish",
-      "records": 3,
+      "records": 4,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3175,7 +3523,21 @@
       "genus": "Pomadasys",
       "species": "Pomadasys branickii",
       "group": "fish",
-      "records": 3,
+      "records": 6,
+      "max_year": 2003,
+      "source_obis": true
+    },
+    {
+      "AphiaID": 273506,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Haemulidae",
+      "genus": "Pomadasys",
+      "species": "Pomadasys empherus",
+      "group": "fish",
+      "records": 1,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3187,7 +3549,7 @@
       "genus": "Pristigenys",
       "species": "Pristigenys serrula",
       "group": "fish",
-      "records": 6,
+      "records": 8,
       "source_obis": true
     },
     {
@@ -3199,7 +3561,21 @@
       "genus": "Rhencus",
       "species": "Rhencus macracanthus",
       "group": "fish",
-      "records": 3,
+      "records": 5,
+      "max_year": 2003,
+      "source_obis": true
+    },
+    {
+      "AphiaID": 320982,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Haemulidae",
+      "genus": "Rhencus",
+      "species": "Rhencus panamensis",
+      "group": "fish",
+      "records": 1,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3211,7 +3587,8 @@
       "genus": "Rhonciscus",
       "species": "Rhonciscus bayanus",
       "group": "fish",
-      "records": 2,
+      "records": 3,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3223,8 +3600,8 @@
       "genus": "Scarus",
       "species": "Scarus compressus",
       "group": "fish",
-      "records": 7,
-      "max_year": 1998,
+      "records": 15,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3236,7 +3613,7 @@
       "genus": "Scarus",
       "species": "Scarus ghobban",
       "group": "fish",
-      "records": 115,
+      "records": 149,
       "max_year": 2010,
       "source_obis": true
     },
@@ -3249,7 +3626,7 @@
       "genus": "Scarus",
       "species": "Scarus perrico",
       "group": "fish",
-      "records": 20,
+      "records": 26,
       "max_year": 2003,
       "source_obis": true
     },
@@ -3262,7 +3639,7 @@
       "genus": "Scarus",
       "species": "Scarus rubroviolaceus",
       "group": "fish",
-      "records": 183,
+      "records": 221,
       "max_year": 2010,
       "source_obis": true
     },
@@ -3276,6 +3653,19 @@
       "species": "Stellifer illecebrosus",
       "group": "fish",
       "records": 1,
+      "source_obis": true
+    },
+    {
+      "AphiaID": 276166,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Sciaenidae",
+      "genus": "Stellifer",
+      "species": "Stellifer oscitans",
+      "group": "fish",
+      "records": 1,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3311,7 +3701,7 @@
       "genus": "Thalassoma",
       "species": "Thalassoma grammaticum",
       "group": "fish",
-      "records": 43,
+      "records": 45,
       "max_year": 2010,
       "source_obis": true
     },
@@ -3324,8 +3714,8 @@
       "genus": "Thalassoma",
       "species": "Thalassoma lucasanum",
       "group": "fish",
-      "records": 26,
-      "max_year": 2001,
+      "records": 71,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3362,7 +3752,7 @@
       "genus": "Umbrina",
       "species": "Umbrina analis",
       "group": "fish",
-      "records": 2,
+      "records": 4,
       "source_obis": true
     },
     {
@@ -3374,7 +3764,8 @@
       "genus": "Umbrina",
       "species": "Umbrina dorsalis",
       "group": "fish",
-      "records": 2,
+      "records": 3,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3386,7 +3777,7 @@
       "genus": "Umbrina",
       "species": "Umbrina xanti",
       "group": "fish",
-      "records": 3,
+      "records": 7,
       "source_obis": true
     },
     {
@@ -3398,8 +3789,8 @@
       "genus": "Xenichthys",
       "species": "Xenichthys xanti",
       "group": "fish",
-      "records": 3,
-      "max_year": 1990,
+      "records": 4,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3411,7 +3802,8 @@
       "genus": "Xyrichtys",
       "species": "Xyrichtys mundiceps",
       "group": "fish",
-      "records": 2,
+      "records": 3,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3473,8 +3865,8 @@
       "genus": "Arcos",
       "species": "Arcos rhodospilus",
       "group": "fish",
-      "records": 9,
-      "max_year": 1970,
+      "records": 10,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3486,7 +3878,7 @@
       "genus": "Gobiesox",
       "species": "Gobiesox adustus",
       "group": "fish",
-      "records": 6,
+      "records": 8,
       "max_year": 1970,
       "source_obis": true
     },
@@ -3524,7 +3916,8 @@
       "genus": "Tomicodon",
       "species": "Tomicodon myersi",
       "group": "fish",
-      "records": 2,
+      "records": 3,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3541,6 +3934,19 @@
       "source_obis": true
     },
     {
+      "AphiaID": 277417,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Gobiiformes",
+      "family": "Gobiidae",
+      "genus": "Awaous",
+      "species": "Awaous banana",
+      "group": "fish",
+      "records": 1,
+      "max_year": 2003,
+      "source_obis": true
+    },
+    {
       "AphiaID": 277620,
       "phylum": "Chordata",
       "class": "Teleostei",
@@ -3549,7 +3955,22 @@
       "genus": "Bathygobius",
       "species": "Bathygobius andrei",
       "group": "fish",
-      "records": 5,
+      "records": 11,
+      "max_year": 2003,
+      "source_obis": true
+    },
+    {
+      "AphiaID": 277629,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Gobiiformes",
+      "family": "Gobiidae",
+      "genus": "Bathygobius",
+      "species": "Bathygobius lineatus",
+      "group": "fish",
+      "redlist_category": "VU",
+      "records": 1,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3561,8 +3982,8 @@
       "genus": "Bathygobius",
       "species": "Bathygobius ramosus",
       "group": "fish",
-      "records": 9,
-      "max_year": 1934,
+      "records": 12,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3636,7 +4057,8 @@
       "genus": "Cerdale",
       "species": "Cerdale ionthas",
       "group": "fish",
-      "records": 4,
+      "records": 7,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3648,7 +4070,8 @@
       "genus": "Clarkichthys",
       "species": "Clarkichthys bilineatus",
       "group": "fish",
-      "records": 3,
+      "records": 4,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3660,8 +4083,8 @@
       "genus": "Coryphopterus",
       "species": "Coryphopterus urospilus",
       "group": "fish",
-      "records": 31,
-      "max_year": 1990,
+      "records": 62,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3673,7 +4096,8 @@
       "genus": "Ctenogobius",
       "species": "Ctenogobius sagittula",
       "group": "fish",
-      "records": 2,
+      "records": 3,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3685,7 +4109,8 @@
       "genus": "Dormitator",
       "species": "Dormitator latifrons",
       "group": "fish",
-      "records": 3,
+      "records": 4,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3697,8 +4122,8 @@
       "genus": "Elacatinus",
       "species": "Elacatinus puncticulatus",
       "group": "fish",
-      "records": 15,
-      "max_year": 1976,
+      "records": 43,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3710,7 +4135,8 @@
       "genus": "Eleotris",
       "species": "Eleotris picta",
       "group": "fish",
-      "records": 4,
+      "records": 7,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3722,7 +4148,8 @@
       "genus": "Erotelis",
       "species": "Erotelis armiger",
       "group": "fish",
-      "records": 3,
+      "records": 5,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3734,7 +4161,21 @@
       "genus": "Evorthodus",
       "species": "Evorthodus minutus",
       "group": "fish",
-      "records": 2,
+      "records": 3,
+      "max_year": 2003,
+      "source_obis": true
+    },
+    {
+      "AphiaID": 280889,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Gobiiformes",
+      "family": "Gobiidae",
+      "genus": "Gobioides",
+      "species": "Gobioides peruanus",
+      "group": "fish",
+      "records": 1,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3746,7 +4187,8 @@
       "genus": "Gobionellus",
       "species": "Gobionellus microdon",
       "group": "fish",
-      "records": 2,
+      "records": 3,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3771,7 +4213,8 @@
       "genus": "Gobiosoma",
       "species": "Gobiosoma paradoxum",
       "group": "fish",
-      "records": 2,
+      "records": 4,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3784,6 +4227,19 @@
       "species": "Gobulus crescentalis",
       "group": "fish",
       "records": 1,
+      "source_obis": true
+    },
+    {
+      "AphiaID": 280909,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Gobiiformes",
+      "family": "Gobiidae",
+      "genus": "Gobulus",
+      "species": "Gobulus hancocki",
+      "group": "fish",
+      "records": 1,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3808,7 +4264,21 @@
       "genus": "Lythrypnus",
       "species": "Lythrypnus rhizophora",
       "group": "fish",
-      "records": 6,
+      "records": 13,
+      "max_year": 2003,
+      "source_obis": true
+    },
+    {
+      "AphiaID": 276226,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Gobiiformes",
+      "family": "Microdesmidae",
+      "genus": "Microdesmus",
+      "species": "Microdesmus dorsipunctatus",
+      "group": "fish",
+      "records": 1,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3820,7 +4290,8 @@
       "genus": "Microgobius",
       "species": "Microgobius crocatus",
       "group": "fish",
-      "records": 2,
+      "records": 4,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3845,7 +4316,7 @@
       "genus": "Microgobius",
       "species": "Microgobius emblematicus",
       "group": "fish",
-      "records": 2,
+      "records": 5,
       "source_obis": true
     },
     {
@@ -3870,8 +4341,8 @@
       "genus": "Ptereleotris",
       "species": "Ptereleotris carinata",
       "group": "fish",
-      "records": 5,
-      "max_year": 1971,
+      "records": 7,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3883,8 +4354,8 @@
       "genus": "Tigrigobius",
       "species": "Tigrigobius digueti",
       "group": "fish",
-      "records": 12,
-      "max_year": 1971,
+      "records": 37,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3896,7 +4367,8 @@
       "genus": "Chanos",
       "species": "Chanos chanos",
       "group": "fish",
-      "records": 4,
+      "records": 9,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3908,8 +4380,8 @@
       "genus": "Myripristis",
       "species": "Myripristis berndti",
       "group": "fish",
-      "records": 8,
-      "max_year": 1990,
+      "records": 32,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3921,8 +4393,8 @@
       "genus": "Myripristis",
       "species": "Myripristis leiognathus",
       "group": "fish",
-      "records": 15,
-      "max_year": 1990,
+      "records": 52,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3934,8 +4406,8 @@
       "genus": "Sargocentron",
       "species": "Sargocentron suborbitale",
       "group": "fish",
-      "records": 15,
-      "max_year": 1951,
+      "records": 40,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3959,8 +4431,8 @@
       "genus": "Apogon",
       "species": "Apogon dovii",
       "group": "fish",
-      "records": 35,
-      "max_year": 1990,
+      "records": 80,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3972,8 +4444,8 @@
       "genus": "Apogon",
       "species": "Apogon pacificus",
       "group": "fish",
-      "records": 11,
-      "max_year": 1990,
+      "records": 33,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3985,7 +4457,8 @@
       "genus": "Apogon",
       "species": "Apogon retrosella",
       "group": "fish",
-      "records": 2,
+      "records": 3,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -3997,7 +4470,8 @@
       "genus": "Abantennarius",
       "species": "Abantennarius coccineus",
       "group": "fish",
-      "records": 2,
+      "records": 3,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -4009,8 +4483,8 @@
       "genus": "Abantennarius",
       "species": "Abantennarius sanguineus",
       "group": "fish",
-      "records": 12,
-      "max_year": 1990,
+      "records": 30,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -4022,7 +4496,8 @@
       "genus": "Antennarius",
       "species": "Antennarius commerson",
       "group": "fish",
-      "records": 2,
+      "records": 3,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -4034,8 +4509,8 @@
       "genus": "Antennatus",
       "species": "Antennatus strigatus",
       "group": "fish",
-      "records": 9,
-      "max_year": 1970,
+      "records": 19,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -4047,7 +4522,8 @@
       "genus": "Fowlerichthys",
       "species": "Fowlerichthys avalonis",
       "group": "fish",
-      "records": 8,
+      "records": 10,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -4107,7 +4583,21 @@
       "genus": "Dajaus",
       "species": "Dajaus monticola",
       "group": "fish",
-      "records": 2,
+      "records": 3,
+      "max_year": 2003,
+      "source_obis": true
+    },
+    {
+      "AphiaID": 126983,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Mugiliformes",
+      "family": "Mugilidae",
+      "genus": "Mugil",
+      "species": "Mugil cephalus",
+      "group": "fish",
+      "records": 1,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -4119,7 +4609,8 @@
       "genus": "Mugil",
       "species": "Mugil curema",
       "group": "fish",
-      "records": 4,
+      "records": 14,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -4131,7 +4622,7 @@
       "genus": "Mulloidichthys",
       "species": "Mulloidichthys dentatus",
       "group": "fish",
-      "records": 12,
+      "records": 39,
       "max_year": 2005,
       "source_obis": true
     },
@@ -4144,7 +4635,8 @@
       "genus": "Mulloidichthys",
       "species": "Mulloidichthys vanicolensis",
       "group": "fish",
-      "records": 2,
+      "records": 3,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -4156,7 +4648,7 @@
       "genus": "Pseudupeneus",
       "species": "Pseudupeneus grandisquamis",
       "group": "fish",
-      "records": 9,
+      "records": 10,
       "max_year": 1955,
       "source_obis": true
     },
@@ -4181,7 +4673,7 @@
       "genus": "Carapus",
       "species": "Carapus dubius",
       "group": "fish",
-      "records": 6,
+      "records": 7,
       "max_year": 1971,
       "source_obis": true
     },
@@ -4295,8 +4787,8 @@
       "genus": "Ophidion",
       "species": "Ophidion galeoides",
       "group": "fish",
-      "records": 3,
-      "max_year": 1990,
+      "records": 4,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -4332,7 +4824,8 @@
       "genus": "Petrotyx",
       "species": "Petrotyx hopkinsi",
       "group": "fish",
-      "records": 3,
+      "records": 4,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -4344,8 +4837,8 @@
       "genus": "Abudefduf",
       "species": "Abudefduf concolor",
       "group": "fish",
-      "records": 11,
-      "max_year": 1990,
+      "records": 23,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -4370,8 +4863,8 @@
       "genus": "Abudefduf",
       "species": "Abudefduf troschelii",
       "group": "fish",
-      "records": 22,
-      "max_year": 2001,
+      "records": 58,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -4383,8 +4876,8 @@
       "genus": "Azurina",
       "species": "Azurina atrilobata",
       "group": "fish",
-      "records": 16,
-      "max_year": 1990,
+      "records": 58,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -4420,7 +4913,8 @@
       "genus": "Microspathodon",
       "species": "Microspathodon bairdii",
       "group": "fish",
-      "records": 7,
+      "records": 21,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -4432,8 +4926,8 @@
       "genus": "Microspathodon",
       "species": "Microspathodon dorsalis",
       "group": "fish",
-      "records": 12,
-      "max_year": 1990,
+      "records": 43,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -4445,8 +4939,8 @@
       "genus": "Opistognathus",
       "species": "Opistognathus panamaensis",
       "group": "fish",
-      "records": 6,
-      "max_year": 1990,
+      "records": 10,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -4458,7 +4952,8 @@
       "genus": "Opistognathus",
       "species": "Opistognathus punctatus",
       "group": "fish",
-      "records": 2,
+      "records": 3,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -4470,7 +4965,8 @@
       "genus": "Opistognathus",
       "species": "Opistognathus rhomaleus",
       "group": "fish",
-      "records": 2,
+      "records": 3,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -4495,8 +4991,8 @@
       "genus": "Stegastes",
       "species": "Stegastes acapulcoensis",
       "group": "fish",
-      "records": 8,
-      "max_year": 1970,
+      "records": 46,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -4508,8 +5004,20 @@
       "genus": "Stegastes",
       "species": "Stegastes flavilatus",
       "group": "fish",
-      "records": 14,
-      "max_year": 1990,
+      "records": 61,
+      "max_year": 2003,
+      "source_obis": true
+    },
+    {
+      "AphiaID": 276680,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Ovalentaria incertae sedis",
+      "family": "Pomacentridae",
+      "genus": "Stegastes",
+      "species": "Stegastes rectifraenum",
+      "group": "fish",
+      "records": 1,
       "source_obis": true
     },
     {
@@ -4521,7 +5029,8 @@
       "genus": "Alphestes",
       "species": "Alphestes immaculatus",
       "group": "fish",
-      "records": 7,
+      "records": 13,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -4533,7 +5042,8 @@
       "genus": "Alphestes",
       "species": "Alphestes multiguttatus",
       "group": "fish",
-      "records": 7,
+      "records": 12,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -4581,7 +5091,7 @@
       "genus": "Cephalopholis",
       "species": "Cephalopholis panamensis",
       "group": "fish",
-      "records": 79,
+      "records": 120,
       "max_year": 2010,
       "source_obis": true
     },
@@ -4594,7 +5104,7 @@
       "genus": "Dermatolepis",
       "species": "Dermatolepis dermatolepis",
       "group": "fish",
-      "records": 10,
+      "records": 30,
       "max_year": 2007,
       "source_obis": true
     },
@@ -4643,7 +5153,7 @@
       "genus": "Diplectrum",
       "species": "Diplectrum pacificum",
       "group": "fish",
-      "records": 6,
+      "records": 7,
       "max_year": 1990,
       "source_obis": true
     },
@@ -4656,7 +5166,20 @@
       "genus": "Epinephelus",
       "species": "Epinephelus analogus",
       "group": "fish",
-      "records": 2,
+      "records": 3,
+      "source_obis": true
+    },
+    {
+      "AphiaID": 159353,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Serranidae",
+      "genus": "Epinephelus",
+      "species": "Epinephelus itajara",
+      "group": "fish",
+      "redlist_category": "VU",
+      "records": 5,
       "source_obis": true
     },
     {
@@ -4668,7 +5191,7 @@
       "genus": "Epinephelus",
       "species": "Epinephelus labriformis",
       "group": "fish",
-      "records": 29,
+      "records": 73,
       "max_year": 2006,
       "source_obis": true
     },
@@ -4718,7 +5241,7 @@
       "species": "Hyporthodus acanthistius",
       "group": "fish",
       "redlist_category": "VU",
-      "records": 3,
+      "records": 5,
       "source_obis": true
     },
     {
@@ -4779,7 +5302,8 @@
       "genus": "Mycteroperca",
       "species": "Mycteroperca xenarcha",
       "group": "fish",
-      "records": 2,
+      "records": 3,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -4803,7 +5327,7 @@
       "genus": "Paranthias",
       "species": "Paranthias colonus",
       "group": "fish",
-      "records": 42,
+      "records": 73,
       "max_year": 2007,
       "source_obis": true
     },
@@ -4852,7 +5376,7 @@
       "genus": "Prionotus",
       "species": "Prionotus albirostris",
       "group": "fish",
-      "records": 8,
+      "records": 10,
       "source_obis": true
     },
     {
@@ -4926,8 +5450,8 @@
       "genus": "Pseudogramma",
       "species": "Pseudogramma thaumasia",
       "group": "fish",
-      "records": 20,
-      "max_year": 1990,
+      "records": 38,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -4939,7 +5463,8 @@
       "genus": "Rypticus",
       "species": "Rypticus bicolor",
       "group": "fish",
-      "records": 20,
+      "records": 55,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -4951,7 +5476,8 @@
       "genus": "Rypticus",
       "species": "Rypticus nigripinnis",
       "group": "fish",
-      "records": 3,
+      "records": 7,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -4963,7 +5489,8 @@
       "genus": "Scorpaena",
       "species": "Scorpaena histrio",
       "group": "fish",
-      "records": 6,
+      "records": 9,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -4975,8 +5502,8 @@
       "genus": "Scorpaena",
       "species": "Scorpaena mystes",
       "group": "fish",
-      "records": 9,
-      "max_year": 2000,
+      "records": 35,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -5001,7 +5528,21 @@
       "genus": "Scorpaena",
       "species": "Scorpaena russula",
       "group": "fish",
-      "records": 13,
+      "records": 14,
+      "max_year": 2003,
+      "source_obis": true
+    },
+    {
+      "AphiaID": 274736,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Scorpaenidae",
+      "genus": "Scorpaena",
+      "species": "Scorpaena sonorae",
+      "group": "fish",
+      "records": 1,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -5013,8 +5554,8 @@
       "genus": "Scorpaenodes",
       "species": "Scorpaenodes xyris",
       "group": "fish",
-      "records": 17,
-      "max_year": 1990,
+      "records": 45,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -5038,8 +5579,8 @@
       "genus": "Serranus",
       "species": "Serranus psittacinus",
       "group": "fish",
-      "records": 21,
-      "max_year": 1990,
+      "records": 55,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -5051,7 +5592,7 @@
       "genus": "Achirus",
       "species": "Achirus mazatlanus",
       "group": "fish",
-      "records": 2,
+      "records": 3,
       "source_obis": true
     },
     {
@@ -5112,7 +5653,8 @@
       "genus": "Citharichthys",
       "species": "Citharichthys gilberti",
       "group": "fish",
-      "records": 5,
+      "records": 8,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -5148,7 +5690,8 @@
       "genus": "Cyclopsetta",
       "species": "Cyclopsetta panamensis",
       "group": "fish",
-      "records": 7,
+      "records": 10,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -5382,8 +5925,8 @@
       "genus": "Symphurus",
       "species": "Symphurus melanurus",
       "group": "fish",
-      "records": 2,
-      "max_year": 2000,
+      "records": 4,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -5448,6 +5991,19 @@
       "source_obis": true
     },
     {
+      "AphiaID": 274280,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Pleuronectiformes",
+      "family": "Cynoglossidae",
+      "genus": "Symphurus",
+      "species": "Symphurus undecimplerus",
+      "group": "fish",
+      "records": 1,
+      "max_year": 2003,
+      "source_obis": true
+    },
+    {
       "AphiaID": 274283,
       "phylum": "Chordata",
       "class": "Teleostei",
@@ -5457,6 +6013,19 @@
       "species": "Symphurus varius",
       "group": "fish",
       "records": 4,
+      "source_obis": true
+    },
+    {
+      "AphiaID": 275998,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Pleuronectiformes",
+      "family": "Achiridae",
+      "genus": "Trinectes",
+      "species": "Trinectes fluviatilis",
+      "group": "fish",
+      "records": 1,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -5480,7 +6049,7 @@
       "genus": "Euthynnus",
       "species": "Euthynnus lineatus",
       "group": "fish",
-      "records": 6,
+      "records": 7,
       "source_obis": true
     },
     {
@@ -5516,7 +6085,7 @@
       "genus": "Scomberomorus",
       "species": "Scomberomorus sierra",
       "group": "fish",
-      "records": 2,
+      "records": 4,
       "source_obis": true
     },
     {
@@ -5530,6 +6099,7 @@
       "group": "fish",
       "redlist_category": "NT",
       "records": 4,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -5545,6 +6115,19 @@
       "source_obis": true
     },
     {
+      "AphiaID": 293653,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Siluriformes",
+      "family": "Ariidae",
+      "genus": "Ariopsis",
+      "species": "Ariopsis seemanni",
+      "group": "fish",
+      "records": 1,
+      "max_year": 2003,
+      "source_obis": true
+    },
+    {
       "AphiaID": 282694,
       "phylum": "Chordata",
       "class": "Teleostei",
@@ -5553,7 +6136,7 @@
       "genus": "Sciades",
       "species": "Sciades dowii",
       "group": "fish",
-      "records": 2,
+      "records": 5,
       "source_obis": true
     },
     {
@@ -5578,8 +6161,8 @@
       "genus": "Aulostomus",
       "species": "Aulostomus chinensis",
       "group": "fish",
-      "records": 4,
-      "max_year": 1986,
+      "records": 6,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -5603,7 +6186,8 @@
       "genus": "Cosmocampus",
       "species": "Cosmocampus arctus",
       "group": "fish",
-      "records": 3,
+      "records": 5,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -5615,8 +6199,8 @@
       "genus": "Doryrhamphus",
       "species": "Doryrhamphus excisus",
       "group": "fish",
-      "records": 21,
-      "max_year": 1990,
+      "records": 58,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -5628,7 +6212,7 @@
       "genus": "Fistularia",
       "species": "Fistularia commersonii",
       "group": "fish",
-      "records": 52,
+      "records": 68,
       "max_year": 2010,
       "source_obis": true
     },
@@ -5641,8 +6225,8 @@
       "genus": "Fistularia",
       "species": "Fistularia corneta",
       "group": "fish",
-      "records": 3,
-      "max_year": 1951,
+      "records": 4,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -5655,7 +6239,8 @@
       "species": "Hippocampus ingens",
       "group": "fish",
       "redlist_category": "VU",
-      "records": 5,
+      "records": 9,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -5667,7 +6252,7 @@
       "genus": "Syngnathus",
       "species": "Syngnathus auliscus",
       "group": "fish",
-      "records": 2,
+      "records": 3,
       "source_obis": true
     },
     {
@@ -5679,8 +6264,8 @@
       "genus": "Aluterus",
       "species": "Aluterus scriptus",
       "group": "fish",
-      "records": 7,
-      "max_year": 1990,
+      "records": 14,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -5692,7 +6277,7 @@
       "genus": "Arothron",
       "species": "Arothron hispidus",
       "group": "fish",
-      "records": 77,
+      "records": 119,
       "max_year": 2010,
       "source_obis": true
     },
@@ -5705,7 +6290,7 @@
       "genus": "Arothron",
       "species": "Arothron meleagris",
       "group": "fish",
-      "records": 203,
+      "records": 238,
       "max_year": 2010,
       "source_obis": true
     },
@@ -5718,8 +6303,8 @@
       "genus": "Balistes",
       "species": "Balistes polylepis",
       "group": "fish",
-      "records": 7,
-      "max_year": 1985,
+      "records": 17,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -5756,7 +6341,8 @@
       "genus": "Canthigaster",
       "species": "Canthigaster janthinoptera",
       "group": "fish",
-      "records": 3,
+      "records": 5,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -5768,8 +6354,8 @@
       "genus": "Canthigaster",
       "species": "Canthigaster punctatissima",
       "group": "fish",
-      "records": 29,
-      "max_year": 1990,
+      "records": 70,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -5781,7 +6367,8 @@
       "genus": "Chilomycterus",
       "species": "Chilomycterus reticulatus",
       "group": "fish",
-      "records": 3,
+      "records": 5,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -5793,7 +6380,7 @@
       "genus": "Diodon",
       "species": "Diodon holocanthus",
       "group": "fish",
-      "records": 26,
+      "records": 47,
       "max_year": 2007,
       "source_obis": true
     },
@@ -5806,7 +6393,7 @@
       "genus": "Diodon",
       "species": "Diodon hystrix",
       "group": "fish",
-      "records": 12,
+      "records": 36,
       "max_year": 2007,
       "source_obis": true
     },
@@ -5819,7 +6406,8 @@
       "genus": "Melichthys",
       "species": "Melichthys niger",
       "group": "fish",
-      "records": 2,
+      "records": 7,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -5831,7 +6419,7 @@
       "genus": "Ostracion",
       "species": "Ostracion meleagris",
       "group": "fish",
-      "records": 8,
+      "records": 33,
       "max_year": 2003,
       "source_obis": true
     },
@@ -5844,7 +6432,7 @@
       "genus": "Pseudobalistes",
       "species": "Pseudobalistes naufragium",
       "group": "fish",
-      "records": 34,
+      "records": 68,
       "max_year": 2010,
       "source_obis": true
     },
@@ -5857,7 +6445,8 @@
       "genus": "Sphoeroides",
       "species": "Sphoeroides annulatus",
       "group": "fish",
-      "records": 4,
+      "records": 8,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -5869,7 +6458,7 @@
       "genus": "Sphoeroides",
       "species": "Sphoeroides lobatus",
       "group": "fish",
-      "records": 8,
+      "records": 11,
       "source_obis": true
     },
     {
@@ -5881,7 +6470,8 @@
       "genus": "Sphoeroides",
       "species": "Sphoeroides rosenblatti",
       "group": "fish",
-      "records": 2,
+      "records": 4,
+      "max_year": 2003,
       "source_obis": true
     },
     {
@@ -5905,7 +6495,7 @@
       "genus": "Sufflamen",
       "species": "Sufflamen verres",
       "group": "fish",
-      "records": 227,
+      "records": 261,
       "max_year": 2010,
       "source_obis": true
     },
@@ -6055,13 +6645,13 @@
   ],
   "stats": {
     "groups": {
-        "fish": 475,
+        "fish": 511,
         "mammal": 7,
         "turtle": 3
       },
-    "redlist": 37,
+    "redlist": 41,
     "source": {
-      "obis": 485,
+      "obis": 521,
       "edna": 0,
       "both": 0
     }
