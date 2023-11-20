@@ -1,5 +1,5 @@
 {
-  "created": "2023-10-25T09:09:24",
+  "created": "2023-11-20T18:23:56",
   "species": [
     {
       "AphiaID": 217352,
@@ -13,7 +13,8 @@
       "redlist_category": "VU",
       "records": 1,
       "max_year": 2012,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 217337,
@@ -27,7 +28,8 @@
       "redlist_category": "EN",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 105789,
@@ -41,7 +43,8 @@
       "redlist_category": "VU",
       "records": 3,
       "max_year": 1991,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 105790,
@@ -53,7 +56,8 @@
       "species": "Carcharhinus galapagensis",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 105793,
@@ -64,9 +68,10 @@
       "genus": "Carcharhinus",
       "species": "Carcharhinus limbatus",
       "group": "fish",
-      "redlist_category": "NT",
+      "redlist_category": "VU",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 105794,
@@ -79,7 +84,8 @@
       "group": "fish",
       "redlist_category": "CR",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 271324,
@@ -91,7 +97,8 @@
       "species": "Carcharhinus perezii",
       "group": "fish",
       "records": 2,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 105797,
@@ -102,9 +109,10 @@
       "genus": "Carcharhinus",
       "species": "Carcharhinus plumbeus",
       "group": "fish",
-      "redlist_category": "VU",
+      "redlist_category": "EN",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 105798,
@@ -115,10 +123,11 @@
       "genus": "Carcharhinus",
       "species": "Carcharhinus signatus",
       "group": "fish",
-      "redlist_category": "VU",
+      "redlist_category": "EN",
       "records": 2,
       "max_year": 1992,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 105799,
@@ -132,7 +141,8 @@
       "redlist_category": "NT",
       "records": 3,
       "max_year": 2012,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 105800,
@@ -143,10 +153,11 @@
       "genus": "Negaprion",
       "species": "Negaprion brevirostris",
       "group": "fish",
-      "redlist_category": "NT",
-      "records": 10,
+      "redlist_category": "VU",
+      "records": 14,
       "max_year": 2008,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 105801,
@@ -159,7 +170,20 @@
       "group": "fish",
       "redlist_category": "NT",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
+    },
+    {
+      "AphiaID": 158510,
+      "phylum": "Chordata",
+      "class": "Elasmobranchii",
+      "order": "Carcharhiniformes",
+      "family": "Carcharhinidae",
+      "genus": "Rhizoprionodon",
+      "species": "Rhizoprionodon terraenovae",
+      "group": "fish",
+      "source_obis": false,
+      "source_gbif": true
     },
     {
       "AphiaID": 105816,
@@ -172,7 +196,8 @@
       "group": "fish",
       "redlist_category": "CR",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 105817,
@@ -185,7 +210,8 @@
       "group": "fish",
       "redlist_category": "CR",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 105819,
@@ -198,7 +224,8 @@
       "group": "fish",
       "redlist_category": "VU",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 105833,
@@ -211,7 +238,8 @@
       "group": "fish",
       "redlist_category": "NT",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 105835,
@@ -224,7 +252,8 @@
       "group": "fish",
       "redlist_category": "VU",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 105839,
@@ -237,7 +266,21 @@
       "group": "fish",
       "redlist_category": "EN",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
+    },
+    {
+      "AphiaID": 105844,
+      "phylum": "Chordata",
+      "class": "Elasmobranchii",
+      "order": "Lamniformes",
+      "family": "Odontaspididae",
+      "genus": "Odontaspis",
+      "species": "Odontaspis ferox",
+      "group": "fish",
+      "redlist_category": "VU",
+      "source_obis": false,
+      "source_gbif": true
     },
     {
       "AphiaID": 217426,
@@ -248,9 +291,10 @@
       "genus": "Aetobatus",
       "species": "Aetobatus narinari",
       "group": "fish",
-      "redlist_category": "NT",
+      "redlist_category": "EN",
       "records": 2,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 105856,
@@ -261,9 +305,10 @@
       "genus": "Gymnura",
       "species": "Gymnura altavela",
       "group": "fish",
-      "redlist_category": "VU",
+      "redlist_category": "EN",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 1042856,
@@ -277,7 +322,8 @@
       "redlist_category": "NT",
       "records": 32,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 1493649,
@@ -288,8 +334,10 @@
       "genus": "Hypanus",
       "species": "Hypanus berthalutzae",
       "group": "fish",
+      "redlist_category": "VU",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 1042867,
@@ -303,7 +351,8 @@
       "redlist_category": "EN",
       "records": 1,
       "max_year": 2012,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 1026118,
@@ -316,7 +365,8 @@
       "group": "fish",
       "redlist_category": "EN",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 105858,
@@ -329,7 +379,8 @@
       "group": "fish",
       "redlist_category": "EN",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 105859,
@@ -342,7 +393,8 @@
       "group": "fish",
       "redlist_category": "EN",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 105846,
@@ -353,9 +405,11 @@
       "genus": "Ginglymostoma",
       "species": "Ginglymostoma cirratum",
       "group": "fish",
+      "redlist_category": "VU",
       "records": 16,
       "max_year": 2008,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 105847,
@@ -368,7 +422,8 @@
       "group": "fish",
       "redlist_category": "EN",
       "records": 2,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 282619,
@@ -381,7 +436,8 @@
       "group": "fish",
       "redlist_category": "VU",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 215612,
@@ -393,7 +449,8 @@
       "species": "Isistius brasiliensis",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 159578,
@@ -406,7 +463,8 @@
       "group": "fish",
       "records": 12,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 159580,
@@ -419,7 +477,8 @@
       "group": "fish",
       "records": 2110,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 159581,
@@ -432,7 +491,8 @@
       "group": "fish",
       "records": 888,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 127418,
@@ -445,7 +505,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 159429,
@@ -458,7 +519,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 278829,
@@ -471,7 +533,8 @@
       "group": "fish",
       "records": 3,
       "max_year": 2015,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 159703,
@@ -483,7 +546,8 @@
       "species": "Chaetodipterus faber",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 159662,
@@ -496,7 +560,8 @@
       "group": "fish",
       "records": 282,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 159663,
@@ -509,7 +574,8 @@
       "group": "fish",
       "records": 2,
       "max_year": 2009,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 276012,
@@ -522,7 +588,8 @@
       "group": "fish",
       "records": 5,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 276017,
@@ -534,7 +601,8 @@
       "species": "Holacanthus tricolor",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 159287,
@@ -547,7 +615,8 @@
       "group": "fish",
       "records": 7,
       "max_year": 1962,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 276025,
@@ -560,7 +629,8 @@
       "group": "fish",
       "records": 116,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 273371,
@@ -573,7 +643,8 @@
       "group": "fish",
       "records": 2,
       "max_year": 2013,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 273375,
@@ -585,7 +656,8 @@
       "species": "Prognathodes guyanensis",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 159845,
@@ -598,7 +670,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 1011297,
@@ -611,7 +684,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 277068,
@@ -624,7 +698,8 @@
       "group": "fish",
       "records": 75,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 212256,
@@ -638,7 +713,8 @@
       "redlist_category": "NT",
       "records": 9,
       "max_year": 2014,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 126707,
@@ -651,7 +727,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 158598,
@@ -664,7 +741,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 1981,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 126304,
@@ -677,7 +755,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 278676,
@@ -690,7 +769,8 @@
       "group": "fish",
       "records": 7,
       "max_year": 2015,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 271805,
@@ -703,7 +783,8 @@
       "group": "fish",
       "records": 6,
       "max_year": 2017,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 271808,
@@ -716,7 +797,8 @@
       "group": "fish",
       "records": 9,
       "max_year": 1986,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 158583,
@@ -729,7 +811,8 @@
       "group": "fish",
       "records": 17,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 271852,
@@ -742,7 +825,8 @@
       "group": "fish",
       "records": 27,
       "max_year": 2018,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 158584,
@@ -755,7 +839,8 @@
       "group": "fish",
       "records": 7,
       "max_year": 2015,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126302,
@@ -768,7 +853,8 @@
       "group": "fish",
       "records": 6,
       "max_year": 2017,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 271774,
@@ -780,7 +866,8 @@
       "species": "Heteroconger camelopardalis",
       "group": "fish",
       "records": 3,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 279112,
@@ -793,7 +880,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 1986,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 158576,
@@ -806,7 +894,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 1981,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 158588,
@@ -819,7 +908,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 158578,
@@ -832,7 +922,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 1982,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 271901,
@@ -845,7 +936,8 @@
       "group": "fish",
       "records": 2,
       "max_year": 1986,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 271902,
@@ -858,7 +950,8 @@
       "group": "fish",
       "records": 17,
       "max_year": 2017,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 158586,
@@ -870,7 +963,8 @@
       "species": "Muraena retifera",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 275486,
@@ -883,7 +977,8 @@
       "group": "fish",
       "records": 5,
       "max_year": 1982,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 126306,
@@ -896,7 +991,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126315,
@@ -908,7 +1004,8 @@
       "species": "Ophichthus ophis",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126319,
@@ -921,7 +1018,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126320,
@@ -934,7 +1032,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 282881,
@@ -947,7 +1046,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 277951,
@@ -960,7 +1060,8 @@
       "group": "fish",
       "records": 3,
       "max_year": 1982,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 126720,
@@ -973,7 +1074,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126721,
@@ -986,7 +1088,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126733,
@@ -999,7 +1102,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126734,
@@ -1012,7 +1116,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 283164,
@@ -1025,7 +1130,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 283193,
@@ -1038,7 +1144,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126347,
@@ -1051,7 +1158,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126333,
@@ -1063,7 +1171,8 @@
       "species": "Alepisaurus ferox",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 275830,
@@ -1076,7 +1185,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 158858,
@@ -1089,7 +1199,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126353,
@@ -1102,7 +1213,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 158873,
@@ -1115,7 +1227,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126340,
@@ -1128,7 +1241,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 272087,
@@ -1141,7 +1255,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 158868,
@@ -1154,7 +1269,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 158755,
@@ -1167,7 +1283,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126367,
@@ -1180,7 +1297,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 217724,
@@ -1193,7 +1311,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 220333,
@@ -1206,7 +1325,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 158750,
@@ -1219,7 +1339,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 275614,
@@ -1232,7 +1353,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126373,
@@ -1245,7 +1367,8 @@
       "group": "fish",
       "records": 6,
       "max_year": 2018,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126375,
@@ -1258,7 +1381,8 @@
       "group": "fish",
       "records": 10,
       "max_year": 2007,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 217862,
@@ -1271,7 +1395,8 @@
       "group": "fish",
       "records": 2,
       "max_year": 1934,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 159279,
@@ -1284,7 +1409,8 @@
       "group": "fish",
       "records": 3,
       "max_year": 2018,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126387,
@@ -1296,7 +1422,8 @@
       "species": "Hirundichthys speculiger",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 159281,
@@ -1309,7 +1436,8 @@
       "group": "fish",
       "records": 5,
       "max_year": 1973,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 126377,
@@ -1322,7 +1450,8 @@
       "group": "fish",
       "records": 29,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 275987,
@@ -1335,7 +1464,8 @@
       "group": "fish",
       "records": 9,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126406,
@@ -1348,7 +1478,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126407,
@@ -1361,7 +1492,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 221399,
@@ -1374,7 +1506,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 274926,
@@ -1387,7 +1520,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 274931,
@@ -1400,7 +1534,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127267,
@@ -1413,7 +1548,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 159328,
@@ -1426,7 +1562,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127271,
@@ -1439,7 +1576,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127274,
@@ -1452,7 +1590,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126412,
@@ -1465,7 +1604,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127275,
@@ -1478,7 +1618,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127276,
@@ -1491,7 +1632,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127279,
@@ -1504,7 +1646,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 280105,
@@ -1516,7 +1659,8 @@
       "species": "Chaenopsis limbaughi",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 276397,
@@ -1528,7 +1672,8 @@
       "species": "Dactyloscopus crossotus",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 276406,
@@ -1541,7 +1686,8 @@
       "group": "fish",
       "records": 4,
       "max_year": 1981,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 593554,
@@ -1554,7 +1700,8 @@
       "group": "fish",
       "records": 4,
       "max_year": 2014,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 280677,
@@ -1567,7 +1714,8 @@
       "group": "fish",
       "records": 14,
       "max_year": 2018,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 280681,
@@ -1580,7 +1728,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 1982,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 277255,
@@ -1593,7 +1742,8 @@
       "group": "fish",
       "records": 2,
       "max_year": 1901,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 277256,
@@ -1606,7 +1756,8 @@
       "group": "fish",
       "records": 16,
       "max_year": 1986,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 993099,
@@ -1619,7 +1770,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 1981,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 1018630,
@@ -1632,7 +1784,8 @@
       "group": "fish",
       "records": 12,
       "max_year": 2017,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 398619,
@@ -1645,7 +1798,8 @@
       "group": "fish",
       "records": 7,
       "max_year": 2009,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 281260,
@@ -1658,7 +1812,8 @@
       "group": "fish",
       "records": 4,
       "max_year": 2007,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 1493758,
@@ -1671,7 +1826,8 @@
       "group": "fish",
       "records": 277,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 281503,
@@ -1684,7 +1840,8 @@
       "group": "fish",
       "records": 4,
       "max_year": 1986,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 126769,
@@ -1697,7 +1854,8 @@
       "group": "fish",
       "records": 63,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 273125,
@@ -1710,7 +1868,8 @@
       "group": "fish",
       "records": 3,
       "max_year": 1973,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 273127,
@@ -1723,7 +1882,8 @@
       "group": "fish",
       "records": 236,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 126782,
@@ -1736,7 +1896,8 @@
       "group": "fish",
       "records": 5,
       "max_year": 1990,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 398623,
@@ -1748,7 +1909,8 @@
       "species": "Scartella itajobi",
       "group": "fish",
       "records": 4,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 276378,
@@ -1761,7 +1923,8 @@
       "group": "fish",
       "records": 21,
       "max_year": 1981,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 276384,
@@ -1774,7 +1937,8 @@
       "group": "fish",
       "records": 2,
       "max_year": 1982,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 282907,
@@ -1787,7 +1951,8 @@
       "group": "fish",
       "records": 13,
       "max_year": 1981,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 159626,
@@ -1799,7 +1964,8 @@
       "species": "Callionymus bairdi",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 345843,
@@ -1812,7 +1978,8 @@
       "group": "fish",
       "records": 129,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 159813,
@@ -1825,7 +1992,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2014,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 159814,
@@ -1837,7 +2005,8 @@
       "species": "Sphyraena guachancho",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 273984,
@@ -1850,7 +2019,20 @@
       "group": "fish",
       "records": 2,
       "max_year": 2007,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
+    },
+    {
+      "AphiaID": 212050,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Carangaria incertae sedis",
+      "family": "Sphyraenidae",
+      "genus": "Sphyraena",
+      "species": "Sphyraena putnamae",
+      "group": "fish",
+      "source_obis": false,
+      "source_gbif": true
     },
     {
       "AphiaID": 159629,
@@ -1862,7 +2044,8 @@
       "species": "Alectis ciliaris",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 302312,
@@ -1875,7 +2058,8 @@
       "group": "fish",
       "records": 266,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 126802,
@@ -1888,7 +2072,8 @@
       "group": "fish",
       "records": 16,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 126803,
@@ -1901,7 +2086,8 @@
       "group": "fish",
       "records": 6,
       "max_year": 1979,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126804,
@@ -1914,7 +2100,8 @@
       "group": "fish",
       "records": 33,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 126805,
@@ -1927,7 +2114,8 @@
       "group": "fish",
       "records": 33,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 302432,
@@ -1940,7 +2128,8 @@
       "group": "fish",
       "records": 12,
       "max_year": 2018,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126846,
@@ -1953,7 +2142,8 @@
       "group": "fish",
       "records": 8,
       "max_year": 1978,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126807,
@@ -1965,7 +2155,8 @@
       "species": "Decapterus macarellus",
       "group": "fish",
       "records": 3,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126848,
@@ -1978,7 +2169,8 @@
       "group": "fish",
       "records": 3,
       "max_year": 2014,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 159678,
@@ -1990,7 +2182,8 @@
       "species": "Echeneis neucratoides",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126809,
@@ -2003,7 +2196,8 @@
       "group": "fish",
       "records": 31,
       "max_year": 1980,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126949,
@@ -2015,7 +2209,8 @@
       "species": "Istiophorus albicans",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 712906,
@@ -2026,9 +2221,9 @@
       "genus": "Kajikia",
       "species": "Kajikia albida",
       "group": "fish",
-      "redlist_category": "VU",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126950,
@@ -2041,7 +2236,8 @@
       "group": "fish",
       "redlist_category": "VU",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126811,
@@ -2053,7 +2249,8 @@
       "species": "Naucrates ductor",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 159645,
@@ -2065,7 +2262,8 @@
       "species": "Oligoplites saurus",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126850,
@@ -2077,7 +2275,32 @@
       "species": "Remora australis",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
+    },
+    {
+      "AphiaID": 126851,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Carangiformes",
+      "family": "Echeneidae",
+      "genus": "Remora",
+      "species": "Remora brachyptera",
+      "group": "fish",
+      "source_obis": false,
+      "source_gbif": true
+    },
+    {
+      "AphiaID": 126852,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Carangiformes",
+      "family": "Echeneidae",
+      "genus": "Remora",
+      "species": "Remora osteochir",
+      "group": "fish",
+      "source_obis": false,
+      "source_gbif": true
     },
     {
       "AphiaID": 126853,
@@ -2089,7 +2312,8 @@
       "species": "Remora remora",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 159646,
@@ -2101,7 +2325,8 @@
       "species": "Selar crumenophthalmus",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 159649,
@@ -2113,7 +2338,8 @@
       "species": "Selene vomer",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126816,
@@ -2125,7 +2351,8 @@
       "species": "Seriola dumerili",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126818,
@@ -2138,7 +2365,8 @@
       "group": "fish",
       "records": 3,
       "max_year": 2006,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126954,
@@ -2150,7 +2378,8 @@
       "species": "Tetrapturus pfluegeri",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 367285,
@@ -2163,7 +2392,8 @@
       "group": "fish",
       "records": 2,
       "max_year": 2013,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 159654,
@@ -2175,7 +2405,8 @@
       "species": "Trachinotus goodei",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127094,
@@ -2186,8 +2417,10 @@
       "genus": "Xiphias",
       "species": "Xiphias gladius",
       "group": "fish",
+      "redlist_category": "NT",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 277569,
@@ -2200,7 +2433,8 @@
       "group": "fish",
       "records": 29,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 218707,
@@ -2212,7 +2446,8 @@
       "species": "Kyphosus bigibbus",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 303486,
@@ -2225,7 +2460,8 @@
       "group": "fish",
       "records": 17,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 218706,
@@ -2238,7 +2474,8 @@
       "group": "fish",
       "records": 5,
       "max_year": 2014,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 293639,
@@ -2250,7 +2487,8 @@
       "species": "Oreochromis niloticus",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 277549,
@@ -2262,7 +2500,8 @@
       "species": "Harengula clupeola",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 277551,
@@ -2274,7 +2513,8 @@
       "species": "Harengula jaguana",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 275353,
@@ -2286,7 +2526,8 @@
       "species": "Poecilia vivipara",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127232,
@@ -2299,7 +2540,8 @@
       "group": "fish",
       "records": 5,
       "max_year": 1982,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 126430,
@@ -2312,7 +2554,8 @@
       "group": "fish",
       "redlist_category": "VU",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 279623,
@@ -2325,7 +2568,8 @@
       "group": "fish",
       "records": 152,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 279625,
@@ -2338,7 +2582,8 @@
       "group": "fish",
       "records": 2,
       "max_year": 2018,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 273540,
@@ -2351,7 +2596,8 @@
       "group": "fish",
       "records": 19,
       "max_year": 2017,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 273541,
@@ -2363,7 +2609,8 @@
       "species": "Bodianus rufus",
       "group": "fish",
       "records": 2,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 1577330,
@@ -2376,7 +2623,8 @@
       "group": "fish",
       "records": 416,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 280213,
@@ -2389,7 +2637,8 @@
       "group": "fish",
       "records": 7,
       "max_year": 2018,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 280214,
@@ -2401,7 +2650,8 @@
       "species": "Clepticus parrae",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 276747,
@@ -2413,7 +2663,8 @@
       "species": "Decodon puellaris",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 280576,
@@ -2426,7 +2677,8 @@
       "group": "fish",
       "records": 10,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 1389965,
@@ -2438,7 +2690,8 @@
       "species": "Eques lanceolatus",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 275731,
@@ -2451,7 +2704,8 @@
       "group": "fish",
       "records": 210,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 275754,
@@ -2464,7 +2718,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 1981,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 275760,
@@ -2476,7 +2731,8 @@
       "species": "Halichoeres cyanocephalus",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 275761,
@@ -2489,7 +2745,8 @@
       "group": "fish",
       "records": 186,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 275793,
@@ -2502,7 +2759,8 @@
       "group": "fish",
       "records": 1237,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 127004,
@@ -2515,7 +2773,8 @@
       "group": "fish",
       "records": 76,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 159792,
@@ -2528,7 +2787,8 @@
       "group": "fish",
       "redlist_category": "NT",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 159798,
@@ -2541,7 +2801,8 @@
       "group": "fish",
       "records": 356,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 276547,
@@ -2553,7 +2814,8 @@
       "species": "Lutjanus purpureus",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 277261,
@@ -2566,7 +2828,8 @@
       "group": "fish",
       "records": 279,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 281639,
@@ -2579,7 +2842,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 1981,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 159298,
@@ -2592,7 +2856,8 @@
       "group": "fish",
       "records": 7,
       "max_year": 2014,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 159803,
@@ -2605,7 +2870,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2015,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 401818,
@@ -2618,7 +2884,20 @@
       "group": "fish",
       "records": 1,
       "max_year": 2014,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
+    },
+    {
+      "AphiaID": 1507449,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Haemulidae",
+      "genus": "Paranisotremus",
+      "species": "Paranisotremus moricandi",
+      "group": "fish",
+      "source_obis": false,
+      "source_gbif": true
     },
     {
       "AphiaID": 127005,
@@ -2631,7 +2910,8 @@
       "group": "fish",
       "records": 6,
       "max_year": 2014,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 276063,
@@ -2645,7 +2925,8 @@
       "redlist_category": "EN",
       "records": 4,
       "max_year": 2015,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 273770,
@@ -2658,7 +2939,8 @@
       "group": "fish",
       "records": 797,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 273773,
@@ -2671,7 +2953,8 @@
       "group": "fish",
       "records": 1074,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 273774,
@@ -2684,7 +2967,8 @@
       "group": "fish",
       "records": 4,
       "max_year": 1982,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 273775,
@@ -2697,7 +2981,8 @@
       "group": "fish",
       "records": 574,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 273777,
@@ -2710,7 +2995,8 @@
       "group": "fish",
       "records": 127,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 159301,
@@ -2723,7 +3009,8 @@
       "group": "fish",
       "records": 2,
       "max_year": 1982,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 273780,
@@ -2736,7 +3023,8 @@
       "group": "fish",
       "records": 4,
       "max_year": 1966,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 159786,
@@ -2749,7 +3037,8 @@
       "group": "fish",
       "records": 3,
       "max_year": 1966,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 273588,
@@ -2762,7 +3051,8 @@
       "group": "fish",
       "records": 2327,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 273598,
@@ -2774,7 +3064,8 @@
       "species": "Xyrichtys incandescens",
       "group": "fish",
       "records": 3,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126971,
@@ -2787,7 +3078,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2009,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 273608,
@@ -2799,7 +3091,8 @@
       "species": "Xyrichtys splendens",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 126431,
@@ -2812,7 +3105,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 281486,
@@ -2825,7 +3119,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126483,
@@ -2838,7 +3133,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 279505,
@@ -2851,7 +3147,8 @@
       "group": "fish",
       "records": 2,
       "max_year": 1982,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 279506,
@@ -2863,7 +3160,8 @@
       "species": "Acyrtus pauciradiatus",
       "group": "fish",
       "records": 5,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 1020567,
@@ -2876,7 +3174,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 1981,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 712858,
@@ -2888,7 +3187,8 @@
       "species": "Bathygobius antilliensis",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 1493259,
@@ -2900,7 +3200,8 @@
       "species": "Bathygobius brasiliensis",
       "group": "fish",
       "records": 3,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 277638,
@@ -2913,7 +3214,8 @@
       "group": "fish",
       "records": 6,
       "max_year": 1986,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 280169,
@@ -2925,7 +3227,8 @@
       "species": "Chriolepis fisheri",
       "group": "fish",
       "records": 2,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 159736,
@@ -2938,7 +3241,8 @@
       "group": "fish",
       "records": 584,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 309494,
@@ -2951,7 +3255,8 @@
       "group": "fish",
       "redlist_category": "VU",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 276488,
@@ -2964,7 +3269,8 @@
       "group": "fish",
       "records": 2,
       "max_year": 2009,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 398635,
@@ -2977,7 +3283,8 @@
       "group": "fish",
       "records": 215,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 280621,
@@ -2989,7 +3296,8 @@
       "species": "Elacatinus randalli",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 277493,
@@ -3002,7 +3310,8 @@
       "group": "fish",
       "records": 364,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 281454,
@@ -3015,7 +3324,20 @@
       "group": "fish",
       "records": 2,
       "max_year": 1982,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
+    },
+    {
+      "AphiaID": 281465,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Gobiiformes",
+      "family": "Gobiidae",
+      "genus": "Lythrypnus",
+      "species": "Lythrypnus nesiotes",
+      "group": "fish",
+      "source_obis": false,
+      "source_gbif": true
     },
     {
       "AphiaID": 276765,
@@ -3028,7 +3350,8 @@
       "group": "fish",
       "records": 17,
       "max_year": 1986,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 276769,
@@ -3040,7 +3363,8 @@
       "species": "Priolepis hipoliti",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 282620,
@@ -3052,7 +3376,8 @@
       "species": "Risor ruber",
       "group": "fish",
       "records": 2,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 280402,
@@ -3064,7 +3389,8 @@
       "species": "Corniger spinosus",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 159378,
@@ -3077,7 +3403,8 @@
       "group": "fish",
       "records": 1286,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 159385,
@@ -3090,7 +3417,8 @@
       "group": "fish",
       "records": 407,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 277960,
@@ -3102,7 +3430,8 @@
       "species": "Plectrypops retrospinis",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 272972,
@@ -3115,7 +3444,8 @@
       "group": "fish",
       "records": 46,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 159589,
@@ -3128,7 +3458,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 1966,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 159590,
@@ -3140,7 +3471,8 @@
       "species": "Apogon pseudomaculatus",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 279772,
@@ -3153,7 +3485,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 1981,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 282227,
@@ -3166,7 +3499,8 @@
       "group": "fish",
       "records": 15,
       "max_year": 2017,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 158922,
@@ -3179,7 +3513,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 217888,
@@ -3192,7 +3527,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126529,
@@ -3205,7 +3541,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 272539,
@@ -3217,7 +3554,8 @@
       "species": "Antennarius multiocellatus",
       "group": "fish",
       "records": 2,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 158796,
@@ -3230,7 +3568,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126559,
@@ -3243,7 +3582,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 272617,
@@ -3256,7 +3596,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 272571,
@@ -3269,7 +3610,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126556,
@@ -3282,7 +3624,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126569,
@@ -3295,7 +3638,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126570,
@@ -3308,7 +3652,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 277991,
@@ -3321,7 +3666,8 @@
       "group": "fish",
       "records": 342,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 159421,
@@ -3334,7 +3680,8 @@
       "group": "fish",
       "records": 150,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 126581,
@@ -3347,7 +3694,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 272649,
@@ -3360,7 +3708,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 158886,
@@ -3373,7 +3722,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126583,
@@ -3386,7 +3736,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126586,
@@ -3399,7 +3750,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 317659,
@@ -3412,7 +3764,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 1525495,
@@ -3425,7 +3778,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 1525496,
@@ -3438,7 +3792,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126588,
@@ -3451,7 +3806,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126589,
@@ -3464,7 +3820,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126590,
@@ -3477,7 +3834,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 158887,
@@ -3490,7 +3848,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 158888,
@@ -3503,7 +3862,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126593,
@@ -3516,7 +3876,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126595,
@@ -3529,7 +3890,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 158890,
@@ -3542,7 +3904,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 158891,
@@ -3555,7 +3918,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 158893,
@@ -3568,7 +3932,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126599,
@@ -3581,7 +3946,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126600,
@@ -3594,7 +3960,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126603,
@@ -3607,7 +3974,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 158895,
@@ -3620,7 +3988,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126604,
@@ -3633,7 +4002,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126605,
@@ -3646,7 +4016,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 158896,
@@ -3659,7 +4030,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126610,
@@ -3672,7 +4044,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126614,
@@ -3685,7 +4058,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126616,
@@ -3698,7 +4072,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 158897,
@@ -3711,7 +4086,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 158898,
@@ -3724,7 +4100,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126621,
@@ -3737,7 +4114,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126626,
@@ -3750,7 +4128,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 158916,
@@ -3763,7 +4142,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126636,
@@ -3776,7 +4156,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126631,
@@ -3789,7 +4170,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 159288,
@@ -3802,7 +4184,8 @@
       "group": "fish",
       "records": 1383,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 273731,
@@ -3814,7 +4197,8 @@
       "species": "Chromis insolata",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 273743,
@@ -3827,7 +4211,8 @@
       "group": "fish",
       "records": 885,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 280930,
@@ -3839,7 +4224,8 @@
       "species": "Gramma brasiliensis",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 276442,
@@ -3851,7 +4237,8 @@
       "species": "Opistognathus aurifrons",
       "group": "fish",
       "records": 2,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 276678,
@@ -3864,7 +4251,8 @@
       "group": "fish",
       "records": 323,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 276683,
@@ -3877,7 +4265,32 @@
       "group": "fish",
       "records": 2959,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
+    },
+    {
+      "AphiaID": 1021260,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Ovalentaria incertae sedis",
+      "family": "Pomacentridae",
+      "genus": "Stegastes",
+      "species": "Stegastes xanthurus",
+      "group": "fish",
+      "source_obis": false,
+      "source_gbif": true
+    },
+    {
+      "AphiaID": 279567,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Serranidae",
+      "genus": "Alphestes",
+      "species": "Alphestes afer",
+      "group": "fish",
+      "source_obis": false,
+      "source_gbif": true
     },
     {
       "AphiaID": 279146,
@@ -3890,7 +4303,8 @@
       "group": "fish",
       "records": 4,
       "max_year": 1962,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 279148,
@@ -3903,7 +4317,8 @@
       "group": "fish",
       "records": 2381,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 276920,
@@ -3916,7 +4331,8 @@
       "group": "fish",
       "records": 23,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 159566,
@@ -3929,7 +4345,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 159353,
@@ -3942,7 +4359,8 @@
       "group": "fish",
       "redlist_category": "VU",
       "records": 2,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 159354,
@@ -3955,7 +4373,8 @@
       "group": "fish",
       "redlist_category": "VU",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 475101,
@@ -3968,7 +4387,8 @@
       "group": "fish",
       "redlist_category": "VU",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 159231,
@@ -3981,7 +4401,8 @@
       "group": "fish",
       "redlist_category": "NT",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 282084,
@@ -3994,7 +4415,8 @@
       "group": "fish",
       "records": 143,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 274690,
@@ -4006,7 +4428,8 @@
       "species": "Pontinus nematophthalmus",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 282365,
@@ -4018,7 +4441,8 @@
       "species": "Pronotogrammus martinicensis",
       "group": "fish",
       "records": 2,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 159559,
@@ -4030,7 +4454,8 @@
       "species": "Pterois volitans",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 275963,
@@ -4043,7 +4468,8 @@
       "group": "fish",
       "records": 12,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 159563,
@@ -4055,7 +4481,8 @@
       "species": "Scorpaena calcarata",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 274187,
@@ -4068,7 +4495,8 @@
       "group": "fish",
       "records": 25,
       "max_year": 2017,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 274188,
@@ -4081,7 +4509,8 @@
       "group": "fish",
       "records": 3,
       "max_year": 1982,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 159275,
@@ -4094,7 +4523,8 @@
       "group": "fish",
       "records": 2,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127165,
@@ -4107,7 +4537,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127014,
@@ -4120,7 +4551,8 @@
       "group": "fish",
       "records": 49,
       "max_year": 1979,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 159833,
@@ -4133,7 +4565,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126783,
@@ -4146,7 +4579,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 273147,
@@ -4159,7 +4593,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 273378,
@@ -4172,7 +4607,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126840,
@@ -4185,7 +4621,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 159424,
@@ -4198,7 +4635,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127017,
@@ -4211,7 +4649,8 @@
       "group": "fish",
       "records": 3,
       "max_year": 1977,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126862,
@@ -4224,7 +4663,8 @@
       "group": "fish",
       "records": 2,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 302801,
@@ -4237,7 +4677,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127018,
@@ -4250,7 +4691,8 @@
       "group": "fish",
       "records": 11,
       "max_year": 1977,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126863,
@@ -4263,7 +4705,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126865,
@@ -4276,7 +4719,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 712726,
@@ -4289,7 +4733,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 1007713,
@@ -4302,7 +4747,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 835101,
@@ -4315,7 +4761,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126866,
@@ -4328,7 +4775,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 159427,
@@ -4341,7 +4789,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 712797,
@@ -4354,7 +4803,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 221509,
@@ -4367,7 +4817,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 159340,
@@ -4379,7 +4830,8 @@
       "species": "Scomberomorus cavalla",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127030,
@@ -4392,7 +4844,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127026,
@@ -4403,9 +4856,9 @@
       "genus": "Thunnus",
       "species": "Thunnus alalunga",
       "group": "fish",
-      "redlist_category": "NT",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127027,
@@ -4416,10 +4869,10 @@
       "genus": "Thunnus",
       "species": "Thunnus albacares",
       "group": "fish",
-      "redlist_category": "NT",
       "records": 57,
       "max_year": 1980,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 159343,
@@ -4432,7 +4885,8 @@
       "group": "fish",
       "records": 47,
       "max_year": 1978,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127028,
@@ -4445,7 +4899,8 @@
       "group": "fish",
       "redlist_category": "VU",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127306,
@@ -4458,7 +4913,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127307,
@@ -4471,7 +4927,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127308,
@@ -4484,7 +4941,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127309,
@@ -4497,7 +4955,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 158837,
@@ -4510,7 +4969,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127317,
@@ -4523,7 +4983,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127319,
@@ -4536,7 +4997,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127322,
@@ -4549,7 +5011,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 275019,
@@ -4562,7 +5025,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 158843,
@@ -4575,7 +5039,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 275036,
@@ -4588,7 +5053,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127331,
@@ -4601,7 +5067,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127332,
@@ -4614,7 +5081,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127335,
@@ -4627,7 +5095,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127338,
@@ -4640,7 +5109,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 274947,
@@ -4653,7 +5123,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127292,
@@ -4666,7 +5137,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 158852,
@@ -4679,7 +5151,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 158854,
@@ -4692,7 +5165,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 275117,
@@ -4705,7 +5179,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127348,
@@ -4718,7 +5193,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127293,
@@ -4731,7 +5207,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127295,
@@ -4744,7 +5221,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 158733,
@@ -4757,7 +5235,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 274956,
@@ -4770,7 +5249,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127355,
@@ -4783,7 +5263,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127358,
@@ -4796,7 +5277,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 281518,
@@ -4809,7 +5291,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127297,
@@ -4822,7 +5305,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127359,
@@ -4835,7 +5319,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127360,
@@ -4848,7 +5333,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127364,
@@ -4861,7 +5347,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127367,
@@ -4874,7 +5361,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 389385,
@@ -4887,7 +5375,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 398363,
@@ -4900,7 +5389,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 221512,
@@ -4913,7 +5403,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127314,
@@ -4926,7 +5417,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127315,
@@ -4939,7 +5431,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 275005,
@@ -4952,7 +5445,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127376,
@@ -4965,7 +5459,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 282973,
@@ -4978,7 +5473,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 283054,
@@ -4991,7 +5487,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127316,
@@ -5004,7 +5501,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127303,
@@ -5017,7 +5515,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 322499,
@@ -5030,7 +5529,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126526,
@@ -5043,7 +5543,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 278080,
@@ -5055,7 +5556,8 @@
       "species": "Aulostomus maculatus",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 278081,
@@ -5068,7 +5570,8 @@
       "group": "fish",
       "records": 26,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 159439,
@@ -5080,7 +5583,8 @@
       "species": "Fistularia petimba",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 159440,
@@ -5093,7 +5597,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2014,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 278317,
@@ -5106,7 +5611,8 @@
       "group": "fish",
       "records": 4,
       "max_year": 1982,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 1577312,
@@ -5119,7 +5625,8 @@
       "group": "fish",
       "records": 22,
       "max_year": 2018,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 158920,
@@ -5132,7 +5639,8 @@
       "group": "fish",
       "records": 3,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127407,
@@ -5145,7 +5653,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2007,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 159491,
@@ -5158,7 +5667,8 @@
       "group": "fish",
       "records": 32,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 127397,
@@ -5172,7 +5682,8 @@
       "redlist_category": "NT",
       "records": 7,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 276250,
@@ -5185,7 +5696,8 @@
       "group": "fish",
       "records": 49,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 159493,
@@ -5198,7 +5710,8 @@
       "group": "fish",
       "records": 7,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 127399,
@@ -5211,7 +5724,8 @@
       "group": "fish",
       "records": 8,
       "max_year": 2018,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 275252,
@@ -5224,7 +5738,8 @@
       "group": "fish",
       "records": 7,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 127411,
@@ -5237,7 +5752,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 1982,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 127402,
@@ -5250,7 +5766,8 @@
       "group": "fish",
       "records": 4,
       "max_year": 1962,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 127403,
@@ -5263,7 +5780,8 @@
       "group": "fish",
       "records": 9,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 275874,
@@ -5276,7 +5794,8 @@
       "group": "fish",
       "records": 3,
       "max_year": 1962,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 158931,
@@ -5289,7 +5808,8 @@
       "group": "fish",
       "records": 24,
       "max_year": 2018,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 219881,
@@ -5302,7 +5822,8 @@
       "group": "fish",
       "records": 506,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 126393,
@@ -5315,7 +5836,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 313816,
@@ -5328,7 +5850,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126397,
@@ -5341,7 +5864,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126398,
@@ -5354,7 +5878,8 @@
       "group": "fish",
       "records": 1,
       "max_year": 2016,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 126401,
@@ -5366,7 +5891,8 @@
       "species": "Gephyroberyx darwinii",
       "group": "fish",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 231413,
@@ -5378,7 +5904,21 @@
       "species": "Mirounga leonina",
       "group": "mammal",
       "records": 1,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
+    },
+    {
+      "AphiaID": 137119,
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetartiodactyla",
+      "family": "Physeteridae",
+      "genus": "Physeter",
+      "species": "Physeter macrocephalus",
+      "group": "mammal",
+      "redlist_category": "VU",
+      "source_obis": false,
+      "source_gbif": true
     },
     {
       "AphiaID": 137109,
@@ -5391,7 +5931,8 @@
       "group": "mammal",
       "records": 2,
       "max_year": 2009,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 137205,
@@ -5404,7 +5945,8 @@
       "redlist_category": "VU",
       "records": 1,
       "max_year": 2007,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 137206,
@@ -5417,7 +5959,8 @@
       "redlist_category": "EN",
       "records": 1,
       "max_year": 2012,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 137207,
@@ -5430,7 +5973,8 @@
       "redlist_category": "CR",
       "records": 3,
       "max_year": 2005,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": true
     },
     {
       "AphiaID": 220293,
@@ -5443,18 +5987,21 @@
       "redlist_category": "VU",
       "records": 3,
       "max_year": 2006,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     }
   ],
   "stats": {
     "groups": {
-        "fish": 417,
-        "mammal": 2,
+        "fish": 426,
+        "mammal": 3,
         "turtle": 4
       },
-    "redlist": 44,
+    "redlist": 46,
     "source": {
       "obis": 423,
+      "gbif": 166,
+      "db": 433,
       "edna": 0,
       "both": 0
     }

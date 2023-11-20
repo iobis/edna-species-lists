@@ -1,5 +1,5 @@
 {
-  "created": "2023-10-25T09:09:25",
+  "created": "2023-11-20T18:23:57",
   "species": [
     {
       "AphiaID": 105837,
@@ -13,7 +13,57 @@
       "redlist_category": "EN",
       "records": 2,
       "max_year": 2018,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
+    },
+    {
+      "AphiaID": 277833,
+      "phylum": "Chordata",
+      "class": "Elasmobranchii",
+      "order": "Orectolobiformes",
+      "family": "Hemiscylliidae",
+      "genus": "Chiloscyllium",
+      "species": "Chiloscyllium punctatum",
+      "group": "fish",
+      "redlist_category": "NT",
+      "source_obis": false,
+      "source_gbif": true
+    },
+    {
+      "AphiaID": 218532,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Gerreidae",
+      "genus": "Gerres",
+      "species": "Gerres methueni",
+      "group": "fish",
+      "source_obis": false,
+      "source_gbif": true
+    },
+    {
+      "AphiaID": 218638,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Sciaenidae",
+      "genus": "Johnius",
+      "species": "Johnius amblycephalus",
+      "group": "fish",
+      "source_obis": false,
+      "source_gbif": true
+    },
+    {
+      "AphiaID": 404124,
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Mustelidae",
+      "genus": "Aonyx",
+      "species": "Aonyx cinerea",
+      "group": "mammal",
+      "source_obis": false,
+      "source_gbif": true
     },
     {
       "AphiaID": 137097,
@@ -26,7 +76,8 @@
       "group": "mammal",
       "records": 2,
       "max_year": 2021,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 137092,
@@ -39,7 +90,21 @@
       "group": "mammal",
       "records": 28,
       "max_year": 2023,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
+    },
+    {
+      "AphiaID": 148732,
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetartiodactyla",
+      "family": "Delphinidae",
+      "genus": "Orcaella",
+      "species": "Orcaella brevirostris",
+      "group": "mammal",
+      "redlist_category": "EN",
+      "source_obis": false,
+      "source_gbif": true
     },
     {
       "AphiaID": 137102,
@@ -52,7 +117,8 @@
       "group": "mammal",
       "records": 14,
       "max_year": 2022,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     },
     {
       "AphiaID": 137119,
@@ -66,17 +132,20 @@
       "redlist_category": "VU",
       "records": 1,
       "max_year": 2019,
-      "source_obis": true
+      "source_obis": true,
+      "source_gbif": false
     }
   ],
   "stats": {
     "groups": {
-        "fish": 1,
-        "mammal": 4
+        "fish": 4,
+        "mammal": 6
       },
-    "redlist": 2,
+    "redlist": 4,
     "source": {
       "obis": 5,
+      "gbif": 5,
+      "db": 10,
       "edna": 0,
       "both": 0
     }

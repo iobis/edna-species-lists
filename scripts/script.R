@@ -22,8 +22,7 @@ obis_species <- map(sites, function(site_name) {
   }
   return(site_list)
 }) %>%
-  bind_rows() %>%
-  mutate(source_obis = TRUE)
+  bind_rows()
 
 # Read eDNA species lists from this repository
 
@@ -79,7 +78,8 @@ species <- combined_species %>%
     records = first(na.omit(records)),
     max_year = first(na.omit(max_year)),
     target_gene = first(na.omit(target_gene)),
-    source_obis = first(na.omit(source_obis)),
+    source_obis = first(na.omit(obis)),
+    source_gbif = first(na.omit(gbif)),
     source_dna = first(na.omit(source_dna))
   ) %>%
   ungroup()
@@ -102,8 +102,10 @@ for (site_name in sites) {
     redlist = site_list %>% filter(!is.na(redlist_category)) %>% summarize(n_species = n()) %>% pull(n_species) %>% unbox(),
     source = list(
       obis = site_list %>% filter(source_obis) %>% summarize(n_species = n()) %>% pull(n_species) %>% unbox(),
+      gbif = site_list %>% filter(source_gbif) %>% summarize(n_species = n()) %>% pull(n_species) %>% unbox(),
+      db = site_list %>% filter(source_gbif | source_obis) %>% summarize(n_species = n()) %>% pull(n_species) %>% unbox(),
       edna = site_list %>% filter(source_dna) %>% summarize(n_species = n()) %>% pull(n_species) %>% unbox(),
-      both = site_list %>% filter(source_dna & source_obis) %>% summarize(n_species = n()) %>% pull(n_species) %>% unbox()
+      both = site_list %>% filter(source_dna & (source_obis | source_gbif)) %>% summarize(n_species = n()) %>% pull(n_species) %>% unbox()
     )
   )
   

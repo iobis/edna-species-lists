@@ -1,6 +1,11 @@
-"AphiaID","phylum","class","order","family","genus","species","group","redlist_category","records","max_year","target_gene","source_obis","source_dna"
-105837,"Chordata","Elasmobranchii","Lamniformes","Cetorhinidae","Cetorhinus","Cetorhinus maximus","fish","EN",2,2018,,TRUE,
-137097,"Chordata","Mammalia","Cetartiodactyla","Delphinidae","Globicephala","Globicephala melas","mammal",,2,2021,,TRUE,
-137092,"Chordata","Mammalia","Cetartiodactyla","Balaenopteridae","Megaptera","Megaptera novaeangliae","mammal",,28,2023,,TRUE,
-137102,"Chordata","Mammalia","Cetartiodactyla","Delphinidae","Orcinus","Orcinus orca","mammal",,14,2022,,TRUE,
-137119,"Chordata","Mammalia","Cetartiodactyla","Physeteridae","Physeter","Physeter macrocephalus","mammal","VU",1,2019,,TRUE,
+"AphiaID","phylum","class","order","family","genus","species","group","redlist_category","records","max_year","target_gene","source_obis","source_gbif","source_dna"
+105837,"Chordata","Elasmobranchii","Lamniformes","Cetorhinidae","Cetorhinus","Cetorhinus maximus","fish","EN",2,2018,,TRUE,FALSE,
+277833,"Chordata","Elasmobranchii","Orectolobiformes","Hemiscylliidae","Chiloscyllium","Chiloscyllium punctatum","fish","NT",,,,FALSE,TRUE,
+218532,"Chordata","Teleostei","Eupercaria incertae sedis","Gerreidae","Gerres","Gerres methueni","fish",,,,,FALSE,TRUE,
+218638,"Chordata","Teleostei","Eupercaria incertae sedis","Sciaenidae","Johnius","Johnius amblycephalus","fish",,,,,FALSE,TRUE,
+404124,"Chordata","Mammalia","Carnivora","Mustelidae","Aonyx","Aonyx cinerea","mammal",,,,,FALSE,TRUE,
+137097,"Chordata","Mammalia","Cetartiodactyla","Delphinidae","Globicephala","Globicephala melas","mammal",,2,2021,,TRUE,FALSE,
+137092,"Chordata","Mammalia","Cetartiodactyla","Balaenopteridae","Megaptera","Megaptera novaeangliae","mammal",,28,2023,,TRUE,FALSE,
+148732,"Chordata","Mammalia","Cetartiodactyla","Delphinidae","Orcaella","Orcaella brevirostris","mammal","EN",,,,FALSE,TRUE,
+137102,"Chordata","Mammalia","Cetartiodactyla","Delphinidae","Orcinus","Orcinus orca","mammal",,14,2022,,TRUE,FALSE,
+137119,"Chordata","Mammalia","Cetartiodactyla","Physeteridae","Physeter","Physeter macrocephalus","mammal","VU",1,2019,,TRUE,FALSE,
