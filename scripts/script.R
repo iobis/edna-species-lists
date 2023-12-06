@@ -10,6 +10,19 @@ markers <- c("16s", "coi", "mifish", "mimammal", "teleo")
 fish_classes <- c("Actinopteri", "Cladistii", "Coelacanthi", "Elasmobranchii", "Holocephali", "Myxini", "Petromyzonti", "Teleostei")
 turtle_orders <- c("Testudines")
 mammal_classes <- c("Mammalia")
+bird_classes <- c("Aves")
+mollusc_phyla <- c("Mollusca")
+amphibia_classes <- c("Amphibia")
+algae_phyla <- c("Chlorophyta", "Haptophyta", "Rhodophyta", "Ochrophyta", "Bacillariophyta")
+starfish_phyla <- c("Echinodermata")
+sponge_phyla <- c("Porifera")
+jelly_phyla <- c("Cnidaria", "Ctenophora")
+unicellular_phyla <- c("Cercozoa", "Amoebozoa", "Myzozoa")
+fungi_phyla <- c("Ascomycota", "Oomycota")
+worms_phyla <- c("Nemertea", "Gnathostomulida", "Annelida")
+filter_feeders_phyla <- c("Phoronida", "Bryozoa")
+copepod_classes <- c("Copepoda")
+crustacean_classes <- c("Malacostraca")
 
 # Read OBIS species lists from https://github.com/iobis/mwhs-obis-species
 
@@ -51,11 +64,24 @@ dna_species <- dna_occurrence %>%
   mutate(
     group = case_when(
       class %in% fish_classes ~ "fish",
-      order %in% turtle_orders ~ "turtle",
-      class %in% mammal_classes ~ "mammal"
+      order %in% turtle_orders ~ "turtles",
+      class %in% mammal_classes ~ "mammals",
+      class %in% bird_class ~ "birds",
+      class %in% amphibian_class ~ "amphibians",
+      phylum %in% molluscs_phyla ~ "molluscs",
+      phylum %in% algae_phyla ~ "algae",
+      phylum %in% sponge_phyla ~ "sponges",
+      phylum %in% jelly_phyla ~ "jellyfish",
+      phylum %in% unicellular ~ "single-cell",
+      phylum %in% fungi_phyla ~ "fungi",
+      phylum %in% worms_phyla ~ "worms",
+      phylum %in% filter_feeders ~ "filter-feeders",
+      phylum %in% starfish_phyla ~ "starfish",
+      class %in% copepod_class ~ "copepods",
+      class %in% crustacean_class ~ "crustaceans"
     )
-  ) %>%
-  filter(!is.na(group) & species != "Homo sapiens")
+  )
+  # %>%filter(!is.na(group) & species != "Homo sapiens")
 
 dna_species_obis <- taxon(dna_species$AphiaID) %>%
   bind_rows(tibble(category = character())) %>%
