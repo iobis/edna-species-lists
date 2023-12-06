@@ -4,8 +4,12 @@ library(purrr)
 library(dplyr)
 library(stringr)
 library(robis)
+library(worrms)
+library(furrr)
+library(rredlist)
+library(tidyr)
 
-include_dna <- FALSE
+include_dna <- TRUE
 markers <- c("16s", "coi", "mifish", "mimammal", "teleo")
 fish_classes <- c("Actinopteri", "Cladistii", "Coelacanthi", "Elasmobranchii", "Holocephali", "Myxini", "Petromyzonti", "Teleostei")
 turtle_orders <- c("Testudines")
@@ -37,58 +41,59 @@ obis_species <- map(sites, function(site_name) {
 }) %>%
   bind_rows()
 
-# Read eDNA species lists from this repository
+# Read eDNA species lists and resolve to accepted name
 
-dna_occurrence <- map(sites, function(site_name) {
-  for (marker in markers) {
-    occurrence_file <- glue("pipeline_results/{site_name}/{marker}/Occurrence.txt")
-    dna_file <- glue("pipeline_results/{site_name}/{marker}/DNADerivedData.txt")
-    if (file.exists(occurrence_file)) {
-      occurrence <- read.table(occurrence_file, sep = "\t", header = TRUE, na.strings = "")
-      dna <- read.table(dna_file, sep = "\t", header = TRUE, na.strings = "")
-      occurrence <- occurrence %>%
-        left_join(dna, by = "occurrenceID")
-      occurrence$site <- site_name
-      return(occurrence)
-    }
-  }  
-}) %>%
-  bind_rows()
+dna_files <- list.files("edna-results/data", "*DNADerivedData*", full.names = TRUE)
+occurrence_files <- list.files("edna-results/data", "*Occurrence*", full.names = TRUE)
 
-dna_species <- dna_occurrence %>%
+dna <- map(dna_files, read.table, sep = "\t", quote = "", header = TRUE) %>%
+  bind_rows() %>%
+  mutate_if(is.character, na_if, "")
+
+site_identifiers <- str_match(occurrence_files, "/([^\\/]*)\\_Occurrence.tsv")[,2]
+
+occurrence <- map(occurrence_files, read.table, sep = "\t", quote = "", header = TRUE) %>%
+  setNames(site_identifiers) %>%
+  bind_rows(.id = "site") %>%
+  mutate_if(is.character, na_if, "") %>%
+  mutate(
+    aphiaid = as.numeric(str_replace(scientificNameID, "urn:lsid:marinespecies.org:taxname:", ""))
+  ) %>%
+  left_join(dna, by = "occurrenceID")
+
+aphiaids <- unique(occurrence$aphiaid)
+aphiaid_batches <- split(aphiaids, as.integer((seq_along(aphiaids) - 1) / 50))
+plan(multisession, workers = 3)
+aphiaid_mapping <- future_map(aphiaid_batches, wm_record) %>%
+  bind_rows() %>%
+  select(aphiaid = AphiaID, valid_aphiaid = valid_AphiaID) %>%
+  distinct() %>%
+  filter(aphiaid != valid_aphiaid)
+
+valid_aphiaids <- unique(aphiaid_mapping$valid_aphiaid)
+valid_aphiaid_batches <- split(valid_aphiaids, as.integer((seq_along(valid_aphiaids) - 1) / 50))
+valid_taxa <- map(valid_aphiaid_batches, wm_record) %>%
+  bind_rows() %>%
+  select(valid_aphiaid = AphiaID, scientificName = scientificname, scientificNameID = lsid, taxonRank = rank, kingdom, phylum, class, order, family, genus) %>%
+  mutate(taxonRank = tolower(taxonRank))
+
+occurrence <- occurrence %>%
+  mutate(verbatimScientificName = scientificName) %>%
+  left_join(aphiaid_mapping, by = "aphiaid") %>%
+  rows_update(valid_taxa, by = "valid_aphiaid") %>%
+  mutate(
+    species = ifelse(taxonRank == "species", scientificName, NA),
+    aphiaid = as.numeric(str_replace(scientificNameID, "urn:lsid:marinespecies.org:taxname:", ""))
+  ) %>%
+  select(-valid_aphiaid)
+
+dna_species <- occurrence %>%
   filter(taxonRank == "species") %>%
+  select(-species) %>%
   rename(species = scientificName) %>%
   mutate(AphiaID = as.numeric(str_extract(scientificNameID, "[0-9]+"))) %>%
   group_by(phylum, class, order, family, genus, species, AphiaID, site) %>%
   summarize(target_gene = paste0(sort(unique(target_gene)), collapse = ";")) %>%
-  mutate(
-    group = case_when(
-      class %in% fish_classes ~ "fish",
-      order %in% turtle_orders ~ "turtles",
-      class %in% mammal_classes ~ "mammals",
-      class %in% bird_class ~ "birds",
-      class %in% amphibian_class ~ "amphibians",
-      phylum %in% molluscs_phyla ~ "molluscs",
-      phylum %in% algae_phyla ~ "algae",
-      phylum %in% sponge_phyla ~ "sponges",
-      phylum %in% jelly_phyla ~ "jellyfish",
-      phylum %in% unicellular ~ "single-cell",
-      phylum %in% fungi_phyla ~ "fungi",
-      phylum %in% worms_phyla ~ "worms",
-      phylum %in% filter_feeders ~ "filter-feeders",
-      phylum %in% starfish_phyla ~ "starfish",
-      class %in% copepod_class ~ "copepods",
-      class %in% crustacean_class ~ "crustaceans"
-    )
-  )
-  # %>%filter(!is.na(group) & species != "Homo sapiens")
-
-dna_species_obis <- taxon(dna_species$AphiaID) %>%
-  bind_rows(tibble(category = character())) %>%
-  select(AphiaID = taxonID, redlist_category = category)
-
-dna_species <- dna_species %>%
-  left_join(dna_species_obis, by = "AphiaID") %>%
   mutate(source_dna = TRUE)
 
 if (include_dna) {
@@ -97,10 +102,11 @@ if (include_dna) {
   combined_species <- obis_species %>% mutate(target_gene = NA, source_dna = NA)
 }
 
+# make list
+
 species <- combined_species %>%
-  group_by(AphiaID, phylum, class, order, family, genus, species, site, group) %>%
+  group_by(AphiaID, phylum, class, order, family, genus, species, site) %>%
   summarize(
-    redlist_category = first(na.omit(redlist_category)),
     records = first(na.omit(records)),
     max_year = first(na.omit(max_year)),
     target_gene = first(na.omit(target_gene)),
@@ -109,7 +115,75 @@ species <- combined_species %>%
     source_dna = first(na.omit(source_dna))
   ) %>%
   ungroup()
-  
+
+# add red list
+
+redlist_cache <- cachem::cache_disk(".cache")
+get_redlist <- memoise::memoise(function() {
+  redlist <- data.frame()
+  page <- 0
+  while (TRUE) {
+    res <- rl_sp(page, key = "a936c4f78881e79a326e73c4f97f34a6e7d8f9f9e84342bff73c3ceda14992b9")$result
+    if (length(res) == 0) {
+      break
+    }
+    redlist <- bind_rows(redlist, res)
+    page <- page + 1
+  }
+  redlist %>%
+    filter(is.na(population)) %>%
+    select(species = scientific_name, category)
+}, cache = redlist_cache)
+redlist <- get_redlist() %>%
+  mutate(redlist_category = category)
+
+species <- species %>%
+  left_join(redlist, by = "species")
+
+# add vernacular
+
+vernaculars <- read.table("supporting_data/vernacularname.txt", sep = "\t", quote = "", header = TRUE) %>%
+  mutate(AphiaID = as.numeric(str_replace(taxonID, "urn:lsid:marinespecies.org:taxname:", ""))) %>%
+  filter(language %in% c("FRA", "ENG")) %>%
+  select(AphiaID, language, vernacularName) %>%
+  group_by(AphiaID, language) %>%
+  summarize(vernacularName = first(vernacularName)) %>%
+  arrange(AphiaID, language) %>%
+  group_by(AphiaID) %>%
+  summarize(vernacular = paste0(vernacularName, collapse = ", "))
+
+species <- species %>%
+  left_join(vernaculars, by = "AphiaID")
+
+# add groups
+
+species <- species %>%
+  mutate(
+    group = case_when(
+      class %in% fish_classes ~ "fish",
+      order %in% turtle_orders ~ "turtles",
+      class %in% mammal_classes ~ "mammals",
+      class %in% bird_classes ~ "birds",
+      class %in% amphibia_classes ~ "amphibians",
+      phylum %in% mollusc_phyla ~ "molluscs",
+      phylum %in% algae_phyla ~ "algae",
+      phylum %in% sponge_phyla ~ "sponges",
+      phylum %in% jelly_phyla ~ "jellyfish",
+      phylum %in% unicellular_phyla ~ "single-cell",
+      phylum %in% fungi_phyla ~ "fungi",
+      phylum %in% worms_phyla ~ "worms",
+      phylum %in% filter_feeders_phyla ~ "filter-feeders",
+      phylum %in% starfish_phyla ~ "starfish",
+      class %in% copepod_classes ~ "copepods",
+      class %in% crustacean_classes ~ "crustaceans"
+    )
+  )
+
+# fix logical
+
+species <- species %>%
+  mutate(across(where(is.logical), ~replace_na(., FALSE)))
+
 # Generate JSON and CSV species lists
 
 for (site_name in sites) {
