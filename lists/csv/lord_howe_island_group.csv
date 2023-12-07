@@ -1,770 +1,491 @@
-"AphiaID","phylum","class","order","family","genus","species","group","redlist_category","records","max_year","target_gene","source_obis","source_gbif","source_dna"
-217337,"Chordata","Elasmobranchii","Carcharhiniformes","Carcharhinidae","Carcharhinus","Carcharhinus amblyrhynchos","fish","EN",1,,,TRUE,TRUE,
-217340,"Chordata","Elasmobranchii","Carcharhiniformes","Carcharhinidae","Carcharhinus","Carcharhinus amboinensis","fish","VU",113,2011,,TRUE,TRUE,
-105790,"Chordata","Elasmobranchii","Carcharhiniformes","Carcharhinidae","Carcharhinus","Carcharhinus galapagensis","fish",,540,2019,,TRUE,TRUE,
-105793,"Chordata","Elasmobranchii","Carcharhiniformes","Carcharhinidae","Carcharhinus","Carcharhinus limbatus","fish","VU",6,2013,,TRUE,TRUE,
-105794,"Chordata","Elasmobranchii","Carcharhiniformes","Carcharhinidae","Carcharhinus","Carcharhinus longimanus","fish","CR",,,,FALSE,TRUE,
-105795,"Chordata","Elasmobranchii","Carcharhiniformes","Carcharhinidae","Carcharhinus","Carcharhinus melanopterus","fish","VU",6,2011,,TRUE,TRUE,
-105799,"Chordata","Elasmobranchii","Carcharhiniformes","Carcharhinidae","Galeocerdo","Galeocerdo cuvier","fish","NT",3,,,TRUE,TRUE,
-105801,"Chordata","Elasmobranchii","Carcharhiniformes","Carcharhinidae","Prionace","Prionace glauca","fish","NT",4,,,TRUE,TRUE,
-271329,"Chordata","Elasmobranchii","Carcharhiniformes","Carcharhinidae","Rhizoprionodon","Rhizoprionodon taylori","fish",,4,2012,,TRUE,TRUE,
-105817,"Chordata","Elasmobranchii","Carcharhiniformes","Sphyrnidae","Sphyrna","Sphyrna mokarran","fish","CR",39,2011,,TRUE,TRUE,
-105819,"Chordata","Elasmobranchii","Carcharhiniformes","Sphyrnidae","Sphyrna","Sphyrna zygaena","fish","VU",1,2004,,TRUE,TRUE,
-278243,"Chordata","Elasmobranchii","Myliobatiformes","Aetobatidae","Aetobatus","Aetobatus ocellatus","fish","VU",,,,FALSE,TRUE,
-316573,"Chordata","Elasmobranchii","Myliobatiformes","Dasyatidae","Bathytoshia","Bathytoshia brevicaudata","fish",,,,,FALSE,TRUE,
-1018707,"Chordata","Elasmobranchii","Myliobatiformes","Dasyatidae","Bathytoshia","Bathytoshia lata","fish","VU",3,2004,,TRUE,TRUE,
-217422,"Chordata","Elasmobranchii","Myliobatiformes","Dasyatidae","Taeniura","Taeniura lymma","fish",,2,1973,,TRUE,TRUE,
-712972,"Chordata","Elasmobranchii","Myliobatiformes","Dasyatidae","Taeniurops","Taeniurops meyeni","fish","VU",9,2004,,TRUE,TRUE,
-280875,"Chordata","Elasmobranchii","Rhinopristiformes","Glaucostegidae","Glaucostegus","Glaucostegus typus","fish","CR",8,2011,,TRUE,TRUE,
-278217,"Chordata","Elasmobranchii","Rhinopristiformes","Rhinobatidae","Rhynchobatus","Rhynchobatus australiae","fish","CR",12,2013,,TRUE,TRUE,
-271617,"Chordata","Elasmobranchii","Squaliformes","Centrophoridae","Centrophorus","Centrophorus harrissoni","fish","EN",6,,,TRUE,TRUE,
-215603,"Chordata","Elasmobranchii","Squaliformes","Etmopteridae","Etmopterus","Etmopterus molleri","fish",,2,2003,,TRUE,TRUE,
-215612,"Chordata","Elasmobranchii","Squaliformes","Dalatiidae","Isistius","Isistius brasiliensis","fish",,20,,,TRUE,TRUE,
-314648,"Chordata","Elasmobranchii","Torpediniformes","Hypnidae","Hypnos","Hypnos monopterygius","fish",,,,,FALSE,TRUE,
-845706,"Chordata","Elasmobranchii","Torpediniformes","Torpedinidae","Tetronarce","Tetronarce macneilli","fish",,1,2003,,TRUE,TRUE,
-321911,"Chordata","Elasmobranchii","Torpediniformes","Torpedinidae","Tetronarce","Tetronarce nobiliana","fish",,2,2003,,TRUE,TRUE,
-272958,"Chordata","Teleostei","Acanthuriformes","Acanthuridae","Acanthurus","Acanthurus albipectoralis","fish",,,,,FALSE,TRUE,
-219639,"Chordata","Teleostei","Acanthuriformes","Acanthuridae","Acanthurus","Acanthurus blochii","fish",,1,,,TRUE,TRUE,
-219641,"Chordata","Teleostei","Acanthuriformes","Acanthuridae","Acanthurus","Acanthurus dussumieri","fish",,1,,,TRUE,TRUE,
-219651,"Chordata","Teleostei","Acanthuriformes","Acanthuridae","Acanthurus","Acanthurus mata","fish",,4,,,TRUE,TRUE,
-219640,"Chordata","Teleostei","Acanthuriformes","Acanthuridae","Acanthurus","Acanthurus nigrofuscus","fish",,1,,,TRUE,TRUE,
-219625,"Chordata","Teleostei","Acanthuriformes","Acanthuridae","Acanthurus","Acanthurus olivaceus","fish",,1,,,TRUE,TRUE,
-219630,"Chordata","Teleostei","Acanthuriformes","Acanthuridae","Acanthurus","Acanthurus triostegus","fish",,6,1898,,TRUE,TRUE,
-279588,"Chordata","Teleostei","Acanthuriformes","Chaetodontidae","Amphichaetodon","Amphichaetodon howensis","fish",,20,2004,,TRUE,TRUE,
-278830,"Chordata","Teleostei","Acanthuriformes","Pomacanthidae","Centropyge","Centropyge bispinosa","fish",,1,,,TRUE,TRUE,
-278851,"Chordata","Teleostei","Acanthuriformes","Pomacanthidae","Centropyge","Centropyge tibicen","fish",,27,,,TRUE,TRUE,
-278853,"Chordata","Teleostei","Acanthuriformes","Pomacanthidae","Centropyge","Centropyge vrolikii","fish",,1,,,TRUE,TRUE,
-273326,"Chordata","Teleostei","Acanthuriformes","Chaetodontidae","Chaetodon","Chaetodon aureofasciatus","fish",,,,,FALSE,TRUE,
-218730,"Chordata","Teleostei","Acanthuriformes","Chaetodontidae","Chaetodon","Chaetodon auriga","fish",,6,,,TRUE,TRUE,
-218735,"Chordata","Teleostei","Acanthuriformes","Chaetodontidae","Chaetodon","Chaetodon bennetti","fish",,3,,,TRUE,TRUE,
-218744,"Chordata","Teleostei","Acanthuriformes","Chaetodontidae","Chaetodon","Chaetodon citrinellus","fish",,7,1973,,TRUE,TRUE,
-273335,"Chordata","Teleostei","Acanthuriformes","Chaetodontidae","Chaetodon","Chaetodon ephippium","fish",,,,,FALSE,TRUE,
-273337,"Chordata","Teleostei","Acanthuriformes","Chaetodontidae","Chaetodon","Chaetodon flavirostris","fish",,24,1973,,TRUE,TRUE,
-273341,"Chordata","Teleostei","Acanthuriformes","Chaetodontidae","Chaetodon","Chaetodon guentheri","fish",,13,2004,,TRUE,TRUE,
-218738,"Chordata","Teleostei","Acanthuriformes","Chaetodontidae","Chaetodon","Chaetodon kleinii","fish",,1,,,TRUE,TRUE,
-218734,"Chordata","Teleostei","Acanthuriformes","Chaetodontidae","Chaetodon","Chaetodon lineolatus","fish",,3,,,TRUE,TRUE,
-218733,"Chordata","Teleostei","Acanthuriformes","Chaetodontidae","Chaetodon","Chaetodon lunula","fish",,7,,,TRUE,TRUE,
-398549,"Chordata","Teleostei","Acanthuriformes","Chaetodontidae","Chaetodon","Chaetodon lunulatus","fish",,,,,FALSE,TRUE,
-218743,"Chordata","Teleostei","Acanthuriformes","Chaetodontidae","Chaetodon","Chaetodon melannotus","fish",,7,1973,,TRUE,TRUE,
-273347,"Chordata","Teleostei","Acanthuriformes","Chaetodontidae","Chaetodon","Chaetodon mertensii","fish",,3,1973,,TRUE,TRUE,
-273352,"Chordata","Teleostei","Acanthuriformes","Chaetodontidae","Chaetodon","Chaetodon ornatissimus","fish",,1,,,TRUE,TRUE,
-273353,"Chordata","Teleostei","Acanthuriformes","Chaetodontidae","Chaetodon","Chaetodon pelewensis","fish",,3,,,TRUE,TRUE,
-273354,"Chordata","Teleostei","Acanthuriformes","Chaetodontidae","Chaetodon","Chaetodon plebeius","fish",,9,1973,,TRUE,TRUE,
-273358,"Chordata","Teleostei","Acanthuriformes","Chaetodontidae","Chaetodon","Chaetodon rainfordi","fish","NT",3,,,TRUE,TRUE,
-273359,"Chordata","Teleostei","Acanthuriformes","Chaetodontidae","Chaetodon","Chaetodon reticulatus","fish",,,,,FALSE,TRUE,
-218740,"Chordata","Teleostei","Acanthuriformes","Chaetodontidae","Chaetodon","Chaetodon speculum","fish",,5,,,TRUE,TRUE,
-273365,"Chordata","Teleostei","Acanthuriformes","Chaetodontidae","Chaetodon","Chaetodon tricinctus","fish",,29,1973,,TRUE,TRUE,
-218719,"Chordata","Teleostei","Acanthuriformes","Chaetodontidae","Chaetodon","Chaetodon trifascialis","fish","NT",1,,,TRUE,TRUE,
-218741,"Chordata","Teleostei","Acanthuriformes","Chaetodontidae","Chaetodon","Chaetodon trifasciatus","fish",,7,,,TRUE,TRUE,
-218717,"Chordata","Teleostei","Acanthuriformes","Chaetodontidae","Chaetodon","Chaetodon ulietensis","fish",,1,,,TRUE,TRUE,
-218753,"Chordata","Teleostei","Acanthuriformes","Chaetodontidae","Chaetodon","Chaetodon unimaculatus","fish",,1,,,TRUE,TRUE,
-218754,"Chordata","Teleostei","Acanthuriformes","Chaetodontidae","Chaetodon","Chaetodon vagabundus","fish",,5,,,TRUE,TRUE,
-280113,"Chordata","Teleostei","Acanthuriformes","Pomacanthidae","Chaetodontoplus","Chaetodontoplus ballinae","fish",,5,2004,,TRUE,TRUE,
-280116,"Chordata","Teleostei","Acanthuriformes","Pomacanthidae","Chaetodontoplus","Chaetodontoplus conspicillatus","fish",,19,2004,,TRUE,TRUE,
-280120,"Chordata","Teleostei","Acanthuriformes","Pomacanthidae","Chaetodontoplus","Chaetodontoplus meredithi","fish",,1,,,TRUE,TRUE,
-219659,"Chordata","Teleostei","Acanthuriformes","Acanthuridae","Ctenochaetus","Ctenochaetus striatus","fish",,,,,FALSE,TRUE,
-218760,"Chordata","Teleostei","Acanthuriformes","Chaetodontidae","Forcipiger","Forcipiger flavissimus","fish",,3,1973,,TRUE,TRUE,
-279095,"Chordata","Teleostei","Acanthuriformes","Pomacanthidae","Genicanthus","Genicanthus semicinctus","fish",,14,2004,,TRUE,TRUE,
-218765,"Chordata","Teleostei","Acanthuriformes","Chaetodontidae","Heniochus","Heniochus acuminatus","fish",,7,,,TRUE,TRUE,
-276748,"Chordata","Teleostei","Acanthuriformes","Chaetodontidae","Heniochus","Heniochus chrysostomus","fish",,,,,FALSE,TRUE,
-218764,"Chordata","Teleostei","Acanthuriformes","Chaetodontidae","Heniochus","Heniochus monoceros","fish",,,,,FALSE,TRUE,
-276750,"Chordata","Teleostei","Acanthuriformes","Chaetodontidae","Heniochus","Heniochus varius","fish",,,,,FALSE,TRUE,
-219673,"Chordata","Teleostei","Acanthuriformes","Acanthuridae","Naso","Naso annulatus","fish",,3,1973,,TRUE,TRUE,
-219671,"Chordata","Teleostei","Acanthuriformes","Acanthuridae","Naso","Naso brevirostris","fish",,3,1973,,TRUE,TRUE,
-219667,"Chordata","Teleostei","Acanthuriformes","Acanthuridae","Naso","Naso hexacanthus","fish",,1,,,TRUE,TRUE,
-219665,"Chordata","Teleostei","Acanthuriformes","Acanthuridae","Naso","Naso lituratus","fish",,,,,FALSE,TRUE,
-278007,"Chordata","Teleostei","Acanthuriformes","Acanthuridae","Naso","Naso maculatus","fish",,1,,,TRUE,TRUE,
-219668,"Chordata","Teleostei","Acanthuriformes","Acanthuridae","Naso","Naso unicornis","fish",,7,1973,,TRUE,TRUE,
-219672,"Chordata","Teleostei","Acanthuriformes","Acanthuridae","Naso","Naso vlamingii","fish",,,,,FALSE,TRUE,
-218710,"Chordata","Teleostei","Acanthuriformes","Ephippidae","Platax","Platax teira","fish",,,,,FALSE,TRUE,
-220001,"Chordata","Teleostei","Acanthuriformes","Pomacanthidae","Pomacanthus","Pomacanthus imperator","fish",,1,,,TRUE,TRUE,
-220003,"Chordata","Teleostei","Acanthuriformes","Pomacanthidae","Pomacanthus","Pomacanthus semicirculatus","fish",,3,1973,,TRUE,TRUE,
-282347,"Chordata","Teleostei","Acanthuriformes","Acanthuridae","Prionurus","Prionurus maculatus","fish",,29,2004,,TRUE,TRUE,
-282348,"Chordata","Teleostei","Acanthuriformes","Acanthuridae","Prionurus","Prionurus microlepidotus","fish",,2,,,TRUE,TRUE,
-273912,"Chordata","Teleostei","Acanthuriformes","Siganidae","Siganus","Siganus fuscescens","fish",,3,,,TRUE,TRUE,
-127045,"Chordata","Teleostei","Acanthuriformes","Siganidae","Siganus","Siganus rivulatus","fish",,,,,FALSE,TRUE,
-220083,"Chordata","Teleostei","Acanthuriformes","Zanclidae","Zanclus","Zanclus cornutus","fish",,5,1973,,TRUE,TRUE,
-219679,"Chordata","Teleostei","Acanthuriformes","Acanthuridae","Zebrasoma","Zebrasoma scopas","fish",,3,,,TRUE,TRUE,
-712902,"Chordata","Teleostei","Acanthuriformes","Acanthuridae","Zebrasoma","Zebrasoma velifer","fish",,,,,FALSE,TRUE,
-280765,"Chordata","Teleostei","Acropomatiformes","Pentacerotidae","Evistias","Evistias acutirostris","fish",,5,1973,,TRUE,TRUE,
-126994,"Chordata","Teleostei","Acropomatiformes","Howellidae","Howella","Howella brodiei","fish",,2,,,TRUE,TRUE,
-277886,"Chordata","Teleostei","Acropomatiformes","Creediidae","Limnichthys","Limnichthys fasciatus","fish",,27,1977,,TRUE,TRUE,
-221428,"Chordata","Teleostei","Acropomatiformes","Ostracoberycidae","Ostracoberyx","Ostracoberyx dorygenys","fish",,1,2003,,TRUE,TRUE,
-278773,"Chordata","Teleostei","Acropomatiformes","Ostracoberycidae","Ostracoberyx","Ostracoberyx paxtoni","fish",,4,2003,,TRUE,TRUE,
-218698,"Chordata","Teleostei","Acropomatiformes","Pempheridae","Parapriacanthus","Parapriacanthus ransonneti","fish",,13,1980,,TRUE,TRUE,
-277056,"Chordata","Teleostei","Acropomatiformes","Pempheridae","Pempheris","Pempheris affinis","fish",,,,,FALSE,TRUE,
-277057,"Chordata","Teleostei","Acropomatiformes","Pempheridae","Pempheris","Pempheris analis","fish",,22,1973,,TRUE,TRUE,
-218700,"Chordata","Teleostei","Acropomatiformes","Pempheridae","Pempheris","Pempheris oualensis","fish",,2,1973,,TRUE,TRUE,
-218699,"Chordata","Teleostei","Acropomatiformes","Pempheridae","Pempheris","Pempheris schwenkii","fish",,2,1973,,TRUE,TRUE,
-218701,"Chordata","Teleostei","Acropomatiformes","Pempheridae","Pempheris","Pempheris vanicolensis","fish",,1,,,TRUE,TRUE,
-221470,"Chordata","Teleostei","Acropomatiformes","Pentacerotidae","Pentaceros","Pentaceros capensis","fish",,,,,FALSE,TRUE,
-283207,"Chordata","Teleostei","Acropomatiformes","Pentacerotidae","Zanclistius","Zanclistius elevatus","fish",,2,,,TRUE,TRUE,
-275407,"Chordata","Teleostei","Albuliformes","Albulidae","Albula","Albula argentea","fish",,2,,,TRUE,TRUE,
-398341,"Chordata","Teleostei","Albuliformes","Albulidae","Albula","Albula oligolepis","fish",,1,,,TRUE,FALSE,
-293541,"Chordata","Teleostei","Anguilliformes","Anguillidae","Anguilla","Anguilla australis","fish","NT",18,2017,,TRUE,TRUE,
-271711,"Chordata","Teleostei","Anguilliformes","Anguillidae","Anguilla","Anguilla reinhardtii","fish",,22,2017,,TRUE,TRUE,
-271723,"Chordata","Teleostei","Anguilliformes","Congridae","Ariosoma","Ariosoma howensis","fish",,14,2005,,TRUE,TRUE,
-217540,"Chordata","Teleostei","Anguilliformes","Congridae","Ariosoma","Ariosoma mauritianum","fish",,1,,,TRUE,TRUE,
-217563,"Chordata","Teleostei","Anguilliformes","Ophichthidae","Callechelys","Callechelys catostoma","fish",,5,,,TRUE,TRUE,
-217565,"Chordata","Teleostei","Anguilliformes","Ophichthidae","Callechelys","Callechelys marmorata","fish",,3,,,TRUE,TRUE,
-217545,"Chordata","Teleostei","Anguilliformes","Congridae","Conger","Conger cinereus","fish",,3,,,TRUE,TRUE,
-1495533,"Chordata","Teleostei","Anguilliformes","Congridae","Conger","Conger monganius","fish",,,,,FALSE,TRUE,
-217546,"Chordata","Teleostei","Anguilliformes","Congridae","Conger","Conger wilsoni","fish",,3,1973,,TRUE,TRUE,
-217469,"Chordata","Teleostei","Anguilliformes","Muraenidae","Echidna","Echidna nebulosa","fish",,13,,,TRUE,TRUE,
-271811,"Chordata","Teleostei","Anguilliformes","Muraenidae","Enchelycore","Enchelycore ramosa","fish",,3,,,TRUE,TRUE,
-271754,"Chordata","Teleostei","Anguilliformes","Congridae","Gnathophis","Gnathophis castlei","fish",,10,2006,,TRUE,TRUE,
-271756,"Chordata","Teleostei","Anguilliformes","Congridae","Gnathophis","Gnathophis grahami","fish",,,,,FALSE,TRUE,
-217547,"Chordata","Teleostei","Anguilliformes","Congridae","Gnathophis","Gnathophis habenatus","fish",,3,,,TRUE,TRUE,
-271760,"Chordata","Teleostei","Anguilliformes","Congridae","Gnathophis","Gnathophis longicauda","fish",,3,,,TRUE,FALSE,
-271771,"Chordata","Teleostei","Anguilliformes","Congridae","Gnathophis","Gnathophis umbrellabius","fish",,5,,,TRUE,TRUE,
-271817,"Chordata","Teleostei","Anguilliformes","Muraenidae","Gymnothorax","Gymnothorax annasona","fish",,23,2004,,TRUE,TRUE,
-271820,"Chordata","Teleostei","Anguilliformes","Muraenidae","Gymnothorax","Gymnothorax australicola","fish",,1,,,TRUE,TRUE,
-271827,"Chordata","Teleostei","Anguilliformes","Muraenidae","Gymnothorax","Gymnothorax cephalospilus","fish",,1,2004,,TRUE,TRUE,
-217490,"Chordata","Teleostei","Anguilliformes","Muraenidae","Gymnothorax","Gymnothorax chilospilus","fish",,5,,,TRUE,TRUE,
-217496,"Chordata","Teleostei","Anguilliformes","Muraenidae","Gymnothorax","Gymnothorax eurostus","fish",,23,1973,,TRUE,TRUE,
-217509,"Chordata","Teleostei","Anguilliformes","Muraenidae","Gymnothorax","Gymnothorax favagineus","fish",,2,1973,,TRUE,TRUE,
-217495,"Chordata","Teleostei","Anguilliformes","Muraenidae","Gymnothorax","Gymnothorax flavimarginatus","fish",,1,,,TRUE,TRUE,
-217503,"Chordata","Teleostei","Anguilliformes","Muraenidae","Gymnothorax","Gymnothorax meleagris","fish",,9,,,TRUE,TRUE,
-271862,"Chordata","Teleostei","Anguilliformes","Muraenidae","Gymnothorax","Gymnothorax nubilus","fish",,19,1973,,TRUE,TRUE,
-271872,"Chordata","Teleostei","Anguilliformes","Muraenidae","Gymnothorax","Gymnothorax porphyreus","fish",,29,,,TRUE,TRUE,
-271873,"Chordata","Teleostei","Anguilliformes","Muraenidae","Gymnothorax","Gymnothorax prasinus","fish",,6,,,TRUE,TRUE,
-271874,"Chordata","Teleostei","Anguilliformes","Muraenidae","Gymnothorax","Gymnothorax prionodon","fish",,,,,FALSE,TRUE,
-271889,"Chordata","Teleostei","Anguilliformes","Muraenidae","Gymnothorax","Gymnothorax thyrsoideus","fish",,9,,,TRUE,TRUE,
-217508,"Chordata","Teleostei","Anguilliformes","Muraenidae","Gymnothorax","Gymnothorax undulatus","fish",,,,,FALSE,TRUE,
-217572,"Chordata","Teleostei","Anguilliformes","Ophichthidae","Leiuranus","Leiuranus semicinctus","fish",,2,2017,,TRUE,TRUE,
-310967,"Chordata","Teleostei","Anguilliformes","Ophichthidae","Leiuranus","Leiuranus versicolor","fish",,9,,,TRUE,TRUE,
-281516,"Chordata","Teleostei","Anguilliformes","Ophichthidae","Malvoliophis","Malvoliophis pinguis","fish",,3,,,TRUE,TRUE,
-217578,"Chordata","Teleostei","Anguilliformes","Ophichthidae","Myrichthys","Myrichthys maculosus","fish",,3,,,TRUE,TRUE,
-126306,"Chordata","Teleostei","Anguilliformes","Nemichthyidae","Nemichthys","Nemichthys scolopaceus","fish",,2,2003,,TRUE,TRUE,
-271937,"Chordata","Teleostei","Anguilliformes","Ophichthidae","Ophichthus","Ophichthus altipennis","fish",,,,,FALSE,TRUE,
-282717,"Chordata","Teleostei","Anguilliformes","Ophichthidae","Scolecenchelys","Scolecenchelys laticaudata","fish",,1,,,TRUE,TRUE,
-282719,"Chordata","Teleostei","Anguilliformes","Ophichthidae","Scolecenchelys","Scolecenchelys nicholsarum","fish",,15,1973,,TRUE,TRUE,
-126331,"Chordata","Teleostei","Atheriniformes","Atherinidae","Atherinomorus","Atherinomorus lacunosus","fish",,14,1973,,TRUE,TRUE,
-272039,"Chordata","Teleostei","Atheriniformes","Atherinidae","Atherinomorus","Atherinomorus vaigiensis","fish",,,,,FALSE,TRUE,
-277641,"Chordata","Teleostei","Atheriniformes","Atherinidae","Atherion","Atherion elymus","fish",,1,1973,,TRUE,TRUE,
-277642,"Chordata","Teleostei","Atheriniformes","Atherinidae","Atherion","Atherion maccullochi","fish",,29,,,TRUE,TRUE,
-217883,"Chordata","Teleostei","Atheriniformes","Atherinidae","Hypoatherina","Hypoatherina temminckii","fish",,6,,,TRUE,TRUE,
-277724,"Chordata","Teleostei","Atheriniformes","Atherinidae","Hypoatherina","Hypoatherina tropicalis","fish",,35,1973,,TRUE,TRUE,
-276754,"Chordata","Teleostei","Atheriniformes","Isonidae","Iso","Iso rhothophilus","fish",,3,1973,,TRUE,TRUE,
-126333,"Chordata","Teleostei","Aulopiformes","Alepisauridae","Alepisaurus","Alepisaurus ferox","fish",,5,2012,,TRUE,TRUE,
-158859,"Chordata","Teleostei","Aulopiformes","Ipnopidae","Bathypterois","Bathypterois longifilis","fish",,3,2003,,TRUE,TRUE,
-1007215,"Chordata","Teleostei","Aulopiformes","Aulopidae","Hime","Hime pyrhistion","fish",,2,,,TRUE,TRUE,
-282134,"Chordata","Teleostei","Aulopiformes","Paraulopidae","Paraulopus","Paraulopus okamurai","fish",,2,,,TRUE,TRUE,
-217662,"Chordata","Teleostei","Aulopiformes","Synodontidae","Saurida","Saurida gracilis","fish",,3,,,TRUE,TRUE,
-217664,"Chordata","Teleostei","Aulopiformes","Synodontidae","Saurida","Saurida nebulosa","fish",,,,,FALSE,TRUE,
-272079,"Chordata","Teleostei","Aulopiformes","Notosudidae","Scopelosaurus","Scopelosaurus ahlstromi","fish",,2,2012,,TRUE,TRUE,
-217674,"Chordata","Teleostei","Aulopiformes","Synodontidae","Synodus","Synodus binotatus","fish",,2,1973,,TRUE,TRUE,
-217667,"Chordata","Teleostei","Aulopiformes","Synodontidae","Synodus","Synodus dermatogenys","fish",,1,,,TRUE,TRUE,
-217672,"Chordata","Teleostei","Aulopiformes","Synodontidae","Synodus","Synodus doaki","fish",,2,1973,,TRUE,TRUE,
-217673,"Chordata","Teleostei","Aulopiformes","Synodontidae","Synodus","Synodus jaculum","fish",,,,,FALSE,TRUE,
-272141,"Chordata","Teleostei","Aulopiformes","Synodontidae","Synodus","Synodus similis","fish",,2,2004,,TRUE,TRUE,
-217670,"Chordata","Teleostei","Aulopiformes","Synodontidae","Synodus","Synodus variegatus","fish",,32,1973,,TRUE,TRUE,
-158884,"Chordata","Teleostei","Aulopiformes","Synodontidae","Trachinocephalus","Trachinocephalus myops","fish",,9,,,TRUE,TRUE,
-126382,"Chordata","Teleostei","Beloniformes","Exocoetidae","Cheilopogon","Cheilopogon heterurus","fish",,2,,,TRUE,TRUE,
-220012,"Chordata","Teleostei","Beloniformes","Hemiramphidae","Euleptorhamphus","Euleptorhamphus viridis","fish",,5,1973,,TRUE,TRUE,
-217869,"Chordata","Teleostei","Beloniformes","Exocoetidae","Exocoetus","Exocoetus monocirrhus","fish",,2,,,TRUE,TRUE,
-126386,"Chordata","Teleostei","Beloniformes","Exocoetidae","Hirundichthys","Hirundichthys rondeletii","fish",,4,,,TRUE,TRUE,
-1021953,"Chordata","Teleostei","Beloniformes","Exocoetidae","Hirundichthys","Hirundichthys rufipinnis","fish",,,,,FALSE,TRUE,
-126387,"Chordata","Teleostei","Beloniformes","Exocoetidae","Hirundichthys","Hirundichthys speculiger","fish",,2,1973,,TRUE,TRUE,
-272179,"Chordata","Teleostei","Beloniformes","Hemiramphidae","Hyporhamphus","Hyporhamphus australis","fish",,62,1973,,TRUE,TRUE,
-126377,"Chordata","Teleostei","Beloniformes","Belonidae","Platybelone","Platybelone argalus","fish",,17,1973,,TRUE,TRUE,
-126392,"Chordata","Teleostei","Beloniformes","Scomberesocidae","Scomberesox","Scomberesox saurus","fish",,8,2000,,TRUE,TRUE,
-275981,"Chordata","Teleostei","Beloniformes","Belonidae","Strongylura","Strongylura incisa","fish",,,,,FALSE,TRUE,
-159259,"Chordata","Teleostei","Beloniformes","Belonidae","Tylosurus","Tylosurus crocodilus","fish",,,,,FALSE,TRUE,
-276716,"Chordata","Teleostei","Blenniiformes","Blenniidae","Cirripectes","Cirripectes alboapicalis","fish",,40,1979,,TRUE,TRUE,
-219266,"Chordata","Teleostei","Blenniiformes","Blenniidae","Cirripectes","Cirripectes castaneus","fish",,4,,,TRUE,TRUE,
-276718,"Chordata","Teleostei","Blenniiformes","Blenniidae","Cirripectes","Cirripectes chelomatus","fish",,4,,,TRUE,TRUE,
-219257,"Chordata","Teleostei","Blenniiformes","Blenniidae","Cirripectes","Cirripectes filamentosus","fish",,,,,FALSE,TRUE,
-219265,"Chordata","Teleostei","Blenniiformes","Blenniidae","Cirripectes","Cirripectes stigmaticus","fish",,,,,FALSE,TRUE,
-276603,"Chordata","Teleostei","Blenniiformes","Clinidae","Cristiceps","Cristiceps aurantiacus","fish",,7,,,TRUE,TRUE,
-277652,"Chordata","Teleostei","Blenniiformes","Blenniidae","Ecsenius","Ecsenius bicolor","fish",,,,,FALSE,TRUE,
-277659,"Chordata","Teleostei","Blenniiformes","Blenniidae","Ecsenius","Ecsenius fourmanoiri","fish",,,,,FALSE,TRUE,
-276882,"Chordata","Teleostei","Blenniiformes","Blenniidae","Enchelyurus","Enchelyurus ater","fish",,17,1973,,TRUE,TRUE,
-277299,"Chordata","Teleostei","Blenniiformes","Tripterygiidae","Enneapterygius","Enneapterygius atrogulare","fish",,6,,,TRUE,TRUE,
-277312,"Chordata","Teleostei","Blenniiformes","Tripterygiidae","Enneapterygius","Enneapterygius hemimelas","fish",,2,1973,,TRUE,FALSE,
-277314,"Chordata","Teleostei","Blenniiformes","Tripterygiidae","Enneapterygius","Enneapterygius howensis","fish",,9,,,TRUE,TRUE,
-277323,"Chordata","Teleostei","Blenniiformes","Tripterygiidae","Enneapterygius","Enneapterygius nanus","fish",,2,1973,,TRUE,TRUE,
-277337,"Chordata","Teleostei","Blenniiformes","Tripterygiidae","Enneapterygius","Enneapterygius rufopileus","fish",,135,2005,,TRUE,TRUE,
-219282,"Chordata","Teleostei","Blenniiformes","Blenniidae","Entomacrodus","Entomacrodus striatus","fish",,21,1973,,TRUE,TRUE,
-219286,"Chordata","Teleostei","Blenniiformes","Blenniidae","Exallias","Exallias brevis","fish",,,,,FALSE,TRUE,
-281066,"Chordata","Teleostei","Blenniiformes","Clinidae","Heteroclinus","Heteroclinus roseus","fish",,31,1973,,TRUE,TRUE,
-219294,"Chordata","Teleostei","Blenniiformes","Blenniidae","Istiblennius","Istiblennius edentulus","fish",,77,,,TRUE,TRUE,
-279304,"Chordata","Teleostei","Blenniiformes","Blenniidae","Meiacanthus","Meiacanthus atrodorsalis","fish",,,,,FALSE,TRUE,
-276728,"Chordata","Teleostei","Blenniiformes","Tripterygiidae","Norfolkia","Norfolkia squamiceps","fish",,25,1973,,TRUE,TRUE,
-279037,"Chordata","Teleostei","Blenniiformes","Blenniidae","Petroscirtes","Petroscirtes fallax","fish",,,,,FALSE,TRUE,
-279038,"Chordata","Teleostei","Blenniiformes","Blenniidae","Petroscirtes","Petroscirtes lupus","fish",,21,1973,,TRUE,TRUE,
-293706,"Chordata","Teleostei","Blenniiformes","Blenniidae","Plagiotremus","Plagiotremus laudandus","fish",,1,,,TRUE,TRUE,
-219334,"Chordata","Teleostei","Blenniiformes","Blenniidae","Plagiotremus","Plagiotremus rhinorhynchos","fish",,13,1973,,TRUE,TRUE,
-219335,"Chordata","Teleostei","Blenniiformes","Blenniidae","Plagiotremus","Plagiotremus tapeinosoma","fish",,22,1973,,TRUE,TRUE,
-277937,"Chordata","Teleostei","Blenniiformes","Blenniidae","Stanulus","Stanulus talboti","fish",,3,1973,,TRUE,TRUE,
-219344,"Chordata","Teleostei","Blenniiformes","Blenniidae","Xiphasia","Xiphasia matsubarai","fish",,3,,,TRUE,TRUE,
-219345,"Chordata","Teleostei","Blenniiformes","Blenniidae","Xiphasia","Xiphasia setifer","fish",,3,,,TRUE,TRUE,
-1016262,"Chordata","Teleostei","Callionymiformes","Callionymidae","Callionymus","Callionymus scaber","fish",,6,,,TRUE,TRUE,
-282559,"Chordata","Teleostei","Callionymiformes","Callionymidae","Repomucenus","Repomucenus calcaratus","fish",,1,,,TRUE,TRUE,
-280639,"Chordata","Teleostei","Carangaria incertae sedis","Polynemidae","Eleutheronema","Eleutheronema tetradactylum","fish",,8,2010,,TRUE,TRUE,
-278957,"Chordata","Teleostei","Carangaria incertae sedis","Latidae","Lates","Lates calcarifer","fish",,175,2009,,TRUE,TRUE,
-212044,"Chordata","Teleostei","Carangaria incertae sedis","Sphyraenidae","Sphyraena","Sphyraena acutipinnis","fish",,1,,,TRUE,TRUE,
-345843,"Chordata","Teleostei","Carangaria incertae sedis","Sphyraenidae","Sphyraena","Sphyraena barracuda","fish",,1,,,TRUE,TRUE,
-273983,"Chordata","Teleostei","Carangaria incertae sedis","Sphyraenidae","Sphyraena","Sphyraena novaehollandiae","fish",,2,1973,,TRUE,TRUE,
-212056,"Chordata","Teleostei","Carangaria incertae sedis","Sphyraenidae","Sphyraena","Sphyraena obtusata","fish",,2,,,TRUE,TRUE,
-159629,"Chordata","Teleostei","Carangiformes","Carangidae","Alectis","Alectis ciliaris","fish",,5,,,TRUE,TRUE,
-218395,"Chordata","Teleostei","Carangiformes","Carangidae","Carangoides","Carangoides ferdau","fish",,1,,,TRUE,TRUE,
-126805,"Chordata","Teleostei","Carangiformes","Carangidae","Caranx","Caranx lugubris","fish",,,,,FALSE,TRUE,
-218419,"Chordata","Teleostei","Carangiformes","Carangidae","Caranx","Caranx melampygus","fish",,,,,FALSE,TRUE,
-218404,"Chordata","Teleostei","Carangiformes","Carangidae","Caranx","Caranx sexfasciatus","fish",,2,,,TRUE,TRUE,
-126845,"Chordata","Teleostei","Carangiformes","Coryphaenidae","Coryphaena","Coryphaena equiselis","fish",,2,1973,,TRUE,TRUE,
-126846,"Chordata","Teleostei","Carangiformes","Coryphaenidae","Coryphaena","Coryphaena hippurus","fish",,2,,,TRUE,TRUE,
-273279,"Chordata","Teleostei","Carangiformes","Carangidae","Decapterus","Decapterus muroadsi","fish",,11,1973,,TRUE,TRUE,
-126848,"Chordata","Teleostei","Carangiformes","Echeneidae","Echeneis","Echeneis naucrates","fish",,3,,,TRUE,TRUE,
-126809,"Chordata","Teleostei","Carangiformes","Carangidae","Elagatis","Elagatis bipinnulata","fish",,1,,,TRUE,TRUE,
-1605280,"Chordata","Teleostei","Carangiformes","Carangidae","Ferdauia","Ferdauia orthogrammus","fish",,5,,,TRUE,TRUE,
-218429,"Chordata","Teleostei","Carangiformes","Carangidae","Gnathanodon","Gnathanodon speciosus","fish",,4,2012,,TRUE,TRUE,
-712905,"Chordata","Teleostei","Carangiformes","Istiophoridae","Istiompax","Istiompax indica","fish",,2,,,TRUE,TRUE,
-158812,"Chordata","Teleostei","Carangiformes","Istiophoridae","Istiophorus","Istiophorus platypterus","fish","VU",1,,,TRUE,FALSE,
-126812,"Chordata","Teleostei","Carangiformes","Carangidae","Pseudocaranx","Pseudocaranx dentex","fish",,57,2004,,TRUE,TRUE,
-126853,"Chordata","Teleostei","Carangiformes","Echeneidae","Remora","Remora remora","fish",,5,,,TRUE,TRUE,
-218434,"Chordata","Teleostei","Carangiformes","Carangidae","Scomberoides","Scomberoides lysan","fish",,,,,FALSE,TRUE,
-159646,"Chordata","Teleostei","Carangiformes","Carangidae","Selar","Selar crumenophthalmus","fish",,2,,,TRUE,TRUE,
-126816,"Chordata","Teleostei","Carangiformes","Carangidae","Seriola","Seriola dumerili","fish",,3,,,TRUE,TRUE,
-218436,"Chordata","Teleostei","Carangiformes","Carangidae","Seriola","Seriola lalandi","fish",,18,2004,,TRUE,TRUE,
-126818,"Chordata","Teleostei","Carangiformes","Carangidae","Seriola","Seriola rivoliana","fish",,1,,,TRUE,TRUE,
-218440,"Chordata","Teleostei","Carangiformes","Carangidae","Trachinotus","Trachinotus baillonii","fish",,5,,,TRUE,TRUE,
-151169,"Chordata","Teleostei","Carangiformes","Carangidae","Trachinotus","Trachinotus blochii","fish",,,,,FALSE,TRUE,
-273290,"Chordata","Teleostei","Carangiformes","Carangidae","Trachinotus","Trachinotus coppingeri","fish",,21,,,TRUE,TRUE,
-273301,"Chordata","Teleostei","Carangiformes","Carangidae","Trachurus","Trachurus declivis","fish",,2,,,TRUE,TRUE,
-273304,"Chordata","Teleostei","Carangiformes","Carangidae","Trachurus","Trachurus novaezelandiae","fish",,7,2000,,TRUE,TRUE,
-127094,"Chordata","Teleostei","Carangiformes","Xiphiidae","Xiphias","Xiphias gladius","fish","NT",2,,,TRUE,FALSE,
-279657,"Chordata","Teleostei","Centrarchiformes","Aplodactylidae","Aplodactylus","Aplodactylus etheridgii","fish",,19,1973,,TRUE,TRUE,
-279826,"Chordata","Teleostei","Centrarchiformes","Kyphosidae","Atypichthys","Atypichthys latus","fish",,21,1973,,TRUE,TRUE,
-279827,"Chordata","Teleostei","Centrarchiformes","Kyphosidae","Atypichthys","Atypichthys strigatus","fish",,13,1973,,TRUE,TRUE,
-279876,"Chordata","Teleostei","Centrarchiformes","Kyphosidae","Bathystethus","Bathystethus cultratus","fish",,10,1973,,TRUE,TRUE,
-712747,"Chordata","Teleostei","Centrarchiformes","Chironemidae","Chironemus","Chironemus maculosus","fish",,,,,FALSE,TRUE,
-280158,"Chordata","Teleostei","Centrarchiformes","Chironemidae","Chironemus","Chironemus marmoratus","fish",,11,,,TRUE,TRUE,
-280159,"Chordata","Teleostei","Centrarchiformes","Chironemidae","Chironemus","Chironemus microlepis","fish",,3,,,TRUE,TRUE,
-218855,"Chordata","Teleostei","Centrarchiformes","Cirrhitidae","Cirrhitichthys","Cirrhitichthys aprinus","fish",,,,,FALSE,TRUE,
-218854,"Chordata","Teleostei","Centrarchiformes","Cirrhitidae","Cirrhitichthys","Cirrhitichthys falco","fish",,,,,FALSE,TRUE,
-280857,"Chordata","Teleostei","Centrarchiformes","Kyphosidae","Girella","Girella cyanea","fish",,75,2004,,TRUE,TRUE,
-280858,"Chordata","Teleostei","Centrarchiformes","Kyphosidae","Girella","Girella elevata","fish",,3,,,TRUE,TRUE,
-713425,"Chordata","Teleostei","Centrarchiformes","Cheilodactylidae","Goniistius","Goniistius francisi","fish",,3,,,TRUE,TRUE,
-280920,"Chordata","Teleostei","Centrarchiformes","Cheilodactylidae","Goniistius","Goniistius vestitus","fish",,18,,,TRUE,TRUE,
-280921,"Chordata","Teleostei","Centrarchiformes","Cheilodactylidae","Goniistius","Goniistius vittatus","fish",,2,,,TRUE,TRUE,
-218355,"Chordata","Teleostei","Centrarchiformes","Kuhliidae","Kuhlia","Kuhlia mugil","fish",,30,1973,,TRUE,TRUE,
-218707,"Chordata","Teleostei","Centrarchiformes","Kyphosidae","Kyphosus","Kyphosus bigibbus","fish",,11,1973,,TRUE,TRUE,
-218708,"Chordata","Teleostei","Centrarchiformes","Kyphosidae","Kyphosus","Kyphosus cinerascens","fish",,3,,,TRUE,TRUE,
-273524,"Chordata","Teleostei","Centrarchiformes","Kyphosidae","Kyphosus","Kyphosus pacificus","fish",,,,,FALSE,TRUE,
-303486,"Chordata","Teleostei","Centrarchiformes","Kyphosidae","Kyphosus","Kyphosus sectatrix","fish",,10,1973,,TRUE,TRUE,
-273525,"Chordata","Teleostei","Centrarchiformes","Kyphosidae","Kyphosus","Kyphosus sydneyanus","fish",,3,2004,,TRUE,TRUE,
-218706,"Chordata","Teleostei","Centrarchiformes","Kyphosidae","Kyphosus","Kyphosus vaigiensis","fish",,,,,FALSE,TRUE,
-281246,"Chordata","Teleostei","Centrarchiformes","Kyphosidae","Labracoglossa","Labracoglossa nitida","fish",,14,1973,,TRUE,TRUE,
-1493817,"Chordata","Teleostei","Centrarchiformes","Kyphosidae","Microcanthus","Microcanthus joyceae","fish",,,,,FALSE,TRUE,
-281558,"Chordata","Teleostei","Centrarchiformes","Kyphosidae","Microcanthus","Microcanthus strigatus","fish",,22,1973,,TRUE,TRUE,
-1525793,"Chordata","Teleostei","Centrarchiformes","Latridae","Morwong","Morwong ephippium","fish",,15,1973,,TRUE,TRUE,
-1526241,"Chordata","Teleostei","Centrarchiformes","Latridae","Morwong","Morwong fuscus","fish",,1,,,TRUE,TRUE,
-281776,"Chordata","Teleostei","Centrarchiformes","Cirrhitidae","Notocirrhitus","Notocirrhitus splendens","fish",,31,1973,,TRUE,TRUE,
-218866,"Chordata","Teleostei","Centrarchiformes","Cirrhitidae","Paracirrhites","Paracirrhites arcatus","fish",,,,,FALSE,TRUE,
-218867,"Chordata","Teleostei","Centrarchiformes","Cirrhitidae","Paracirrhites","Paracirrhites forsteri","fish",,1,,,TRUE,TRUE,
-282728,"Chordata","Teleostei","Centrarchiformes","Kyphosidae","Scorpis","Scorpis aequipinnis","fish",,2,,,TRUE,TRUE,
-282731,"Chordata","Teleostei","Centrarchiformes","Kyphosidae","Scorpis","Scorpis lineolata","fish",,1,,,TRUE,TRUE,
-282732,"Chordata","Teleostei","Centrarchiformes","Kyphosidae","Scorpis","Scorpis violacea","fish",,23,1973,,TRUE,TRUE,
-218350,"Chordata","Teleostei","Centrarchiformes","Terapontidae","Terapon","Terapon jarbua","fish",,3,,,TRUE,TRUE,
-272285,"Chordata","Teleostei","Clupeiformes","Engraulidae","Engraulis","Engraulis australis","fish",,3,1973,,TRUE,TRUE,
-272261,"Chordata","Teleostei","Clupeiformes","Dorosomatidae","Herklotsichthys","Herklotsichthys castelnaui","fish",,4,,,TRUE,TRUE,
-212263,"Chordata","Teleostei","Clupeiformes","Spratelloididae","Spratelloides","Spratelloides gracilis","fish",,21,1973,,TRUE,TRUE,
-154298,"Chordata","Teleostei","Cypriniformes","Cyprinidae","Carassius","Carassius auratus","fish",,2,,,TRUE,TRUE,
-218158,"Chordata","Teleostei","Dactylopteriformes","Dactylopteridae","Dactyloptena","Dactyloptena orientalis","fish",,1,,,TRUE,TRUE,
-278460,"Chordata","Teleostei","Dactylopteriformes","Dactylopteridae","Dactyloptena","Dactyloptena papilio","fish",,2,1973,,TRUE,TRUE,
-218161,"Chordata","Teleostei","Dactylopteriformes","Pegasidae","Eurypegasus","Eurypegasus draconis","fish",,3,1980,,TRUE,TRUE,
-218920,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Anampses","Anampses caeruleopunctatus","fish",,9,1973,,TRUE,TRUE,
-279170,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Anampses","Anampses elegans","fish",,37,1973,,TRUE,TRUE,
-279171,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Anampses","Anampses femininus","fish",,4,1973,,TRUE,TRUE,
-218916,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Anampses","Anampses geographicus","fish",,1,,,TRUE,TRUE,
-279174,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Anampses","Anampses neoguinaicus","fish",,5,1973,,TRUE,TRUE,
-212546,"Chordata","Teleostei","Eupercaria incertae sedis","Lutjanidae","Aprion","Aprion virescens","fish",,1,,,TRUE,TRUE,
-218933,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Bodianus","Bodianus axillaris","fish",,1,,,TRUE,TRUE,
-273529,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Bodianus","Bodianus flavifrons","fish",,4,,,TRUE,TRUE,
-273536,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Bodianus","Bodianus mesothorax","fish",,,,,FALSE,TRUE,
-218934,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Bodianus","Bodianus perditio","fish",,11,2004,,TRUE,TRUE,
-273545,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Bodianus","Bodianus unimaculatus","fish",,17,2004,,TRUE,TRUE,
-219995,"Chordata","Teleostei","Eupercaria incertae sedis","Caesionidae","Caesio","Caesio caerulaurea","fish",,,,,FALSE,TRUE,
-219996,"Chordata","Teleostei","Eupercaria incertae sedis","Caesionidae","Caesio","Caesio teres","fish",,,,,FALSE,TRUE,
-218941,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Cheilinus","Cheilinus chlorourus","fish",,2,,,TRUE,TRUE,
-218944,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Cheilinus","Cheilinus trilobatus","fish",,,,,FALSE,TRUE,
-218948,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Cheilio","Cheilio inermis","fish",,2,,,TRUE,TRUE,
-277506,"Chordata","Teleostei","Eupercaria incertae sedis","Scaridae","Chlorurus","Chlorurus frontalis","fish",,,,,FALSE,TRUE,
-277507,"Chordata","Teleostei","Eupercaria incertae sedis","Scaridae","Chlorurus","Chlorurus microrhinos","fish",,3,,,TRUE,TRUE,
-219082,"Chordata","Teleostei","Eupercaria incertae sedis","Scaridae","Chlorurus","Chlorurus sordidus","fish",,8,1973,,TRUE,TRUE,
-712772,"Chordata","Teleostei","Eupercaria incertae sedis","Scaridae","Chlorurus","Chlorurus spilurus","fish",,,,,FALSE,TRUE,
-277268,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Choerodon","Choerodon fasciatus","fish",,1,,,TRUE,TRUE,
-218954,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Cirrhilabrus","Cirrhilabrus exquisitus","fish",,,,,FALSE,TRUE,
-277860,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Cirrhilabrus","Cirrhilabrus punctatus","fish",,6,1973,,TRUE,TRUE,
-127003,"Chordata","Teleostei","Eupercaria incertae sedis","Priacanthidae","Cookeolus","Cookeolus japonicus","fish",,,,,FALSE,TRUE,
-218957,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Coris","Coris aygula","fish",,7,,,TRUE,TRUE,
-273551,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Coris","Coris bulbifrons","fish","VU",43,2004,,TRUE,TRUE,
-273554,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Coris","Coris dorsomacula","fish",,,,,FALSE,TRUE,
-218960,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Coris","Coris gaimard","fish",,5,1973,,TRUE,TRUE,
-273560,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Coris","Coris picta","fish",,51,2004,,TRUE,TRUE,
-273563,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Coris","Coris sandeyeri","fish",,3,,,TRUE,TRUE,
-218966,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Cymolutes","Cymolutes torquatus","fish",,3,,,TRUE,TRUE,
-279261,"Chordata","Teleostei","Eupercaria incertae sedis","Haemulidae","Diagramma","Diagramma labiosum","fish",,,,,FALSE,TRUE,
-218536,"Chordata","Teleostei","Eupercaria incertae sedis","Haemulidae","Diagramma","Diagramma pictum","fish",,4,1973,,TRUE,TRUE,
-218972,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Epibulus","Epibulus insidiator","fish",,,,,FALSE,TRUE,
-218466,"Chordata","Teleostei","Eupercaria incertae sedis","Emmelichthyidae","Erythrocles","Erythrocles schlegelii","fish",,6,2012,,TRUE,TRUE,
-218975,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Gomphosus","Gomphosus varius","fish",,7,1973,,TRUE,TRUE,
-278869,"Chordata","Teleostei","Eupercaria incertae sedis","Lethrinidae","Gymnocranius","Gymnocranius audleyi","fish",,,,,FALSE,TRUE,
-278870,"Chordata","Teleostei","Eupercaria incertae sedis","Lethrinidae","Gymnocranius","Gymnocranius euanus","fish",,2,2004,,TRUE,TRUE,
-835108,"Chordata","Teleostei","Eupercaria incertae sedis","Lethrinidae","Gymnocranius","Gymnocranius superciliosus","fish",,,,,FALSE,TRUE,
-275752,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Halichoeres","Halichoeres biocellatus","fish",,,,,FALSE,TRUE,
-218985,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Halichoeres","Halichoeres hortulanus","fish",,,,,FALSE,TRUE,
-218987,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Halichoeres","Halichoeres margaritaceus","fish",,33,1973,,TRUE,TRUE,
-218991,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Halichoeres","Halichoeres marginatus","fish",,,,,FALSE,TRUE,
-275776,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Halichoeres","Halichoeres melanurus","fish",,,,,FALSE,TRUE,
-218986,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Halichoeres","Halichoeres nebulosus","fish",,2,,,TRUE,TRUE,
-275804,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Halichoeres","Halichoeres trimaculatus","fish",,16,,,TRUE,TRUE,
-218999,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Hemigymnus","Hemigymnus fasciatus","fish",,1,,,TRUE,TRUE,
-218998,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Hemigymnus","Hemigymnus melapterus","fish",,3,,,TRUE,TRUE,
-127004,"Chordata","Teleostei","Eupercaria incertae sedis","Priacanthidae","Heteropriacanthus","Heteropriacanthus cruentatus","fish",,17,1973,,TRUE,TRUE,
-219003,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Hologymnosus","Hologymnosus annulatus","fish",,,,,FALSE,TRUE,
-219001,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Hologymnosus","Hologymnosus doliatus","fish",,2,2004,,TRUE,TRUE,
-277557,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Hologymnosus","Hologymnosus longipes","fish",,6,2000,,TRUE,TRUE,
-278794,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Iniistius","Iniistius aneitensis","fish",,1,,,TRUE,TRUE,
-344731,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Iniistius","Iniistius jacksonensis","fish",,2,,,TRUE,TRUE,
-219004,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Iniistius","Iniistius pavo","fish",,9,2004,,TRUE,TRUE,
-219013,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Labrichthys","Labrichthys unilineatus","fish",,3,,,TRUE,TRUE,
-219015,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Labroides","Labroides bicolor","fish",,1,,,TRUE,TRUE,
-219014,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Labroides","Labroides dimidiatus","fish",,8,2004,,TRUE,TRUE,
-278464,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Labropsis","Labropsis australis","fish",,1,,,TRUE,TRUE,
-219091,"Chordata","Teleostei","Eupercaria incertae sedis","Scaridae","Leptoscarus","Leptoscarus vaigiensis","fish",,8,,,TRUE,TRUE,
-278632,"Chordata","Teleostei","Eupercaria incertae sedis","Lethrinidae","Lethrinus","Lethrinus atkinsoni","fish",,1,,,TRUE,TRUE,
-212078,"Chordata","Teleostei","Eupercaria incertae sedis","Lethrinidae","Lethrinus","Lethrinus genivittatus","fish",,1,2004,,TRUE,TRUE,
-212061,"Chordata","Teleostei","Eupercaria incertae sedis","Lethrinidae","Lethrinus","Lethrinus lentjan","fish",,2,,,TRUE,TRUE,
-212062,"Chordata","Teleostei","Eupercaria incertae sedis","Lethrinidae","Lethrinus","Lethrinus miniatus","fish",,1,,,TRUE,TRUE,
-212081,"Chordata","Teleostei","Eupercaria incertae sedis","Lethrinidae","Lethrinus","Lethrinus nebulosus","fish",,7,2004,,TRUE,TRUE,
-212069,"Chordata","Teleostei","Eupercaria incertae sedis","Lethrinidae","Lethrinus","Lethrinus olivaceus","fish",,2,1973,,TRUE,TRUE,
-212077,"Chordata","Teleostei","Eupercaria incertae sedis","Lethrinidae","Lethrinus","Lethrinus rubrioperculatus","fish",,,,,FALSE,TRUE,
-276519,"Chordata","Teleostei","Eupercaria incertae sedis","Lutjanidae","Lutjanus","Lutjanus adetii","fish",,1,,,TRUE,TRUE,
-218479,"Chordata","Teleostei","Eupercaria incertae sedis","Lutjanidae","Lutjanus","Lutjanus bohar","fish",,1,,,TRUE,TRUE,
-218490,"Chordata","Teleostei","Eupercaria incertae sedis","Lutjanidae","Lutjanus","Lutjanus fulviflamma","fish",,3,,,TRUE,TRUE,
-218482,"Chordata","Teleostei","Eupercaria incertae sedis","Lutjanidae","Lutjanus","Lutjanus kasmira","fish",,5,,,TRUE,TRUE,
-218497,"Chordata","Teleostei","Eupercaria incertae sedis","Lutjanidae","Lutjanus","Lutjanus quinquelineatus","fish",,1,,,TRUE,TRUE,
-219028,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Macropharyngodon","Macropharyngodon meleagris","fish",,1,,,TRUE,TRUE,
-278215,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Macropharyngodon","Macropharyngodon negrosensis","fish",,,,,FALSE,TRUE,
-218378,"Chordata","Teleostei","Eupercaria incertae sedis","Malacanthidae","Malacanthus","Malacanthus brevirostris","fish",,12,2004,,TRUE,TRUE,
-281786,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Notolabrus","Notolabrus celidotus","fish",,2,,,TRUE,TRUE,
-281789,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Notolabrus","Notolabrus gymnogenis","fish",,9,,,TRUE,TRUE,
-281790,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Notolabrus","Notolabrus inscriptus","fish",,79,1973,,TRUE,TRUE,
-219035,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Novaculichthys","Novaculichthys taeniourus","fish",,3,,,TRUE,TRUE,
-593553,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Novaculoides","Novaculoides macrolepidotus","fish",,2,,,TRUE,TRUE,
-1008571,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Novaculops","Novaculops pastellus","fish",,2,2006,,TRUE,TRUE,
-219039,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Oxycheilinus","Oxycheilinus bimaculatus","fish",,1,,,TRUE,TRUE,
-277996,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Oxycheilinus","Oxycheilinus digramma","fish",,,,,FALSE,TRUE,
-278002,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Oxycheilinus","Oxycheilinus unifasciatus","fish",,,,,FALSE,TRUE,
-398546,"Chordata","Teleostei","Eupercaria incertae sedis","Sparidae","Pagrus","Pagrus auratus","fish",,4,,,TRUE,TRUE,
-278685,"Chordata","Teleostei","Eupercaria incertae sedis","Lutjanidae","Paracaesio","Paracaesio gonzalesi","fish",,10,,,TRUE,TRUE,
-218502,"Chordata","Teleostei","Eupercaria incertae sedis","Lutjanidae","Paracaesio","Paracaesio xanthura","fish",,18,2004,,TRUE,TRUE,
-282208,"Chordata","Teleostei","Eupercaria incertae sedis","Nemipteridae","Pentapodus","Pentapodus paradiseus","fish",,,,,FALSE,TRUE,
-282258,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Pictilabrus","Pictilabrus laticlavius","fish",,2,,,TRUE,TRUE,
-218549,"Chordata","Teleostei","Eupercaria incertae sedis","Haemulidae","Plectorhinchus","Plectorhinchus flavomaculatus","fish",,2,1973,,TRUE,TRUE,
-367252,"Chordata","Teleostei","Eupercaria incertae sedis","Haemulidae","Plectorhinchus","Plectorhinchus pictus","fish",,,,,FALSE,TRUE,
-218555,"Chordata","Teleostei","Eupercaria incertae sedis","Haemulidae","Plectorhinchus","Plectorhinchus picus","fish",,1,,,TRUE,TRUE,
-218551,"Chordata","Teleostei","Eupercaria incertae sedis","Haemulidae","Plectorhinchus","Plectorhinchus schotaf","fish",,,,,FALSE,TRUE,
-218361,"Chordata","Teleostei","Eupercaria incertae sedis","Priacanthidae","Priacanthus","Priacanthus blochii","fish",,6,,,TRUE,TRUE,
-218360,"Chordata","Teleostei","Eupercaria incertae sedis","Priacanthidae","Priacanthus","Priacanthus hamrur","fish",,3,,,TRUE,TRUE,
-273769,"Chordata","Teleostei","Eupercaria incertae sedis","Priacanthidae","Priacanthus","Priacanthus zaiserae","fish",,,,,FALSE,TRUE,
-218510,"Chordata","Teleostei","Eupercaria incertae sedis","Lutjanidae","Pristipomoides","Pristipomoides argyrogrammicus","fish",,2,,,TRUE,TRUE,
-208915,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Pseudocheilinus","Pseudocheilinus hexataenia","fish",,5,1973,,TRUE,TRUE,
-219045,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Pseudocoris","Pseudocoris yamashiroi","fish",,,,,FALSE,TRUE,
-219048,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Pseudojuloides","Pseudojuloides cerasinus","fish",,1,,,TRUE,TRUE,
-276704,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Pseudojuloides","Pseudojuloides elongatus","fish",,,,,FALSE,TRUE,
-282436,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Pseudolabrus","Pseudolabrus guentheri","fish",,1,2004,,TRUE,FALSE,
-282438,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Pseudolabrus","Pseudolabrus luculentus","fish",,105,2004,,TRUE,TRUE,
-282547,"Chordata","Teleostei","Eupercaria incertae sedis","Lutjanidae","Randallichthys","Randallichthys filamentosus","fish",,,,,FALSE,TRUE,
-276039,"Chordata","Teleostei","Eupercaria incertae sedis","Scaridae","Scarus","Scarus altipinnis","fish",,3,,,TRUE,TRUE,
-276040,"Chordata","Teleostei","Eupercaria incertae sedis","Scaridae","Scarus","Scarus chameleon","fish",,1,,,TRUE,TRUE,
-276044,"Chordata","Teleostei","Eupercaria incertae sedis","Scaridae","Scarus","Scarus dimidiatus","fish",,,,,FALSE,TRUE,
-276045,"Chordata","Teleostei","Eupercaria incertae sedis","Scaridae","Scarus","Scarus flavipectoralis","fish",,1,,,TRUE,TRUE,
-276046,"Chordata","Teleostei","Eupercaria incertae sedis","Scaridae","Scarus","Scarus forsteni","fish",,2,1973,,TRUE,TRUE,
-219113,"Chordata","Teleostei","Eupercaria incertae sedis","Scaridae","Scarus","Scarus frenatus","fish",,1,,,TRUE,TRUE,
-219127,"Chordata","Teleostei","Eupercaria incertae sedis","Scaridae","Scarus","Scarus ghobban","fish",,9,1973,,TRUE,TRUE,
-219104,"Chordata","Teleostei","Eupercaria incertae sedis","Scaridae","Scarus","Scarus globiceps","fish",,3,,,TRUE,TRUE,
-276054,"Chordata","Teleostei","Eupercaria incertae sedis","Scaridae","Scarus","Scarus longipinnis","fish",,1,,,TRUE,TRUE,
-219129,"Chordata","Teleostei","Eupercaria incertae sedis","Scaridae","Scarus","Scarus niger","fish",,1,,,TRUE,TRUE,
-219111,"Chordata","Teleostei","Eupercaria incertae sedis","Scaridae","Scarus","Scarus oviceps","fish",,,,,FALSE,TRUE,
-219125,"Chordata","Teleostei","Eupercaria incertae sedis","Scaridae","Scarus","Scarus psittacus","fish",,5,1973,,TRUE,TRUE,
-367210,"Chordata","Teleostei","Eupercaria incertae sedis","Scaridae","Scarus","Scarus rivulatus","fish",,1,,,TRUE,TRUE,
-276060,"Chordata","Teleostei","Eupercaria incertae sedis","Scaridae","Scarus","Scarus schlegeli","fish",,1,,,TRUE,TRUE,
-209219,"Chordata","Teleostei","Eupercaria incertae sedis","Nemipteridae","Scolopsis","Scolopsis bilineata","fish",,3,,,TRUE,TRUE,
-276786,"Chordata","Teleostei","Eupercaria incertae sedis","Nemipteridae","Scolopsis","Scolopsis lineata","fish",,,,,FALSE,TRUE,
-273939,"Chordata","Teleostei","Eupercaria incertae sedis","Sillaginidae","Sillago","Sillago ciliata","fish",,9,,,TRUE,TRUE,
-151523,"Chordata","Teleostei","Eupercaria incertae sedis","Sparidae","Sparus","Sparus aurata","fish",,,,,FALSE,TRUE,
-277106,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Stethojulis","Stethojulis bandanensis","fish",,24,1973,,TRUE,TRUE,
-219063,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Stethojulis","Stethojulis interrupta","fish",,2,,,TRUE,TRUE,
-219061,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Stethojulis","Stethojulis strigiventer","fish",,1,,,TRUE,TRUE,
-278736,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Suezichthys","Suezichthys arquatus","fish",,15,2004,,TRUE,TRUE,
-278737,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Suezichthys","Suezichthys aylingi","fish",,4,,,TRUE,TRUE,
-278741,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Suezichthys","Suezichthys devisi","fish",,,,,FALSE,TRUE,
-278742,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Suezichthys","Suezichthys gracilis","fish",,1,,,TRUE,FALSE,
-212216,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Thalassoma","Thalassoma amblycephalum","fish",,6,,,TRUE,TRUE,
-212217,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Thalassoma","Thalassoma hardwicke","fish",,5,1973,,TRUE,TRUE,
-273582,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Thalassoma","Thalassoma jansenii","fish",,6,,,TRUE,TRUE,
-212209,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Thalassoma","Thalassoma lunare","fish",,21,2004,,TRUE,TRUE,
-273585,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Thalassoma","Thalassoma lutescens","fish",,52,1973,,TRUE,TRUE,
-273587,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Thalassoma","Thalassoma nigrofasciatum","fish",,,,,FALSE,TRUE,
-212213,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Thalassoma","Thalassoma purpureum","fish",,36,,,TRUE,TRUE,
-212211,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Thalassoma","Thalassoma quinquevittatum","fish",,1,,,TRUE,TRUE,
-212212,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Thalassoma","Thalassoma trilobatum","fish",,6,,,TRUE,TRUE,
-280291,"Chordata","Teleostei","Gadiformes","Macrouridae","Coelorinchus","Coelorinchus innotabilis","fish",,3,2003,,TRUE,TRUE,
-280346,"Chordata","Teleostei","Gadiformes","Macrouridae","Coelorinchus","Coelorinchus supernasutus","fish",,5,2003,,TRUE,TRUE,
-272464,"Chordata","Teleostei","Gadiformes","Moridae","Gadella","Gadella jordani","fish",,8,2003,,TRUE,TRUE,
-272465,"Chordata","Teleostei","Gadiformes","Moridae","Gadella","Gadella macrura","fish",,2,2003,,TRUE,TRUE,
-272467,"Chordata","Teleostei","Gadiformes","Moridae","Gadella","Gadella norops","fish",,2,2003,,TRUE,TRUE,
-281402,"Chordata","Teleostei","Gadiformes","Moridae","Lotella","Lotella phycis","fish",,19,1973,,TRUE,TRUE,
-281403,"Chordata","Teleostei","Gadiformes","Moridae","Lotella","Lotella rhacina","fish",,28,1973,,TRUE,TRUE,
-272392,"Chordata","Teleostei","Gadiformes","Macrouridae","Malacocephalus","Malacocephalus laevis","fish",,15,2003,,TRUE,TRUE,
-275595,"Chordata","Teleostei","Gadiformes","Macrouridae","Ventrifossa","Ventrifossa johnboborum","fish",,3,2003,,TRUE,TRUE,
-280811,"Chordata","Teleostei","Galaxiiformes","Galaxiidae","Galaxias","Galaxias maculatus","fish",,6,1989,,TRUE,TRUE,
-279749,"Chordata","Teleostei","Gobiesociformes","Gobiesocidae","Aspasmogaster","Aspasmogaster costata","fish",,26,1973,,TRUE,TRUE,
-279752,"Chordata","Teleostei","Gobiesociformes","Gobiesocidae","Aspasmogaster","Aspasmogaster tasmaniensis","fish",,2,1973,,TRUE,TRUE,
-280383,"Chordata","Teleostei","Gobiesociformes","Gobiesocidae","Conidens","Conidens samoensis","fish",,1,,,TRUE,TRUE,
-219761,"Chordata","Teleostei","Gobiesociformes","Gobiesocidae","Lepadichthys","Lepadichthys caritus","fish",,3,1973,,TRUE,TRUE,
-279218,"Chordata","Teleostei","Gobiesociformes","Gobiesocidae","Lepadichthys","Lepadichthys frenatus","fish",,9,1973,,TRUE,TRUE,
-277112,"Chordata","Teleostei","Gobiesociformes","Gobiesocidae","Pherallodus","Pherallodus indicus","fish",,,,,FALSE,TRUE,
-219377,"Chordata","Teleostei","Gobiiformes","Gobiidae","Amblygobius","Amblygobius nocturnus","fish",,1,,,TRUE,TRUE,
-278655,"Chordata","Teleostei","Gobiiformes","Gobiidae","Amblygobius","Amblygobius phalaena","fish",,6,,,TRUE,TRUE,
-277497,"Chordata","Teleostei","Gobiiformes","Gobiidae","Asterropteryx","Asterropteryx semipunctata","fish",,3,,,TRUE,TRUE,
-277619,"Chordata","Teleostei","Gobiiformes","Gobiidae","Bathygobius","Bathygobius aeolosoma","fish",,1,,,TRUE,TRUE,
-209216,"Chordata","Teleostei","Gobiiformes","Gobiidae","Bathygobius","Bathygobius cocosensis","fish",,56,1973,,TRUE,TRUE,
-278861,"Chordata","Teleostei","Gobiiformes","Gobiidae","Bryaninops","Bryaninops loki","fish",,3,1973,,TRUE,TRUE,
-278580,"Chordata","Teleostei","Gobiiformes","Gobiidae","Eviota","Eviota afelei","fish",,16,1973,,TRUE,TRUE,
-219455,"Chordata","Teleostei","Gobiiformes","Gobiidae","Eviota","Eviota albolineata","fish",,1,,,TRUE,TRUE,
-219452,"Chordata","Teleostei","Gobiiformes","Gobiidae","Eviota","Eviota guttata","fish",,3,1973,,TRUE,TRUE,
-388749,"Chordata","Teleostei","Gobiiformes","Gobiidae","Eviota","Eviota hoesei","fish",,32,2005,,TRUE,TRUE,
-219463,"Chordata","Teleostei","Gobiiformes","Gobiidae","Eviota","Eviota prasina","fish",,43,,,TRUE,TRUE,
-278604,"Chordata","Teleostei","Gobiiformes","Gobiidae","Eviota","Eviota queenslandica","fish",,16,1973,,TRUE,TRUE,
-388750,"Chordata","Teleostei","Gobiiformes","Gobiidae","Eviota","Eviota readerae","fish",,,,,FALSE,TRUE,
-475015,"Chordata","Teleostei","Gobiiformes","Gobiidae","Eviota","Eviota rubrisparsa","fish",,,,,FALSE,TRUE,
-889535,"Chordata","Teleostei","Gobiiformes","Gobiidae","Eviota","Eviota teresae","fish",,,,,FALSE,TRUE,
-278613,"Chordata","Teleostei","Gobiiformes","Gobiidae","Eviota","Eviota zonura","fish",,2,1973,,TRUE,TRUE,
-280773,"Chordata","Teleostei","Gobiiformes","Gobiidae","Favonigobius","Favonigobius lateralis","fish",,9,1973,,TRUE,TRUE,
-280774,"Chordata","Teleostei","Gobiiformes","Gobiidae","Favonigobius","Favonigobius lentiginosus","fish",,1,,,TRUE,TRUE,
-278766,"Chordata","Teleostei","Gobiiformes","Gobiidae","Fusigobius","Fusigobius duospilus","fish",,,,,FALSE,TRUE,
-278767,"Chordata","Teleostei","Gobiiformes","Gobiidae","Fusigobius","Fusigobius inframaculatus","fish",,,,,FALSE,TRUE,
-219467,"Chordata","Teleostei","Gobiiformes","Gobiidae","Fusigobius","Fusigobius neophytus","fish",,3,,,TRUE,TRUE,
-219475,"Chordata","Teleostei","Gobiiformes","Gobiidae","Gnatholepis","Gnatholepis anjerensis","fish",,,,,FALSE,TRUE,
-219476,"Chordata","Teleostei","Gobiiformes","Gobiidae","Gnatholepis","Gnatholepis cauerensis","fish",,5,,,TRUE,TRUE,
-219479,"Chordata","Teleostei","Gobiiformes","Gobiidae","Gobiodon","Gobiodon citrinus","fish",,,,,FALSE,TRUE,
-276931,"Chordata","Teleostei","Gobiiformes","Gobiidae","Gobiodon","Gobiodon okinawae","fish",,2,,,TRUE,TRUE,
-219504,"Chordata","Teleostei","Gobiiformes","Gobiidae","Istigobius","Istigobius decoratus","fish",,4,,,TRUE,TRUE,
-278039,"Chordata","Teleostei","Gobiiformes","Gobiidae","Istigobius","Istigobius rigilius","fish",,,,,FALSE,TRUE,
-318699,"Chordata","Teleostei","Gobiiformes","Gobiidae","Koumansetta","Koumansetta rainfordi","fish",,,,,FALSE,TRUE,
-219511,"Chordata","Teleostei","Gobiiformes","Gobiidae","Macrodontogobius","Macrodontogobius wilburi","fish",,1,,,TRUE,TRUE,
-219535,"Chordata","Teleostei","Gobiiformes","Gobiidae","Paragobiodon","Paragobiodon echinocephalus","fish",,6,1973,,TRUE,TRUE,
-219536,"Chordata","Teleostei","Gobiiformes","Gobiidae","Paragobiodon","Paragobiodon lacunicolus","fish",,3,1973,,TRUE,TRUE,
-219538,"Chordata","Teleostei","Gobiiformes","Gobiidae","Paragobiodon","Paragobiodon modestus","fish",,1,,,TRUE,TRUE,
-219539,"Chordata","Teleostei","Gobiiformes","Gobiidae","Paragobiodon","Paragobiodon xanthosoma","fish",,3,1973,,TRUE,TRUE,
-219540,"Chordata","Teleostei","Gobiiformes","Gobiidae","Pleurosicya","Pleurosicya mossambica","fish",,3,1973,,TRUE,TRUE,
-712876,"Chordata","Teleostei","Gobiiformes","Gobiidae","Priolepis","Priolepis cyanocephala","fish",,2,1973,,TRUE,TRUE,
-276775,"Chordata","Teleostei","Gobiiformes","Gobiidae","Priolepis","Priolepis psygmophilia","fish",,2,1973,,TRUE,TRUE,
-219622,"Chordata","Teleostei","Gobiiformes","Microdesmidae","Ptereleotris","Ptereleotris evides","fish",,9,1973,,TRUE,TRUE,
-219621,"Chordata","Teleostei","Gobiiformes","Microdesmidae","Ptereleotris","Ptereleotris monoptera","fish",,,,,FALSE,TRUE,
-219618,"Chordata","Teleostei","Gobiiformes","Microdesmidae","Ptereleotris","Ptereleotris zebra","fish",,1,,,TRUE,TRUE,
-219599,"Chordata","Teleostei","Gobiiformes","Gobiidae","Valenciennea","Valenciennea strigata","fish",,3,1973,,TRUE,TRUE,
-219600,"Chordata","Teleostei","Gobiiformes","Gobiidae","Vanderhorstia","Vanderhorstia ornatissima","fish",,1,,,TRUE,TRUE,
-277930,"Chordata","Teleostei","Gonorynchiformes","Gonorynchidae","Gonorynchus","Gonorynchus greyi","fish",,63,1973,,TRUE,TRUE,
-217927,"Chordata","Teleostei","Holocentriformes","Holocentridae","Myripristis","Myripristis berndti","fish",,1,,,TRUE,TRUE,
-217915,"Chordata","Teleostei","Holocentriformes","Holocentridae","Myripristis","Myripristis kuntee","fish",,2,1973,,TRUE,TRUE,
-159393,"Chordata","Teleostei","Holocentriformes","Holocentridae","Neoniphon","Neoniphon sammara","fish",,1,,,TRUE,TRUE,
-217937,"Chordata","Teleostei","Holocentriformes","Holocentridae","Plectrypops","Plectrypops lima","fish",,1,,,TRUE,TRUE,
-217938,"Chordata","Teleostei","Holocentriformes","Holocentridae","Pristilepis","Pristilepis oligolepis","fish",,1,,,TRUE,TRUE,
-217946,"Chordata","Teleostei","Holocentriformes","Holocentridae","Sargocentron","Sargocentron cornutum","fish",,,,,FALSE,TRUE,
-126400,"Chordata","Teleostei","Holocentriformes","Holocentridae","Sargocentron","Sargocentron rubrum","fish",,1,,,TRUE,TRUE,
-209308,"Chordata","Teleostei","Kurtiformes","Apogonidae","Apogon","Apogon crassiceps","fish",,5,1973,,TRUE,TRUE,
-475069,"Chordata","Teleostei","Kurtiformes","Apogonidae","Apogonichthyoides","Apogonichthyoides chrysurus","fish",,25,1973,,TRUE,TRUE,
-209373,"Chordata","Teleostei","Kurtiformes","Apogonidae","Cheilodipterus","Cheilodipterus macrodon","fish",,3,1973,,TRUE,TRUE,
-209371,"Chordata","Teleostei","Kurtiformes","Apogonidae","Cheilodipterus","Cheilodipterus quinquelineatus","fish",,3,,,TRUE,TRUE,
-277514,"Chordata","Teleostei","Kurtiformes","Apogonidae","Fowleria","Fowleria marmorata","fish",,1,,,TRUE,TRUE,
-712648,"Chordata","Teleostei","Kurtiformes","Apogonidae","Ostorhinchus","Ostorhinchus aureus","fish",,,,,FALSE,TRUE,
-713302,"Chordata","Teleostei","Kurtiformes","Apogonidae","Ostorhinchus","Ostorhinchus capricornis","fish",,,,,FALSE,TRUE,
-713303,"Chordata","Teleostei","Kurtiformes","Apogonidae","Ostorhinchus","Ostorhinchus doederleini","fish",,35,2004,,TRUE,TRUE,
-713304,"Chordata","Teleostei","Kurtiformes","Apogonidae","Ostorhinchus","Ostorhinchus flavus","fish",,56,2004,,TRUE,TRUE,
-1019769,"Chordata","Teleostei","Kurtiformes","Apogonidae","Ostorhinchus","Ostorhinchus norfolcensis","fish",,165,2004,,TRUE,TRUE,
-712695,"Chordata","Teleostei","Kurtiformes","Apogonidae","Pristiapogon","Pristiapogon exostigma","fish",,1,1973,,TRUE,TRUE,
-712696,"Chordata","Teleostei","Kurtiformes","Apogonidae","Pristiapogon","Pristiapogon kallopterus","fish",,1,,,TRUE,TRUE,
-217885,"Chordata","Teleostei","Lampriformes","Veliferidae","Metavelifer","Metavelifer multiradiatus","fish",,2,1973,,TRUE,TRUE,
-126525,"Chordata","Teleostei","Lampriformes","Regalecidae","Regalecus","Regalecus glesne","fish",,10,2012,,TRUE,TRUE,
-1605256,"Chordata","Teleostei","Lophiiformes","Antennariidae","Abantennarius","Abantennarius coccineus","fish",,9,,,TRUE,TRUE,
-1605260,"Chordata","Teleostei","Lophiiformes","Antennariidae","Abantennarius","Abantennarius nummifer","fish",,3,,,TRUE,TRUE,
-1592359,"Chordata","Teleostei","Lophiiformes","Antennariidae","Abantennarius","Abantennarius rosaceus","fish",,3,,,TRUE,TRUE,
-217852,"Chordata","Teleostei","Lophiiformes","Antennariidae","Antennarius","Antennarius commerson","fish",,3,,,TRUE,TRUE,
-217851,"Chordata","Teleostei","Lophiiformes","Antennariidae","Antennarius","Antennarius pictus","fish",,5,,,TRUE,TRUE,
-158790,"Chordata","Teleostei","Lophiiformes","Antennariidae","Antennarius","Antennarius striatus","fish",,3,,,TRUE,TRUE,
-712512,"Chordata","Teleostei","Lophiiformes","Chaunacidae","Chaunax","Chaunax nudiventer","fish",,4,2003,,TRUE,TRUE,
-835041,"Chordata","Teleostei","Lophiiformes","Chaunacidae","Chaunax","Chaunax reticulatus","fish",,2,2003,,TRUE,TRUE,
-126538,"Chordata","Teleostei","Lophiiformes","Ceratiidae","Cryptopsaras","Cryptopsaras couesii","fish",,,,,FALSE,TRUE,
-151498,"Chordata","Teleostei","Mugiliformes","Mugilidae","Crenimugil","Crenimugil crenilabis","fish",,3,,,TRUE,TRUE,
-276971,"Chordata","Teleostei","Mugiliformes","Mugilidae","Myxus","Myxus elongatus","fish",,72,1973,,TRUE,TRUE,
-218647,"Chordata","Teleostei","Mulliformes","Mullidae","Mulloidichthys","Mulloidichthys flavolineatus","fish",,3,1973,,TRUE,TRUE,
-218648,"Chordata","Teleostei","Mulliformes","Mullidae","Mulloidichthys","Mulloidichthys vanicolensis","fish",,5,1973,,TRUE,TRUE,
-277810,"Chordata","Teleostei","Mulliformes","Mullidae","Parupeneus","Parupeneus barberinoides","fish",,2,,,TRUE,TRUE,
-218660,"Chordata","Teleostei","Mulliformes","Mullidae","Parupeneus","Parupeneus barberinus","fish",,1,,,TRUE,TRUE,
-218661,"Chordata","Teleostei","Mulliformes","Mullidae","Parupeneus","Parupeneus ciliatus","fish",,2,,,TRUE,TRUE,
-218665,"Chordata","Teleostei","Mulliformes","Mullidae","Parupeneus","Parupeneus cyclostomus","fish",,,,,FALSE,TRUE,
-218657,"Chordata","Teleostei","Mulliformes","Mullidae","Parupeneus","Parupeneus heptacanthus","fish",,1,,,TRUE,TRUE,
-277820,"Chordata","Teleostei","Mulliformes","Mullidae","Parupeneus","Parupeneus multifasciatus","fish",,3,,,TRUE,TRUE,
-218656,"Chordata","Teleostei","Mulliformes","Mullidae","Parupeneus","Parupeneus pleurostigma","fish",,3,,,TRUE,TRUE,
-277825,"Chordata","Teleostei","Mulliformes","Mullidae","Parupeneus","Parupeneus spilurus","fish",,50,2004,,TRUE,TRUE,
-273668,"Chordata","Teleostei","Mulliformes","Mullidae","Upeneus","Upeneus francisi","fish",,,,,FALSE,TRUE,
-126584,"Chordata","Teleostei","Myctophiformes","Myctophidae","Centrobranchus","Centrobranchus nigroocellatus","fish",,10,,,TRUE,TRUE,
-126586,"Chordata","Teleostei","Myctophiformes","Myctophidae","Ceratoscopelus","Ceratoscopelus warmingii","fish",,8,,,TRUE,TRUE,
-317539,"Chordata","Teleostei","Myctophiformes","Myctophidae","Ctenoscopelus","Ctenoscopelus phengodes","fish",,16,1973,,TRUE,TRUE,
-317659,"Chordata","Teleostei","Myctophiformes","Myctophidae","Dasyscopelus","Dasyscopelus asper","fish",,60,,,TRUE,TRUE,
-1525495,"Chordata","Teleostei","Myctophiformes","Myctophidae","Dasyscopelus","Dasyscopelus obtusirostris","fish",,2,,,TRUE,TRUE,
-1525960,"Chordata","Teleostei","Myctophiformes","Myctophidae","Dasyscopelus","Dasyscopelus spinosus","fish",,2,,,TRUE,TRUE,
-272666,"Chordata","Teleostei","Myctophiformes","Myctophidae","Diaphus","Diaphus danae","fish",,2,,,TRUE,TRUE,
-158887,"Chordata","Teleostei","Myctophiformes","Myctophidae","Diaphus","Diaphus fragilis","fish",,2,,,TRUE,TRUE,
-158888,"Chordata","Teleostei","Myctophiformes","Myctophidae","Diaphus","Diaphus garmani","fish",,2,,,TRUE,TRUE,
-272674,"Chordata","Teleostei","Myctophiformes","Myctophidae","Diaphus","Diaphus impostor","fish",,2,,,TRUE,TRUE,
-272675,"Chordata","Teleostei","Myctophiformes","Myctophidae","Diaphus","Diaphus kapalae","fish",,19,1920,,TRUE,TRUE,
-158890,"Chordata","Teleostei","Myctophiformes","Myctophidae","Diaphus","Diaphus perspicillatus","fish",,28,,,TRUE,TRUE,
-217698,"Chordata","Teleostei","Myctophiformes","Myctophidae","Gonichthys","Gonichthys barnesi","fish",,10,1973,,TRUE,TRUE,
-126603,"Chordata","Teleostei","Myctophiformes","Myctophidae","Hygophum","Hygophum hygomii","fish",,84,,,TRUE,TRUE,
-126604,"Chordata","Teleostei","Myctophiformes","Myctophidae","Hygophum","Hygophum reinhardtii","fish",,6,1973,,TRUE,TRUE,
-126609,"Chordata","Teleostei","Myctophiformes","Myctophidae","Lampadena","Lampadena urophaos","fish",,2,2012,,TRUE,TRUE,
-217708,"Chordata","Teleostei","Myctophiformes","Myctophidae","Lampanyctus","Lampanyctus australis","fish",,1,2003,,TRUE,TRUE,
-126626,"Chordata","Teleostei","Myctophiformes","Myctophidae","Myctophum","Myctophum nitidulum","fish",,8,1973,,TRUE,TRUE,
-126634,"Chordata","Teleostei","Myctophiformes","Neoscopelidae","Neoscopelus","Neoscopelus macrolepidotus","fish",,3,2003,,TRUE,TRUE,
-158916,"Chordata","Teleostei","Myctophiformes","Myctophidae","Notoscopelus","Notoscopelus resplendens","fish",,4,,,TRUE,TRUE,
-217717,"Chordata","Teleostei","Myctophiformes","Myctophidae","Scopelopsis","Scopelopsis multipunctatus","fish",,2,,,TRUE,TRUE,
-217720,"Chordata","Teleostei","Myctophiformes","Myctophidae","Symbolophorus","Symbolophorus barnardi","fish",,10,,,TRUE,TRUE,
-217797,"Chordata","Teleostei","Ophidiiformes","Ophidiidae","Brotula","Brotula multibarbata","fish",,3,,,TRUE,TRUE,
-280534,"Chordata","Teleostei","Ophidiiformes","Bythitidae","Diancistrus","Diancistrus longifilis","fish",,13,1973,,TRUE,TRUE,
-212885,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Abudefduf","Abudefduf bengalensis","fish",,1,,,TRUE,TRUE,
-159289,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Abudefduf","Abudefduf sexfasciatus","fish",,9,2004,,TRUE,TRUE,
-212888,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Abudefduf","Abudefduf sordidus","fish",,6,1973,,TRUE,TRUE,
-212879,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Abudefduf","Abudefduf vaigiensis","fish",,8,1973,,TRUE,TRUE,
-273703,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Abudefduf","Abudefduf whitleyi","fish",,3,,,TRUE,TRUE,
-279469,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Acanthochromis","Acanthochromis polyacanthus","fish",,1,1973,,TRUE,TRUE,
-279471,"Chordata","Teleostei","Ovalentaria incertae sedis","Plesiopidae","Acanthoclinus","Acanthoclinus littoreus","fish",,5,,,TRUE,FALSE,
-278395,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Amphiprion","Amphiprion latezonatus","fish",,22,2005,,TRUE,TRUE,
-278397,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Amphiprion","Amphiprion mccullochi","fish","VU",136,2005,,TRUE,TRUE,
-278398,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Amphiprion","Amphiprion melanopus","fish",,4,,,TRUE,TRUE,
-1565681,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Azurina","Azurina cyanea","fish",,,,,FALSE,TRUE,
-279890,"Chordata","Teleostei","Ovalentaria incertae sedis","Plesiopidae","Belonepterygion","Belonepterygion fasciolatum","fish",,53,1973,,TRUE,TRUE,
-273705,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Chromis","Chromis abyssicola","fish",,,,,FALSE,TRUE,
-212812,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Chromis","Chromis atripectoralis","fish",,3,1973,,TRUE,TRUE,
-212824,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Chromis","Chromis chrysura","fish",,,,,FALSE,TRUE,
-273727,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Chromis","Chromis flavomaculata","fish",,7,1973,,TRUE,TRUE,
-273730,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Chromis","Chromis hypsilepis","fish",,40,1973,,TRUE,TRUE,
-304168,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Chromis","Chromis kennensis","fish",,,,,FALSE,TRUE,
-273744,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Chromis","Chromis nitida","fish",,1,,,TRUE,TRUE,
-212811,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Chromis","Chromis viridis","fish",,,,,FALSE,TRUE,
-218784,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Chrysiptera","Chrysiptera biocellata","fish",,,,,FALSE,TRUE,
-218783,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Chrysiptera","Chrysiptera glauca","fish",,3,1973,,TRUE,TRUE,
-276835,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Chrysiptera","Chrysiptera notialis","fish",,30,1973,,TRUE,TRUE,
-212843,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Dascyllus","Dascyllus aruanus","fish",,5,1973,,TRUE,TRUE,
-212844,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Dascyllus","Dascyllus reticulatus","fish",,1,,,TRUE,TRUE,
-212846,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Dascyllus","Dascyllus trimaculatus","fish",,3,,,TRUE,TRUE,
-218833,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Neoglyphidodon","Neoglyphidodon melas","fish",,,,,FALSE,TRUE,
-278815,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Neoglyphidodon","Neoglyphidodon polyacanthus","fish",,98,1973,,TRUE,TRUE,
-282152,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Parma","Parma alboscapularis","fish",,9,1973,,TRUE,TRUE,
-282156,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Parma","Parma microlepis","fish",,,,,FALSE,TRUE,
-282158,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Parma","Parma oligolepis","fish",,2,,,TRUE,TRUE,
-282159,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Parma","Parma polylepis","fish",,114,1973,,TRUE,TRUE,
-1605251,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Plectroglyphidodon","Plectroglyphidodon apicalis","fish",,,,,FALSE,TRUE,
-212855,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Plectroglyphidodon","Plectroglyphidodon dickii","fish","NT",3,1973,,TRUE,TRUE,
-1592381,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Plectroglyphidodon","Plectroglyphidodon fasciolatus","fish",,168,1973,,TRUE,TRUE,
-1605252,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Plectroglyphidodon","Plectroglyphidodon gascoynei","fish",,22,1973,,TRUE,TRUE,
-212859,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Plectroglyphidodon","Plectroglyphidodon johnstonianus","fish",,9,1973,,TRUE,TRUE,
-212854,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Plectroglyphidodon","Plectroglyphidodon leucozonus","fish",,2,,,TRUE,TRUE,
-276816,"Chordata","Teleostei","Ovalentaria incertae sedis","Plesiopidae","Plesiops","Plesiops insularis","fish",,38,1973,,TRUE,TRUE,
-277138,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Pomacentrus","Pomacentrus australis","fish",,,,,FALSE,TRUE,
-212966,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Pomacentrus","Pomacentrus bankanensis","fish",,,,,FALSE,TRUE,
-277145,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Pomacentrus","Pomacentrus coelestis","fish",,34,1973,,TRUE,TRUE,
-277159,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Pomacentrus","Pomacentrus moluccensis","fish",,1,,,TRUE,TRUE,
-212990,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Pomacentrus","Pomacentrus pavo","fish",,3,,,TRUE,TRUE,
-277180,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Pristotis","Pristotis obtusirostris","fish",,2,2004,,TRUE,TRUE,
-276902,"Chordata","Teleostei","Ovalentaria incertae sedis","Pseudochromidae","Pseudoplesiops","Pseudoplesiops howensis","fish",,12,1973,,TRUE,TRUE,
-1605305,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Pycnochromis","Pycnochromis amboinensis","fish",,,,,FALSE,TRUE,
-1592380,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Pycnochromis","Pycnochromis iomelas","fish",,,,,FALSE,TRUE,
-1605310,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Pycnochromis","Pycnochromis margaritifer","fish",,3,1973,,TRUE,TRUE,
-320883,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Pycnochromis","Pycnochromis vanderbilti","fish",,5,1973,,TRUE,TRUE,
-1551095,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Stegastes","Stegastes lacrymatus","fish",,3,1973,,TRUE,TRUE,
-221449,"Chordata","Teleostei","Perciformes","Tetrarogidae","Ablabys","Ablabys taenianotus","fish",,5,1980,,TRUE,TRUE,
-278721,"Chordata","Teleostei","Perciformes","Serranidae","Acanthistius","Acanthistius cinctus","fish",,62,1973,,TRUE,TRUE,
-278723,"Chordata","Teleostei","Perciformes","Serranidae","Acanthistius","Acanthistius ocellatus","fish",,3,,,TRUE,TRUE,
-276860,"Chordata","Teleostei","Perciformes","Ammodytidae","Ammodytoides","Ammodytoides vagus","fish",,3,,,TRUE,TRUE,
-280029,"Chordata","Teleostei","Perciformes","Serranidae","Caprodon","Caprodon krasyukovae","fish",,4,,,TRUE,TRUE,
-280030,"Chordata","Teleostei","Perciformes","Serranidae","Caprodon","Caprodon longimanus","fish",,1,2004,,TRUE,TRUE,
-218174,"Chordata","Teleostei","Perciformes","Serranidae","Cephalopholis","Cephalopholis argus","fish",,3,1973,,TRUE,TRUE,
-218184,"Chordata","Teleostei","Perciformes","Serranidae","Cephalopholis","Cephalopholis miniata","fish",,1,,,TRUE,TRUE,
-218189,"Chordata","Teleostei","Perciformes","Serranidae","Cephalopholis","Cephalopholis sexmaculata","fish",,1,,,TRUE,TRUE,
-218183,"Chordata","Teleostei","Perciformes","Serranidae","Cephalopholis","Cephalopholis sonnerati","fish",,4,2002,,TRUE,TRUE,
-218122,"Chordata","Teleostei","Perciformes","Triglidae","Chelidonichthys","Chelidonichthys kumu","fish",,3,,,TRUE,TRUE,
-277961,"Chordata","Teleostei","Perciformes","Aploactinidae","Cocotropus","Cocotropus altipinnis","fish",,3,,,TRUE,TRUE,
-218052,"Chordata","Teleostei","Perciformes","Scorpaenidae","Dendrochirus","Dendrochirus brachypterus","fish",,7,,,TRUE,TRUE,
-218053,"Chordata","Teleostei","Perciformes","Scorpaenidae","Dendrochirus","Dendrochirus zebra","fish",,13,,,TRUE,TRUE,
-277235,"Chordata","Teleostei","Perciformes","Serranidae","Diploprion","Diploprion bifasciatum","fish",,1,,,TRUE,TRUE,
-273845,"Chordata","Teleostei","Perciformes","Serranidae","Epinephelus","Epinephelus cyanopodus","fish",,3,,,TRUE,TRUE,
-273846,"Chordata","Teleostei","Perciformes","Serranidae","Epinephelus","Epinephelus daemelii","fish","NT",71,2004,,TRUE,TRUE,
-218207,"Chordata","Teleostei","Perciformes","Serranidae","Epinephelus","Epinephelus fasciatus","fish",,21,1973,,TRUE,TRUE,
-273856,"Chordata","Teleostei","Perciformes","Serranidae","Epinephelus","Epinephelus howlandi","fish",,3,,,TRUE,TRUE,
-218224,"Chordata","Teleostei","Perciformes","Serranidae","Epinephelus","Epinephelus lanceolatus","fish",,,,,FALSE,TRUE,
-273860,"Chordata","Teleostei","Perciformes","Serranidae","Epinephelus","Epinephelus maculatus","fish",,1,,,TRUE,TRUE,
-218228,"Chordata","Teleostei","Perciformes","Serranidae","Epinephelus","Epinephelus merra","fish",,29,,,TRUE,TRUE,
-218197,"Chordata","Teleostei","Perciformes","Serranidae","Epinephelus","Epinephelus polyphekadion","fish","VU",3,,,TRUE,TRUE,
-218216,"Chordata","Teleostei","Perciformes","Serranidae","Epinephelus","Epinephelus rivulatus","fish",,11,2004,,TRUE,TRUE,
-218205,"Chordata","Teleostei","Perciformes","Serranidae","Epinephelus","Epinephelus tauvina","fish",,5,1981,,TRUE,TRUE,
-273875,"Chordata","Teleostei","Perciformes","Serranidae","Epinephelus","Epinephelus undulatostriatus","fish",,2,,,TRUE,TRUE,
-211864,"Chordata","Teleostei","Perciformes","Serranidae","Grammistes","Grammistes sexlineatus","fish",,1,,,TRUE,TRUE,
-281104,"Chordata","Teleostei","Perciformes","Serranidae","Hypoplectrodes","Hypoplectrodes annulatus","fish",,,,,FALSE,TRUE,
-281106,"Chordata","Teleostei","Perciformes","Serranidae","Hypoplectrodes","Hypoplectrodes huntii","fish",,2,1973,,TRUE,TRUE,
-281108,"Chordata","Teleostei","Perciformes","Serranidae","Hypoplectrodes","Hypoplectrodes maccullochi","fish",,,,,FALSE,TRUE,
-275945,"Chordata","Teleostei","Perciformes","Serranidae","Liopropoma","Liopropoma japonicum","fish",,,,,FALSE,TRUE,
-276983,"Chordata","Teleostei","Perciformes","Pinguipedidae","Parapercis","Parapercis australis","fish",,,,,FALSE,TRUE,
-276988,"Chordata","Teleostei","Perciformes","Pinguipedidae","Parapercis","Parapercis colemani","fish",,,,,FALSE,TRUE,
-219155,"Chordata","Teleostei","Perciformes","Pinguipedidae","Parapercis","Parapercis cylindrica","fish",,1,,,TRUE,TRUE,
-219159,"Chordata","Teleostei","Perciformes","Pinguipedidae","Parapercis","Parapercis hexophtalma","fish",,3,,,TRUE,TRUE,
-219154,"Chordata","Teleostei","Perciformes","Pinguipedidae","Parapercis","Parapercis nebulosa","fish",,1,2004,,TRUE,TRUE,
-398611,"Chordata","Teleostei","Perciformes","Pinguipedidae","Parapercis","Parapercis queenslandica","fish",,,,,FALSE,TRUE,
-218065,"Chordata","Teleostei","Perciformes","Scorpaenidae","Parascorpaena","Parascorpaena aurita","fish",,,,,FALSE,TRUE,
-274653,"Chordata","Teleostei","Perciformes","Platycephalidae","Platycephalus","Platycephalus caeruleopunctatus","fish",,3,,,TRUE,TRUE,
-279010,"Chordata","Teleostei","Perciformes","Serranidae","Plectranthias","Plectranthias kamii","fish",,,,,FALSE,TRUE,
-277472,"Chordata","Teleostei","Perciformes","Serranidae","Pseudanthias","Pseudanthias pictilis","fish",,18,1973,,TRUE,TRUE,
-218278,"Chordata","Teleostei","Perciformes","Serranidae","Pseudanthias","Pseudanthias squamipinnis","fish",,9,1973,,TRUE,TRUE,
-218282,"Chordata","Teleostei","Perciformes","Serranidae","Pseudogramma","Pseudogramma polyacantha","fish",,3,1973,,TRUE,TRUE,
-218081,"Chordata","Teleostei","Perciformes","Scorpaenidae","Pterois","Pterois antennata","fish",,,,,FALSE,TRUE,
-159559,"Chordata","Teleostei","Perciformes","Scorpaenidae","Pterois","Pterois volitans","fish",,34,,,TRUE,TRUE,
-389371,"Chordata","Teleostei","Perciformes","Scorpaenidae","Scorpaena","Scorpaena bulacephala","fish",,2,2003,,TRUE,FALSE,
-274702,"Chordata","Teleostei","Perciformes","Scorpaenidae","Scorpaena","Scorpaena cardinalis","fish",,82,2015,,TRUE,TRUE,
-712541,"Chordata","Teleostei","Perciformes","Scorpaenidae","Scorpaenodes","Scorpaenodes evides","fish",,11,1973,,TRUE,TRUE,
-218094,"Chordata","Teleostei","Perciformes","Scorpaenidae","Scorpaenodes","Scorpaenodes guamensis","fish",,2,,,TRUE,TRUE,
-218100,"Chordata","Teleostei","Perciformes","Scorpaenidae","Scorpaenodes","Scorpaenodes parvipinnis","fish",,1,,,TRUE,TRUE,
-218092,"Chordata","Teleostei","Perciformes","Scorpaenidae","Scorpaenodes","Scorpaenodes scaber","fish",,14,,,TRUE,TRUE,
-218110,"Chordata","Teleostei","Perciformes","Scorpaenidae","Scorpaenopsis","Scorpaenopsis diabolus","fish",,,,,FALSE,TRUE,
-274760,"Chordata","Teleostei","Perciformes","Scorpaenidae","Sebastapistes","Sebastapistes fowleri","fish",,,,,FALSE,TRUE,
-215627,"Chordata","Teleostei","Perciformes","Synanceiidae","Synanceia","Synanceia verrucosa","fish",,,,,FALSE,TRUE,
-283033,"Chordata","Teleostei","Perciformes","Serranidae","Trachypoma","Trachypoma macracanthus","fish",,105,1973,,TRUE,TRUE,
-218304,"Chordata","Teleostei","Perciformes","Serranidae","Variola","Variola louti","fish",,1,,,TRUE,TRUE,
-279708,"Chordata","Teleostei","Pleuronectiformes","Soleidae","Aseraggodes","Aseraggodes bahamondei","fish",,3,,,TRUE,TRUE,
-279738,"Chordata","Teleostei","Pleuronectiformes","Soleidae","Aseraggodes","Aseraggodes ramsaii","fish",,7,,,TRUE,TRUE,
-219796,"Chordata","Teleostei","Pleuronectiformes","Bothidae","Bothus","Bothus mancus","fish",,1,,,TRUE,TRUE,
-219794,"Chordata","Teleostei","Pleuronectiformes","Bothidae","Bothus","Bothus myriaster","fish",,3,,,TRUE,TRUE,
-219795,"Chordata","Teleostei","Pleuronectiformes","Bothidae","Bothus","Bothus pantherinus","fish",,11,1979,,TRUE,TRUE,
-278306,"Chordata","Teleostei","Pleuronectiformes","Bothidae","Crossorhombus","Crossorhombus howensis","fish",,6,,,TRUE,TRUE,
-219858,"Chordata","Teleostei","Pleuronectiformes","Cynoglossidae","Paraplagusia","Paraplagusia bilineata","fish",,4,,,TRUE,TRUE,
-712918,"Chordata","Teleostei","Pleuronectiformes","Soleidae","Synclidopus","Synclidopus macleayanus","fish",,3,,,TRUE,TRUE,
-279693,"Chordata","Teleostei","Scombriformes","Arripidae","Arripis","Arripis trutta","fish",,19,1903,,TRUE,TRUE,
-279695,"Chordata","Teleostei","Scombriformes","Arripidae","Arripis","Arripis xylabion","fish",,16,,,TRUE,TRUE,
-126783,"Chordata","Teleostei","Scombriformes","Bramidae","Brama","Brama brama","fish",,16,2000,,TRUE,TRUE,
-126831,"Chordata","Teleostei","Scombriformes","Centrolophidae","Centrolophus","Centrolophus niger","fish",,7,,,TRUE,TRUE,
-219745,"Chordata","Teleostei","Scombriformes","Nomeidae","Cubiceps","Cubiceps baxteri","fish",,4,,,TRUE,TRUE,
-273675,"Chordata","Teleostei","Scombriformes","Nomeidae","Cubiceps","Cubiceps caeruleus","fish",,4,,,TRUE,TRUE,
-126862,"Chordata","Teleostei","Scombriformes","Gempylidae","Gempylus","Gempylus serpens","fish",,4,,,TRUE,TRUE,
-127018,"Chordata","Teleostei","Scombriformes","Scombridae","Katsuwonus","Katsuwonus pelamis","fish",,2,,,TRUE,TRUE,
-126863,"Chordata","Teleostei","Scombriformes","Gempylidae","Lepidocybium","Lepidocybium flavobrunneum","fish",,2,,,TRUE,TRUE,
-126864,"Chordata","Teleostei","Scombriformes","Gempylidae","Nealotus","Nealotus tripes","fish",,60,,,TRUE,TRUE,
-126991,"Chordata","Teleostei","Scombriformes","Nomeidae","Nomeus","Nomeus gronovii","fish",,3,,,TRUE,TRUE,
-126993,"Chordata","Teleostei","Scombriformes","Nomeidae","Psenes","Psenes pellucidus","fish",,4,2001,,TRUE,TRUE,
-273809,"Chordata","Teleostei","Scombriformes","Scombridae","Sarda","Sarda australis","fish",,1,,,TRUE,TRUE,
-219713,"Chordata","Teleostei","Scombriformes","Scombridae","Sarda","Sarda orientalis","fish",,1,,,TRUE,TRUE,
-273315,"Chordata","Teleostei","Scombriformes","Centrolophidae","Schedophilus","Schedophilus maculatus","fish",,12,,,TRUE,TRUE,
-219742,"Chordata","Teleostei","Scombriformes","Centrolophidae","Schedophilus","Schedophilus velaini","fish",,2,,,TRUE,TRUE,
-219715,"Chordata","Teleostei","Scombriformes","Scombridae","Scomber","Scomber australasicus","fish",,1,,,TRUE,TRUE,
-127079,"Chordata","Teleostei","Scombriformes","Tetragonuridae","Tetragonurus","Tetragonurus atlanticus","fish",,6,,,TRUE,TRUE,
-127080,"Chordata","Teleostei","Scombriformes","Tetragonuridae","Tetragonurus","Tetragonurus cuvieri","fish",,4,2010,,TRUE,TRUE,
-219698,"Chordata","Teleostei","Scombriformes","Gempylidae","Thyrsitoides","Thyrsitoides marleyi","fish",,,,,FALSE,TRUE,
-217659,"Chordata","Teleostei","Siluriformes","Plotosidae","Plotosus","Plotosus lineatus","fish",,102,2004,,TRUE,TRUE,
-127306,"Chordata","Teleostei","Stomiiformes","Sternoptychidae","Argyropelecus","Argyropelecus aculeatus","fish",,4,,,TRUE,TRUE,
-127338,"Chordata","Teleostei","Stomiiformes","Stomiidae","Chauliodus","Chauliodus sloani","fish",,2,2003,,TRUE,TRUE,
-127340,"Chordata","Teleostei","Stomiiformes","Stomiidae","Echiostoma","Echiostoma barbatum","fish",,7,2012,,TRUE,TRUE,
-274968,"Chordata","Teleostei","Stomiiformes","Sternoptychidae","Maurolicus","Maurolicus australis","fish",,,,,FALSE,TRUE,
-221512,"Chordata","Teleostei","Stomiiformes","Gonostomatidae","Sigmops","Sigmops elongatus","fish",,3,2003,,TRUE,TRUE,
-217964,"Chordata","Teleostei","Syngnathiformes","Aulostomidae","Aulostomus","Aulostomus chinensis","fish",,13,1973,,TRUE,TRUE,
-278061,"Chordata","Teleostei","Syngnathiformes","Syngnathidae","Cosmocampus","Cosmocampus howensis","fish",,11,1973,,TRUE,TRUE,
-217966,"Chordata","Teleostei","Syngnathiformes","Fistulariidae","Fistularia","Fistularia commersonii","fish",,11,1973,,TRUE,TRUE,
-159439,"Chordata","Teleostei","Syngnathiformes","Fistulariidae","Fistularia","Fistularia petimba","fish",,2,,,TRUE,TRUE,
-218009,"Chordata","Teleostei","Syngnathiformes","Syngnathidae","Halicampus","Halicampus boothae","fish",,11,2002,,TRUE,TRUE,
-281046,"Chordata","Teleostei","Syngnathiformes","Syngnathidae","Heraldia","Heraldia nocturna","fish",,,,,FALSE,TRUE,
-275199,"Chordata","Teleostei","Syngnathiformes","Syngnathidae","Hippocampus","Hippocampus jugumus","fish",,5,,,TRUE,TRUE,
-212236,"Chordata","Teleostei","Syngnathiformes","Syngnathidae","Hippocampus","Hippocampus kelloggi","fish","VU",,,,FALSE,TRUE,
-212237,"Chordata","Teleostei","Syngnathiformes","Syngnathidae","Hippocampus","Hippocampus kuda","fish","VU",6,,,TRUE,TRUE,
-306811,"Chordata","Teleostei","Syngnathiformes","Syngnathidae","Hippocampus","Hippocampus planifrons","fish",,1,,,TRUE,FALSE,
-212232,"Chordata","Teleostei","Syngnathiformes","Syngnathidae","Hippocampus","Hippocampus trimaculatus","fish","VU",,,,FALSE,TRUE,
-275181,"Chordata","Teleostei","Syngnathiformes","Centriscidae","Macroramphosus","Macroramphosus gracilis","fish",,4,,,TRUE,TRUE,
-127378,"Chordata","Teleostei","Syngnathiformes","Centriscidae","Macroramphosus","Macroramphosus scolopax","fish",,2,2000,,TRUE,TRUE,
-278075,"Chordata","Teleostei","Syngnathiformes","Syngnathidae","Solegnathus","Solegnathus dunckeri","fish",,13,2001,,TRUE,TRUE,
-278078,"Chordata","Teleostei","Syngnathiformes","Syngnathidae","Solegnathus","Solegnathus spinosissimus","fish",,1,2013,,TRUE,TRUE,
-282894,"Chordata","Teleostei","Syngnathiformes","Syngnathidae","Stigmatopora","Stigmatopora nigra","fish",,,,,FALSE,TRUE,
-218045,"Chordata","Teleostei","Syngnathiformes","Syngnathidae","Trachyrhamphus","Trachyrhamphus bicoarctatus","fish",,,,,FALSE,TRUE,
-283090,"Chordata","Teleostei","Syngnathiformes","Syngnathidae","Urocampus","Urocampus carinirostris","fish",,,,,FALSE,TRUE,
-127407,"Chordata","Teleostei","Tetraodontiformes","Monacanthidae","Aluterus","Aluterus monoceros","fish",,5,,,TRUE,TRUE,
-159491,"Chordata","Teleostei","Tetraodontiformes","Monacanthidae","Aluterus","Aluterus scriptus","fish",,,,,FALSE,TRUE,
-219925,"Chordata","Teleostei","Tetraodontiformes","Tetraodontidae","Arothron","Arothron hispidus","fish",,3,,,TRUE,TRUE,
-219926,"Chordata","Teleostei","Tetraodontiformes","Tetraodontidae","Arothron","Arothron meleagris","fish",,3,,,TRUE,TRUE,
-219921,"Chordata","Teleostei","Tetraodontiformes","Tetraodontidae","Arothron","Arothron nigropunctatus","fish",,,,,FALSE,TRUE,
-219928,"Chordata","Teleostei","Tetraodontiformes","Tetraodontidae","Arothron","Arothron stellatus","fish",,11,,,TRUE,TRUE,
-219876,"Chordata","Teleostei","Tetraodontiformes","Balistidae","Balistoides","Balistoides conspicillum","fish",,3,1973,,TRUE,TRUE,
-279951,"Chordata","Teleostei","Tetraodontiformes","Monacanthidae","Brachaluteres","Brachaluteres jacksonianus","fish",,10,,,TRUE,TRUE,
-279952,"Chordata","Teleostei","Tetraodontiformes","Monacanthidae","Brachaluteres","Brachaluteres taylori","fish",,1,,,TRUE,TRUE,
-276248,"Chordata","Teleostei","Tetraodontiformes","Monacanthidae","Cantherhines","Cantherhines dumerilii","fish",,5,,,TRUE,TRUE,
-220055,"Chordata","Teleostei","Tetraodontiformes","Monacanthidae","Cantherhines","Cantherhines fronticinctus","fish",,1,,,TRUE,TRUE,
-220058,"Chordata","Teleostei","Tetraodontiformes","Monacanthidae","Cantherhines","Cantherhines pardalis","fish",,5,,,TRUE,TRUE,
-280027,"Chordata","Teleostei","Tetraodontiformes","Monacanthidae","Cantheschenia","Cantheschenia longipinnis","fish",,11,,,TRUE,TRUE,
-127398,"Chordata","Teleostei","Tetraodontiformes","Balistidae","Canthidermis","Canthidermis maculata","fish",,,,,FALSE,TRUE,
-219938,"Chordata","Teleostei","Tetraodontiformes","Tetraodontidae","Canthigaster","Canthigaster bennetti","fish",,1,,,TRUE,TRUE,
-275248,"Chordata","Teleostei","Tetraodontiformes","Tetraodontidae","Canthigaster","Canthigaster callisterna","fish",,50,2004,,TRUE,TRUE,
-219940,"Chordata","Teleostei","Tetraodontiformes","Tetraodontidae","Canthigaster","Canthigaster janthinoptera","fish",,1,,,TRUE,TRUE,
-219937,"Chordata","Teleostei","Tetraodontiformes","Tetraodontidae","Canthigaster","Canthigaster rivulata","fish",,,,,FALSE,TRUE,
-219947,"Chordata","Teleostei","Tetraodontiformes","Tetraodontidae","Canthigaster","Canthigaster valentini","fish",,13,1973,,TRUE,TRUE,
-219964,"Chordata","Teleostei","Tetraodontiformes","Diodontidae","Chilomycterus","Chilomycterus reticulatus","fish",,8,,,TRUE,TRUE,
-219968,"Chordata","Teleostei","Tetraodontiformes","Diodontidae","Cyclichthys","Cyclichthys orbicularis","fish",,3,2008,,TRUE,TRUE,
-127402,"Chordata","Teleostei","Tetraodontiformes","Diodontidae","Diodon","Diodon holocanthus","fish",,11,,,TRUE,TRUE,
-127403,"Chordata","Teleostei","Tetraodontiformes","Diodontidae","Diodon","Diodon hystrix","fish",,13,,,TRUE,TRUE,
-278931,"Chordata","Teleostei","Tetraodontiformes","Aracanidae","Kentrocapros","Kentrocapros aculeatus","fish",,16,1973,,TRUE,FALSE,
-219904,"Chordata","Teleostei","Tetraodontiformes","Ostraciidae","Lactoria","Lactoria cornuta","fish",,7,,,TRUE,TRUE,
-219903,"Chordata","Teleostei","Tetraodontiformes","Ostraciidae","Lactoria","Lactoria diaphana","fish",,5,,,TRUE,TRUE,
-219902,"Chordata","Teleostei","Tetraodontiformes","Ostraciidae","Lactoria","Lactoria fornasini","fish",,9,,,TRUE,TRUE,
-219954,"Chordata","Teleostei","Tetraodontiformes","Tetraodontidae","Lagocephalus","Lagocephalus sceleratus","fish",,11,2004,,TRUE,TRUE,
-220060,"Chordata","Teleostei","Tetraodontiformes","Monacanthidae","Meuschenia","Meuschenia freycineti","fish",,2,,,TRUE,TRUE,
-1329867,"Chordata","Teleostei","Tetraodontiformes","Molidae","Mola","Mola alexandrini","fish",,2,,,TRUE,FALSE,
-127405,"Chordata","Teleostei","Tetraodontiformes","Molidae","Mola","Mola mola","fish","VU",,,,FALSE,TRUE,
-281648,"Chordata","Teleostei","Tetraodontiformes","Monacanthidae","Nelusetta","Nelusetta ayraud","fish",,2,,,TRUE,TRUE,
-219883,"Chordata","Teleostei","Tetraodontiformes","Balistidae","Odonus","Odonus niger","fish",,,,,FALSE,TRUE,
-403462,"Chordata","Teleostei","Tetraodontiformes","Ostraciidae","Ostracion","Ostracion cubicum","fish",,17,1973,,TRUE,TRUE,
-219905,"Chordata","Teleostei","Tetraodontiformes","Ostraciidae","Ostracion","Ostracion meleagris","fish",,1,,,TRUE,TRUE,
-220063,"Chordata","Teleostei","Tetraodontiformes","Monacanthidae","Oxymonacanthus","Oxymonacanthus longirostris","fish","VU",1,,,TRUE,TRUE,
-220065,"Chordata","Teleostei","Tetraodontiformes","Monacanthidae","Paraluteres","Paraluteres prionurus","fish",,,,,FALSE,TRUE,
-279221,"Chordata","Teleostei","Tetraodontiformes","Monacanthidae","Pervagor","Pervagor alternans","fish",,7,,,TRUE,TRUE,
-220072,"Chordata","Teleostei","Tetraodontiformes","Monacanthidae","Pervagor","Pervagor janthinosoma","fish",,2,,,TRUE,TRUE,
-219890,"Chordata","Teleostei","Tetraodontiformes","Balistidae","Rhinecanthus","Rhinecanthus aculeatus","fish",,1,,,TRUE,TRUE,
-219886,"Chordata","Teleostei","Tetraodontiformes","Balistidae","Rhinecanthus","Rhinecanthus rectangulus","fish",,7,,,TRUE,TRUE,
-219888,"Chordata","Teleostei","Tetraodontiformes","Balistidae","Rhinecanthus","Rhinecanthus verrucosus","fish",,,,,FALSE,TRUE,
-282705,"Chordata","Teleostei","Tetraodontiformes","Monacanthidae","Scobinichthys","Scobinichthys granulatus","fish",,,,,FALSE,TRUE,
-276851,"Chordata","Teleostei","Tetraodontiformes","Balistidae","Sufflamen","Sufflamen chrysopterum","fish",,1,,,TRUE,TRUE,
-276852,"Chordata","Teleostei","Tetraodontiformes","Balistidae","Sufflamen","Sufflamen fraenatum","fish",,20,2004,,TRUE,TRUE,
-282945,"Chordata","Teleostei","Tetraodontiformes","Tetraodontidae","Tetractenos","Tetractenos hamiltoni","fish",,5,,,TRUE,TRUE,
-219916,"Chordata","Teleostei","Tetraodontiformes","Ostraciidae","Tetrosomus","Tetrosomus concatenatus","fish",,1,,,TRUE,TRUE,
-279259,"Chordata","Teleostei","Tetraodontiformes","Ostraciidae","Tetrosomus","Tetrosomus reipublicae","fish",,8,,,TRUE,TRUE,
-277205,"Chordata","Teleostei","Tetraodontiformes","Monacanthidae","Thamnaconus","Thamnaconus analis","fish",,18,2004,,TRUE,TRUE,
-278263,"Chordata","Teleostei","Tetraodontiformes","Tetraodontidae","Torquigener","Torquigener altipinnis","fish",,9,,,TRUE,TRUE,
-278273,"Chordata","Teleostei","Tetraodontiformes","Tetraodontidae","Torquigener","Torquigener pleurogramma","fish",,14,2004,,TRUE,TRUE,
-219897,"Chordata","Teleostei","Tetraodontiformes","Balistidae","Xanthichthys","Xanthichthys auromarginatus","fish",,1,2004,,TRUE,FALSE,
-126398,"Chordata","Teleostei","Trachichthyiformes","Diretmidae","Diretmus","Diretmus argenteus","fish",,,,,FALSE,TRUE,
-388762,"Chordata","Teleostei","Trachichthyiformes","Trachichthyidae","Optivus","Optivus agastos","fish",,4,,,TRUE,TRUE,
-281927,"Chordata","Teleostei","Trachichthyiformes","Trachichthyidae","Optivus","Optivus elongatus","fish",,1,,,TRUE,TRUE,
-127420,"Chordata","Teleostei","Zeiformes","Grammicolepididae","Grammicolepis","Grammicolepis brachiusculus","fish",,,,,FALSE,TRUE,
-217961,"Chordata","Teleostei","Zeiformes","Oreosomatidae","Oreosoma","Oreosoma atlanticum","fish",,,,,FALSE,TRUE,
-275302,"Chordata","Teleostei","Zeiformes","Zeidae","Zenopsis","Zenopsis nebulosa","fish",,6,,,TRUE,TRUE,
-477318,"Chordata","Mammalia","Carnivora","Otariidae","Arctocephalus","Arctocephalus australis forsteri","mammal",,,,,FALSE,TRUE,
-231410,"Chordata","Mammalia","Carnivora","Otariidae","Arctocephalus","Arctocephalus pusillus","mammal",,,,,FALSE,TRUE,
-231432,"Chordata","Mammalia","Carnivora","Otariidae","Arctocephalus","Arctocephalus tropicalis","mammal",,,,,FALSE,TRUE,
-231417,"Chordata","Mammalia","Carnivora","Phocidae","Hydrurga","Hydrurga leptonyx","mammal",,,,,FALSE,TRUE,
-137097,"Chordata","Mammalia","Cetartiodactyla","Delphinidae","Globicephala","Globicephala melas","mammal",,3,,,TRUE,TRUE,
-137092,"Chordata","Mammalia","Cetartiodactyla","Balaenopteridae","Megaptera","Megaptera novaeangliae","mammal",,1,,,TRUE,TRUE,
-137122,"Chordata","Mammalia","Cetartiodactyla","Ziphiidae","Mesoplodon","Mesoplodon densirostris","mammal",,17,2011,,TRUE,TRUE,
-137123,"Chordata","Mammalia","Cetartiodactyla","Ziphiidae","Mesoplodon","Mesoplodon europaeus","mammal",,,,,FALSE,TRUE,
-231407,"Chordata","Mammalia","Cetartiodactyla","Ziphiidae","Mesoplodon","Mesoplodon ginkgodens","mammal",,,,,FALSE,TRUE,
-137109,"Chordata","Mammalia","Cetartiodactyla","Delphinidae","Stenella","Stenella longirostris","mammal",,,,,FALSE,TRUE,
-137111,"Chordata","Mammalia","Cetartiodactyla","Delphinidae","Tursiops","Tursiops truncatus","mammal",,,,,FALSE,TRUE,
-137205,"Chordata",,"Testudines","Cheloniidae","Caretta","Caretta caretta","turtle","VU",,,,FALSE,TRUE,
-137206,"Chordata",,"Testudines","Cheloniidae","Chelonia","Chelonia mydas","turtle","EN",150,2019,,TRUE,TRUE,
-137207,"Chordata",,"Testudines","Cheloniidae","Eretmochelys","Eretmochelys imbricata","turtle","CR",,,,FALSE,TRUE,
+"AphiaID","phylum","class","order","family","genus","species","records","max_year","target_gene","source_obis","source_gbif","source_dna","category","redlist_category","vernacular","group"
+149004,"Bacillariophyta","Bacillariophyceae","Bacillariales","Bacillariaceae","Cylindrotheca","Cylindrotheca closterium",,,"COI",FALSE,TRUE,TRUE,,,,"algae"
+531450,"Bacillariophyta","Bacillariophyceae","Bacillariales","Bacillariaceae","Pseudo-nitzschia","Pseudo-nitzschia caciantha",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+837690,"Bacillariophyta","Bacillariophyceae","Bacillariales","Bacillariaceae","Pseudo-nitzschia","Pseudo-nitzschia circumpora",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+370512,"Bacillariophyta","Bacillariophyceae","Bacillariales","Bacillariaceae","Pseudo-nitzschia","Pseudo-nitzschia cuspidata",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+839797,"Bacillariophyta","Bacillariophyceae","Bacillariales","Bacillariaceae","Pseudo-nitzschia","Pseudo-nitzschia lundholmiae",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+156548,"Bacillariophyta","Bacillariophyceae","Bacillariales","Bacillariaceae","Pseudo-nitzschia","Pseudo-nitzschia pseudodelicatissima",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+1307191,"Bacillariophyta","Bacillariophyceae","Bacillariales","Bacillariaceae","Pseudo-nitzschia","Pseudo-nitzschia sabit",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+495535,"Bacillariophyta","Bacillariophyceae","Naviculales","Naviculaceae","Haslea","Haslea pseudostrearia",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+172829,"Bacillariophyta","Bacillariophyceae","Naviculales","Naviculaceae","Navicula","Navicula minima",,,"12S",FALSE,FALSE,TRUE,,,,"algae"
+345463,"Chlorophyta","Mamiellophyceae","Dolichomastigales","Dolichomastigaceae","Dolichomastix","Dolichomastix tenuilepis",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+134564,"Chlorophyta","Mamiellophyceae","Mamiellales","Mamiellaceae","Micromonas","Micromonas pusilla",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+375881,"Chlorophyta","Pyramimonadophyceae","Prasinococcales","Prasinococcaceae","Prasinoderma","Prasinoderma coloniale",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+573884,"Haptophyta","Coccolithophyceae","Isochrysidales","Isochrysidaceae","Isochrysis","Isochrysis galbana",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+160538,"Haptophyta","Coccolithophyceae","Phaeocystales","Phaeocystaceae","Phaeocystis","Phaeocystis globosa",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+115106,"Haptophyta","Coccolithophyceae","Phaeocystales","Phaeocystaceae","Phaeocystis","Phaeocystis pouchetii",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+571998,"Haptophyta","Coccolithophyceae","Prymnesiales","Chrysochromulinaceae","Chrysochromulina","Chrysochromulina parva",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+375970,"Ochrophyta","Dictyochophyceae","Dictyochales","Dictyochaceae","Octactis","Octactis octonaria",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+707927,"Ochrophyta","Dictyochophyceae","Dictyochales","Dictyochaceae","Vicicitus","Vicicitus globosus",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+531467,"Ochrophyta","Dictyochophyceae","Florenciellales","Florenciellales incertae sedis","Pseudochattonella","Pseudochattonella farcimen",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+377141,"Ochrophyta","Phaeophyceae","Dictyotales","Dictyotaceae","Canistrocarpus","Canistrocarpus cervicornis",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+374386,"Ochrophyta","Phaeophyceae","Dictyotales","Dictyotaceae","Dictyota","Dictyota acutiloba",,,"COI",FALSE,TRUE,TRUE,,,,"algae"
+145365,"Ochrophyta","Phaeophyceae","Dictyotales","Dictyotaceae","Dictyota","Dictyota ciliolata",,,"COI",FALSE,TRUE,TRUE,,,,"algae"
+373457,"Ochrophyta","Phaeophyceae","Dictyotales","Dictyotaceae","Dictyota","Dictyota intermedia",,,"COI",FALSE,TRUE,TRUE,,,,"algae"
+1369837,"Ochrophyta","Phaeophyceae","Dictyotales","Dictyotaceae","Dictyota","Dictyota mayae",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+495788,"Ochrophyta","Phaeophyceae","Dictyotales","Dictyotaceae","Lobophora","Lobophora rickeri",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+837116,"Ochrophyta","Phaeophyceae","Dictyotales","Dictyotaceae","Lobophora","Lobophora rosacea",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+1372764,"Ochrophyta","Phaeophyceae","Dictyotales","Dictyotaceae","Lobophora","Lobophora sonderi",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+145384,"Ochrophyta","Phaeophyceae","Dictyotales","Dictyotaceae","Padina","Padina gymnospora",,,"COI",FALSE,TRUE,TRUE,,,,"algae"
+377144,"Ochrophyta","Phaeophyceae","Dictyotales","Dictyotaceae","Rugulopteryx","Rugulopteryx marginata",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+1369205,"Ochrophyta","Phaeophyceae","Ectocarpales","Acinetosporaceae","Acinetospora","Acinetospora filamentosa",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+371901,"Ochrophyta","Phaeophyceae","Ectocarpales","Chordariaceae","Cladosiphon","Cladosiphon okamuranus",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+624476,"Ochrophyta","Phaeophyceae","Ectocarpales","Scytosiphonaceae","Colpomenia","Colpomenia claytoniae",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+145857,"Ochrophyta","Phaeophyceae","Ectocarpales","Scytosiphonaceae","Colpomenia","Colpomenia sinuosa",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+1474998,"Ochrophyta","Phaeophyceae","Ectocarpales","Scytosiphonaceae","Dactylosiphon","Dactylosiphon bullosus",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+372672,"Ochrophyta","Phaeophyceae","Ectocarpales","Acinetosporaceae","Feldmannia","Feldmannia chitonicola",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+699648,"Ochrophyta","Phaeophyceae","Ectocarpales","Acinetosporaceae","Feldmannia","Feldmannia mitchelliae",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+145341,"Ochrophyta","Phaeophyceae","Ectocarpales","Chordariaceae","Hecatonema","Hecatonema terminale",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+145861,"Ochrophyta","Phaeophyceae","Ectocarpales","Scytosiphonaceae","Hydroclathrus","Hydroclathrus clathratus",,,"COI",FALSE,TRUE,TRUE,,,,"algae"
+1327736,"Ochrophyta","Phaeophyceae","Ectocarpales","Scytosiphonaceae","Hydroclathrus","Hydroclathrus tilesii",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+707754,"Ochrophyta","Phaeophyceae","Ectocarpales","Chordariaceae","Microspongium","Microspongium stilophorae",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+144976,"Ochrophyta","Phaeophyceae","Ectocarpales","Chordariaceae","Myrionema","Myrionema balticum",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+214329,"Ochrophyta","Phaeophyceae","Ectocarpales","Chordariaceae","Nemacystus","Nemacystus decipiens",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+145346,"Ochrophyta","Phaeophyceae","Ectocarpales","Chordariaceae","Punctaria","Punctaria latifolia",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+145866,"Ochrophyta","Phaeophyceae","Ectocarpales","Scytosiphonaceae","Rosenvingea","Rosenvingea intricata",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+375329,"Ochrophyta","Phaeophyceae","Fucales","Sargassaceae","Sargassum","Sargassum megalocystum",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+494865,"Ochrophyta","Phaeophyceae","Fucales","Sargassaceae","Sargassum","Sargassum polycystum",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+624312,"Ochrophyta","Phaeophyceae","Fucales","Sargassaceae","Sirophysalis","Sirophysalis trinodis",,,"COI",FALSE,TRUE,TRUE,,,,"algae"
+495552,"Ochrophyta","Phaeophyceae","Ralfsiales","Neoralfsiaceae","Neoralfsia","Neoralfsia expansa",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+144991,"Ochrophyta","Phaeophyceae","Sphacelariales","Lithodermataceae","Pseudolithoderma","Pseudolithoderma roscoffense",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+376356,"Ochrophyta","Pinguiophyceae","Pinguiochrysidales","Pinguiochrysidaceae","Pinguiococcus","Pinguiococcus pyrenoidosus",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+144356,"Rhodophyta","Florideophyceae","Acrochaetiales","Acrochaetiaceae","Acrochaetium","Acrochaetium humile",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+547853,"Rhodophyta","Florideophyceae","Acrochaetiales","Acrochaetiaceae","Acrochaetium","Acrochaetium luxurians",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+372088,"Rhodophyta","Florideophyceae","Acrochaetiales","Acrochaetiaceae","Acrochaetium","Acrochaetium plumosum",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+144439,"Rhodophyta","Florideophyceae","Bonnemaisoniales","Bonnemaisoniaceae","Asparagopsis","Asparagopsis taxiformis",,,"COI",FALSE,TRUE,TRUE,,,,"algae"
+211770,"Rhodophyta","Florideophyceae","Ceramiales","Rhodomelaceae","Acanthophora","Acanthophora dendroides",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+211768,"Rhodophyta","Florideophyceae","Ceramiales","Rhodomelaceae","Acanthophora","Acanthophora spicifera",,,"COI",FALSE,TRUE,TRUE,,,,"algae"
+375105,"Rhodophyta","Florideophyceae","Ceramiales","Callithamniaceae","Aglaothamnion","Aglaothamnion callophyllidicola",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+837442,"Rhodophyta","Florideophyceae","Ceramiales","Rhodomelaceae","Amansia","Amansia fimbrifolia",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+494947,"Rhodophyta","Florideophyceae","Ceramiales","Ceramiaceae","Antithamnion","Antithamnion antillanum",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+144531,"Rhodophyta","Florideophyceae","Ceramiales","Ceramiaceae","Centroceras","Centroceras clavulatum",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+214197,"Rhodophyta","Florideophyceae","Ceramiales","Rhodomelaceae","Chondria","Chondria armata",,,"COI",FALSE,TRUE,TRUE,,,,"algae"
+375752,"Rhodophyta","Florideophyceae","Ceramiales","Rhodomelaceae","Chondrophycus","Chondrophycus succisus",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+144575,"Rhodophyta","Florideophyceae","Ceramiales","Callithamniaceae","Crouania","Crouania attenuata",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+144743,"Rhodophyta","Florideophyceae","Ceramiales","Delesseriaceae","Cryptopleura","Cryptopleura ramosa",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+214429,"Rhodophyta","Florideophyceae","Ceramiales","Wrangeliaceae","Haloplegma","Haloplegma duperreyi",,,"COI",FALSE,TRUE,TRUE,,,,"algae"
+371565,"Rhodophyta","Florideophyceae","Ceramiales","Delesseriaceae","Heterosiphonia","Heterosiphonia crassipes",,,"COI",FALSE,TRUE,TRUE,,,,"algae"
+499472,"Rhodophyta","Florideophyceae","Ceramiales","Rhodomelaceae","Laurencia","Laurencia dendroidea",,,"COI",FALSE,TRUE,TRUE,,,,"algae"
+371514,"Rhodophyta","Florideophyceae","Ceramiales","Wrangeliaceae","Monosporus","Monosporus indicus",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+495579,"Rhodophyta","Florideophyceae","Ceramiales","Rhodomelaceae","Palisada","Palisada parvipapillata",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+374694,"Rhodophyta","Florideophyceae","Ceramiales","Rhodomelaceae","Spirocladia","Spirocladia hodgsoniae",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+144706,"Rhodophyta","Florideophyceae","Ceramiales","Callithamniaceae","Spyridia","Spyridia filamentosa",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+374654,"Rhodophyta","Florideophyceae","Ceramiales","Wrangeliaceae","Wrangelia","Wrangelia elegantissima",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+376886,"Rhodophyta","Florideophyceae","Corallinales","Corallinaceae","Corallina","Corallina ferreyrae",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+841069,"Rhodophyta","Florideophyceae","Corallinales","Mesophyllumaceae","Melyvonnea","Melyvonnea erubescens",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+145191,"Rhodophyta","Florideophyceae","Corallinales","Spongitaceae","Neogoniolithon","Neogoniolithon brassica-florida",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+145567,"Rhodophyta","Florideophyceae","Gelidiales","Gelidiellaceae","Gelidiella","Gelidiella acerosa",,,"COI",FALSE,TRUE,TRUE,,,,"algae"
+374760,"Rhodophyta","Florideophyceae","Gelidiales","Gelidiellaceae","Gelidiella","Gelidiella ligulata",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+372122,"Rhodophyta","Florideophyceae","Gelidiales","Gelidiaceae","Gelidium","Gelidium johnstonii",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+371171,"Rhodophyta","Florideophyceae","Gelidiales","Pterocladiaceae","Pterocladia","Pterocladia lucida",,,"COI",FALSE,TRUE,TRUE,,,,"algae"
+667186,"Rhodophyta","Florideophyceae","Gelidiales","Pterocladiaceae","Pterocladiella","Pterocladiella beachiae",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+145599,"Rhodophyta","Florideophyceae","Gelidiales","Pterocladiaceae","Pterocladiella","Pterocladiella capillacea",,,"COI",FALSE,TRUE,TRUE,,,,"algae"
+1339784,"Rhodophyta","Florideophyceae","Gigartinales","Kallymeniaceae","Austrokallymenia","Austrokallymenia rosea",,,"COI",FALSE,TRUE,TRUE,,,,"algae"
+375733,"Rhodophyta","Florideophyceae","Gigartinales","Kallymeniaceae","Callophyllis","Callophyllis nana",,,"COI",FALSE,TRUE,TRUE,,,,"algae"
+213804,"Rhodophyta","Florideophyceae","Gigartinales","Dumontiaceae","Dudresnaya","Dudresnaya hawaiiensis",,,"COI",FALSE,TRUE,TRUE,,,,"algae"
+213999,"Rhodophyta","Florideophyceae","Gigartinales","Solieriaceae","Eucheuma","Eucheuma serra",,,"COI",FALSE,TRUE,TRUE,,,,"algae"
+220819,"Rhodophyta","Florideophyceae","Gigartinales","Cystocloniaceae","Hypnea","Hypnea cervicornis",,,"COI",FALSE,TRUE,TRUE,,,,"algae"
+145636,"Rhodophyta","Florideophyceae","Gigartinales","Cystocloniaceae","Hypnea","Hypnea valentiae",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+840021,"Rhodophyta","Florideophyceae","Gigartinales","Kallymeniaceae","Meredithia","Meredithia guiryorum",,,"COI",FALSE,TRUE,TRUE,,,,"algae"
+841672,"Rhodophyta","Florideophyceae","Gracilariales","Gracilariaceae","Hydropuntia","Hydropuntia perplexa",,,"COI",FALSE,TRUE,TRUE,,,,"algae"
+374339,"Rhodophyta","Florideophyceae","Halymeniales","Grateloupiaceae","Grateloupia","Grateloupia phuquocensis",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+145739,"Rhodophyta","Florideophyceae","Nemaliales","Galaxauraceae","Galaxaura","Galaxaura rugosa",,,"COI",FALSE,TRUE,TRUE,,,,"algae"
+145749,"Rhodophyta","Florideophyceae","Nemaliales","Liagoraceae","Ganonema","Ganonema farinosum",,,"COI",FALSE,TRUE,TRUE,,,,"algae"
+213783,"Rhodophyta","Florideophyceae","Nemaliales","Liagoraceae","Helminthocladia","Helminthocladia australis",,,"COI",FALSE,TRUE,TRUE,,,,"algae"
+145756,"Rhodophyta","Florideophyceae","Nemaliales","Liagoraceae","Liagora","Liagora ceranoides",,,"COI",FALSE,TRUE,TRUE,,,,"algae"
+371161,"Rhodophyta","Florideophyceae","Nemaliales","Liagoraceae","Liagora","Liagora mannarensis",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+371052,"Rhodophyta","Florideophyceae","Nemastomatales","Schizymeniaceae","Platoma","Platoma cyclocolpum",,,"COI",FALSE,TRUE,TRUE,,,,"algae"
+145782,"Rhodophyta","Florideophyceae","Plocamiales","Plocamiaceae","Plocamium","Plocamium cartilagineum",,,"COI",FALSE,TRUE,TRUE,,,,"algae"
+373535,"Rhodophyta","Florideophyceae","Plocamiales","Plocamiaceae","Plocamium","Plocamium hamatum",4,2004,"COI",TRUE,TRUE,TRUE,,,,"algae"
+376780,"Rhodophyta","Florideophyceae","Plocamiales","Sarcodiaceae","Sarcodia","Sarcodia ciliata",,,"COI",FALSE,TRUE,TRUE,,,,"algae"
+708100,"Rhodophyta","Florideophyceae","Rhodachlyales","Rhodachlyaceae","Rhodachlya","Rhodachlya hawaiiana",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+623232,"Rhodophyta","Florideophyceae","Rhodachlyales","Rhodachlyaceae","Rhodachlya","Rhodachlya madagascarensis",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+503069,"Rhodophyta","Florideophyceae","Rhodymeniales","Hymenocladiaceae","Asteromenia","Asteromenia anastomosans",3,,"COI",TRUE,TRUE,TRUE,,,,"algae"
+623136,"Rhodophyta","Florideophyceae","Rhodymeniales","Hymenocladiaceae","Asteromenia","Asteromenia pseudocoalescens",1,,"COI",TRUE,TRUE,TRUE,,,,"algae"
+220965,"Rhodophyta","Florideophyceae","Rhodymeniales","Rhodymeniaceae","Botryocladia","Botryocladia leptopoda",,,"COI",FALSE,TRUE,TRUE,,,,"algae"
+498199,"Rhodophyta","Florideophyceae","Rhodymeniales","Lomentariaceae","Ceratodictyon","Ceratodictyon scoparium",,,"COI",FALSE,FALSE,TRUE,,,,"algae"
+371436,"Rhodophyta","Florideophyceae","Rhodymeniales","Rhodymeniaceae","Halichrysis","Halichrysis micans",2,2001,"COI",TRUE,TRUE,TRUE,,,,"algae"
+1359773,"Rhodophyta","Florideophyceae","Rhodymeniales","Rhodymeniaceae","Rhodymenia","Rhodymenia insularis",,,"COI",FALSE,TRUE,TRUE,,,,"algae"
+626087,"Rhodophyta","Florideophyceae","Sebdeniales","Sebdeniaceae","Crassitegula","Crassitegula imitans",5,,"COI",TRUE,TRUE,TRUE,,,,"algae"
+567827,"Chordata","Aves","Charadriiformes","Laridae","Onychoprion","Onychoprion fuscatus",6294,2019,"12S",TRUE,TRUE,TRUE,"LC","LC","sooty tern","birds"
+567470,"Chordata","Aves","Charadriiformes","Scolopacidae","Tringa","Tringa incana",36,2019,"16S",TRUE,TRUE,TRUE,"LC","LC","wandering tattler, chevalier errant","birds"
+104503,"Arthropoda","Copepoda","Calanoida","Clausocalanidae","Clausocalanus","Clausocalanus furcatus",,,"COI",FALSE,FALSE,TRUE,,,,"copepods"
+104616,"Arthropoda","Copepoda","Calanoida","Paracalanidae","Mecynocera","Mecynocera clausi",,,"COI",FALSE,FALSE,TRUE,,,,"copepods"
+104684,"Arthropoda","Copepoda","Calanoida","Paracalanidae","Paracalanus","Paracalanus nanus",,,"COI",FALSE,FALSE,TRUE,,,,"copepods"
+549150,"Arthropoda","Copepoda","Harpacticoida","Miraciidae","Sarsamphiascus","Sarsamphiascus kawamurai",,,"COI",FALSE,FALSE,TRUE,,,,"copepods"
+488440,"Arthropoda","Malacostraca","Amphipoda","Ampithoidae","Ampithoe","Ampithoe caddi",,,"COI",FALSE,FALSE,TRUE,,,,"crustaceans"
+1262303,"Arthropoda","Malacostraca","Amphipoda","Ampithoidae","Pleonexes","Pleonexes kava",,,"COI",FALSE,FALSE,TRUE,,,,"crustaceans"
+209053,"Arthropoda","Malacostraca","Decapoda","Xanthidae","Actaeodes","Actaeodes tomentosus",23,2003,"COI",TRUE,TRUE,TRUE,,,,"crustaceans"
+210544,"Arthropoda","Malacostraca","Decapoda","Alpheidae","Alpheus","Alpheus lottini",5,1979,"COI",TRUE,TRUE,TRUE,,,"coral snapping shrimp","crustaceans"
+209501,"Arthropoda","Malacostraca","Decapoda","Calappidae","Calappa","Calappa hepatica",15,2004,"COI",TRUE,TRUE,TRUE,,,"smooth box crab","crustaceans"
+208779,"Arthropoda","Malacostraca","Decapoda","Portunidae","Caphyra","Caphyra rotundifrons",5,2003,"COI",TRUE,TRUE,TRUE,,,,"crustaceans"
+209139,"Arthropoda","Malacostraca","Decapoda","Xanthidae","Chlorodiella","Chlorodiella barbata",,,"COI",FALSE,FALSE,TRUE,,,,"crustaceans"
+209138,"Arthropoda","Malacostraca","Decapoda","Xanthidae","Chlorodiella","Chlorodiella cytherea",1,2003,"COI",TRUE,TRUE,TRUE,,,,"crustaceans"
+444082,"Arthropoda","Malacostraca","Decapoda","Xanthidae","Chlorodiella","Chlorodiella spinimera",,,"COI",FALSE,FALSE,TRUE,,,,"crustaceans"
+514518,"Arthropoda","Malacostraca","Decapoda","Palaemonidae","Cuapetes","Cuapetes grandis",,,"COI",FALSE,FALSE,TRUE,,,,"crustaceans"
+444087,"Arthropoda","Malacostraca","Decapoda","Xanthidae","Cyclodius","Cyclodius obscurus",,,"COI",FALSE,FALSE,TRUE,,,,"crustaceans"
+107426,"Arthropoda","Malacostraca","Decapoda","Dairidae","Daira","Daira perlata",4,2003,"COI",TRUE,TRUE,TRUE,,,,"crustaceans"
+444128,"Arthropoda","Malacostraca","Decapoda","Xanthidae","Danielea","Danielea noelensis",,,"COI",FALSE,FALSE,TRUE,,,,"crustaceans"
+209116,"Arthropoda","Malacostraca","Decapoda","Xanthidae","Etisus","Etisus bifrontalis",,,"COI",FALSE,FALSE,TRUE,,,,"crustaceans"
+209118,"Arthropoda","Malacostraca","Decapoda","Xanthidae","Etisus","Etisus electra",12,1987,"COI",TRUE,TRUE,TRUE,,,,"crustaceans"
+440134,"Arthropoda","Malacostraca","Decapoda","Dynomenidae","Hirsutodynomene","Hirsutodynomene spinosa",,,"COI",FALSE,FALSE,TRUE,,,,"crustaceans"
+444147,"Arthropoda","Malacostraca","Decapoda","Xanthidae","Hypocolpus","Hypocolpus pararugosus",,,"COI",FALSE,FALSE,TRUE,,,,"crustaceans"
+209142,"Arthropoda","Malacostraca","Decapoda","Xanthidae","Liocarpilodes","Liocarpilodes integerrimus",,,"COI",FALSE,FALSE,TRUE,,,,"crustaceans"
+208908,"Arthropoda","Malacostraca","Decapoda","Epialtidae","Menaethius","Menaethius monoceros",23,2003,"COI",TRUE,TRUE,TRUE,,,,"crustaceans"
+207539,"Arthropoda","Malacostraca","Decapoda","Grapsidae","Pachygrapsus","Pachygrapsus minutus",,,"COI",FALSE,FALSE,TRUE,,,,"crustaceans"
+209008,"Arthropoda","Malacostraca","Decapoda","Xanthidae","Paramedaeus","Paramedaeus simplex",,,"COI",FALSE,FALSE,TRUE,,,,"crustaceans"
+444100,"Arthropoda","Malacostraca","Decapoda","Xanthidae","Pilodius","Pilodius moranti",9,2003,"COI",TRUE,TRUE,TRUE,,,,"crustaceans"
+107462,"Arthropoda","Malacostraca","Decapoda","Grapsidae","Planes","Planes minutus",5,1987,"COI",TRUE,TRUE,TRUE,,,"Gulfweed crab, crabe menu","crustaceans"
+209075,"Arthropoda","Malacostraca","Decapoda","Xanthidae","Platypodia","Platypodia pseudogranulosa",,,"COI",FALSE,FALSE,TRUE,,,,"crustaceans"
+1061755,"Arthropoda","Malacostraca","Decapoda","Portunidae","Portunus","Portunus pubescens",,,"COI",FALSE,FALSE,TRUE,,,,"crustaceans"
+444103,"Arthropoda","Malacostraca","Decapoda","Xanthidae","Sulcodius","Sulcodius deflexus",,,"COI",FALSE,FALSE,TRUE,,,,"crustaceans"
+208849,"Arthropoda","Malacostraca","Decapoda","Portunidae","Thalamita","Thalamita admete",11,2003,"COI",TRUE,TRUE,TRUE,,,,"crustaceans"
+442909,"Arthropoda","Malacostraca","Decapoda","Portunidae","Thalamita","Thalamita pelsarti",,,"COI",FALSE,FALSE,TRUE,,,,"crustaceans"
+208846,"Arthropoda","Malacostraca","Decapoda","Portunidae","Thalamita","Thalamita prymna",20,1979,"COI",TRUE,TRUE,TRUE,,,,"crustaceans"
+210176,"Arthropoda","Malacostraca","Decapoda","Trapeziidae","Trapezia","Trapezia cymodoce",6,1932,"COI",TRUE,TRUE,TRUE,,,,"crustaceans"
+443886,"Arthropoda","Malacostraca","Decapoda","Trapeziidae","Trapezia","Trapezia serenei",,,"COI",FALSE,FALSE,TRUE,,,,"crustaceans"
+456151,"Arthropoda","Malacostraca","Decapoda","Portunidae","Xiphonectes","Xiphonectes longispinosus",1,,"COI",TRUE,TRUE,TRUE,,,,"crustaceans"
+1061724,"Arthropoda","Malacostraca","Decapoda","Portunidae","Xiphonectes","Xiphonectes macrophthalmus",,,"COI",FALSE,FALSE,TRUE,,,,"crustaceans"
+209076,"Arthropoda","Malacostraca","Decapoda","Xanthidae","Zosimus","Zosimus aeneus",1,,"COI",TRUE,TRUE,TRUE,,,,"crustaceans"
+110707,"Arthropoda","Malacostraca","Euphausiacea","Euphausiidae","Thysanoessa","Thysanoessa gregaria",,,"COI",FALSE,FALSE,TRUE,,,,"crustaceans"
+409099,"Arthropoda","Malacostraca","Stomatopoda","Nannosquillidae","Pullosquilla","Pullosquilla litoralis",,,"COI",FALSE,FALSE,TRUE,,,,"crustaceans"
+105788,"Chordata","Elasmobranchii","Carcharhiniformes","Carcharhinidae","Carcharhinus","Carcharhinus brevipinna",,,"16S",FALSE,FALSE,TRUE,"VU","VU","spinner shark","fish"
+105796,"Chordata","Elasmobranchii","Carcharhiniformes","Carcharhinidae","Carcharhinus","Carcharhinus obscurus",,,"12S",FALSE,FALSE,TRUE,"EN","EN","dusky shark","fish"
+1018707,"Chordata","Elasmobranchii","Myliobatiformes","Dasyatidae","Bathytoshia","Bathytoshia lata",3,2004,"12S",TRUE,TRUE,TRUE,"VU","VU",,"fish"
+712972,"Chordata","Elasmobranchii","Myliobatiformes","Dasyatidae","Taeniurops","Taeniurops meyeni",9,2004,"12S;16S;COI",TRUE,TRUE,TRUE,"VU","VU",,"fish"
+219630,"Chordata","Teleostei","Acanthuriformes","Acanthuridae","Acanthurus","Acanthurus triostegus",6,1898,"16S",TRUE,TRUE,TRUE,"LC","LC","convict surgeonfish","fish"
+218744,"Chordata","Teleostei","Acanthuriformes","Chaetodontidae","Chaetodon","Chaetodon citrinellus",7,1973,"COI",TRUE,TRUE,TRUE,"LC","LC",,"fish"
+273337,"Chordata","Teleostei","Acanthuriformes","Chaetodontidae","Chaetodon","Chaetodon flavirostris",24,1973,"COI",TRUE,TRUE,TRUE,"LC","LC",,"fish"
+218733,"Chordata","Teleostei","Acanthuriformes","Chaetodontidae","Chaetodon","Chaetodon lunula",7,,"16S",TRUE,TRUE,TRUE,"LC","LC","raccoon butterflyfish","fish"
+218743,"Chordata","Teleostei","Acanthuriformes","Chaetodontidae","Chaetodon","Chaetodon melannotus",7,1973,"12S;16S;COI",TRUE,TRUE,TRUE,"LC","LC","blackback butterflyfish","fish"
+273347,"Chordata","Teleostei","Acanthuriformes","Chaetodontidae","Chaetodon","Chaetodon mertensii",3,1973,"16S",TRUE,TRUE,TRUE,"LC","LC",,"fish"
+273354,"Chordata","Teleostei","Acanthuriformes","Chaetodontidae","Chaetodon","Chaetodon plebeius",9,1973,"12S",TRUE,TRUE,TRUE,"LC","LC",,"fish"
+278006,"Chordata","Teleostei","Acanthuriformes","Acanthuridae","Naso","Naso lopezi",,,"12S",FALSE,FALSE,TRUE,"LC","LC",,"fish"
+219668,"Chordata","Teleostei","Acanthuriformes","Acanthuridae","Naso","Naso unicornis",7,1973,"12S;16S;COI",TRUE,TRUE,TRUE,"LC","LC","bluespine unicornfish","fish"
+282347,"Chordata","Teleostei","Acanthuriformes","Acanthuridae","Prionurus","Prionurus maculatus",29,2004,"12S;16S;COI",TRUE,TRUE,TRUE,"LC","LC",,"fish"
+282350,"Chordata","Teleostei","Acanthuriformes","Acanthuridae","Prionurus","Prionurus scalprum",,,"12S",FALSE,FALSE,TRUE,"DD","DD",,"fish"
+127045,"Chordata","Teleostei","Acanthuriformes","Siganidae","Siganus","Siganus rivulatus",,,"12S;16S;COI",FALSE,TRUE,TRUE,"LC","LC","rivulated rabbitfish","fish"
+277886,"Chordata","Teleostei","Acropomatiformes","Creediidae","Limnichthys","Limnichthys fasciatus",27,1977,"16S",TRUE,TRUE,TRUE,"LC","LC",,"fish"
+281528,"Chordata","Teleostei","Acropomatiformes","Hemerocoetidae","Matsubaraea","Matsubaraea fusiformis",,,"12S",FALSE,FALSE,TRUE,,,,"fish"
+277059,"Chordata","Teleostei","Acropomatiformes","Pempheridae","Pempheris","Pempheris japonica",,,"12S",FALSE,FALSE,TRUE,,,,"fish"
+277067,"Chordata","Teleostei","Acropomatiformes","Pempheridae","Pempheris","Pempheris rapa",,,"COI",FALSE,FALSE,TRUE,,,,"fish"
+217545,"Chordata","Teleostei","Anguilliformes","Congridae","Conger","Conger cinereus",3,,"12S;16S;COI",TRUE,TRUE,TRUE,"LC","LC","mustache conger","fish"
+217469,"Chordata","Teleostei","Anguilliformes","Muraenidae","Echidna","Echidna nebulosa",13,,"12S;COI",TRUE,TRUE,TRUE,"LC","LC","snowflake moray","fish"
+126298,"Chordata","Teleostei","Anguilliformes","Muraenidae","Enchelycore","Enchelycore anatina",,,"12S;16S",FALSE,FALSE,TRUE,"LC","LC","fangtooth moray","fish"
+271807,"Chordata","Teleostei","Anguilliformes","Muraenidae","Enchelycore","Enchelycore lichenosa",,,"12S",FALSE,FALSE,TRUE,"LC","LC",,"fish"
+217490,"Chordata","Teleostei","Anguilliformes","Muraenidae","Gymnothorax","Gymnothorax chilospilus",5,,"12S;16S;COI",TRUE,TRUE,TRUE,"LC","LC","lipspot moray","fish"
+217496,"Chordata","Teleostei","Anguilliformes","Muraenidae","Gymnothorax","Gymnothorax eurostus",23,1973,"12S;16S",TRUE,TRUE,TRUE,"LC","LC",,"fish"
+271843,"Chordata","Teleostei","Anguilliformes","Muraenidae","Gymnothorax","Gymnothorax kidako",,,"12S",FALSE,FALSE,TRUE,"LC","LC",,"fish"
+126301,"Chordata","Teleostei","Anguilliformes","Muraenidae","Gymnothorax","Gymnothorax unicolor",,,"12S",FALSE,FALSE,TRUE,"LC","LC",,"fish"
+217883,"Chordata","Teleostei","Atheriniformes","Atherinidae","Hypoatherina","Hypoatherina temminckii",6,,"12S;16S",TRUE,TRUE,TRUE,,,"Samoan silverside","fish"
+277725,"Chordata","Teleostei","Atheriniformes","Atherinidae","Hypoatherina","Hypoatherina tsurugae",,,"12S",FALSE,FALSE,TRUE,,,,"fish"
+276752,"Chordata","Teleostei","Atheriniformes","Isonidae","Iso","Iso hawaiiensis",,,"16S",FALSE,FALSE,TRUE,,,,"fish"
+272179,"Chordata","Teleostei","Beloniformes","Hemiramphidae","Hyporhamphus","Hyporhamphus australis",62,1973,"COI",TRUE,TRUE,TRUE,,,,"fish"
+272185,"Chordata","Teleostei","Beloniformes","Hemiramphidae","Hyporhamphus","Hyporhamphus limbatus",,,"12S",FALSE,FALSE,TRUE,"LC","LC",,"fish"
+272186,"Chordata","Teleostei","Beloniformes","Hemiramphidae","Hyporhamphus","Hyporhamphus melanochir",,,"16S",FALSE,FALSE,TRUE,,,,"fish"
+126377,"Chordata","Teleostei","Beloniformes","Belonidae","Platybelone","Platybelone argalus",17,1973,"12S;16S;COI",TRUE,TRUE,TRUE,"LC","LC","keeltail needlefish","fish"
+159259,"Chordata","Teleostei","Beloniformes","Belonidae","Tylosurus","Tylosurus crocodilus",,,"12S",FALSE,TRUE,TRUE,"LC","LC","houndfish","fish"
+219266,"Chordata","Teleostei","Blenniiformes","Blenniidae","Cirripectes","Cirripectes castaneus",4,,"16S",TRUE,TRUE,TRUE,"LC","LC","chestnut blenny","fish"
+276723,"Chordata","Teleostei","Blenniiformes","Blenniidae","Cirripectes","Cirripectes obscurus",,,"16S",FALSE,FALSE,TRUE,"LC","LC",,"fish"
+219263,"Chordata","Teleostei","Blenniiformes","Blenniidae","Cirripectes","Cirripectes quagga",,,"12S",FALSE,FALSE,TRUE,"LC","LC","squiggly blenny","fish"
+276882,"Chordata","Teleostei","Blenniiformes","Blenniidae","Enchelyurus","Enchelyurus ater",17,1973,"12S;COI",TRUE,TRUE,TRUE,"LC","LC",,"fish"
+277308,"Chordata","Teleostei","Blenniiformes","Tripterygiidae","Enneapterygius","Enneapterygius fuscoventer",,,"12S",FALSE,FALSE,TRUE,"LC","LC",,"fish"
+310593,"Chordata","Teleostei","Blenniiformes","Tripterygiidae","Enneapterygius","Enneapterygius leucopunctatus",,,"12S",FALSE,FALSE,TRUE,"NT","NT",,"fish"
+219282,"Chordata","Teleostei","Blenniiformes","Blenniidae","Entomacrodus","Entomacrodus striatus",21,1973,"12S;16S;COI",TRUE,TRUE,TRUE,"LC","LC","reef margin blenny","fish"
+281066,"Chordata","Teleostei","Blenniiformes","Clinidae","Heteroclinus","Heteroclinus roseus",31,1973,"16S",TRUE,TRUE,TRUE,"LC","LC","rosy weedfish","fish"
+277937,"Chordata","Teleostei","Blenniiformes","Blenniidae","Stanulus","Stanulus talboti",3,1973,"COI",TRUE,TRUE,TRUE,"LC","LC",,"fish"
+212051,"Chordata","Teleostei","Carangaria incertae sedis","Sphyraenidae","Sphyraena","Sphyraena flavicauda",,,"COI",FALSE,FALSE,TRUE,,,"yellowtail barracuda","fish"
+212056,"Chordata","Teleostei","Carangaria incertae sedis","Sphyraenidae","Sphyraena","Sphyraena obtusata",2,,"12S",TRUE,TRUE,TRUE,,,"obtuse barracuda","fish"
+218404,"Chordata","Teleostei","Carangiformes","Carangidae","Caranx","Caranx sexfasciatus",2,,"12S",TRUE,TRUE,TRUE,"LC","LC","bigeye trevally","fish"
+126807,"Chordata","Teleostei","Carangiformes","Carangidae","Decapterus","Decapterus macarellus",,,"16S",FALSE,FALSE,TRUE,"LC","LC","mackerel scad","fish"
+273279,"Chordata","Teleostei","Carangiformes","Carangidae","Decapterus","Decapterus muroadsi",11,1973,"COI",TRUE,TRUE,TRUE,"LC","LC","amberstripe scad","fish"
+126812,"Chordata","Teleostei","Carangiformes","Carangidae","Pseudocaranx","Pseudocaranx dentex",57,2004,"12S;16S;COI",TRUE,TRUE,TRUE,"LC","LC","guelly jack, carangue dentue","fish"
+218436,"Chordata","Teleostei","Carangiformes","Carangidae","Seriola","Seriola lalandi",18,2004,"12S;16S",TRUE,TRUE,TRUE,"LC","LC","yellowtail, sériole chicard","fish"
+218444,"Chordata","Teleostei","Carangiformes","Carangidae","Trachurus","Trachurus capensis",,,"12S",FALSE,FALSE,TRUE,"LC","LC","Cape horse mackerel","fish"
+279657,"Chordata","Teleostei","Centrarchiformes","Aplodactylidae","Aplodactylus","Aplodactylus etheridgii",19,1973,"COI",TRUE,TRUE,TRUE,,,,"fish"
+279659,"Chordata","Teleostei","Centrarchiformes","Aplodactylidae","Aplodactylus","Aplodactylus punctatus",,,"16S",FALSE,FALSE,TRUE,,,,"fish"
+280857,"Chordata","Teleostei","Centrarchiformes","Kyphosidae","Girella","Girella cyanea",75,2004,"16S",TRUE,TRUE,TRUE,,,,"fish"
+280922,"Chordata","Teleostei","Centrarchiformes","Cheilodactylidae","Goniistius","Goniistius zebra",,,"12S",FALSE,FALSE,TRUE,,,,"fish"
+218707,"Chordata","Teleostei","Centrarchiformes","Kyphosidae","Kyphosus","Kyphosus bigibbus",11,1973,"12S",TRUE,TRUE,TRUE,"LC","LC","grey sea chub","fish"
+218708,"Chordata","Teleostei","Centrarchiformes","Kyphosidae","Kyphosus","Kyphosus cinerascens",3,,"12S",TRUE,TRUE,TRUE,"LC","LC","snubnose chub","fish"
+273524,"Chordata","Teleostei","Centrarchiformes","Kyphosidae","Kyphosus","Kyphosus pacificus",,,"12S;16S;COI",FALSE,TRUE,TRUE,,,,"fish"
+273525,"Chordata","Teleostei","Centrarchiformes","Kyphosidae","Kyphosus","Kyphosus sydneyanus",3,2004,"12S",TRUE,TRUE,TRUE,,,,"fish"
+218706,"Chordata","Teleostei","Centrarchiformes","Kyphosidae","Kyphosus","Kyphosus vaigiensis",,,"16S",FALSE,TRUE,TRUE,"LC","LC","brassy chub","fish"
+281245,"Chordata","Teleostei","Centrarchiformes","Kyphosidae","Labracoglossa","Labracoglossa argenteiventris",,,"12S",FALSE,FALSE,TRUE,,,"Yellow-striped butterfish","fish"
+281558,"Chordata","Teleostei","Centrarchiformes","Kyphosidae","Microcanthus","Microcanthus strigatus",22,1973,"16S",TRUE,TRUE,TRUE,"LC","LC",,"fish"
+280725,"Chordata","Teleostei","Clupeiformes","Dorosomatidae","Ethmalosa","Ethmalosa fimbriata",,,"12S",FALSE,FALSE,TRUE,"LC","LC","Bonga shad","fish"
+280790,"Chordata","Teleostei","Cyprinodontiformes","Cyprinodontidae","Floridichthys","Floridichthys carpio",,,"12S",FALSE,FALSE,TRUE,"LC","LC","goldspotted killifish","fish"
+218920,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Anampses","Anampses caeruleopunctatus",9,1973,"12S;16S;COI",TRUE,TRUE,TRUE,"LC","LC","bluespotted wrasse","fish"
+279170,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Anampses","Anampses elegans",37,1973,"16S",TRUE,TRUE,TRUE,"LC","LC",,"fish"
+219075,"Chordata","Teleostei","Eupercaria incertae sedis","Scaridae","Calotomus","Calotomus spinidens",,,"16S",FALSE,FALSE,TRUE,"LC","LC","spinytooth parrotfish","fish"
+218948,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Cheilio","Cheilio inermis",2,,"12S;16S;COI",TRUE,TRUE,TRUE,"LC","LC","cigar wrasse","fish"
+219082,"Chordata","Teleostei","Eupercaria incertae sedis","Scaridae","Chlorurus","Chlorurus sordidus",8,1973,"12S;16S",TRUE,TRUE,TRUE,"LC","LC",,"fish"
+218957,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Coris","Coris aygula",7,,"12S;16S;COI",TRUE,TRUE,TRUE,"LC","LC","clown wrasse","fish"
+218966,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Cymolutes","Cymolutes torquatus",3,,"12S;16S",TRUE,TRUE,TRUE,"LC","LC","finescale razorfish","fish"
+126976,"Chordata","Teleostei","Eupercaria incertae sedis","Moronidae","Dicentrarchus","Dicentrarchus punctatus",,,"12S",FALSE,FALSE,TRUE,"LC","LC","spotted sea-bass, bar moucheté","fish"
+998229,"Chordata","Teleostei","Eupercaria incertae sedis","Sparidae","Diplodus","Diplodus kotschyi",,,"12S",FALSE,FALSE,TRUE,,,,"fish"
+159733,"Chordata","Teleostei","Eupercaria incertae sedis","Gerreidae","Eucinostomus","Eucinostomus gula",,,"12S",FALSE,FALSE,TRUE,"LC","LC","Jenny mojarra","fish"
+218976,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Gomphosus","Gomphosus caeruleus",,,"16S",FALSE,FALSE,TRUE,"LC","LC","Red Sea bird wrasse","fish"
+218987,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Halichoeres","Halichoeres margaritaceus",33,1973,"16S",TRUE,TRUE,TRUE,"LC","LC",,"fish"
+275804,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Halichoeres","Halichoeres trimaculatus",16,,"16S;COI",TRUE,TRUE,TRUE,"LC","LC",,"fish"
+218998,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Hemigymnus","Hemigymnus melapterus",3,,"12S;16S",TRUE,TRUE,TRUE,"LC","LC","thicklip wrasse","fish"
+219004,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Iniistius","Iniistius pavo",9,2004,"12S",TRUE,TRUE,TRUE,"LC","LC","peacock razorfish","fish"
+219014,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Labroides","Labroides dimidiatus",8,2004,"12S",TRUE,TRUE,TRUE,"LC","LC","cleaner wrasse","fish"
+219091,"Chordata","Teleostei","Eupercaria incertae sedis","Scaridae","Leptoscarus","Leptoscarus vaigiensis",8,,"12S;16S",TRUE,TRUE,TRUE,"LC","LC","marbled parrotfish","fish"
+212081,"Chordata","Teleostei","Eupercaria incertae sedis","Lethrinidae","Lethrinus","Lethrinus nebulosus",7,2004,"12S;16S;COI",TRUE,TRUE,TRUE,"LC","LC","spangled emperor","fish"
+281789,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Notolabrus","Notolabrus gymnogenis",9,,"16S",TRUE,TRUE,TRUE,"LC","LC",,"fish"
+281790,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Notolabrus","Notolabrus inscriptus",79,1973,"COI",TRUE,TRUE,TRUE,"LC","LC",,"fish"
+593553,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Novaculoides","Novaculoides macrolepidotus",2,,"COI",TRUE,TRUE,TRUE,,,"seagrass wrasse","fish"
+282258,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Pictilabrus","Pictilabrus laticlavius",2,,"12S",TRUE,TRUE,TRUE,"LC","LC",,"fish"
+218555,"Chordata","Teleostei","Eupercaria incertae sedis","Haemulidae","Plectorhinchus","Plectorhinchus picus",1,,"16S;COI",TRUE,TRUE,TRUE,,,"painted sweetlip","fish"
+218360,"Chordata","Teleostei","Eupercaria incertae sedis","Priacanthidae","Priacanthus","Priacanthus hamrur",3,,"COI",TRUE,TRUE,TRUE,"LC","LC","goggle-eye","fish"
+208915,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Pseudocheilinus","Pseudocheilinus hexataenia",5,1973,"12S;16S;COI",TRUE,TRUE,TRUE,"LC","LC","sixstripe wrasse","fish"
+282438,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Pseudolabrus","Pseudolabrus luculentus",105,2004,"12S;16S;COI",TRUE,TRUE,TRUE,"LC","LC",,"fish"
+276039,"Chordata","Teleostei","Eupercaria incertae sedis","Scaridae","Scarus","Scarus altipinnis",3,,"COI",TRUE,TRUE,TRUE,"LC","LC",,"fish"
+219113,"Chordata","Teleostei","Eupercaria incertae sedis","Scaridae","Scarus","Scarus frenatus",1,,"COI",TRUE,TRUE,TRUE,"LC","LC","bridled parrotfish","fish"
+219127,"Chordata","Teleostei","Eupercaria incertae sedis","Scaridae","Scarus","Scarus ghobban",9,1973,"12S;COI",TRUE,TRUE,TRUE,"LC","LC","bluechin parrotfish","fish"
+219104,"Chordata","Teleostei","Eupercaria incertae sedis","Scaridae","Scarus","Scarus globiceps",3,,"12S;COI",TRUE,TRUE,TRUE,"LC","LC","globehead parrotfish","fish"
+219093,"Chordata","Teleostei","Eupercaria incertae sedis","Scaridae","Scarus","Scarus prasiognathos",,,"12S;16S",FALSE,FALSE,TRUE,"LC","LC",,"fish"
+219125,"Chordata","Teleostei","Eupercaria incertae sedis","Scaridae","Scarus","Scarus psittacus",5,1973,"12S;16S;COI",TRUE,TRUE,TRUE,"LC","LC","palenose parrotfish","fish"
+219124,"Chordata","Teleostei","Eupercaria incertae sedis","Scaridae","Scarus","Scarus rubroviolaceus",,,"16S",FALSE,FALSE,TRUE,"LC","LC","ember parrotfish","fish"
+276060,"Chordata","Teleostei","Eupercaria incertae sedis","Scaridae","Scarus","Scarus schlegeli",1,,"12S;16S",TRUE,TRUE,TRUE,"LC","LC",,"fish"
+219058,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Stethojulis","Stethojulis albovittata",,,"12S",FALSE,FALSE,TRUE,"LC","LC","bluelined wrasse","fish"
+277106,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Stethojulis","Stethojulis bandanensis",24,1973,"12S;16S;COI",TRUE,TRUE,TRUE,"LC","LC",,"fish"
+219061,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Stethojulis","Stethojulis strigiventer",1,,"12S;16S;COI",TRUE,TRUE,TRUE,"LC","LC","three-ribbon rainbowfish","fish"
+277110,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Stethojulis","Stethojulis terina",,,"12S",FALSE,FALSE,TRUE,"LC","LC",,"fish"
+159786,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Thalassoma","Thalassoma bifasciatum",,,"12S",FALSE,FALSE,TRUE,"LC","LC","bluehead","fish"
+273579,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Thalassoma","Thalassoma duperrey",,,"12S",FALSE,FALSE,TRUE,"LC","LC",,"fish"
+212215,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Thalassoma","Thalassoma genivittatum",,,"16S",FALSE,FALSE,TRUE,"LC","LC",,"fish"
+212217,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Thalassoma","Thalassoma hardwicke",5,1973,"16S",TRUE,TRUE,TRUE,"LC","LC",,"fish"
+212209,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Thalassoma","Thalassoma lunare",21,2004,"16S",TRUE,TRUE,TRUE,"LC","LC","moon wrasse","fish"
+273585,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Thalassoma","Thalassoma lutescens",52,1973,"12S",TRUE,TRUE,TRUE,"LC","LC",,"fish"
+212213,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Thalassoma","Thalassoma purpureum",36,,"16S;COI",TRUE,TRUE,TRUE,"LC","LC","surge wrasse","fish"
+212212,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Thalassoma","Thalassoma trilobatum",6,,"COI",TRUE,TRUE,TRUE,"LC","LC","Christmas wrasse","fish"
+281402,"Chordata","Teleostei","Gadiformes","Moridae","Lotella","Lotella phycis",19,1973,"12S",TRUE,TRUE,TRUE,,,,"fish"
+279747,"Chordata","Teleostei","Gobiesociformes","Gobiesocidae","Aspasma","Aspasma minima",,,"16S",FALSE,FALSE,TRUE,,,,"fish"
+219759,"Chordata","Teleostei","Gobiesociformes","Gobiesocidae","Lepadichthys","Lepadichthys lineatus",,,"16S",FALSE,FALSE,TRUE,"LC","LC",,"fish"
+278655,"Chordata","Teleostei","Gobiiformes","Gobiidae","Amblygobius","Amblygobius phalaena",6,,"12S",TRUE,TRUE,TRUE,"LC","LC",,"fish"
+209216,"Chordata","Teleostei","Gobiiformes","Gobiidae","Bathygobius","Bathygobius cocosensis",56,1973,"12S;16S;COI",TRUE,TRUE,TRUE,"LC","LC",,"fish"
+209215,"Chordata","Teleostei","Gobiiformes","Gobiidae","Bathygobius","Bathygobius fuscus",,,"12S",FALSE,FALSE,TRUE,"LC","LC","dusky frill-goby","fish"
+278878,"Chordata","Teleostei","Gobiiformes","Gobiidae","Callogobius","Callogobius hasseltii",,,"12S",FALSE,FALSE,TRUE,"LC","LC",,"fish"
+278882,"Chordata","Teleostei","Gobiiformes","Gobiidae","Callogobius","Callogobius nigromarginatus",,,"16S",FALSE,FALSE,TRUE,,,,"fish"
+278580,"Chordata","Teleostei","Gobiiformes","Gobiidae","Eviota","Eviota afelei",16,1973,"12S",TRUE,TRUE,TRUE,"LC","LC","Afele's fringefin goby","fish"
+219463,"Chordata","Teleostei","Gobiiformes","Gobiidae","Eviota","Eviota prasina",43,,"16S",TRUE,TRUE,TRUE,"LC","LC","green bubble goby","fish"
+219475,"Chordata","Teleostei","Gobiiformes","Gobiidae","Gnatholepis","Gnatholepis anjerensis",,,"COI",FALSE,TRUE,TRUE,"LC","LC",,"fish"
+126913,"Chordata","Teleostei","Gobiiformes","Gobiidae","Neogobius","Neogobius fluviatilis",,,"12S",FALSE,FALSE,TRUE,"LC","LC","monkey goby","fish"
+209402,"Chordata","Teleostei","Kurtiformes","Apogonidae","Fowleria","Fowleria vaiulae",,,"12S",FALSE,FALSE,TRUE,,,,"fish"
+713303,"Chordata","Teleostei","Kurtiformes","Apogonidae","Ostorhinchus","Ostorhinchus doederleini",35,2004,"12S;COI",TRUE,TRUE,TRUE,"LC","LC",,"fish"
+273647,"Chordata","Teleostei","Mugiliformes","Mugilidae","Mugil","Mugil bananensis",,,"12S",FALSE,FALSE,TRUE,"LC","LC",,"fish"
+126983,"Chordata","Teleostei","Mugiliformes","Mugilidae","Mugil","Mugil cephalus",,,"12S;16S",FALSE,FALSE,TRUE,"LC","LC","grey mullet, muge","fish"
+159416,"Chordata","Teleostei","Mugiliformes","Mugilidae","Mugil","Mugil curema",,,"12S",FALSE,FALSE,TRUE,"LC","LC","silverside mullet","fish"
+276971,"Chordata","Teleostei","Mugiliformes","Mugilidae","Myxus","Myxus elongatus",72,1973,"12S;16S",TRUE,TRUE,TRUE,,,,"fish"
+218661,"Chordata","Teleostei","Mulliformes","Mullidae","Parupeneus","Parupeneus ciliatus",2,,"12S",TRUE,TRUE,TRUE,"LC","LC","whitesaddle goatfish","fish"
+218662,"Chordata","Teleostei","Mulliformes","Mullidae","Parupeneus","Parupeneus porphyreus",,,"16S",FALSE,FALSE,TRUE,"NT","NT",,"fish"
+277825,"Chordata","Teleostei","Mulliformes","Mullidae","Parupeneus","Parupeneus spilurus",50,2004,"COI",TRUE,TRUE,TRUE,"LC","LC","blackspot goatfish, rouget-barbet à tache noire","fish"
+126586,"Chordata","Teleostei","Myctophiformes","Myctophidae","Ceratoscopelus","Ceratoscopelus warmingii",8,,"12S",TRUE,TRUE,TRUE,"LC","LC","Warming's lantern fish","fish"
+159289,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Abudefduf","Abudefduf sexfasciatus",9,2004,"COI",TRUE,TRUE,TRUE,"LC","LC","scissortail sergeant","fish"
+278392,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Amphiprion","Amphiprion akindynos",,,"COI",FALSE,FALSE,TRUE,"LC","LC",,"fish"
+212812,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Chromis","Chromis atripectoralis",3,1973,"12S;16S",TRUE,TRUE,TRUE,"LC","LC","black-axil chromis","fish"
+273730,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Chromis","Chromis hypsilepis",40,1973,"COI",TRUE,TRUE,TRUE,"LC","LC",,"fish"
+1373367,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Chromis","Chromis tingting",,,"16S",FALSE,FALSE,TRUE,,,,"fish"
+276831,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Chrysiptera","Chrysiptera galba",,,"12S;16S",FALSE,FALSE,TRUE,"LC","LC",,"fish"
+212843,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Dascyllus","Dascyllus aruanus",5,1973,"12S",TRUE,TRUE,TRUE,"LC","LC","banded dascyllus","fish"
+278815,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Neoglyphidodon","Neoglyphidodon polyacanthus",98,1973,"12S;16S",TRUE,TRUE,TRUE,"LC","LC",,"fish"
+282156,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Parma","Parma microlepis",,,"16S",FALSE,TRUE,TRUE,"LC","LC",,"fish"
+282158,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Parma","Parma oligolepis",2,,"12S;16S;COI",TRUE,TRUE,TRUE,"LC","LC",,"fish"
+212855,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Plectroglyphidodon","Plectroglyphidodon dickii",3,1973,"12S;COI",TRUE,TRUE,TRUE,"NT","NT","blackbar devil","fish"
+1605252,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Plectroglyphidodon","Plectroglyphidodon gascoynei",22,1973,"12S",TRUE,TRUE,TRUE,,,,"fish"
+212859,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Plectroglyphidodon","Plectroglyphidodon johnstonianus",9,1973,"12S;16S;COI",TRUE,TRUE,TRUE,"LC","LC","Johnston Island damsel","fish"
+212854,"Chordata","Teleostei","Ovalentaria incertae sedis","Pomacentridae","Plectroglyphidodon","Plectroglyphidodon leucozonus",2,,"12S;16S;COI",TRUE,TRUE,TRUE,"LC","LC",,"fish"
+276822,"Chordata","Teleostei","Ovalentaria incertae sedis","Plesiopidae","Plesiops","Plesiops verecundus",,,"12S",FALSE,FALSE,TRUE,,,,"fish"
+278723,"Chordata","Teleostei","Perciformes","Serranidae","Acanthistius","Acanthistius ocellatus",3,,"16S",TRUE,TRUE,TRUE,"LC","LC",,"fish"
+234801,"Chordata","Teleostei","Perciformes","Nototheniidae","Pagothenia","Pagothenia borchgrevinki",,,"12S",FALSE,FALSE,TRUE,,,"bald notothen","fish"
+219155,"Chordata","Teleostei","Perciformes","Pinguipedidae","Parapercis","Parapercis cylindrica",1,,"16S",TRUE,TRUE,TRUE,"LC","LC","cylindrical sandperch","fish"
+712541,"Chordata","Teleostei","Perciformes","Scorpaenidae","Scorpaenodes","Scorpaenodes evides",11,1973,"COI",TRUE,TRUE,TRUE,"LC","LC",,"fish"
+283033,"Chordata","Teleostei","Perciformes","Serranidae","Trachypoma","Trachypoma macracanthus",105,1973,"16S",TRUE,TRUE,TRUE,"LC","LC",,"fish"
+279693,"Chordata","Teleostei","Scombriformes","Arripidae","Arripis","Arripis trutta",19,1903,"12S",TRUE,TRUE,TRUE,,,,"fish"
+159423,"Chordata","Teleostei","Scombriformes","Nomeidae","Cubiceps","Cubiceps capensis",,,"16S",FALSE,FALSE,TRUE,"LC","LC","Cape cubehead","fish"
+126993,"Chordata","Teleostei","Scombriformes","Nomeidae","Psenes","Psenes pellucidus",4,2001,"12S;16S",TRUE,TRUE,TRUE,"LC","LC","bluefin driftfish","fish"
+219742,"Chordata","Teleostei","Scombriformes","Centrolophidae","Schedophilus","Schedophilus velaini",2,,"12S",TRUE,TRUE,TRUE,"LC","LC",,"fish"
+217966,"Chordata","Teleostei","Syngnathiformes","Fistulariidae","Fistularia","Fistularia commersonii",11,1973,"12S;16S",TRUE,TRUE,TRUE,"LC","LC","cornetfish","fish"
+218013,"Chordata","Teleostei","Syngnathiformes","Syngnathidae","Halicampus","Halicampus dunckeri",,,"12S",FALSE,FALSE,TRUE,"LC","LC",,"fish"
+282894,"Chordata","Teleostei","Syngnathiformes","Syngnathidae","Stigmatopora","Stigmatopora nigra",,,"COI",FALSE,TRUE,TRUE,"LC","LC",,"fish"
+159491,"Chordata","Teleostei","Tetraodontiformes","Monacanthidae","Aluterus","Aluterus scriptus",,,"12S;COI",FALSE,TRUE,TRUE,"LC","LC","scrawled filefish","fish"
+220058,"Chordata","Teleostei","Tetraodontiformes","Monacanthidae","Cantherhines","Cantherhines pardalis",5,,"COI",TRUE,TRUE,TRUE,"LC","LC","wier-net filefish","fish"
+275248,"Chordata","Teleostei","Tetraodontiformes","Tetraodontidae","Canthigaster","Canthigaster callisterna",50,2004,"COI",TRUE,TRUE,TRUE,"LC","LC",,"fish"
+127411,"Chordata","Teleostei","Tetraodontiformes","Tetraodontidae","Canthigaster","Canthigaster rostrata",,,"16S",FALSE,FALSE,TRUE,"LC","LC","sharpnose puffer","fish"
+127403,"Chordata","Teleostei","Tetraodontiformes","Diodontidae","Diodon","Diodon hystrix",13,,"12S",TRUE,TRUE,TRUE,"LC","LC","spot-fin porcupinefish","fish"
+220072,"Chordata","Teleostei","Tetraodontiformes","Monacanthidae","Pervagor","Pervagor janthinosoma",2,,"12S;16S",TRUE,TRUE,TRUE,"LC","LC","blackbar filefish","fish"
+276852,"Chordata","Teleostei","Tetraodontiformes","Balistidae","Sufflamen","Sufflamen fraenatum",20,2004,"COI",TRUE,TRUE,TRUE,"LC","LC",,"fish"
+100495,"Ascomycota","Eurotiomycetes","Eurotiales","Trichocomaceae","Aspergillus","Aspergillus niger",,,"COI",FALSE,FALSE,TRUE,,,,"fungi"
+100498,"Ascomycota","Eurotiomycetes","Eurotiales","Trichocomaceae","Aspergillus","Aspergillus versicolor",,,"COI",FALSE,FALSE,TRUE,,,,"fungi"
+100537,"Ascomycota","Eurotiomycetes","Eurotiales","Trichocomaceae","Penicillium","Penicillium chrysogenum",,,"COI",FALSE,FALSE,TRUE,,,,"fungi"
+288925,"Cnidaria","Anthozoa","Actiniaria","Boloceroididae","Boloceroides","Boloceroides mcmurrichi",,,"COI",FALSE,FALSE,TRUE,,,,"jellyfish"
+100889,"Cnidaria","Anthozoa","Actiniaria","Edwardsiidae","Edwardsia","Edwardsia longicornis",,,"COI",FALSE,FALSE,TRUE,,,,"jellyfish"
+1264073,"Cnidaria","Anthozoa","Actiniaria","Aiptasiidae","Exaiptasia","Exaiptasia diaphana",,,"COI",FALSE,TRUE,TRUE,,,,"jellyfish"
+854806,"Cnidaria","Anthozoa","Actiniaria","Sagartiidae","Sagartia","Sagartia lacerata",,,"COI",FALSE,FALSE,TRUE,,,,"jellyfish"
+291134,"Cnidaria","Anthozoa","Actiniaria","Stichodactylidae","Stichodactyla","Stichodactyla haddoni",,,"COI",FALSE,FALSE,TRUE,,,"Haddon's sea anemone","jellyfish"
+220506,"Cnidaria","Anthozoa","Actiniaria","Aliciidae","Triactis","Triactis producta",,,"COI",FALSE,FALSE,TRUE,,,"crab anemone","jellyfish"
+209609,"Cnidaria","Anthozoa","Malacalcyonacea","Cladiellidae","Cladiella","Cladiella pachyclados",,,"COI",FALSE,FALSE,TRUE,,,,"jellyfish"
+125338,"Cnidaria","Anthozoa","Malacalcyonacea","Clavulariidae","Clavularia","Clavularia crassa",,,"COI",FALSE,FALSE,TRUE,"LC","LC",,"jellyfish"
+209965,"Cnidaria","Anthozoa","Malacalcyonacea","Sarcophytidae","Lobophytum","Lobophytum crassum",,,"COI",FALSE,FALSE,TRUE,,,,"jellyfish"
+207449,"Cnidaria","Anthozoa","Scleractinia","Merulinidae","Favites","Favites abdita",3,,"COI",TRUE,TRUE,TRUE,"NT","NT","larger star coral","jellyfish"
+759099,"Cnidaria","Anthozoa","Scleractinia","Pocilloporidae","Pocillopora","Pocillopora acuta",,,"COI",FALSE,FALSE,TRUE,,,,"jellyfish"
+206982,"Cnidaria","Anthozoa","Scleractinia","Pocilloporidae","Stylophora","Stylophora pistillata",12,2007,"COI",TRUE,TRUE,TRUE,"NT","NT","hood coral","jellyfish"
+1586368,"Cnidaria","Hydrozoa","Anthoathecata","Cladonematidae","Cladonema","Cladonema multiramosum",,,"COI",FALSE,FALSE,TRUE,,,,"jellyfish"
+117544,"Cnidaria","Hydrozoa","Anthoathecata","Eudendriidae","Eudendrium","Eudendrium capillare",,,"COI",FALSE,FALSE,TRUE,,,,"jellyfish"
+288110,"Cnidaria","Hydrozoa","Anthoathecata","Zancleopsidae","Zancleopsis","Zancleopsis dichotoma",,,"COI",FALSE,FALSE,TRUE,,,,"jellyfish"
+231663,"Cnidaria","Hydrozoa","Leptothecata","Halopterididae","Antennella","Antennella ansini",,,"COI",FALSE,FALSE,TRUE,,,,"jellyfish"
+117367,"Cnidaria","Hydrozoa","Leptothecata","Campanulariidae","Clytia","Clytia gracilis",,,"COI",FALSE,FALSE,TRUE,,,,"jellyfish"
+285299,"Cnidaria","Hydrozoa","Leptothecata","Plumulariidae","Plumularia","Plumularia strictocarpa",,,"COI",FALSE,FALSE,TRUE,,,,"jellyfish"
+196539,"Cnidaria","Hydrozoa","Siphonophorae","Forskaliidae","Forskalia","Forskalia tholoides",,,"COI",FALSE,FALSE,TRUE,,,,"jellyfish"
+135495,"Cnidaria","Hydrozoa","Siphonophorae","Agalmatidae","Nanomia","Nanomia bijuga",,,"COI",FALSE,FALSE,TRUE,,,,"jellyfish"
+220477,"Cnidaria","Scyphozoa","Semaeostomeae","Pelagiidae","Pelagia","Pelagia panopyra",,,"COI",FALSE,FALSE,TRUE,,,,"jellyfish"
+880519,"Cnidaria","Staurozoa","Stauromedusae","Haliclystidae","Haliclystus","Haliclystus inabai",,,"COI",FALSE,FALSE,TRUE,,,,"jellyfish"
+106403,"Ctenophora","Tentaculata","Platyctenida","Coeloplanidae","Vallicula","Vallicula multiformis",,,"COI",FALSE,FALSE,TRUE,,,,"jellyfish"
+231413,"Chordata","Mammalia","Carnivora","Phocidae","Mirounga","Mirounga leonina",,,"12S;16S",FALSE,FALSE,TRUE,"LC","LC","southern elephant seal","mammals"
+254985,"Chordata","Mammalia","Cetartiodactyla","Phocoenidae","Neophocaena","Neophocaena phocaenoides",,,"COI",FALSE,FALSE,TRUE,"VU","VU","Indian dolphin, marsouin aptere","mammals"
+420779,"Mollusca","Bivalvia","Ostreida","Ostreidae","Dendostrea","Dendostrea frons",,,"COI",FALSE,FALSE,TRUE,,,"frond oyster","molluscs"
+534098,"Mollusca","Cephalopoda","Octopoda","Octopodidae","Amphioctopus","Amphioctopus kagoshimensis",1,2008,"COI",TRUE,TRUE,TRUE,"LC","LC",,"molluscs"
+534728,"Mollusca","Cephalopoda","Octopoda","Octopodidae","Callistoctopus","Callistoctopus ornatus",,,"COI",FALSE,TRUE,TRUE,"LC","LC","ornate octopus","molluscs"
+210788,"Mollusca","Cephalopoda","Octopoda","Octopodidae","Octopus","Octopus cyanea",,,"COI",FALSE,TRUE,TRUE,"LC","LC","Cyane's octopus","molluscs"
+341854,"Mollusca","Cephalopoda","Oegopsida","Enoploteuthidae","Abraliopsis","Abraliopsis tui",,,"COI",FALSE,FALSE,TRUE,"DD","DD",,"molluscs"
+730434,"Mollusca","Gastropoda","Aplysiida","Aplysiidae","Aplysia","Aplysia argus",,,"COI",FALSE,TRUE,TRUE,,,,"molluscs"
+531601,"Mollusca","Gastropoda","Aplysiida","Aplysiidae","Aplysia","Aplysia concava",,,"COI",FALSE,TRUE,TRUE,,,,"molluscs"
+138757,"Mollusca","Gastropoda","Aplysiida","Aplysiidae","Aplysia","Aplysia parvula",5,1987,"COI",TRUE,TRUE,TRUE,,,"dwarf sea hare, petit lièvre de mer","molluscs"
+208629,"Mollusca","Gastropoda","Aplysiida","Aplysiidae","Dolabella","Dolabella auricularia",1,2005,"COI",TRUE,TRUE,TRUE,,,"wedge sea hare","molluscs"
+224662,"Mollusca","Gastropoda","Aplysiida","Aplysiidae","Stylocheilus","Stylocheilus striatus",2,2005,"COI",TRUE,TRUE,TRUE,,,,"molluscs"
+1313720,"Mollusca","Gastropoda","Cephalaspidea","Haminoeidae","Phanerophthalmus","Phanerophthalmus paulayi",,,"COI",FALSE,FALSE,TRUE,,,,"molluscs"
+492573,"Mollusca","Gastropoda","Lepetellida","Fissurellidae","Scutus","Scutus forsythi",22,2008,"COI",TRUE,TRUE,TRUE,,,,"molluscs"
+766314,"Mollusca","Gastropoda","Littorinimorpha","Vermetidae","Cupolaconcha","Cupolaconcha meroclista",,,"COI",FALSE,FALSE,TRUE,,,,"molluscs"
+594489,"Mollusca","Gastropoda","Littorinimorpha","Vermetidae","Dendropoma","Dendropoma gregarium",,,"COI",FALSE,FALSE,TRUE,,,,"molluscs"
+530884,"Mollusca","Gastropoda","Littorinimorpha","Cypraeidae","Lyncina","Lyncina vitellus",13,2008,"COI",TRUE,TRUE,TRUE,,,,"molluscs"
+570811,"Mollusca","Gastropoda","Littorinimorpha","Cypraeidae","Monetaria","Monetaria caputserpentis",20,2008,"COI",TRUE,TRUE,TRUE,,,"serpent's head cowry","molluscs"
+716641,"Mollusca","Gastropoda","Neogastropoda","Muricidae","Oppomorus","Oppomorus noduliferus",23,2007,"COI",TRUE,TRUE,TRUE,,,,"molluscs"
+527814,"Mollusca","Gastropoda","Nudibranchia","Actinocyclidae","Actinocyclus","Actinocyclus verrucosus",,,"COI",FALSE,TRUE,TRUE,,,,"molluscs"
+872612,"Mollusca","Gastropoda","Nudibranchia","Discodorididae","Carminodoris","Carminodoris grandiflora",,,"COI",FALSE,FALSE,TRUE,,,,"molluscs"
+1669266,"Mollusca","Gastropoda","Nudibranchia","Tritoniidae","Marioniopsis","Marioniopsis hawaiiensis",,,"COI",FALSE,FALSE,TRUE,,,,"molluscs"
+181237,"Mollusca","Gastropoda","Nudibranchia","Tethydidae","Melibe","Melibe viridis",,,"COI",FALSE,TRUE,TRUE,,,,"molluscs"
+536574,"Mollusca","Gastropoda","Nudibranchia","Phyllidiidae","Phyllidiella","Phyllidiella pustulosa",1,1979,"COI",TRUE,TRUE,TRUE,,,"pustulose wart slug","molluscs"
+536548,"Mollusca","Gastropoda","Nudibranchia","Pinufiidae","Pinufius","Pinufius rebus",,,"COI",FALSE,FALSE,TRUE,,,,"molluscs"
+866654,"Mollusca","Gastropoda","Nudibranchia","Chromodorididae","Verconia","Verconia haliclona",,,"COI",FALSE,FALSE,TRUE,,,,"molluscs"
+140815,"Mollusca","Gastropoda","Pleurobranchida","Pleurobranchidae","Berthellina","Berthellina citrina",1,1938,"COI",TRUE,TRUE,TRUE,,,"lemon pleurobranch","molluscs"
+599473,"Mollusca","Gastropoda","Pleurobranchida","Pleurobranchidae","Pleurobranchus","Pleurobranchus albiguttatus",1,1970,"COI",TRUE,TRUE,TRUE,,,,"molluscs"
+599477,"Mollusca","Gastropoda","Pleurobranchida","Pleurobranchidae","Pleurobranchus","Pleurobranchus peronii",4,2003,"COI",TRUE,TRUE,TRUE,,,,"molluscs"
+849352,"Mollusca","Gastropoda","Pleurobranchida","Pleurobranchidae","Pleurobranchus","Pleurobranchus varians",,,"COI",FALSE,FALSE,TRUE,,,,"molluscs"
+141877,"Mollusca","Gastropoda","Umbraculida","Tylodinidae","Tylodina","Tylodina perversa",,,"COI",FALSE,FALSE,TRUE,,,"yellow umbrella slug, tylodine jaune","molluscs"
+545396,"Mollusca","Gastropoda",,"Plakobranchidae","Elysia","Elysia asbecki",,,"COI",FALSE,FALSE,TRUE,,,,"molluscs"
+494434,"Mollusca","Gastropoda",,"Plakobranchidae","Elysia","Elysia bennettae",,,"COI",FALSE,TRUE,TRUE,,,,"molluscs"
+215423,"Mollusca","Gastropoda",,"Aplustridae","Hydatina","Hydatina physis",7,2013,"COI",TRUE,TRUE,TRUE,,,"striped bubble shell","molluscs"
+494418,"Mollusca","Gastropoda",,"Volvatellidae","Volvatella","Volvatella viridis",,,"COI",FALSE,FALSE,TRUE,,,,"molluscs"
+120664,"Amoebozoa","Discosea","Dactylopodida","Vexilliferidae","Neoparamoeba","Neoparamoeba aestuarina",,,"COI",FALSE,FALSE,TRUE,,,,"single-cell"
+120665,"Amoebozoa","Discosea","Dactylopodida","Vexilliferidae","Neoparamoeba","Neoparamoeba pemaquidensis",,,"COI",FALSE,FALSE,TRUE,,,,"single-cell"
+376147,"Cercozoa","Chlorarachnea","Chlorachniida","Chlorarachniaceae","Chlorarachnion","Chlorarachnion reptans",,,"COI",FALSE,FALSE,TRUE,,,,"single-cell"
+109731,"Myzozoa","Dinophyceae","Amphidiniales","Amphidiniaceae","Amphidinium","Amphidinium herdmanii",,,"COI",FALSE,FALSE,TRUE,,,,"single-cell"
+109743,"Myzozoa","Dinophyceae","Amphidiniales","Amphidiniaceae","Amphidinium","Amphidinium massartii",,,"COI",FALSE,FALSE,TRUE,,,,"single-cell"
+1306108,"Myzozoa","Dinophyceae","Suessiales","Suessiaceae","Yihiella","Yihiella yeosuensis",,,"COI",FALSE,FALSE,TRUE,,,,"single-cell"
+164851,"Porifera","Demospongiae","Agelasida","Astroscleridae","Ceratoporella","Ceratoporella nicholsoni",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+362719,"Porifera","Demospongiae","Axinellida","Raspailiidae","Sollasella","Sollasella moretonensis",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+168257,"Porifera","Demospongiae","Biemnida","Biemnidae","Biemna","Biemna fistulosa",,,"COI",FALSE,FALSE,TRUE,,,"stinging tube sponge","sponges"
+577142,"Porifera","Demospongiae","Biemnida","Biemnidae","Sigmaxinella","Sigmaxinella hipposiderus",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+166037,"Porifera","Demospongiae","Chondrillida","Halisarcidae","Halisarca","Halisarca caerulea",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+132736,"Porifera","Demospongiae","Chondrillida","Halisarcidae","Halisarca","Halisarca dujardinii",,,"COI",FALSE,FALSE,TRUE,,,"soft horny sponge, éponge de Dujardin","sponges"
+170478,"Porifera","Demospongiae","Clionaida","Clionaidae","Cliona","Cliona tenuis",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+134145,"Porifera","Demospongiae","Clionaida","Clionaidae","Cliona","Cliona vermifera",,,"COI",FALSE,FALSE,TRUE,,,"orange boring sponge","sponges"
+1450708,"Porifera","Demospongiae","Clionaida","Clionaidae","Cliona","Cliona yorkin",,,"COI",FALSE,FALSE,TRUE,,,"Yorkin Cliona","sponges"
+1479479,"Porifera","Demospongiae","Clionaida","Clionaidae","Cliothosa","Cliothosa delitrix",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+157411,"Porifera","Demospongiae","Clionaida","Clionaidae","Pione","Pione vastifica",,,"COI",FALSE,FALSE,TRUE,,,"boring sponge, clione rouge","sponges"
+170520,"Porifera","Demospongiae","Clionaida","Clionaidae","Pione","Pione velans",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+134235,"Porifera","Demospongiae","Clionaida","Spirastrellidae","Spirastrella","Spirastrella cunctatrix",,,"COI",FALSE,FALSE,TRUE,,,"encrusting orange sponge, éponge encroûtante orange","sponges"
+170709,"Porifera","Demospongiae","Clionaida","Spirastrellidae","Spirastrella","Spirastrella hartmani",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+164868,"Porifera","Demospongiae","Dendroceratida","Darwinellidae","Chelonaplysilla","Chelonaplysilla delicata",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+132300,"Porifera","Demospongiae","Dendroceratida","Darwinellidae","Chelonaplysilla","Chelonaplysilla erecta",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+164892,"Porifera","Demospongiae","Dendroceratida","Dictyodendrillidae","Dictyodendrilla","Dictyodendrilla cavernosa",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+164900,"Porifera","Demospongiae","Dendroceratida","Dictyodendrillidae","Igernella","Igernella notabilis",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+132444,"Porifera","Demospongiae","Dictyoceratida","Thorectidae","Fasciospongia","Fasciospongia cavernosa",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+166185,"Porifera","Demospongiae","Haplosclerida","Callyspongiidae","Callyspongia","Callyspongia (Callyspongia) fallax",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+166205,"Porifera","Demospongiae","Haplosclerida","Callyspongiidae","Callyspongia","Callyspongia (Cladochalina) aculeata",,,"16S",FALSE,FALSE,TRUE,,,,"sponges"
+166210,"Porifera","Demospongiae","Haplosclerida","Callyspongiidae","Callyspongia","Callyspongia (Cladochalina) diffusa",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+166223,"Porifera","Demospongiae","Haplosclerida","Callyspongiidae","Callyspongia","Callyspongia (Cladochalina) plicifera",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+166293,"Porifera","Demospongiae","Haplosclerida","Chalinidae","Chalinula","Chalinula molitba",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+166302,"Porifera","Demospongiae","Haplosclerida","Chalinidae","Cladocroce","Cladocroce burapha",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+820772,"Porifera","Demospongiae","Haplosclerida","Niphatidae","Gelliodes","Gelliodes wilsoni",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+166505,"Porifera","Demospongiae","Haplosclerida","Chalinidae","Haliclona","Haliclona (Gellius) amboinensis",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+166612,"Porifera","Demospongiae","Haplosclerida","Chalinidae","Haliclona","Haliclona (Reniera) implexiformis",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+166626,"Porifera","Demospongiae","Haplosclerida","Chalinidae","Haliclona","Haliclona (Reniera) tubifera",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+168733,"Porifera","Demospongiae","Poecilosclerida","Chondropsidae","Batzella","Batzella aurantiaca",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+167585,"Porifera","Demospongiae","Poecilosclerida","Microcionidae","Clathria","Clathria (Clathria) unica",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+765193,"Porifera","Demospongiae","Poecilosclerida","Microcionidae","Clathria","Clathria (Thalysias) curacaoensis",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+167804,"Porifera","Demospongiae","Poecilosclerida","Microcionidae","Clathria","Clathria (Wilsonella) rugosa",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+184492,"Porifera","Demospongiae","Poecilosclerida","Crellidae","Crella","Crella (Grayella) cyathophora",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+169121,"Porifera","Demospongiae","Poecilosclerida","Desmacididae","Desmapsamma","Desmapsamma anchorata",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+169133,"Porifera","Demospongiae","Poecilosclerida","Hymedesmiidae","Hemimycale","Hemimycale arabica",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+168571,"Porifera","Demospongiae","Poecilosclerida","Mycalidae","Mycale","Mycale (Carmia) cecilia",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+167444,"Porifera","Demospongiae","Poecilosclerida","Acarnidae","Paracornulum","Paracornulum dubium",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+169314,"Porifera","Demospongiae","Poecilosclerida","Hymedesmiidae","Phorbas","Phorbas bihamiger",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+169317,"Porifera","Demospongiae","Poecilosclerida","Hymedesmiidae","Phorbas","Phorbas clathratus",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+169565,"Porifera","Demospongiae","Poecilosclerida","Tedaniidae","Tedania","Tedania (Tedania) ignis",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+169590,"Porifera","Demospongiae","Poecilosclerida","Tedaniidae","Tedania","Tedania (Tedania) tubulifera",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+165722,"Porifera","Demospongiae","Suberitida","Halichondriidae","Amorphinopsis","Amorphinopsis fenestrata",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+165801,"Porifera","Demospongiae","Suberitida","Halichondriidae","Halichondria","Halichondria (Halichondria) bowerbanki",,,"COI",FALSE,FALSE,TRUE,,,"Bowerbank's halichondria","sponges"
+165807,"Porifera","Demospongiae","Suberitida","Halichondriidae","Halichondria","Halichondria (Halichondria) coerulea",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+170771,"Porifera","Demospongiae","Suberitida","Suberitidae","Plicatellopsis","Plicatellopsis fragilis",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+423967,"Porifera","Demospongiae","Suberitida","Suberitidae","Suberites","Suberites diversicolor",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+1041930,"Porifera","Demospongiae","Suberitida","Suberitidae","Terpios","Terpios gelatinosus",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+170263,"Porifera","Demospongiae","Tetractinellida","Vulcanellidae","Poecillastra","Poecillastra laminaris",,,"16S",FALSE,FALSE,TRUE,,,,"sponges"
+133978,"Porifera","Demospongiae","Tetractinellida","Ancorinidae","Stelletta","Stelletta mediterranea",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+171264,"Porifera","Demospongiae","Tetractinellida","Theonellidae","Theonella","Theonella swinhoei",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+169702,"Porifera","Demospongiae","Verongiida","Pseudoceratinidae","Pseudoceratina","Pseudoceratina purpurea",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+762525,"Porifera","Homoscleromorpha","Homosclerophorida","Plakinidae","Plakina","Plakina muricyae",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+888604,"Porifera","Homoscleromorpha","Homosclerophorida","Plakinidae","Plakortis","Plakortis deweerdtaephila",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+169763,"Porifera","Homoscleromorpha","Homosclerophorida","Plakinidae","Plakortis","Plakortis halichondrioides",,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
+291596,"Echinodermata","Asteroidea","Forcipulatida","Asteriidae","Coscinasterias","Coscinasterias muricata",18,1987,"16S;COI",TRUE,TRUE,TRUE,,,,"starfish"
+459522,"Echinodermata","Asteroidea","Valvatida","Asterinidae","Aquilonastra","Aquilonastra anomala",23,2003,"COI",TRUE,TRUE,TRUE,,,,"starfish"
+178188,"Echinodermata","Asteroidea","Valvatida","Ophidiasteridae","Linckia","Linckia guildingi",12,1985,"COI",TRUE,TRUE,TRUE,,,,"starfish"
+459556,"Echinodermata","Asteroidea","Valvatida","Asterinidae","Parvulastra","Parvulastra exigua",17,2004,"COI",TRUE,TRUE,TRUE,,,,"starfish"
+213383,"Echinodermata","Echinoidea","Camarodonta","Echinometridae","Echinometra","Echinometra mathaei",75,1985,"16S;COI",TRUE,TRUE,TRUE,,,"rock-boring urchin","starfish"
+513245,"Echinodermata","Echinoidea","Camarodonta","Echinometridae","Echinostrephus","Echinostrephus aciculatus",14,1985,"COI",TRUE,TRUE,TRUE,,,,"starfish"
+414224,"Echinodermata","Echinoidea","Camarodonta","Echinometridae","Heliocidaris","Heliocidaris tuberculata",55,1985,"16S;COI",TRUE,TRUE,TRUE,,,,"starfish"
+367963,"Echinodermata","Echinoidea","Clypeasteroida","Clypeasteridae","Clypeaster","Clypeaster japonicus",,,"COI",FALSE,FALSE,TRUE,,,,"starfish"
+414212,"Echinodermata","Echinoidea","Diadematoida","Diadematidae","Centrostephanus","Centrostephanus rodgersii",27,1985,"COI",TRUE,TRUE,TRUE,,,,"starfish"
+213375,"Echinodermata","Echinoidea","Diadematoida","Diadematidae","Diadema","Diadema savignyi",5,1985,"COI",TRUE,TRUE,TRUE,,,,"starfish"
+513155,"Echinodermata","Echinoidea","Spatangoida","Brissidae","Brissus","Brissus agassizii",1,,"COI",TRUE,TRUE,TRUE,,,,"starfish"
+210814,"Echinodermata","Holothuroidea","Holothuriida","Holothuriidae","Holothuria","Holothuria (Thymiosycia) arenicola",,,"COI",FALSE,TRUE,TRUE,,,,"starfish"
+1672768,"Echinodermata","Holothuroidea","Holothuriida","Holothuriidae","Holothuria","Holothuria atra",,,"COI",FALSE,TRUE,TRUE,"LC","LC",,"starfish"
+1672774,"Echinodermata","Holothuroidea","Holothuriida","Holothuriidae","Holothuria","Holothuria leucospilota",,,"COI",FALSE,TRUE,TRUE,"LC","LC",,"starfish"
+125064,"Echinodermata","Ophiuroidea","Amphilepidida","Amphiuridae","Amphipholis","Amphipholis squamata",34,1985,"16S;COI",TRUE,TRUE,TRUE,,,"dwarf brittle star","starfish"
+125122,"Echinodermata","Ophiuroidea","Amphilepidida","Ophiactidae","Ophiactis","Ophiactis savignyi",32,2002,"16S;COI",TRUE,TRUE,TRUE,,,,"starfish"
+213419,"Echinodermata","Ophiuroidea","Amphilepidida","Ophionereididae","Ophionereis","Ophionereis porrecta",10,1985,"COI",TRUE,TRUE,TRUE,,,,"starfish"
+1214744,"Echinodermata","Ophiuroidea","Ophiacanthida","Ophiocomidae","Breviturma","Breviturma brevipes",,,"16S;COI",FALSE,TRUE,TRUE,,,,"starfish"
+1214745,"Echinodermata","Ophiuroidea","Ophiacanthida","Ophiocomidae","Breviturma","Breviturma dentata",95,2004,"16S",TRUE,TRUE,TRUE,,,,"starfish"
+1306674,"Echinodermata","Ophiuroidea","Ophiacanthida","Ophiocomidae","Breviturma","Breviturma pica",6,1985,"COI",TRUE,TRUE,TRUE,,,,"starfish"
+212371,"Echinodermata","Ophiuroidea","Ophiacanthida","Ophiocomidae","Ophiocoma","Ophiocoma erinaceus",,,"COI",FALSE,FALSE,TRUE,,,,"starfish"
+243584,"Echinodermata","Ophiuroidea","Ophiacanthida","Ophiocomidae","Ophiocomella","Ophiocomella ophiactoides",,,"16S",FALSE,FALSE,TRUE,,,,"starfish"
+213452,"Echinodermata","Ophiuroidea","Ophiacanthida","Ophiocomidae","Ophiocomella","Ophiocomella sexradia",19,1985,"COI",TRUE,TRUE,TRUE,,,,"starfish"
+1307745,"Echinodermata","Ophiuroidea","Ophiacanthida","Ophiocomidae","Ophiomastix","Ophiomastix endeani",34,1985,"COI",TRUE,TRUE,TRUE,,,,"starfish"
+212437,"Echinodermata","Ophiuroidea","Ophiacanthida","Ophiomyxidae","Ophiomyxa","Ophiomyxa australis",12,1985,"COI",TRUE,TRUE,TRUE,,,,"starfish"
+475724,"Annelida","Clitellata","Tubificida","Naididae","Heronidrilus","Heronidrilus heronae",,,"COI",FALSE,FALSE,TRUE,,,,"worms"
+327192,"Annelida","Polychaeta","Eunicida","Lumbrineridae","Lumbrineris","Lumbrineris perkinsi",,,"COI",FALSE,FALSE,TRUE,,,,"worms"
+336734,"Annelida","Polychaeta","Eunicida","Eunicidae","Marphysa","Marphysa viridis",,,"COI",FALSE,FALSE,TRUE,,,,"worms"
+758275,"Annelida","Polychaeta","Eunicida","Dorvilleidae","Parougia","Parougia albomaculata",,,"COI",FALSE,FALSE,TRUE,,,,"worms"
+327163,"Annelida","Polychaeta","Phyllodocida","Iphionidae","Iphione","Iphione henshawi",,,"COI",FALSE,FALSE,TRUE,,,,"worms"
+759944,"Annelida","Polychaeta","Phyllodocida","Syllidae","Megasyllis","Megasyllis inflata",,,"COI",FALSE,FALSE,TRUE,,,,"worms"
+759948,"Annelida","Polychaeta","Phyllodocida","Syllidae","Megasyllis","Megasyllis subantennata",,,"COI",FALSE,FALSE,TRUE,,,,"worms"
+334043,"Annelida","Polychaeta","Phyllodocida","Syllidae","Myrianida","Myrianida pachycera",,,"COI",FALSE,FALSE,TRUE,,,,"worms"
+843220,"Annelida","Polychaeta","Phyllodocida","Syllidae","Syllis","Syllis augeneri",,,"COI",FALSE,FALSE,TRUE,,,,"worms"
+131111,"Annelida","Polychaeta","Spionida","Spionidae","Boccardia","Boccardia polybranchia",,,"COI",FALSE,FALSE,TRUE,,,,"worms"
+761959,"Annelida","Polychaeta","Terebellida","Cirratulidae","Timarete","Timarete punctata",,,"COI",FALSE,FALSE,TRUE,,,,"worms"
+330566,"Annelida","Polychaeta",,"Chaetopteridae","Phyllochaetopterus","Phyllochaetopterus verrilli",,,"COI",FALSE,FALSE,TRUE,,,,"worms"
+868020,"Annelida","Polychaeta",,"Orbiniidae","Scoloplos","Scoloplos dayi",,,"COI",FALSE,FALSE,TRUE,,,,"worms"
+220538,"Annelida",,"Sipuncula","Phascolosomatidae","Phascolosoma","Phascolosoma (Phascolosoma) nigrescens",1,1977,"COI",TRUE,TRUE,TRUE,,,,"worms"
+999912,"Arthropoda","Arachnida","Sarcoptiformes","Acaridae","Tyrophagus","Tyrophagus putrescentiae",,,"COI",FALSE,FALSE,TRUE,,,,
+1490816,"Arthropoda","Hexapoda","Diptera","Culicidae","Culex","Culex quinquefasciatus",,,"COI",FALSE,FALSE,TRUE,,,,
+504071,"Arthropoda","Hexapoda","Diptera","Chironomidae","Pontomyia","Pontomyia natans",,,"COI",FALSE,FALSE,TRUE,,,,
+1489180,"Arthropoda","Hexapoda","Hemiptera","Cicadellidae","Macrosteles","Macrosteles quadrilineatus",,,"COI",FALSE,FALSE,TRUE,,,,
+421132,"Arthropoda","Thecostraca","Balanomorpha","Tetraclitidae","Tetraclitella","Tetraclitella divisa",,,"COI",FALSE,FALSE,TRUE,,,,
+249965,"Chordata","Ascidiacea","Phlebobranchia","Ascidiidae","Ascidia","Ascidia ahodori",,,"COI",FALSE,FALSE,TRUE,,,,
+250085,"Chordata","Ascidiacea","Stolidobranchia","Styelidae","Botrylloides","Botrylloides simodensis",,,"COI",FALSE,FALSE,TRUE,,,,
+251438,"Chordata","Ascidiacea","Stolidobranchia","Styelidae","Symplegma","Symplegma reptans",,,"COI",FALSE,FALSE,TRUE,,,,
+266581,"Hemichordata","Enteropneusta","[unassigned] Enteropneusta","Ptychoderidae","Glossobalanus","Glossobalanus berkeleyi",,,"16S",FALSE,FALSE,TRUE,,,,
+137598,"Hemichordata","Enteropneusta","[unassigned] Enteropneusta","Harrimaniidae","Protoglossus","Protoglossus koehleri",,,"16S",FALSE,FALSE,TRUE,,,,
+210065,"Hemichordata","Enteropneusta","[unassigned] Enteropneusta","Ptychoderidae","Ptychodera","Ptychodera flava",,,"16S;COI",FALSE,FALSE,TRUE,,,"Hawaiian acorn worm",
