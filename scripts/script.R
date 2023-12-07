@@ -8,6 +8,7 @@ library(worrms)
 library(furrr)
 library(rredlist)
 library(tidyr)
+library(jsonlite)
 
 include_dna <- TRUE
 markers <- c("16s", "coi", "mifish", "mimammal", "teleo")
@@ -28,7 +29,7 @@ filter_feeders_phyla <- c("Phoronida", "Bryozoa")
 copepod_classes <- c("Copepoda")
 crustacean_classes <- c("Malacostraca")
 
-# Read OBIS species lists from https://github.com/iobis/mwhs-obis-species
+# read OBIS species lists from https://github.com/iobis/mwhs-obis-species
 
 sites <- fromJSON("https://raw.githubusercontent.com/iobis/mwhs-obis-species/master/lists/sites.json")
 
@@ -41,7 +42,7 @@ obis_species <- map(sites, function(site_name) {
 }) %>%
   bind_rows()
 
-# Read eDNA species lists and resolve to accepted name
+# read eDNA species lists
 
 dna_files <- list.files("edna-results/data", "*DNADerivedData*", full.names = TRUE)
 occurrence_files <- list.files("edna-results/data", "*Occurrence*", full.names = TRUE)
@@ -60,6 +61,46 @@ occurrence <- map(occurrence_files, read.table, sep = "\t", quote = "", header =
     aphiaid = as.numeric(str_replace(scientificNameID, "urn:lsid:marinespecies.org:taxname:", ""))
   ) %>%
   left_join(dna, by = "occurrenceID")
+
+# process annotations
+
+annotations_files <- list.files("edna-results/annotations", "*.json", full.names = TRUE)
+
+for (annotations_file in annotations_files) {
+  message(annotations_file)
+  site_name <- str_match(annotations_file, ".*/([^\\/]*)\\.json")[,2]
+  annotations <- fromJSON(annotations_file) %>%
+    mutate(remove = as.logical(remove))
+  
+  aphiaid_remove <- annotations %>% filter(remove) %>% pull(AphiaID)
+  message(glue("Removing {length(aphiaid_remove)} species"))
+  occurrence <- occurrence %>%
+    filter(!(aphiaid %in% aphiaid_remove) | site != site_name)
+  
+  aphiaid_replace <- annotations %>%
+    filter(!is.na(new_AphiaID))
+  message(glue("Replacing {nrow(aphiaid_replace)} species"))
+  
+  aphiaid_replace_batches <- split(aphiaid_replace$new_AphiaID, as.integer((seq_along(aphiaid_replace$new_AphiaID) - 1) / 50))
+  
+  replacement_taxa <- map(aphiaid_replace_batches, wm_record) %>%
+    bind_rows() %>%
+    select(valid_aphiaid = AphiaID, kingdom, phylum, class, order, family, genus, scientificName = scientificname, taxonRank = rank, scientificNameID = lsid) %>%
+    mutate(taxonRank = tolower(taxonRank)) %>%
+    distinct()
+  
+  aphiaid_replace <- aphiaid_replace %>%
+    select(old_AphiaID = AphiaID, aphiaid = new_AphiaID) %>%
+    left_join(replacement_taxa, by = c("aphiaid" = "valid_aphiaid")) %>%
+    mutate(site = site_name)
+  
+  occurrence <- occurrence %>%
+    mutate(old_AphiaID = aphiaid) %>%
+    rows_update(aphiaid_replace, by = c("site", "old_AphiaID"), unmatched = "ignore") %>%
+    select(-old_AphiaID)
+}
+
+# resolve eDNA species to accepted names
 
 aphiaids <- unique(occurrence$aphiaid)
 aphiaid_batches <- split(aphiaids, as.integer((seq_along(aphiaids) - 1) / 50))
@@ -96,13 +137,13 @@ dna_species <- occurrence %>%
   summarize(target_gene = paste0(sort(unique(target_gene)), collapse = ";")) %>%
   mutate(source_dna = TRUE)
 
+# make list
+
 if (include_dna) {
   combined_species <- bind_rows(obis_species, dna_species)
 } else {
   combined_species <- obis_species %>% mutate(target_gene = NA, source_dna = NA)
 }
-
-# make list
 
 species <- combined_species %>%
   group_by(AphiaID, phylum, class, order, family, genus, species, site) %>%
@@ -192,7 +233,7 @@ for (site_name in sites) {
     select(-site) %>%
     arrange(group, phylum, class, order, species)
 
-  group_stats <- site_list %>% group_by(group) %>% summarize(n_species = n()) %>% data.table::transpose(make.names = TRUE)
+  group_stats <- site_list %>% filter(!is.na(group)) %>% group_by(group) %>% summarize(n_species = n()) %>% data.table::transpose(make.names = TRUE)
   if (nrow(group_stats) == 0) {
     group_stats <- NULL
   }
@@ -208,12 +249,36 @@ for (site_name in sites) {
       both = site_list %>% filter(source_dna & (source_obis | source_gbif)) %>% summarize(n_species = n()) %>% pull(n_species) %>% unbox()
     )
   )
-  
+
+  # eDNA only lists
+
+  json = toJSON(list(
+    created = unbox(strftime(as.POSIXlt(Sys.time(), "UTC"), "%Y-%m-%dT%H:%M:%S")),
+    species = site_list %>% filter(source_dna),
+    stats = site_stats
+  ), pretty = TRUE)
+  write(json, glue("lists/json/{site_name}.json"))
+  write.csv(site_list %>% filter(source_dna), glue("lists/csv/{site_name}.csv"), row.names = FALSE, na = "")
+
+  # full lists  
+
   json = toJSON(list(
     created = unbox(strftime(as.POSIXlt(Sys.time(), "UTC"), "%Y-%m-%dT%H:%M:%S")),
     species = site_list,
     stats = site_stats
   ), pretty = TRUE)
-  write(json, glue("lists/json/{site_name}.json"))
-  write.csv(site_list, glue("lists/csv/{site_name}.csv"), row.names = FALSE, na = "")
+  write(json, glue("lists_full/json/{site_name}.json"))
+  write.csv(site_list, glue("lists_full/csv/{site_name}.csv"), row.names = FALSE, na = "")
+  
 }
+
+# DEBUGGING
+
+everglades <- species %>%
+  filter(site == "everglades_national_park" & source_dna) %>%
+  arrange(phylum, class, species) %>%
+  View()
+
+
+
+
