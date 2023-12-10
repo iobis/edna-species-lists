@@ -1,5 +1,5 @@
 {
-  "created": "2023-12-10T20:53:33",
+  "created": "2023-12-10T21:00:25",
   "species": [
     {
       "AphiaID": 149004,
@@ -28858,6 +28858,105 @@
     }
   ],
   "stats": {
+    "samples": [
+      {
+        "locality": "Canales de afuero",
+        "materialSampleID": "EE0160",
+        "reads": 2091884,
+        "species.x": 110,
+        "asvs": 5783,
+        "sampleSize": 1800,
+        "species.y": 97
+      },
+      {
+        "locality": "Canales de afuero",
+        "materialSampleID": "EE0238",
+        "reads": 1711980,
+        "species.x": 83,
+        "asvs": 9144,
+        "sampleSize": 1800,
+        "species.y": 74
+      },
+      {
+        "locality": "Isla tortuga",
+        "materialSampleID": "EE0207",
+        "reads": 1459702,
+        "species.x": 59,
+        "asvs": 1262,
+        "sampleSize": 1500,
+        "species.y": 52
+      },
+      {
+        "locality": "Isla tortuga",
+        "materialSampleID": "EE0208",
+        "reads": 946218,
+        "species.x": 146,
+        "asvs": 7223,
+        "sampleSize": 1380,
+        "species.y": 128
+      },
+      {
+        "locality": "Oceanica",
+        "materialSampleID": "EE0237",
+        "reads": 1357620,
+        "species.x": 87,
+        "asvs": 8652,
+        "sampleSize": 1500,
+        "species.y": 74
+      },
+      {
+        "locality": "Oceanica",
+        "materialSampleID": "EE0240",
+        "reads": 1179914,
+        "species.x": 99,
+        "asvs": 8686,
+        "sampleSize": 1500,
+        "species.y": 89
+      },
+      {
+        "locality": "Rio San Juan",
+        "materialSampleID": "EE0192",
+        "reads": 1614853,
+        "species.x": 42,
+        "asvs": 5037,
+        "sampleSize": 1500,
+        "species.y": 38
+      },
+      {
+        "locality": "Rio San Juan",
+        "materialSampleID": "EE0209",
+        "reads": 1492341,
+        "species.x": 53,
+        "asvs": 1456,
+        "sampleSize": 1500,
+        "species.y": 49
+      },
+      {
+        "locality": "Rio San Juan",
+        "materialSampleID": "EE0241",
+        "reads": 3103528,
+        "species.x": 23,
+        "asvs": 964,
+        "sampleSize": 1500,
+        "species.y": 18
+      },
+      {
+        "locality": "Tres Islas",
+        "materialSampleID": "EE0239",
+        "reads": 1960288,
+        "species.x": 137,
+        "asvs": 9572,
+        "sampleSize": 1440,
+        "species.y": 122
+      },
+      {
+        "materialSampleID": "PA-INC",
+        "reads": 6282,
+        "species.x": 1,
+        "asvs": 121,
+        "species.y": 1
+      }
+    ],
     "dna": {
         "reads": 16924610,
         "asvs": 16451

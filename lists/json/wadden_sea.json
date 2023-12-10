@@ -1,5 +1,5 @@
 {
-  "created": "2023-12-10T20:53:42",
+  "created": "2023-12-10T21:00:38",
   "species": [
     {
       "AphiaID": 149004,
@@ -3662,6 +3662,105 @@
     }
   ],
   "stats": {
+    "samples": [
+      {
+        "locality": "Hjertig",
+        "materialSampleID": "EE0090",
+        "reads": 791701,
+        "species.x": 6,
+        "asvs": 573,
+        "sampleSize": 1200,
+        "species.y": 6
+      },
+      {
+        "locality": "Hjerting sejlklub",
+        "materialSampleID": "EE0071",
+        "reads": 439,
+        "species.x": 0,
+        "asvs": 22,
+        "sampleSize": 1260,
+        "species.y": 0
+      },
+      {
+        "locality": "Hjerting sejlklub",
+        "materialSampleID": "EE0091",
+        "reads": 138005,
+        "species.x": 21,
+        "asvs": 250,
+        "sampleSize": 1800,
+        "species.y": 21
+      },
+      {
+        "locality": "Wadden Sea; NL",
+        "materialSampleID": "EE0081",
+        "reads": 1147981,
+        "species.x": 95,
+        "asvs": 3344,
+        "sampleSize": 1500,
+        "species.y": 95
+      },
+      {
+        "locality": "Wadden Sea; NL",
+        "materialSampleID": "EE0092",
+        "reads": 3266100,
+        "species.x": 7,
+        "asvs": 957,
+        "sampleSize": 1170,
+        "species.y": 7
+      },
+      {
+        "locality": "Wadden Sea; NL",
+        "materialSampleID": "EE0105",
+        "reads": 1210807,
+        "species.x": 96,
+        "asvs": 2870,
+        "sampleSize": 1500,
+        "species.y": 96
+      },
+      {
+        "locality": "Wadden Sea; Schleswig-Holstein",
+        "materialSampleID": "EE0075",
+        "reads": 1209306,
+        "species.x": 109,
+        "asvs": 3476,
+        "sampleSize": 1260,
+        "species.y": 109
+      },
+      {
+        "locality": "Wadden Sea; Schleswig-Holstein",
+        "materialSampleID": "EE0076",
+        "reads": 1266434,
+        "species.x": 98,
+        "asvs": 3068,
+        "sampleSize": 900,
+        "species.y": 98
+      },
+      {
+        "locality": "Wadden Sea; Schleswig-Holstein",
+        "materialSampleID": "EE0077",
+        "reads": 1164618,
+        "species.x": 7,
+        "asvs": 613,
+        "sampleSize": 1500,
+        "species.y": 7
+      },
+      {
+        "locality": "Wadden Sea; Schleswig-Holstein",
+        "materialSampleID": "EE0080",
+        "reads": 2038296,
+        "species.x": 103,
+        "asvs": 3214,
+        "sampleSize": 1500,
+        "species.y": 103
+      },
+      {
+        "materialSampleID": "INC2",
+        "reads": 288,
+        "species.x": 0,
+        "asvs": 53,
+        "species.y": 0
+      }
+    ],
     "dna": {
         "reads": 12233975,
         "asvs": 6474

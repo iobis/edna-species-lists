@@ -1,5 +1,5 @@
 {
-  "created": "2023-12-10T20:53:32",
+  "created": "2023-12-10T21:00:24",
   "species": [
     {
       "AphiaID": 172829,
@@ -17929,6 +17929,102 @@
     }
   ],
   "stats": {
+    "samples": [
+      {
+        "locality": "Baia Dos Delfines",
+        "materialSampleID": "EE0442",
+        "reads": 228317,
+        "species.x": 8,
+        "asvs": 3455,
+        "sampleSize": 1260,
+        "species.y": 8
+      },
+      {
+        "locality": "Baia Dos Golfinhas",
+        "materialSampleID": "EE0440",
+        "reads": 338099,
+        "species.x": 8,
+        "asvs": 3608,
+        "sampleSize": 1500,
+        "species.y": 8
+      },
+      {
+        "locality": "Cagarras",
+        "materialSampleID": "EE0447",
+        "reads": 485072,
+        "species.x": 34,
+        "asvs": 5011,
+        "sampleSize": 1500,
+        "species.y": 34
+      },
+      {
+        "locality": "Sueste",
+        "materialSampleID": "EE0430",
+        "reads": 674858,
+        "species.x": 43,
+        "asvs": 4885,
+        "sampleSize": 1500,
+        "species.y": 43
+      },
+      {
+        "locality": "Sueste",
+        "materialSampleID": "EE0441",
+        "reads": 888007,
+        "species.x": 44,
+        "asvs": 5756,
+        "sampleSize": 1500,
+        "species.y": 44
+      },
+      {
+        "locality": "Sueste",
+        "materialSampleID": "EE0453",
+        "reads": 1012941,
+        "species.x": 47,
+        "asvs": 4820,
+        "sampleSize": 1260,
+        "species.y": 47
+      },
+      {
+        "locality": "Sueste",
+        "materialSampleID": "EE0454",
+        "reads": 748835,
+        "species.x": 53,
+        "asvs": 5418,
+        "sampleSize": 1380,
+        "species.y": 53
+      },
+      {
+        "materialSampleID": "B-INC",
+        "reads": 18773,
+        "species.x": 0,
+        "asvs": 130,
+        "species.y": 0
+      },
+      {
+        "materialSampleID": "EE0431",
+        "reads": 663062,
+        "species.x": 50,
+        "asvs": 4945,
+        "sampleSize": 1320,
+        "species.y": 50
+      },
+      {
+        "materialSampleID": "EE0445",
+        "reads": 852834,
+        "species.x": 4,
+        "asvs": 478,
+        "sampleSize": 1200,
+        "species.y": 4
+      },
+      {
+        "materialSampleID": "EE0455",
+        "reads": 505398,
+        "species.x": 42,
+        "asvs": 4578,
+        "sampleSize": 1440,
+        "species.y": 42
+      }
+    ],
     "dna": {
         "reads": 6416196,
         "asvs": 9730

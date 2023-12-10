@@ -1,5 +1,5 @@
 {
-  "created": "2023-12-10T20:53:32",
+  "created": "2023-12-10T21:00:24",
   "species": [
     {
       "AphiaID": 149004,
@@ -8331,6 +8331,98 @@
     }
   ],
   "stats": {
+    "samples": [
+      {
+        "locality": "BCMR",
+        "materialSampleID": "EE0324",
+        "reads": 1425220,
+        "species.x": 212,
+        "asvs": 10777,
+        "sampleSize": 1500,
+        "species.y": 199
+      },
+      {
+        "locality": "BCMR",
+        "materialSampleID": "EE0417",
+        "reads": 454244,
+        "species.x": 7,
+        "asvs": 322,
+        "sampleSize": 1500,
+        "species.y": 5
+      },
+      {
+        "locality": "BCMR",
+        "materialSampleID": "EE0419",
+        "reads": 2280800,
+        "species.x": 225,
+        "asvs": 13173,
+        "sampleSize": 1500,
+        "species.y": 213
+      },
+      {
+        "locality": "BCMR",
+        "materialSampleID": "EE0421",
+        "reads": 1304118,
+        "species.x": 236,
+        "asvs": 11201,
+        "sampleSize": 1500,
+        "species.y": 222
+      },
+      {
+        "locality": "Bacalar Chico Marine Reserve",
+        "materialSampleID": "EE0422",
+        "reads": 2665123,
+        "species.x": 206,
+        "asvs": 11181,
+        "sampleSize": 1500,
+        "species.y": 197
+      },
+      {
+        "locality": "Glovers Reef  Marine Reserve belize",
+        "materialSampleID": "EE0325",
+        "reads": 1648852,
+        "species.x": 102,
+        "asvs": 9168,
+        "sampleSize": 1200,
+        "species.y": 94
+      },
+      {
+        "locality": "Glovers Reef  Marine Reserve belize",
+        "materialSampleID": "EE0326",
+        "reads": 1275689,
+        "species.x": 59,
+        "asvs": 6023,
+        "sampleSize": 1200,
+        "species.y": 52
+      },
+      {
+        "locality": "SCMR",
+        "materialSampleID": "EE0420",
+        "reads": 2639926,
+        "species.x": 162,
+        "asvs": 9973,
+        "sampleSize": 1500,
+        "species.y": 152
+      },
+      {
+        "locality": "SWCMR",
+        "materialSampleID": "EE0323",
+        "reads": 2276867,
+        "species.x": 145,
+        "asvs": 12278,
+        "sampleSize": 1800,
+        "species.y": 136
+      },
+      {
+        "locality": "SWCMR",
+        "materialSampleID": "EE0418",
+        "reads": 1768968,
+        "species.x": 162,
+        "asvs": 11179,
+        "sampleSize": 1800,
+        "species.y": 151
+      }
+    ],
     "dna": {
         "reads": 17739807,
         "asvs": 28017

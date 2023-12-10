@@ -1,5 +1,5 @@
 {
-  "created": "2023-12-10T20:53:34",
+  "created": "2023-12-10T21:00:29",
   "species": [
     {
       "AphiaID": 172829,
@@ -938,6 +938,105 @@
     }
   ],
   "stats": {
+    "samples": [
+      {
+        "locality": "Elbu",
+        "materialSampleID": "EE0315",
+        "reads": 278216,
+        "species.x": 12,
+        "asvs": 3441,
+        "sampleSize": 1500,
+        "species.y": 12
+      },
+      {
+        "locality": "Elbu",
+        "materialSampleID": "EE0317",
+        "reads": 443537,
+        "species.x": 4,
+        "asvs": 2647,
+        "sampleSize": 100,
+        "species.y": 4
+      },
+      {
+        "locality": "Elbu",
+        "materialSampleID": "EE0318",
+        "reads": 228777,
+        "species.x": 7,
+        "asvs": 3018,
+        "sampleSize": 1500,
+        "species.y": 7
+      },
+      {
+        "locality": "Ficaccia",
+        "materialSampleID": "EE0312",
+        "reads": 363294,
+        "species.x": 15,
+        "asvs": 3141,
+        "sampleSize": 1500,
+        "species.y": 15
+      },
+      {
+        "locality": "Ficaccia",
+        "materialSampleID": "EE0320",
+        "reads": 540733,
+        "species.x": 18,
+        "asvs": 3794,
+        "sampleSize": 1500,
+        "species.y": 18
+      },
+      {
+        "locality": "Ficaccia",
+        "materialSampleID": "EE0321",
+        "reads": 465477,
+        "species.x": 10,
+        "asvs": 3246,
+        "sampleSize": 1500,
+        "species.y": 10
+      },
+      {
+        "locality": "Ficaghjola",
+        "materialSampleID": "EE0313",
+        "reads": 406638,
+        "species.x": 25,
+        "asvs": 3112,
+        "sampleSize": 1500,
+        "species.y": 25
+      },
+      {
+        "locality": "Ficaghjola",
+        "materialSampleID": "EE0319",
+        "reads": 1011940,
+        "species.x": 28,
+        "asvs": 3104,
+        "sampleSize": 1500,
+        "species.y": 28
+      },
+      {
+        "locality": "Foccocara",
+        "materialSampleID": "EE0311",
+        "reads": 306221,
+        "species.x": 2,
+        "asvs": 482,
+        "sampleSize": 1500,
+        "species.y": 2
+      },
+      {
+        "locality": "Foccocara",
+        "materialSampleID": "EE0316",
+        "reads": 167487,
+        "species.x": 3,
+        "asvs": 2980,
+        "sampleSize": 1500,
+        "species.y": 3
+      },
+      {
+        "materialSampleID": "EE0314",
+        "reads": 33216,
+        "species.x": 1,
+        "asvs": 141,
+        "species.y": 1
+      }
+    ],
     "dna": {
         "reads": 4245536,
         "asvs": 5291

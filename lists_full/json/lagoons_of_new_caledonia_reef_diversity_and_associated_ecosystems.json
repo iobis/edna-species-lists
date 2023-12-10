@@ -1,5 +1,5 @@
 {
-  "created": "2023-12-10T20:53:36",
+  "created": "2023-12-10T21:00:31",
   "species": [
     {
       "AphiaID": 149004,
@@ -140706,6 +140706,97 @@
     }
   ],
   "stats": {
+    "samples": [
+      {
+        "locality": "Entrecasteaux",
+        "materialSampleID": "EE0270",
+        "reads": 1915696,
+        "species.x": 144,
+        "asvs": 10437,
+        "sampleSize": 1800,
+        "species.y": 144
+      },
+      {
+        "locality": "Entrecasteaux",
+        "materialSampleID": "EE0279",
+        "reads": 1400792,
+        "species.x": 229,
+        "asvs": 11214,
+        "sampleSize": 1800,
+        "species.y": 229
+      },
+      {
+        "locality": "Grand Lagoon Nord",
+        "materialSampleID": "EE0272",
+        "reads": 1704580,
+        "species.x": 228,
+        "asvs": 10457,
+        "sampleSize": 1800,
+        "species.y": 228
+      },
+      {
+        "locality": "Kouare",
+        "materialSampleID": "EE0274",
+        "reads": 2272166,
+        "species.x": 235,
+        "asvs": 12540,
+        "sampleSize": 1800,
+        "species.y": 235
+      },
+      {
+        "locality": "Poe zco",
+        "materialSampleID": "EE0276",
+        "reads": 2620921,
+        "species.x": 275,
+        "asvs": 9835,
+        "sampleSize": 1800,
+        "species.y": 275
+      },
+      {
+        "locality": "Poe zco",
+        "materialSampleID": "EE0277",
+        "reads": 2845363,
+        "species.x": 220,
+        "asvs": 7054,
+        "sampleSize": 1800,
+        "species.y": 220
+      },
+      {
+        "locality": "Pouebo",
+        "materialSampleID": "EE0271",
+        "reads": 2461357,
+        "species.x": 283,
+        "asvs": 12989,
+        "sampleSize": 1800,
+        "species.y": 283
+      },
+      {
+        "locality": "Pouebo",
+        "materialSampleID": "EE0273",
+        "reads": 1501922,
+        "species.x": 283,
+        "asvs": 12054,
+        "sampleSize": 1800,
+        "species.y": 283
+      },
+      {
+        "locality": "Pouebo",
+        "materialSampleID": "EE0278",
+        "reads": 1501720,
+        "species.x": 258,
+        "asvs": 10877,
+        "sampleSize": 1800,
+        "species.y": 258
+      },
+      {
+        "materialSampleID": "EE0285",
+        "reads": 17,
+        "species.x": 1,
+        "asvs": 16,
+        "sampleSize": 1500,
+        "species.y": 1
+      }
+    ],
     "dna": {
         "reads": 18224534,
         "asvs": 32619

@@ -1,5 +1,5 @@
 {
-  "created": "2023-12-10T20:53:32",
+  "created": "2023-12-10T21:00:25",
   "species": [
     {
       "AphiaID": 172829,
@@ -23993,6 +23993,105 @@
     }
   ],
   "stats": {
+    "samples": [
+      {
+        "locality": "ISLA DEL COCO MONTAGNE",
+        "materialSampleID": "EE0166",
+        "reads": 1151570,
+        "species.x": 46,
+        "asvs": 4739,
+        "sampleSize": 1200,
+        "species.y": 46
+      },
+      {
+        "locality": "Isla del Coco Montagne",
+        "materialSampleID": "EE0165",
+        "reads": 1559658,
+        "species.x": 52,
+        "asvs": 5147,
+        "sampleSize": 1200,
+        "species.y": 52
+      },
+      {
+        "locality": "Isla del Coco, Dos Amigos",
+        "materialSampleID": "EE0168",
+        "reads": 799470,
+        "species.x": 20,
+        "asvs": 3277,
+        "sampleSize": 300,
+        "species.y": 20
+      },
+      {
+        "locality": "Isla del Coco, Dos Amigos",
+        "materialSampleID": "EE0177",
+        "reads": 806616,
+        "species.x": 38,
+        "asvs": 4448,
+        "sampleSize": 1260,
+        "species.y": 38
+      },
+      {
+        "locality": "Isla del Coco, Roca Sucia",
+        "materialSampleID": "EE0167",
+        "reads": 1030583,
+        "species.x": 71,
+        "asvs": 4862,
+        "sampleSize": 1620,
+        "species.y": 71
+      },
+      {
+        "locality": "Isla del Coco, Taza de Te",
+        "materialSampleID": "EE0163",
+        "reads": 755541,
+        "species.x": 44,
+        "asvs": 4692,
+        "sampleSize": 1260,
+        "species.y": 44
+      },
+      {
+        "locality": "Manuelita",
+        "materialSampleID": "EE0175",
+        "reads": 619684,
+        "species.x": 34,
+        "asvs": 4686,
+        "sampleSize": 0,
+        "species.y": 34
+      },
+      {
+        "locality": "PNI",
+        "materialSampleID": "EE0164",
+        "reads": 937418,
+        "species.x": 30,
+        "asvs": 4683,
+        "sampleSize": 1500,
+        "species.y": 30
+      },
+      {
+        "locality": "PNI",
+        "materialSampleID": "EE0174",
+        "reads": 451830,
+        "species.x": 33,
+        "asvs": 4646,
+        "sampleSize": 1500,
+        "species.y": 33
+      },
+      {
+        "locality": "PNI",
+        "materialSampleID": "EE0176",
+        "reads": 638129,
+        "species.x": 30,
+        "asvs": 4380,
+        "sampleSize": 1500,
+        "species.y": 30
+      },
+      {
+        "materialSampleID": "CC-INC",
+        "reads": 11354,
+        "species.x": 0,
+        "asvs": 103,
+        "species.y": 0
+      }
+    ],
     "dna": {
         "reads": 8761853,
         "asvs": 8293

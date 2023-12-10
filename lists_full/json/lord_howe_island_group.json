@@ -1,5 +1,5 @@
 {
-  "created": "2023-12-10T20:53:37",
+  "created": "2023-12-10T21:00:32",
   "species": [
     {
       "AphiaID": 162258,
@@ -50467,6 +50467,105 @@
     }
   ],
   "stats": {
+    "samples": [
+      {
+        "locality": "Comets Hole - Lord Howe Island lagoon",
+        "materialSampleID": "EE0143",
+        "reads": 1845313,
+        "species.x": 270,
+        "asvs": 10624,
+        "sampleSize": 1500,
+        "species.y": 270
+      },
+      {
+        "locality": "Comets Hole - Lord Howe Island lagoon",
+        "materialSampleID": "EE0341",
+        "reads": 1750616,
+        "species.x": 221,
+        "asvs": 10493,
+        "sampleSize": 1500,
+        "species.y": 221
+      },
+      {
+        "locality": "Erscotts Hole - Lord Howe Island lagoon",
+        "materialSampleID": "EE0130",
+        "reads": 976665,
+        "species.x": 178,
+        "asvs": 5446,
+        "sampleSize": 1500,
+        "species.y": 178
+      },
+      {
+        "locality": "Erscotts Hole - Lord Howe Island lagoon",
+        "materialSampleID": "EE0132",
+        "reads": 327472,
+        "species.x": 23,
+        "asvs": 1199,
+        "sampleSize": 1500,
+        "species.y": 23
+      },
+      {
+        "locality": "N/A control",
+        "materialSampleID": "EE0144",
+        "reads": 569219,
+        "species.x": 13,
+        "asvs": 575,
+        "sampleSize": 1500,
+        "species.y": 13
+      },
+      {
+        "locality": "North Bay - Lord Howe Island lagoon",
+        "materialSampleID": "EE0140",
+        "reads": 1714904,
+        "species.x": 283,
+        "asvs": 9545,
+        "sampleSize": 1500,
+        "species.y": 283
+      },
+      {
+        "locality": "North Bay - Lord Howe Island lagoon",
+        "materialSampleID": "EE0141",
+        "reads": 1862313,
+        "species.x": 288,
+        "asvs": 9973,
+        "sampleSize": 1500,
+        "species.y": 288
+      },
+      {
+        "locality": "Not specified - Lord Howe",
+        "materialSampleID": "EE0138",
+        "reads": 2585660,
+        "species.x": 103,
+        "asvs": 4180,
+        "sampleSize": 1500,
+        "species.y": 103
+      },
+      {
+        "locality": "Sylphs Hole - Lord Howe Island lagoon",
+        "materialSampleID": "EE0079",
+        "reads": 1720657,
+        "species.x": 204,
+        "asvs": 7991,
+        "sampleSize": 1500,
+        "species.y": 204
+      },
+      {
+        "locality": "Sylphs Hole - Lord Howe Island lagoon",
+        "materialSampleID": "EE0145",
+        "reads": 1872212,
+        "species.x": 224,
+        "asvs": 8996,
+        "sampleSize": 1500,
+        "species.y": 224
+      },
+      {
+        "materialSampleID": "LH-INC",
+        "reads": 1593,
+        "species.x": 0,
+        "asvs": 101,
+        "species.y": 0
+      }
+    ],
     "dna": {
         "reads": 15226624,
         "asvs": 21458

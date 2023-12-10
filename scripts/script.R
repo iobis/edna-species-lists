@@ -248,6 +248,26 @@ for (site_name in sites) {
     select(-site) %>%
     arrange(group, phylum, class, order, species)
   
+  # samples
+  
+  sample_volumes <- occurrence %>%
+    filter(site == site_name) %>%
+    distinct(materialSampleID, sampleSize) %>%
+    mutate(sampleSize = as.integer(sampleSize))
+
+  sample_species <- occurrence %>%
+    filter(site == site_name) %>%
+    filter(!remove) %>%
+    group_by(materialSampleID) %>%
+    summarize(species = n_distinct(na.omit(species)))
+
+  sample_stats <- occurrence %>%
+    filter(site == site_name) %>%
+    group_by(locality, materialSampleID) %>%
+    summarize(reads = sum(organismQuantity), species = n_distinct(na.omit(species)), asvs = n_distinct(DNA_sequence)) %>%
+    left_join(sample_volumes, by = "materialSampleID") %>%
+    left_join(sample_species, by = "materialSampleID")
+    
   # sequence stats
 
   dna_stats <- occurrence %>%
@@ -328,6 +348,7 @@ for (site_name in sites) {
     created = unbox(strftime(as.POSIXlt(Sys.time(), "UTC"), "%Y-%m-%dT%H:%M:%S")),
     species = site_list %>% filter(!remove),
     stats = list(
+      samples = sample_stats,
       dna = unbox(dna_stats),
       markers = marker_stats,
       redlist = redlist_stats,
@@ -347,6 +368,7 @@ for (site_name in sites) {
     created = unbox(strftime(as.POSIXlt(Sys.time(), "UTC"), "%Y-%m-%dT%H:%M:%S")),
     species = site_list %>% filter(!remove) %>% filter(source_dna),
     stats = list(
+      samples = sample_stats,
       dna = unbox(dna_stats),
       markers = marker_stats,
       redlist = redlist_stats,
