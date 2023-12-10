@@ -1,5 +1,5 @@
 {
-  "created": "2023-12-07T10:50:26",
+  "created": "2023-12-10T13:06:26",
   "species": [
     {
       "AphiaID": 149004,
@@ -43080,6 +43080,33 @@
       "obis": 1908,
       "gbif": 2321,
       "db": 2651,
+      "edna": 301,
+      "both": 122
+    }
+  },
+  "stats_edna": {
+    "groups": {
+        "algae": 46,
+        "birds": 1,
+        "copepods": 7,
+        "crustaceans": 5,
+        "filter-feeders": 3,
+        "fish": 156,
+        "fungi": 3,
+        "jellyfish": 11,
+        "mammals": 5,
+        "molluscs": 21,
+        "single-cell": 7,
+        "sponges": 17,
+        "starfish": 6,
+        "turtles": 1,
+        "worms": 6
+      },
+    "redlist": 124,
+    "source": {
+      "obis": 111,
+      "gbif": 115,
+      "db": 122,
       "edna": 301,
       "both": 122
     }

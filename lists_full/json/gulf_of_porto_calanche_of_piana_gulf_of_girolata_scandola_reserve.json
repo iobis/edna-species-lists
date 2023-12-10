@@ -1,5 +1,5 @@
 {
-  "created": "2023-12-07T10:50:21",
+  "created": "2023-12-10T13:06:24",
   "species": [
     {
       "AphiaID": 172829,
@@ -18754,6 +18754,24 @@
       "obis": 446,
       "gbif": 969,
       "db": 1294,
+      "edna": 46,
+      "both": 39
+    }
+  },
+  "stats_edna": {
+    "groups": {
+        "algae": 1,
+        "birds": 1,
+        "fish": 39,
+        "mammals": 1,
+        "molluscs": 1,
+        "starfish": 3
+      },
+    "redlist": 37,
+    "source": {
+      "obis": 36,
+      "gbif": 33,
+      "db": 39,
       "edna": 46,
       "both": 39
     }
