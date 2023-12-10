@@ -228,12 +228,21 @@ species <- species %>%
 # Generate JSON and CSV species lists
 
 for (site_name in sites) {
+  
+  message(site_name)
+  
   site_list <- species %>%
     filter(site == site_name) %>%
     select(-site) %>%
     arrange(group, phylum, class, order, species)
 
-  group_stats <- site_list %>% filter(!is.na(group)) %>% group_by(group) %>% summarize(n_species = n()) %>% data.table::transpose(make.names = TRUE)
+  # full stats
+  
+  group_stats <- site_list %>%
+    filter(!is.na(group)) %>%
+    group_by(group) %>%
+    summarize(n_species = n()) %>%
+    data.table::transpose(make.names = TRUE)
   if (nrow(group_stats) == 0) {
     group_stats <- NULL
   }
@@ -249,35 +258,60 @@ for (site_name in sites) {
       both = site_list %>% filter(source_dna & (source_obis | source_gbif)) %>% summarize(n_species = n()) %>% pull(n_species) %>% unbox()
     )
   )
-
+  
+  # eDNA only stats
+  
+  group_stats_edna <- site_list %>%
+    filter(source_dna) %>%
+    filter(!is.na(group)) %>%
+    group_by(group) %>%
+    summarize(n_species = n()) %>%
+    data.table::transpose(make.names = TRUE)
+  if (nrow(group_stats_edna) == 0) {
+    group_stats_edna <- NULL
+  }
+  
+  site_stats_edna <- list(
+    groups = group_stats_edna %>% unbox(),
+    redlist = site_list %>% filter(source_dna) %>% filter(!is.na(redlist_category)) %>% summarize(n_species = n()) %>% pull(n_species) %>% unbox(),
+    source = list(
+      obis = site_list %>% filter(source_dna) %>% filter(source_obis) %>% summarize(n_species = n()) %>% pull(n_species) %>% unbox(),
+      gbif = site_list %>% filter(source_dna) %>% filter(source_gbif) %>% summarize(n_species = n()) %>% pull(n_species) %>% unbox(),
+      db = site_list %>% filter(source_dna) %>% filter(source_gbif | source_obis) %>% summarize(n_species = n()) %>% pull(n_species) %>% unbox(),
+      edna = site_list %>% filter(source_dna) %>% summarize(n_species = n()) %>% pull(n_species) %>% unbox(),
+      both = site_list %>% filter(source_dna) %>% filter(source_dna & (source_obis | source_gbif)) %>% summarize(n_species = n()) %>% pull(n_species) %>% unbox()
+    )
+  )
+  
+  # full lists  
+  
+  json = toJSON(list(
+    created = unbox(strftime(as.POSIXlt(Sys.time(), "UTC"), "%Y-%m-%dT%H:%M:%S")),
+    species = site_list,
+    stats = site_stats,
+    stats_edna = site_stats_edna
+  ), pretty = TRUE)
+  write(json, glue("lists_full/json/{site_name}.json"))
+  write.csv(site_list, glue("lists_full/csv/{site_name}.csv"), row.names = FALSE, na = "")
+  
   # eDNA only lists
 
   json = toJSON(list(
     created = unbox(strftime(as.POSIXlt(Sys.time(), "UTC"), "%Y-%m-%dT%H:%M:%S")),
     species = site_list %>% filter(source_dna),
-    stats = site_stats
+    stats = site_stats_edna
   ), pretty = TRUE)
   write(json, glue("lists/json/{site_name}.json"))
   write.csv(site_list %>% filter(source_dna), glue("lists/csv/{site_name}.csv"), row.names = FALSE, na = "")
 
-  # full lists  
-
-  json = toJSON(list(
-    created = unbox(strftime(as.POSIXlt(Sys.time(), "UTC"), "%Y-%m-%dT%H:%M:%S")),
-    species = site_list,
-    stats = site_stats
-  ), pretty = TRUE)
-  write(json, glue("lists_full/json/{site_name}.json"))
-  write.csv(site_list, glue("lists_full/csv/{site_name}.csv"), row.names = FALSE, na = "")
-  
 }
 
 # DEBUGGING
 
-everglades <- species %>%
-  filter(site == "everglades_national_park" & source_dna) %>%
-  arrange(phylum, class, species) %>%
-  View()
+# everglades <- species %>%
+#   filter(site == "everglades_national_park" & source_dna) %>%
+#   arrange(phylum, class, species) %>%
+#   View()
 
 
 
