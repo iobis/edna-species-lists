@@ -1,13 +1,31 @@
 {
-  "created": "2023-12-10T13:06:25",
+  "created": "2023-12-10T20:38:30",
   "species": [],
   "stats": {
-    "groups": {},
-    "redlist": 0,
+    "dna": {
+        "reads": 0,
+        "asvs": 0
+      },
+    "markers": [],
+    "redlist": [
+      {
+        "category": "CR",
+        "obis_species": 2
+      },
+      {
+        "category": "EN",
+        "obis_species": 12
+      },
+      {
+        "category": "VU",
+        "obis_species": 22
+      }
+    ],
+    "groups_edna": {},
     "source": {
-      "obis": 0,
-      "gbif": 0,
-      "db": 0,
+      "obis": 1362,
+      "gbif": 1569,
+      "db": 1697,
       "edna": 0,
       "both": 0
     }
