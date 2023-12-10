@@ -264,7 +264,12 @@ for (site_name in sites) {
   sample_stats <- occurrence %>%
     filter(site == site_name) %>%
     group_by(locality, materialSampleID) %>%
-    summarize(reads = sum(organismQuantity), species = n_distinct(na.omit(species)), asvs = n_distinct(DNA_sequence)) %>%
+    summarize(
+      reads = sum(organismQuantity),
+      asvs = n_distinct(DNA_sequence),
+      decimalLongitude = first(decimalLongitude),
+      decimalLatitude = first(decimalLatitude)
+    ) %>%
     left_join(sample_volumes, by = "materialSampleID") %>%
     left_join(sample_species, by = "materialSampleID")
     
