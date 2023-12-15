@@ -8,5 +8,6 @@ Species lists based on OBIS are generated in the [mwhs-obis-species](https://git
 ## Download data
 
 ```
-git clone --branch data git@github.com:iobis/edna-results.git
+rm -r edna-results
+git clone --branch data --depth 1 git@github.com:iobis/edna-results.git
 ```
