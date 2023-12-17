@@ -10,6 +10,8 @@ library(rredlist)
 library(tidyr)
 library(jsonlite)
 
+# TODO: remove contaminants and bacteria from reads/ASV statistics
+
 include_dna <- TRUE
 threatened_categories <- c("CR", "EN", "EW", "EX", "VU")
 markers <- c("16s", "coi", "mifish", "mimammal", "teleo")
@@ -20,15 +22,18 @@ bird_classes <- c("Aves")
 mollusc_phyla <- c("Mollusca")
 amphibia_classes <- c("Amphibia")
 algae_phyla <- c("Chlorophyta", "Haptophyta", "Rhodophyta", "Ochrophyta", "Bacillariophyta")
-starfish_phyla <- c("Echinodermata")
+echinoderm_phyla <- c("Echinodermata")
 sponge_phyla <- c("Porifera")
-jelly_phyla <- c("Cnidaria", "Ctenophora")
+cnidaria_phyla <- c("Cnidaria", "Ctenophora")
 unicellular_phyla <- c("Cercozoa", "Amoebozoa", "Myzozoa")
 fungi_phyla <- c("Ascomycota", "Oomycota")
 worms_phyla <- c("Nemertea", "Gnathostomulida", "Annelida")
-filter_feeders_phyla <- c("Phoronida", "Bryozoa")
+bryozoa_phyla <- c("Bryozoa")
+phoronida_phyla <- c("Phoronida")
 copepod_classes <- c("Copepoda")
-crustacean_classes <- c("Malacostraca")
+crustacean_classes <- c("Malacostraca", "Thecostraca", "Branchiopoda")
+arrowworm_phyla <- c("Chaetognatha")
+ascidian_classes <- c("Ascidiacea")
 
 # read OBIS species lists from https://github.com/iobis/mwhs-obis-species
 
@@ -65,20 +70,42 @@ occurrence <- map(occurrence_files, read.table, sep = "\t", quote = "", header =
 
 # process annotations
 
-occurrence <- occurrence %>% mutate(remove = FALSE)
+occurrence <- occurrence %>% mutate(remove = FALSE, remove_reads = FALSE)
 
 annotations_files <- list.files("edna-results/annotations", "*.json", full.names = TRUE)
 
 for (annotations_file in annotations_files) {
   message(annotations_file)
+
+  # contaminants
+  
+  if (annotations_file == "edna-results/annotations/contaminants.json") {
+    # remove contaminants from species lists but also reads/asv statistics
+    annotations <- fromJSON(annotations_file)
+    occurrence <- occurrence %>%
+      mutate(remove = ifelse(genus %in% na.omit(annotations$genus), TRUE, remove)) %>%
+      mutate(remove_reads = ifelse(genus %in% na.omit(annotations$genus), TRUE, remove_reads)) %>%
+      mutate(remove = ifelse(kingdom %in% na.omit(annotations$kingdom), TRUE, remove)) %>%
+      mutate(remove_reads = ifelse(kingdom %in% na.omit(annotations$kingdom), TRUE, remove_reads)) %>%
+      mutate(remove = ifelse(phylum %in% na.omit(annotations$phylum), TRUE, remove)) %>%
+      mutate(remove_reads = ifelse(phylum %in% na.omit(annotations$phylum), TRUE, remove_reads))
+    next
+  }
+  
+  # site specific annotations
+  
   site_name <- str_match(annotations_file, ".*/([^\\/]*)\\.json")[,2]
   annotations <- fromJSON(annotations_file) %>%
     mutate(remove = as.logical(remove))
+  
+  # remove
   
   aphiaid_remove <- annotations %>% filter(remove) %>% pull(AphiaID)
   message(glue("Removing {length(aphiaid_remove)} species"))
   occurrence <- occurrence %>%
     mutate(remove = ifelse(aphiaid %in% aphiaid_remove & site == site_name, TRUE, remove))
+  
+  # replace
   
   aphiaid_replace <- annotations %>%
     filter(!is.na(new_AphiaID))
@@ -101,6 +128,7 @@ for (annotations_file in annotations_files) {
     mutate(old_AphiaID = aphiaid) %>%
     rows_update(aphiaid_replace, by = c("site", "old_AphiaID"), unmatched = "ignore") %>%
     select(-old_AphiaID)
+
 }
 
 # resolve eDNA species to accepted names
@@ -219,14 +247,17 @@ species <- species %>%
       phylum %in% mollusc_phyla ~ "molluscs",
       phylum %in% algae_phyla ~ "algae",
       phylum %in% sponge_phyla ~ "sponges",
-      phylum %in% jelly_phyla ~ "jellyfish",
-      phylum %in% unicellular_phyla ~ "single-cell",
+      phylum %in% cnidaria_phyla ~ "cnidarians",
+      phylum %in% unicellular_phyla ~ "unicellular",
       phylum %in% fungi_phyla ~ "fungi",
       phylum %in% worms_phyla ~ "worms",
-      phylum %in% filter_feeders_phyla ~ "filter-feeders",
-      phylum %in% starfish_phyla ~ "starfish",
+      phylum %in% bryozoa_phyla ~ "moss animals",
+      phylum %in% phoronida_phyla ~ "horseshoe worms",
+      phylum %in% echinoderm_phyla ~ "echinoderms",
       class %in% copepod_classes ~ "copepods",
-      class %in% crustacean_classes ~ "crustaceans"
+      class %in% crustacean_classes ~ "crustaceans",
+      phylum %in% arrowworm_phyla ~ "arrow worms",
+      class %in% ascidian_classes ~ "sea squirts"
     )
   )
 
@@ -262,7 +293,7 @@ for (site_name in sites) {
     summarize(species = n_distinct(na.omit(species)))
 
   sample_stats <- occurrence %>%
-    filter(site == site_name) %>%
+    filter(site == site_name & !remove_reads) %>%
     group_by(locality, materialSampleID) %>%
     summarize(
       reads = sum(organismQuantity),
@@ -276,11 +307,11 @@ for (site_name in sites) {
   # sequence stats
 
   dna_stats <- occurrence %>%
-    filter(site == site_name) %>%
+    filter(site == site_name & !remove_reads) %>%
     summarize(reads = sum(organismQuantity), asvs = n_distinct(DNA_sequence))
   
   marker_stats <- occurrence %>%
-    filter(site == site_name) %>%
+    filter(site == site_name & !remove_reads) %>%
     group_by(pcr_primer_name_forward) %>%
     summarize(reads = sum(organismQuantity), species = n_distinct(na.omit(species)), asvs = n_distinct(DNA_sequence))
 
