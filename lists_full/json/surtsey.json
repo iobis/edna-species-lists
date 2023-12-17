@@ -1,5 +1,5 @@
 {
-  "created": "2023-12-10T21:37:23",
+  "created": "2023-12-17T10:59:47",
   "species": [
     {
       "AphiaID": 159377,
@@ -918,6 +918,37 @@
       "group": "birds"
     },
     {
+      "AphiaID": 1245747,
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Scleractinia",
+      "family": "Caryophylliidae",
+      "genus": "Desmophyllum",
+      "species": "Desmophyllum pertusum",
+      "remove": false,
+      "records": 1,
+      "source_obis": true,
+      "source_gbif": false,
+      "source_dna": false,
+      "group": "cnidarians"
+    },
+    {
+      "AphiaID": 135209,
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Scleractinia",
+      "family": "Oculinidae",
+      "genus": "Madrepora",
+      "species": "Madrepora oculata",
+      "remove": false,
+      "records": 1,
+      "source_obis": true,
+      "source_gbif": false,
+      "source_dna": false,
+      "vernacular": "ocular coral",
+      "group": "cnidarians"
+    },
+    {
       "AphiaID": 104464,
       "phylum": "Arthropoda",
       "class": "Copepoda",
@@ -1027,37 +1058,6 @@
       "redlist_category": "LC",
       "vernacular": "bearded croaker",
       "group": "fish"
-    },
-    {
-      "AphiaID": 1245747,
-      "phylum": "Cnidaria",
-      "class": "Anthozoa",
-      "order": "Scleractinia",
-      "family": "Caryophylliidae",
-      "genus": "Desmophyllum",
-      "species": "Desmophyllum pertusum",
-      "remove": false,
-      "records": 1,
-      "source_obis": true,
-      "source_gbif": false,
-      "source_dna": false,
-      "group": "jellyfish"
-    },
-    {
-      "AphiaID": 135209,
-      "phylum": "Cnidaria",
-      "class": "Anthozoa",
-      "order": "Scleractinia",
-      "family": "Oculinidae",
-      "genus": "Madrepora",
-      "species": "Madrepora oculata",
-      "remove": false,
-      "records": 1,
-      "source_obis": true,
-      "source_gbif": false,
-      "source_dna": false,
-      "vernacular": "ocular coral",
-      "group": "jellyfish"
     },
     {
       "AphiaID": 404124,
@@ -1299,10 +1299,10 @@
     "markers_family": [],
     "groups": {
         "birds": 54,
+        "cnidarians": 2,
         "copepods": 1,
         "crustaceans": 2,
         "fish": 4,
-        "jellyfish": 2,
         "mammals": 6,
         "molluscs": 4
       },

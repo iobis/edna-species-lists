@@ -1,5 +1,5 @@
 {
-  "created": "2023-12-10T21:37:14",
+  "created": "2023-12-17T10:59:37",
   "species": [
     {
       "AphiaID": 159377,
@@ -68,6 +68,20 @@
       "redlist_category": "LC",
       "vernacular": "blue reef heron, aigrette sacrée",
       "group": "birds"
+    },
+    {
+      "AphiaID": 1289433,
+      "phylum": "Cnidaria",
+      "class": "Scyphozoa",
+      "order": "Semaeostomeae",
+      "family": "Pelagiidae",
+      "genus": "Chrysaora",
+      "species": "Chrysaora chinensis",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "cnidarians"
     },
     {
       "AphiaID": 554830,
@@ -5826,20 +5840,6 @@
       "group": "fish"
     },
     {
-      "AphiaID": 1289433,
-      "phylum": "Cnidaria",
-      "class": "Scyphozoa",
-      "order": "Semaeostomeae",
-      "family": "Pelagiidae",
-      "genus": "Chrysaora",
-      "species": "Chrysaora chinensis",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "group": "jellyfish"
-    },
-    {
       "AphiaID": 220226,
       "phylum": "Chordata",
       "class": "Mammalia",
@@ -6141,9 +6141,9 @@
     "markers_family": [],
     "groups": {
         "birds": 4,
+        "cnidarians": 1,
         "crustaceans": 1,
         "fish": 320,
-        "jellyfish": 1,
         "mammals": 1,
         "molluscs": 14,
         "sponges": 2

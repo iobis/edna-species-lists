@@ -1,5 +1,5 @@
 {
-  "created": "2023-12-10T21:37:22",
+  "created": "2023-12-17T10:59:46",
   "species": [
     {
       "AphiaID": 608214,
@@ -1957,6 +1957,35 @@
       "group": "birds"
     },
     {
+      "AphiaID": 100982,
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Actiniaria",
+      "family": "Metridiidae",
+      "genus": "Metridium",
+      "species": "Metridium senile",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "vernacular": "clonal plumose anemone, oeillet de mer",
+      "group": "cnidarians"
+    },
+    {
+      "AphiaID": 284520,
+      "phylum": "Cnidaria",
+      "class": "Hydrozoa",
+      "order": "Anthoathecata",
+      "family": "Corynidae",
+      "genus": "Coryne",
+      "species": "Coryne uchidai",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "cnidarians"
+    },
+    {
       "AphiaID": 991108,
       "phylum": "Arthropoda",
       "class": "Malacostraca",
@@ -2027,20 +2056,6 @@
       "source_gbif": true,
       "source_dna": false,
       "group": "crustaceans"
-    },
-    {
-      "AphiaID": 469300,
-      "phylum": "Bryozoa",
-      "class": "Gymnolaemata",
-      "order": "Cheilostomatida",
-      "family": "Calloporidae",
-      "genus": "Cauloramphus",
-      "species": "Cauloramphus magnus",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "group": "filter-feeders"
     },
     {
       "AphiaID": 271421,
@@ -3178,35 +3193,6 @@
       "group": "fish"
     },
     {
-      "AphiaID": 100982,
-      "phylum": "Cnidaria",
-      "class": "Anthozoa",
-      "order": "Actiniaria",
-      "family": "Metridiidae",
-      "genus": "Metridium",
-      "species": "Metridium senile",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "vernacular": "clonal plumose anemone, oeillet de mer",
-      "group": "jellyfish"
-    },
-    {
-      "AphiaID": 284520,
-      "phylum": "Cnidaria",
-      "class": "Hydrozoa",
-      "order": "Anthoathecata",
-      "family": "Corynidae",
-      "genus": "Coryne",
-      "species": "Coryne uchidai",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "group": "jellyfish"
-    },
-    {
       "AphiaID": 254999,
       "phylum": "Chordata",
       "class": "Mammalia",
@@ -3865,6 +3851,20 @@
       "group": "molluscs"
     },
     {
+      "AphiaID": 469300,
+      "phylum": "Bryozoa",
+      "class": "Gymnolaemata",
+      "order": "Cheilostomatida",
+      "family": "Calloporidae",
+      "genus": "Cauloramphus",
+      "species": "Cauloramphus magnus",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "moss animals"
+    },
+    {
       "AphiaID": 137205,
       "phylum": "Chordata",
       "order": "Testudines",
@@ -4057,12 +4057,12 @@
     "groups": {
         "algae": 58,
         "birds": 65,
+        "cnidarians": 2,
         "crustaceans": 5,
-        "filter-feeders": 1,
         "fish": 68,
-        "jellyfish": 2,
         "mammals": 12,
         "molluscs": 31,
+        "moss animals": 1,
         "turtles": 1,
         "worms": 1
       },

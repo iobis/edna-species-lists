@@ -1,5 +1,5 @@
 {
-  "created": "2023-12-10T21:37:25",
+  "created": "2023-12-17T10:59:49",
   "species": [
     {
       "AphiaID": 149004,
@@ -2700,6 +2700,167 @@
       "group": "birds"
     },
     {
+      "AphiaID": 100908,
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Actiniaria",
+      "family": "Edwardsiidae",
+      "genus": "Paraedwardsia",
+      "species": "Paraedwardsia arenaria",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "cnidarians"
+    },
+    {
+      "AphiaID": 125333,
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Malacalcyonacea",
+      "family": "Alcyoniidae",
+      "genus": "Alcyonium",
+      "species": "Alcyonium digitatum",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "vernacular": "sea-fingers, corail digité",
+      "group": "cnidarians"
+    },
+    {
+      "AphiaID": 1245747,
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Scleractinia",
+      "family": "Caryophylliidae",
+      "genus": "Desmophyllum",
+      "species": "Desmophyllum pertusum",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "cnidarians"
+    },
+    {
+      "AphiaID": 128506,
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Scleralcyonacea",
+      "family": "Funiculinidae",
+      "genus": "Funiculina",
+      "species": "Funiculina quadrangularis",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "vernacular": "tall seapen, pennatule à rachis carré",
+      "group": "cnidarians"
+    },
+    {
+      "AphiaID": 128512,
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Scleralcyonacea",
+      "family": "Kophobelemnidae",
+      "genus": "Kophobelemnon",
+      "species": "Kophobelemnon stelliferum",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "vernacular": "wild Star sea pen, pennatule étoilée",
+      "group": "cnidarians"
+    },
+    {
+      "AphiaID": 128517,
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Scleralcyonacea",
+      "family": "Pennatulidae",
+      "genus": "Pennatula",
+      "species": "Pennatula phosphorea",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "vernacular": "phosphorescent sea pen, pennatule phosphorescente",
+      "group": "cnidarians"
+    },
+    {
+      "AphiaID": 128539,
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Scleralcyonacea",
+      "family": "Virgulariidae",
+      "genus": "Virgularia",
+      "species": "Virgularia mirabilis",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "vernacular": "elegant sea pen, pennatule magnifique",
+      "group": "cnidarians"
+    },
+    {
+      "AphiaID": 1674631,
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "family": "Synarachnactidae",
+      "genus": "Synarachnactis",
+      "species": "Synarachnactis lloydii",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "cnidarians"
+    },
+    {
+      "AphiaID": 117888,
+      "phylum": "Cnidaria",
+      "class": "Hydrozoa",
+      "order": "Leptothecata",
+      "family": "Sertulariidae",
+      "genus": "Dynamena",
+      "species": "Dynamena pumila",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "vernacular": "sea oak",
+      "group": "cnidarians"
+    },
+    {
+      "AphiaID": 135306,
+      "phylum": "Cnidaria",
+      "class": "Scyphozoa",
+      "order": "Semaeostomeae",
+      "family": "Ulmaridae",
+      "genus": "Aurelia",
+      "species": "Aurelia aurita",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "vernacular": "common jellyfish, aurélie",
+      "group": "cnidarians"
+    },
+    {
+      "AphiaID": 135301,
+      "phylum": "Cnidaria",
+      "class": "Scyphozoa",
+      "order": "Semaeostomeae",
+      "family": "Cyaneidae",
+      "genus": "Cyanea",
+      "species": "Cyanea capillata",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "vernacular": "lion’s mane, cyanée à crinière de lion",
+      "group": "cnidarians"
+    },
+    {
       "AphiaID": 149755,
       "phylum": "Arthropoda",
       "class": "Copepoda",
@@ -2754,6 +2915,110 @@
       "source_gbif": true,
       "source_dna": false,
       "group": "copepods"
+    },
+    {
+      "AphiaID": 148407,
+      "phylum": "Arthropoda",
+      "class": "Branchiopoda",
+      "order": "Anomopoda",
+      "family": "Chydoridae",
+      "genus": "Acroperus",
+      "species": "Acroperus harpae",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "vernacular": "common duck waterflea",
+      "group": "crustaceans"
+    },
+    {
+      "AphiaID": 412807,
+      "phylum": "Arthropoda",
+      "class": "Branchiopoda",
+      "order": "Anomopoda",
+      "family": "Chydoridae",
+      "genus": "Alona",
+      "species": "Alona affinis",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "crustaceans"
+    },
+    {
+      "AphiaID": 148406,
+      "phylum": "Arthropoda",
+      "class": "Branchiopoda",
+      "order": "Anomopoda",
+      "family": "Chydoridae",
+      "genus": "Chydorus",
+      "species": "Chydorus sphaericus",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "vernacular": "common ball waterflea",
+      "group": "crustaceans"
+    },
+    {
+      "AphiaID": 148373,
+      "phylum": "Arthropoda",
+      "class": "Branchiopoda",
+      "order": "Anomopoda",
+      "family": "Daphniidae",
+      "genus": "Daphnia",
+      "species": "Daphnia longispina",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "vernacular": "long-tailed waterflea",
+      "group": "crustaceans"
+    },
+    {
+      "AphiaID": 412813,
+      "phylum": "Arthropoda",
+      "class": "Branchiopoda",
+      "order": "Anomopoda",
+      "family": "Eurycercidae",
+      "genus": "Eurycercus",
+      "species": "Eurycercus lamellatus",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "vernacular": "giant crawling waterflea",
+      "group": "crustaceans"
+    },
+    {
+      "AphiaID": 160273,
+      "phylum": "Arthropoda",
+      "class": "Branchiopoda",
+      "order": "Ctenopoda",
+      "family": "Holopediidae",
+      "genus": "Holopedium",
+      "species": "Holopedium gibberum",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "vernacular": "jelly waterflea",
+      "group": "crustaceans"
+    },
+    {
+      "AphiaID": 409915,
+      "phylum": "Arthropoda",
+      "class": "Branchiopoda",
+      "order": "Onychopoda",
+      "family": "Polyphemidae",
+      "genus": "Polyphemus",
+      "species": "Polyphemus pediculus",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "vernacular": "predatory giant-eyed waterflea",
+      "group": "crustaceans"
     },
     {
       "AphiaID": 102870,
@@ -3261,62 +3526,211 @@
       "group": "crustaceans"
     },
     {
-      "AphiaID": 111355,
-      "phylum": "Bryozoa",
-      "class": "Gymnolaemata",
-      "order": "Cheilostomatida",
-      "family": "Electridae",
-      "genus": "Electra",
-      "species": "Electra pilosa",
+      "AphiaID": 106210,
+      "phylum": "Arthropoda",
+      "class": "Thecostraca",
+      "order": "Balanomorpha",
+      "family": "Balanidae",
+      "genus": "Semibalanus",
+      "species": "Semibalanus balanoides",
       "remove": false,
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "vernacular": "hairy sea-mat, ecorce pileuse",
-      "group": "filter-feeders"
+      "vernacular": "barnacle, balane",
+      "group": "crustaceans"
     },
     {
-      "AphiaID": 111411,
-      "phylum": "Bryozoa",
-      "class": "Gymnolaemata",
-      "order": "Cheilostomatida",
-      "family": "Membraniporidae",
-      "genus": "Membranipora",
-      "species": "Membranipora membranacea",
+      "AphiaID": 123776,
+      "phylum": "Echinodermata",
+      "class": "Asteroidea",
+      "order": "Forcipulatida",
+      "family": "Asteriidae",
+      "genus": "Asterias",
+      "species": "Asterias rubens",
       "remove": false,
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "vernacular": "lacy crust bryozoan, membranipore",
-      "group": "filter-feeders"
+      "vernacular": "common sea star, étoile de mer",
+      "group": "echinoderms"
     },
     {
-      "AphiaID": 111600,
-      "phylum": "Bryozoa",
-      "class": "Gymnolaemata",
-      "order": "Ctenostomatida",
-      "family": "Alcyonidiidae",
-      "genus": "Alcyonidium",
-      "species": "Alcyonidium gelatinosum",
+      "AphiaID": 125158,
+      "phylum": "Echinodermata",
+      "class": "Asteroidea",
+      "order": "Forcipulatida",
+      "family": "Asteriidae",
+      "genus": "Leptasterias",
+      "species": "Leptasterias (Leptasterias) muelleri",
       "remove": false,
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "filter-feeders"
+      "group": "echinoderms"
     },
     {
-      "AphiaID": 111601,
-      "phylum": "Bryozoa",
-      "class": "Gymnolaemata",
-      "order": "Ctenostomatida",
-      "family": "Alcyonidiidae",
-      "genus": "Alcyonidium",
-      "species": "Alcyonidium hirsutum",
+      "AphiaID": 123803,
+      "phylum": "Echinodermata",
+      "class": "Asteroidea",
+      "order": "Forcipulatida",
+      "family": "Asteriidae",
+      "genus": "Marthasterias",
+      "species": "Marthasterias glacialis",
       "remove": false,
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "filter-feeders"
+      "vernacular": "spiny starfish, astérie",
+      "group": "echinoderms"
+    },
+    {
+      "AphiaID": 124154,
+      "phylum": "Echinodermata",
+      "class": "Asteroidea",
+      "order": "Valvatida",
+      "family": "Solasteridae",
+      "genus": "Crossaster",
+      "species": "Crossaster papposus",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "vernacular": "common sun star",
+      "group": "echinoderms"
+    },
+    {
+      "AphiaID": 124287,
+      "phylum": "Echinodermata",
+      "class": "Echinoidea",
+      "order": "Camarodonta",
+      "family": "Echinidae",
+      "genus": "Echinus",
+      "species": "Echinus esculentus",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "category": "LR/nt",
+      "redlist_category": "LR/nt",
+      "vernacular": "edible sea urchin, oursin globuleux",
+      "group": "echinoderms"
+    },
+    {
+      "AphiaID": 532031,
+      "phylum": "Echinodermata",
+      "class": "Echinoidea",
+      "order": "Camarodonta",
+      "family": "Echinidae",
+      "genus": "Gracilechinus",
+      "species": "Gracilechinus acutus",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "echinoderms"
+    },
+    {
+      "AphiaID": 124319,
+      "phylum": "Echinodermata",
+      "class": "Echinoidea",
+      "order": "Camarodonta",
+      "family": "Parechinidae",
+      "genus": "Psammechinus",
+      "species": "Psammechinus miliaris",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "vernacular": "green sea urchin, petit oursin vert",
+      "group": "echinoderms"
+    },
+    {
+      "AphiaID": 124404,
+      "phylum": "Echinodermata",
+      "class": "Echinoidea",
+      "order": "Spatangoida",
+      "family": "Schizasteridae",
+      "genus": "Brisaster",
+      "species": "Brisaster fragilis",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "vernacular": "delicate heart sea urchin, oursin délicat",
+      "group": "echinoderms"
+    },
+    {
+      "AphiaID": 124373,
+      "phylum": "Echinodermata",
+      "class": "Echinoidea",
+      "order": "Spatangoida",
+      "family": "Brissidae",
+      "genus": "Brissopsis",
+      "species": "Brissopsis lyrifera",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "vernacular": "heart urchin",
+      "group": "echinoderms"
+    },
+    {
+      "AphiaID": 124455,
+      "phylum": "Echinodermata",
+      "class": "Holothuroidea",
+      "order": "Apodida",
+      "family": "Synaptidae",
+      "genus": "Labidoplax",
+      "species": "Labidoplax buskii",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "echinoderms"
+    },
+    {
+      "AphiaID": 125057,
+      "phylum": "Echinodermata",
+      "class": "Ophiuroidea",
+      "order": "Amphilepidida",
+      "family": "Amphilepididae",
+      "genus": "Amphilepis",
+      "species": "Amphilepis norvegica",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "echinoderms"
+    },
+    {
+      "AphiaID": 125073,
+      "phylum": "Echinodermata",
+      "class": "Ophiuroidea",
+      "order": "Amphilepidida",
+      "family": "Amphiuridae",
+      "genus": "Amphiura",
+      "species": "Amphiura chiajei",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "vernacular": "brittlestar",
+      "group": "echinoderms"
+    },
+    {
+      "AphiaID": 125190,
+      "phylum": "Echinodermata",
+      "class": "Ophiuroidea",
+      "order": "Ophiurida",
+      "family": "Ophiuridae",
+      "genus": "Ophiura",
+      "species": "Ophiura (Dictenophiura) carnea",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "echinoderms"
     },
     {
       "AphiaID": 105812,
@@ -4128,167 +4542,6 @@
       "group": "fungi"
     },
     {
-      "AphiaID": 100908,
-      "phylum": "Cnidaria",
-      "class": "Anthozoa",
-      "order": "Actiniaria",
-      "family": "Edwardsiidae",
-      "genus": "Paraedwardsia",
-      "species": "Paraedwardsia arenaria",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "group": "jellyfish"
-    },
-    {
-      "AphiaID": 125333,
-      "phylum": "Cnidaria",
-      "class": "Anthozoa",
-      "order": "Malacalcyonacea",
-      "family": "Alcyoniidae",
-      "genus": "Alcyonium",
-      "species": "Alcyonium digitatum",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "vernacular": "sea-fingers, corail digité",
-      "group": "jellyfish"
-    },
-    {
-      "AphiaID": 1245747,
-      "phylum": "Cnidaria",
-      "class": "Anthozoa",
-      "order": "Scleractinia",
-      "family": "Caryophylliidae",
-      "genus": "Desmophyllum",
-      "species": "Desmophyllum pertusum",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "group": "jellyfish"
-    },
-    {
-      "AphiaID": 128506,
-      "phylum": "Cnidaria",
-      "class": "Anthozoa",
-      "order": "Scleralcyonacea",
-      "family": "Funiculinidae",
-      "genus": "Funiculina",
-      "species": "Funiculina quadrangularis",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "vernacular": "tall seapen, pennatule à rachis carré",
-      "group": "jellyfish"
-    },
-    {
-      "AphiaID": 128512,
-      "phylum": "Cnidaria",
-      "class": "Anthozoa",
-      "order": "Scleralcyonacea",
-      "family": "Kophobelemnidae",
-      "genus": "Kophobelemnon",
-      "species": "Kophobelemnon stelliferum",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "vernacular": "wild Star sea pen, pennatule étoilée",
-      "group": "jellyfish"
-    },
-    {
-      "AphiaID": 128517,
-      "phylum": "Cnidaria",
-      "class": "Anthozoa",
-      "order": "Scleralcyonacea",
-      "family": "Pennatulidae",
-      "genus": "Pennatula",
-      "species": "Pennatula phosphorea",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "vernacular": "phosphorescent sea pen, pennatule phosphorescente",
-      "group": "jellyfish"
-    },
-    {
-      "AphiaID": 128539,
-      "phylum": "Cnidaria",
-      "class": "Anthozoa",
-      "order": "Scleralcyonacea",
-      "family": "Virgulariidae",
-      "genus": "Virgularia",
-      "species": "Virgularia mirabilis",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "vernacular": "elegant sea pen, pennatule magnifique",
-      "group": "jellyfish"
-    },
-    {
-      "AphiaID": 1674631,
-      "phylum": "Cnidaria",
-      "class": "Anthozoa",
-      "family": "Synarachnactidae",
-      "genus": "Synarachnactis",
-      "species": "Synarachnactis lloydii",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "group": "jellyfish"
-    },
-    {
-      "AphiaID": 117888,
-      "phylum": "Cnidaria",
-      "class": "Hydrozoa",
-      "order": "Leptothecata",
-      "family": "Sertulariidae",
-      "genus": "Dynamena",
-      "species": "Dynamena pumila",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "vernacular": "sea oak",
-      "group": "jellyfish"
-    },
-    {
-      "AphiaID": 135306,
-      "phylum": "Cnidaria",
-      "class": "Scyphozoa",
-      "order": "Semaeostomeae",
-      "family": "Ulmaridae",
-      "genus": "Aurelia",
-      "species": "Aurelia aurita",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "vernacular": "common jellyfish, aurélie",
-      "group": "jellyfish"
-    },
-    {
-      "AphiaID": 135301,
-      "phylum": "Cnidaria",
-      "class": "Scyphozoa",
-      "order": "Semaeostomeae",
-      "family": "Cyaneidae",
-      "genus": "Cyanea",
-      "species": "Cyanea capillata",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "vernacular": "lion’s mane, cyanée à crinière de lion",
-      "group": "jellyfish"
-    },
-    {
       "AphiaID": 137076,
       "phylum": "Chordata",
       "class": "Mammalia",
@@ -5097,6 +5350,64 @@
       "group": "molluscs"
     },
     {
+      "AphiaID": 111355,
+      "phylum": "Bryozoa",
+      "class": "Gymnolaemata",
+      "order": "Cheilostomatida",
+      "family": "Electridae",
+      "genus": "Electra",
+      "species": "Electra pilosa",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "vernacular": "hairy sea-mat, ecorce pileuse",
+      "group": "moss animals"
+    },
+    {
+      "AphiaID": 111411,
+      "phylum": "Bryozoa",
+      "class": "Gymnolaemata",
+      "order": "Cheilostomatida",
+      "family": "Membraniporidae",
+      "genus": "Membranipora",
+      "species": "Membranipora membranacea",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "vernacular": "lacy crust bryozoan, membranipore",
+      "group": "moss animals"
+    },
+    {
+      "AphiaID": 111600,
+      "phylum": "Bryozoa",
+      "class": "Gymnolaemata",
+      "order": "Ctenostomatida",
+      "family": "Alcyonidiidae",
+      "genus": "Alcyonidium",
+      "species": "Alcyonidium gelatinosum",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "moss animals"
+    },
+    {
+      "AphiaID": 111601,
+      "phylum": "Bryozoa",
+      "class": "Gymnolaemata",
+      "order": "Ctenostomatida",
+      "family": "Alcyonidiidae",
+      "genus": "Alcyonidium",
+      "species": "Alcyonidium hirsutum",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "moss animals"
+    },
+    {
       "AphiaID": 136903,
       "phylum": "Cercozoa",
       "class": "Imbricatea",
@@ -5108,7 +5419,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 391892,
@@ -5122,7 +5433,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 391957,
@@ -5136,7 +5447,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 109726,
@@ -5150,7 +5461,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 109741,
@@ -5164,7 +5475,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 109754,
@@ -5178,7 +5489,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 837075,
@@ -5192,7 +5503,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 391509,
@@ -5206,7 +5517,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 109603,
@@ -5222,7 +5533,7 @@
       "source_obis": true,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 109604,
@@ -5238,7 +5549,7 @@
       "source_obis": true,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 109616,
@@ -5252,7 +5563,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 109637,
@@ -5268,7 +5579,7 @@
       "source_obis": true,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 109638,
@@ -5282,7 +5593,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 109641,
@@ -5296,7 +5607,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 109662,
@@ -5310,7 +5621,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 156505,
@@ -5324,7 +5635,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 109711,
@@ -5338,7 +5649,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 109712,
@@ -5352,7 +5663,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 109713,
@@ -5366,7 +5677,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 109714,
@@ -5382,7 +5693,7 @@
       "source_obis": true,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110007,
@@ -5396,7 +5707,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 109705,
@@ -5410,7 +5721,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 233509,
@@ -5424,7 +5735,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110015,
@@ -5438,7 +5749,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110035,
@@ -5452,7 +5763,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110039,
@@ -5466,7 +5777,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110041,
@@ -5480,7 +5791,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110045,
@@ -5494,7 +5805,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 233592,
@@ -5510,7 +5821,7 @@
       "source_obis": true,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 109992,
@@ -5524,7 +5835,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110156,
@@ -5538,7 +5849,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110321,
@@ -5552,7 +5863,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 232598,
@@ -5566,7 +5877,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 841190,
@@ -5580,7 +5891,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 840627,
@@ -5596,7 +5907,7 @@
       "source_obis": true,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 840626,
@@ -5610,7 +5921,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 837459,
@@ -5624,7 +5935,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 841259,
@@ -5638,7 +5949,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 841260,
@@ -5652,7 +5963,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 1391716,
@@ -5666,7 +5977,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 495363,
@@ -5680,7 +5991,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 232546,
@@ -5694,7 +6005,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 109784,
@@ -5708,7 +6019,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 232792,
@@ -5722,7 +6033,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 109834,
@@ -5736,7 +6047,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 109856,
@@ -5750,7 +6061,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 109876,
@@ -5764,7 +6075,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 233024,
@@ -5778,7 +6089,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 233037,
@@ -5792,7 +6103,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 1382182,
@@ -5806,7 +6117,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 547527,
@@ -5820,7 +6131,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 109899,
@@ -5834,7 +6145,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 109901,
@@ -5848,7 +6159,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 615516,
@@ -5862,7 +6173,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 109889,
@@ -5876,7 +6187,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 109920,
@@ -5890,7 +6201,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 109903,
@@ -5904,7 +6215,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 109923,
@@ -5918,7 +6229,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110133,
@@ -5932,7 +6243,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 155560,
@@ -5946,7 +6257,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 233620,
@@ -5960,7 +6271,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110152,
@@ -5974,7 +6285,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 1346683,
@@ -5988,7 +6299,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 232703,
@@ -6002,7 +6313,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110155,
@@ -6016,7 +6327,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 233857,
@@ -6030,7 +6341,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 233870,
@@ -6044,7 +6355,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110199,
@@ -6058,7 +6369,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 232625,
@@ -6072,7 +6383,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110208,
@@ -6086,7 +6397,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110210,
@@ -6100,7 +6411,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 162749,
@@ -6114,7 +6425,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110212,
@@ -6128,7 +6439,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110213,
@@ -6142,7 +6453,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110214,
@@ -6156,7 +6467,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110215,
@@ -6170,7 +6481,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 163934,
@@ -6184,7 +6495,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110216,
@@ -6198,7 +6509,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110217,
@@ -6212,7 +6523,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110219,
@@ -6226,7 +6537,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110223,
@@ -6240,7 +6551,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110229,
@@ -6254,7 +6565,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 614620,
@@ -6268,7 +6579,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110238,
@@ -6282,7 +6593,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110241,
@@ -6296,7 +6607,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110244,
@@ -6310,7 +6621,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110245,
@@ -6324,7 +6635,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110247,
@@ -6338,7 +6649,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110249,
@@ -6352,7 +6663,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110257,
@@ -6366,7 +6677,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110259,
@@ -6380,7 +6691,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 1321853,
@@ -6394,7 +6705,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 232516,
@@ -6408,7 +6719,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110291,
@@ -6422,7 +6733,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110293,
@@ -6436,7 +6747,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 232376,
@@ -6450,7 +6761,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110300,
@@ -6464,7 +6775,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110303,
@@ -6478,7 +6789,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110316,
@@ -6492,7 +6803,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110324,
@@ -6506,7 +6817,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110325,
@@ -6520,199 +6831,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
-    },
-    {
-      "AphiaID": 123776,
-      "phylum": "Echinodermata",
-      "class": "Asteroidea",
-      "order": "Forcipulatida",
-      "family": "Asteriidae",
-      "genus": "Asterias",
-      "species": "Asterias rubens",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "vernacular": "common sea star, étoile de mer",
-      "group": "starfish"
-    },
-    {
-      "AphiaID": 125158,
-      "phylum": "Echinodermata",
-      "class": "Asteroidea",
-      "order": "Forcipulatida",
-      "family": "Asteriidae",
-      "genus": "Leptasterias",
-      "species": "Leptasterias (Leptasterias) muelleri",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "group": "starfish"
-    },
-    {
-      "AphiaID": 123803,
-      "phylum": "Echinodermata",
-      "class": "Asteroidea",
-      "order": "Forcipulatida",
-      "family": "Asteriidae",
-      "genus": "Marthasterias",
-      "species": "Marthasterias glacialis",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "vernacular": "spiny starfish, astérie",
-      "group": "starfish"
-    },
-    {
-      "AphiaID": 124154,
-      "phylum": "Echinodermata",
-      "class": "Asteroidea",
-      "order": "Valvatida",
-      "family": "Solasteridae",
-      "genus": "Crossaster",
-      "species": "Crossaster papposus",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "vernacular": "common sun star",
-      "group": "starfish"
-    },
-    {
-      "AphiaID": 124287,
-      "phylum": "Echinodermata",
-      "class": "Echinoidea",
-      "order": "Camarodonta",
-      "family": "Echinidae",
-      "genus": "Echinus",
-      "species": "Echinus esculentus",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "category": "LR/nt",
-      "redlist_category": "LR/nt",
-      "vernacular": "edible sea urchin, oursin globuleux",
-      "group": "starfish"
-    },
-    {
-      "AphiaID": 532031,
-      "phylum": "Echinodermata",
-      "class": "Echinoidea",
-      "order": "Camarodonta",
-      "family": "Echinidae",
-      "genus": "Gracilechinus",
-      "species": "Gracilechinus acutus",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "group": "starfish"
-    },
-    {
-      "AphiaID": 124319,
-      "phylum": "Echinodermata",
-      "class": "Echinoidea",
-      "order": "Camarodonta",
-      "family": "Parechinidae",
-      "genus": "Psammechinus",
-      "species": "Psammechinus miliaris",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "vernacular": "green sea urchin, petit oursin vert",
-      "group": "starfish"
-    },
-    {
-      "AphiaID": 124404,
-      "phylum": "Echinodermata",
-      "class": "Echinoidea",
-      "order": "Spatangoida",
-      "family": "Schizasteridae",
-      "genus": "Brisaster",
-      "species": "Brisaster fragilis",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "vernacular": "delicate heart sea urchin, oursin délicat",
-      "group": "starfish"
-    },
-    {
-      "AphiaID": 124373,
-      "phylum": "Echinodermata",
-      "class": "Echinoidea",
-      "order": "Spatangoida",
-      "family": "Brissidae",
-      "genus": "Brissopsis",
-      "species": "Brissopsis lyrifera",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "vernacular": "heart urchin",
-      "group": "starfish"
-    },
-    {
-      "AphiaID": 124455,
-      "phylum": "Echinodermata",
-      "class": "Holothuroidea",
-      "order": "Apodida",
-      "family": "Synaptidae",
-      "genus": "Labidoplax",
-      "species": "Labidoplax buskii",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "group": "starfish"
-    },
-    {
-      "AphiaID": 125057,
-      "phylum": "Echinodermata",
-      "class": "Ophiuroidea",
-      "order": "Amphilepidida",
-      "family": "Amphilepididae",
-      "genus": "Amphilepis",
-      "species": "Amphilepis norvegica",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "group": "starfish"
-    },
-    {
-      "AphiaID": 125073,
-      "phylum": "Echinodermata",
-      "class": "Ophiuroidea",
-      "order": "Amphilepidida",
-      "family": "Amphiuridae",
-      "genus": "Amphiura",
-      "species": "Amphiura chiajei",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "vernacular": "brittlestar",
-      "group": "starfish"
-    },
-    {
-      "AphiaID": 125190,
-      "phylum": "Echinodermata",
-      "class": "Ophiuroidea",
-      "order": "Ophiurida",
-      "family": "Ophiuridae",
-      "genus": "Ophiura",
-      "species": "Ophiura (Dictenophiura) carnea",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "group": "starfish"
+      "group": "unicellular"
     },
     {
       "AphiaID": 137427,
@@ -7619,103 +7738,6 @@
       "group": "worms"
     },
     {
-      "AphiaID": 148407,
-      "phylum": "Arthropoda",
-      "class": "Branchiopoda",
-      "order": "Anomopoda",
-      "family": "Chydoridae",
-      "genus": "Acroperus",
-      "species": "Acroperus harpae",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "vernacular": "common duck waterflea"
-    },
-    {
-      "AphiaID": 412807,
-      "phylum": "Arthropoda",
-      "class": "Branchiopoda",
-      "order": "Anomopoda",
-      "family": "Chydoridae",
-      "genus": "Alona",
-      "species": "Alona affinis",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false
-    },
-    {
-      "AphiaID": 148406,
-      "phylum": "Arthropoda",
-      "class": "Branchiopoda",
-      "order": "Anomopoda",
-      "family": "Chydoridae",
-      "genus": "Chydorus",
-      "species": "Chydorus sphaericus",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "vernacular": "common ball waterflea"
-    },
-    {
-      "AphiaID": 148373,
-      "phylum": "Arthropoda",
-      "class": "Branchiopoda",
-      "order": "Anomopoda",
-      "family": "Daphniidae",
-      "genus": "Daphnia",
-      "species": "Daphnia longispina",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "vernacular": "long-tailed waterflea"
-    },
-    {
-      "AphiaID": 412813,
-      "phylum": "Arthropoda",
-      "class": "Branchiopoda",
-      "order": "Anomopoda",
-      "family": "Eurycercidae",
-      "genus": "Eurycercus",
-      "species": "Eurycercus lamellatus",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "vernacular": "giant crawling waterflea"
-    },
-    {
-      "AphiaID": 160273,
-      "phylum": "Arthropoda",
-      "class": "Branchiopoda",
-      "order": "Ctenopoda",
-      "family": "Holopediidae",
-      "genus": "Holopedium",
-      "species": "Holopedium gibberum",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "vernacular": "jelly waterflea"
-    },
-    {
-      "AphiaID": 409915,
-      "phylum": "Arthropoda",
-      "class": "Branchiopoda",
-      "order": "Onychopoda",
-      "family": "Polyphemidae",
-      "genus": "Polyphemus",
-      "species": "Polyphemus pediculus",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "vernacular": "predatory giant-eyed waterflea"
-    },
-    {
       "AphiaID": 709574,
       "phylum": "Arthropoda",
       "class": "Hexapoda",
@@ -7765,20 +7787,6 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false
-    },
-    {
-      "AphiaID": 106210,
-      "phylum": "Arthropoda",
-      "class": "Thecostraca",
-      "order": "Balanomorpha",
-      "family": "Balanidae",
-      "genus": "Semibalanus",
-      "species": "Semibalanus balanoides",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "vernacular": "barnacle, balane"
     },
     {
       "AphiaID": 1456971,
@@ -8634,16 +8642,16 @@
     "groups": {
         "algae": 143,
         "birds": 41,
+        "cnidarians": 11,
         "copepods": 4,
-        "crustaceans": 35,
-        "filter-feeders": 4,
+        "crustaceans": 43,
+        "echinoderms": 13,
         "fish": 48,
         "fungi": 1,
-        "jellyfish": 11,
         "mammals": 5,
         "molluscs": 49,
-        "single-cell": 101,
-        "starfish": 13,
+        "moss animals": 4,
+        "unicellular": 101,
         "worms": 65
       },
     "groups_edna": {},

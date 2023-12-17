@@ -1,5 +1,5 @@
 {
-  "created": "2023-12-10T21:37:15",
+  "created": "2023-12-17T10:59:37",
   "species": [
     {
       "AphiaID": 148990,
@@ -3669,6 +3669,55 @@
       "group": "birds"
     },
     {
+      "AphiaID": 117428,
+      "phylum": "Cnidaria",
+      "class": "Hydrozoa",
+      "order": "Anthoathecata",
+      "family": "Cordylophoridae",
+      "genus": "Cordylophora",
+      "species": "Cordylophora caspia",
+      "remove": false,
+      "records": 8,
+      "max_year": 2018,
+      "source_obis": true,
+      "source_gbif": true,
+      "source_dna": false,
+      "vernacular": "Ponto-Caspian freshwater hydroid, cordylophore de la Caspienne",
+      "group": "cnidarians"
+    },
+    {
+      "AphiaID": 117382,
+      "phylum": "Cnidaria",
+      "class": "Hydrozoa",
+      "order": "Leptothecata",
+      "family": "Campanulariidae",
+      "genus": "Laomedea",
+      "species": "Laomedea flexuosa",
+      "remove": false,
+      "records": 1,
+      "max_year": 2021,
+      "source_obis": true,
+      "source_gbif": true,
+      "source_dna": false,
+      "vernacular": "seabells",
+      "group": "cnidarians"
+    },
+    {
+      "AphiaID": 106377,
+      "phylum": "Ctenophora",
+      "class": "Tentaculata",
+      "order": "Cydippida",
+      "family": "Mertensiidae",
+      "genus": "Mertensia",
+      "species": "Mertensia ovum",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "vernacular": "Arctic sea gooseberry",
+      "group": "cnidarians"
+    },
+    {
       "AphiaID": 345919,
       "phylum": "Arthropoda",
       "class": "Copepoda",
@@ -3809,6 +3858,247 @@
       "source_gbif": true,
       "source_dna": false,
       "group": "copepods"
+    },
+    {
+      "AphiaID": 106271,
+      "phylum": "Arthropoda",
+      "class": "Branchiopoda",
+      "order": "Anomopoda",
+      "family": "Bosminidae",
+      "genus": "Bosmina",
+      "species": "Bosmina (Eubosmina) coregoni",
+      "remove": false,
+      "records": 293,
+      "max_year": 2021,
+      "source_obis": true,
+      "source_gbif": false,
+      "source_dna": false,
+      "vernacular": "Baltic long-nosed waterflea",
+      "group": "crustaceans"
+    },
+    {
+      "AphiaID": 148406,
+      "phylum": "Arthropoda",
+      "class": "Branchiopoda",
+      "order": "Anomopoda",
+      "family": "Chydoridae",
+      "genus": "Chydorus",
+      "species": "Chydorus sphaericus",
+      "remove": false,
+      "records": 2,
+      "max_year": 2021,
+      "source_obis": true,
+      "source_gbif": false,
+      "source_dna": false,
+      "vernacular": "common ball waterflea",
+      "group": "crustaceans"
+    },
+    {
+      "AphiaID": 378582,
+      "phylum": "Arthropoda",
+      "class": "Branchiopoda",
+      "order": "Anomopoda",
+      "family": "Daphniidae",
+      "genus": "Daphnia",
+      "species": "Daphnia cristata",
+      "remove": false,
+      "records": 26,
+      "max_year": 2020,
+      "source_obis": true,
+      "source_gbif": true,
+      "source_dna": false,
+      "vernacular": "pointed helmeted waterflea",
+      "group": "crustaceans"
+    },
+    {
+      "AphiaID": 378583,
+      "phylum": "Arthropoda",
+      "class": "Branchiopoda",
+      "order": "Anomopoda",
+      "family": "Daphniidae",
+      "genus": "Daphnia",
+      "species": "Daphnia cristata",
+      "remove": false,
+      "records": 1,
+      "max_year": 2008,
+      "source_obis": true,
+      "source_gbif": false,
+      "source_dna": false,
+      "group": "crustaceans"
+    },
+    {
+      "AphiaID": 148371,
+      "phylum": "Arthropoda",
+      "class": "Branchiopoda",
+      "order": "Anomopoda",
+      "family": "Daphniidae",
+      "genus": "Daphnia",
+      "species": "Daphnia cucullata",
+      "remove": false,
+      "records": 40,
+      "max_year": 2021,
+      "source_obis": true,
+      "source_gbif": true,
+      "source_dna": false,
+      "vernacular": "helmeted waterflea",
+      "group": "crustaceans"
+    },
+    {
+      "AphiaID": 378586,
+      "phylum": "Arthropoda",
+      "class": "Branchiopoda",
+      "order": "Anomopoda",
+      "family": "Daphniidae",
+      "genus": "Daphnia",
+      "species": "Daphnia cucullata",
+      "remove": false,
+      "records": 2,
+      "max_year": 2008,
+      "source_obis": true,
+      "source_gbif": false,
+      "source_dna": false,
+      "group": "crustaceans"
+    },
+    {
+      "AphiaID": 717575,
+      "phylum": "Arthropoda",
+      "class": "Branchiopoda",
+      "order": "Anomopoda",
+      "family": "Daphniidae",
+      "genus": "Daphnia",
+      "species": "Daphnia galeata",
+      "remove": false,
+      "records": 4,
+      "max_year": 2014,
+      "source_obis": true,
+      "source_gbif": false,
+      "source_dna": false,
+      "group": "crustaceans"
+    },
+    {
+      "AphiaID": 412813,
+      "phylum": "Arthropoda",
+      "class": "Branchiopoda",
+      "order": "Anomopoda",
+      "family": "Eurycercidae",
+      "genus": "Eurycercus",
+      "species": "Eurycercus lamellatus",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "vernacular": "giant crawling waterflea",
+      "group": "crustaceans"
+    },
+    {
+      "AphiaID": 410029,
+      "phylum": "Arthropoda",
+      "class": "Branchiopoda",
+      "order": "Ctenopoda",
+      "family": "Sididae",
+      "genus": "Sida",
+      "species": "Sida crystallina",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "crustaceans"
+    },
+    {
+      "AphiaID": 247980,
+      "phylum": "Arthropoda",
+      "class": "Branchiopoda",
+      "order": "Haplopoda",
+      "family": "Leptodoridae",
+      "genus": "Leptodora",
+      "species": "Leptodora kindtii",
+      "remove": false,
+      "records": 9,
+      "max_year": 2021,
+      "source_obis": true,
+      "source_gbif": false,
+      "source_dna": false,
+      "group": "crustaceans"
+    },
+    {
+      "AphiaID": 234084,
+      "phylum": "Arthropoda",
+      "class": "Branchiopoda",
+      "order": "Onychopoda",
+      "family": "Podonidae",
+      "genus": "Evadne",
+      "species": "Evadne anonyx",
+      "remove": false,
+      "records": 5,
+      "max_year": 2021,
+      "source_obis": true,
+      "source_gbif": false,
+      "source_dna": false,
+      "group": "crustaceans"
+    },
+    {
+      "AphiaID": 106273,
+      "phylum": "Arthropoda",
+      "class": "Branchiopoda",
+      "order": "Onychopoda",
+      "family": "Podonidae",
+      "genus": "Evadne",
+      "species": "Evadne nordmanni",
+      "remove": false,
+      "records": 249,
+      "max_year": 2021,
+      "source_obis": true,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "crustaceans"
+    },
+    {
+      "AphiaID": 247981,
+      "phylum": "Arthropoda",
+      "class": "Branchiopoda",
+      "order": "Onychopoda",
+      "family": "Podonidae",
+      "genus": "Pleopis",
+      "species": "Pleopis polyphemoides",
+      "remove": false,
+      "records": 119,
+      "max_year": 2021,
+      "source_obis": true,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "crustaceans"
+    },
+    {
+      "AphiaID": 106276,
+      "phylum": "Arthropoda",
+      "class": "Branchiopoda",
+      "order": "Onychopoda",
+      "family": "Podonidae",
+      "genus": "Podon",
+      "species": "Podon intermedius",
+      "remove": false,
+      "records": 35,
+      "max_year": 2020,
+      "source_obis": true,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "crustaceans"
+    },
+    {
+      "AphiaID": 106277,
+      "phylum": "Arthropoda",
+      "class": "Branchiopoda",
+      "order": "Onychopoda",
+      "family": "Podonidae",
+      "genus": "Podon",
+      "species": "Podon leuckartii",
+      "remove": false,
+      "records": 14,
+      "max_year": 2021,
+      "source_obis": true,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "crustaceans"
     },
     {
       "AphiaID": 102101,
@@ -4263,37 +4553,21 @@
       "group": "crustaceans"
     },
     {
-      "AphiaID": 467577,
-      "phylum": "Bryozoa",
-      "class": "Gymnolaemata",
-      "order": "Cheilostomatida",
-      "family": "Electridae",
-      "genus": "Einhornia",
-      "species": "Einhornia crustulenta",
+      "AphiaID": 421139,
+      "phylum": "Arthropoda",
+      "class": "Thecostraca",
+      "order": "Balanomorpha",
+      "family": "Balanidae",
+      "genus": "Amphibalanus",
+      "species": "Amphibalanus improvisus",
       "remove": false,
-      "records": 1238,
+      "records": 1842,
       "max_year": 2021,
       "source_obis": true,
       "source_gbif": true,
       "source_dna": false,
-      "group": "filter-feeders"
-    },
-    {
-      "AphiaID": 111355,
-      "phylum": "Bryozoa",
-      "class": "Gymnolaemata",
-      "order": "Cheilostomatida",
-      "family": "Electridae",
-      "genus": "Electra",
-      "species": "Electra pilosa",
-      "remove": false,
-      "records": 36,
-      "max_year": 2007,
-      "source_obis": true,
-      "source_gbif": true,
-      "source_dna": false,
-      "vernacular": "hairy sea-mat, ecorce pileuse",
-      "group": "filter-feeders"
+      "vernacular": "bay barnacle",
+      "group": "crustaceans"
     },
     {
       "AphiaID": 101172,
@@ -5153,55 +5427,6 @@
       "group": "fungi"
     },
     {
-      "AphiaID": 117428,
-      "phylum": "Cnidaria",
-      "class": "Hydrozoa",
-      "order": "Anthoathecata",
-      "family": "Cordylophoridae",
-      "genus": "Cordylophora",
-      "species": "Cordylophora caspia",
-      "remove": false,
-      "records": 8,
-      "max_year": 2018,
-      "source_obis": true,
-      "source_gbif": true,
-      "source_dna": false,
-      "vernacular": "Ponto-Caspian freshwater hydroid, cordylophore de la Caspienne",
-      "group": "jellyfish"
-    },
-    {
-      "AphiaID": 117382,
-      "phylum": "Cnidaria",
-      "class": "Hydrozoa",
-      "order": "Leptothecata",
-      "family": "Campanulariidae",
-      "genus": "Laomedea",
-      "species": "Laomedea flexuosa",
-      "remove": false,
-      "records": 1,
-      "max_year": 2021,
-      "source_obis": true,
-      "source_gbif": true,
-      "source_dna": false,
-      "vernacular": "seabells",
-      "group": "jellyfish"
-    },
-    {
-      "AphiaID": 106377,
-      "phylum": "Ctenophora",
-      "class": "Tentaculata",
-      "order": "Cydippida",
-      "family": "Mertensiidae",
-      "genus": "Mertensia",
-      "species": "Mertensia ovum",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "vernacular": "Arctic sea gooseberry",
-      "group": "jellyfish"
-    },
-    {
       "AphiaID": 137080,
       "phylum": "Chordata",
       "class": "Mammalia",
@@ -5551,6 +5776,39 @@
       "group": "molluscs"
     },
     {
+      "AphiaID": 467577,
+      "phylum": "Bryozoa",
+      "class": "Gymnolaemata",
+      "order": "Cheilostomatida",
+      "family": "Electridae",
+      "genus": "Einhornia",
+      "species": "Einhornia crustulenta",
+      "remove": false,
+      "records": 1238,
+      "max_year": 2021,
+      "source_obis": true,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "moss animals"
+    },
+    {
+      "AphiaID": 111355,
+      "phylum": "Bryozoa",
+      "class": "Gymnolaemata",
+      "order": "Cheilostomatida",
+      "family": "Electridae",
+      "genus": "Electra",
+      "species": "Electra pilosa",
+      "remove": false,
+      "records": 36,
+      "max_year": 2007,
+      "source_obis": true,
+      "source_gbif": true,
+      "source_dna": false,
+      "vernacular": "hairy sea-mat, ecorce pileuse",
+      "group": "moss animals"
+    },
+    {
       "AphiaID": 839150,
       "phylum": "Cercozoa",
       "class": "Imbricatea",
@@ -5562,7 +5820,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 872079,
@@ -5576,7 +5834,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 118045,
@@ -5590,7 +5848,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 118047,
@@ -5606,7 +5864,7 @@
       "source_obis": true,
       "source_gbif": false,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 881411,
@@ -5620,7 +5878,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 872102,
@@ -5633,7 +5891,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 663583,
@@ -5647,7 +5905,7 @@
       "source_obis": true,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 109726,
@@ -5663,7 +5921,7 @@
       "source_obis": true,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 109741,
@@ -5679,7 +5937,7 @@
       "source_obis": true,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 109754,
@@ -5695,7 +5953,7 @@
       "source_obis": true,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 109603,
@@ -5711,7 +5969,7 @@
       "source_obis": true,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 109604,
@@ -5727,7 +5985,7 @@
       "source_obis": true,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 156505,
@@ -5743,7 +6001,7 @@
       "source_obis": true,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 109712,
@@ -5759,7 +6017,7 @@
       "source_obis": true,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110007,
@@ -5775,7 +6033,7 @@
       "source_obis": true,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 1304620,
@@ -5791,7 +6049,7 @@
       "source_obis": true,
       "source_gbif": false,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 846758,
@@ -5805,7 +6063,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 156511,
@@ -5821,7 +6079,7 @@
       "source_obis": true,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110041,
@@ -5837,7 +6095,7 @@
       "source_obis": true,
       "source_gbif": false,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110045,
@@ -5853,7 +6111,7 @@
       "source_obis": true,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 109992,
@@ -5869,7 +6127,7 @@
       "source_obis": true,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 109993,
@@ -5885,7 +6143,7 @@
       "source_obis": true,
       "source_gbif": false,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110156,
@@ -5901,7 +6159,7 @@
       "source_obis": true,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110321,
@@ -5917,7 +6175,7 @@
       "source_obis": true,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 232598,
@@ -5933,7 +6191,7 @@
       "source_obis": true,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 232546,
@@ -5949,7 +6207,7 @@
       "source_obis": true,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 1633651,
@@ -5963,7 +6221,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 232869,
@@ -5979,7 +6237,7 @@
       "source_obis": true,
       "source_gbif": false,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 547469,
@@ -5995,7 +6253,7 @@
       "source_obis": true,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 109851,
@@ -6009,7 +6267,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 109856,
@@ -6023,7 +6281,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 109876,
@@ -6039,7 +6297,7 @@
       "source_obis": true,
       "source_gbif": false,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 233037,
@@ -6053,7 +6311,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 1382182,
@@ -6069,7 +6327,7 @@
       "source_obis": true,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 840907,
@@ -6083,7 +6341,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 571649,
@@ -6099,7 +6357,7 @@
       "source_obis": true,
       "source_gbif": false,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 688227,
@@ -6115,7 +6373,7 @@
       "source_obis": true,
       "source_gbif": false,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 233619,
@@ -6131,7 +6389,7 @@
       "source_obis": true,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 233625,
@@ -6145,7 +6403,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110152,
@@ -6161,7 +6419,7 @@
       "source_obis": true,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110154,
@@ -6177,7 +6435,7 @@
       "source_obis": true,
       "source_gbif": false,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 1346683,
@@ -6193,7 +6451,7 @@
       "source_obis": true,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 232703,
@@ -6209,7 +6467,7 @@
       "source_obis": true,
       "source_gbif": false,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110155,
@@ -6225,7 +6483,7 @@
       "source_obis": true,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 614618,
@@ -6241,7 +6499,7 @@
       "source_obis": true,
       "source_gbif": false,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 109927,
@@ -6255,7 +6513,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110208,
@@ -6271,7 +6529,7 @@
       "source_obis": true,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110209,
@@ -6287,7 +6545,7 @@
       "source_obis": true,
       "source_gbif": false,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110210,
@@ -6303,7 +6561,7 @@
       "source_obis": true,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110223,
@@ -6319,7 +6577,7 @@
       "source_obis": true,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110245,
@@ -6335,7 +6593,7 @@
       "source_obis": true,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 110293,
@@ -6351,7 +6609,7 @@
       "source_obis": true,
       "source_gbif": false,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 232376,
@@ -6367,7 +6625,7 @@
       "source_obis": true,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 626297,
@@ -6383,7 +6641,7 @@
       "source_obis": true,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 626298,
@@ -6399,7 +6657,7 @@
       "source_obis": true,
       "source_gbif": false,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 232248,
@@ -6413,7 +6671,7 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 1380043,
@@ -6429,7 +6687,7 @@
       "source_obis": true,
       "source_gbif": true,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 1368615,
@@ -6445,7 +6703,7 @@
       "source_obis": true,
       "source_gbif": false,
       "source_dna": false,
-      "group": "single-cell"
+      "group": "unicellular"
     },
     {
       "AphiaID": 416513,
@@ -6919,232 +7177,6 @@
       "source_dna": false
     },
     {
-      "AphiaID": 106271,
-      "phylum": "Arthropoda",
-      "class": "Branchiopoda",
-      "order": "Anomopoda",
-      "family": "Bosminidae",
-      "genus": "Bosmina",
-      "species": "Bosmina (Eubosmina) coregoni",
-      "remove": false,
-      "records": 293,
-      "max_year": 2021,
-      "source_obis": true,
-      "source_gbif": false,
-      "source_dna": false,
-      "vernacular": "Baltic long-nosed waterflea"
-    },
-    {
-      "AphiaID": 148406,
-      "phylum": "Arthropoda",
-      "class": "Branchiopoda",
-      "order": "Anomopoda",
-      "family": "Chydoridae",
-      "genus": "Chydorus",
-      "species": "Chydorus sphaericus",
-      "remove": false,
-      "records": 2,
-      "max_year": 2021,
-      "source_obis": true,
-      "source_gbif": false,
-      "source_dna": false,
-      "vernacular": "common ball waterflea"
-    },
-    {
-      "AphiaID": 378582,
-      "phylum": "Arthropoda",
-      "class": "Branchiopoda",
-      "order": "Anomopoda",
-      "family": "Daphniidae",
-      "genus": "Daphnia",
-      "species": "Daphnia cristata",
-      "remove": false,
-      "records": 26,
-      "max_year": 2020,
-      "source_obis": true,
-      "source_gbif": true,
-      "source_dna": false,
-      "vernacular": "pointed helmeted waterflea"
-    },
-    {
-      "AphiaID": 378583,
-      "phylum": "Arthropoda",
-      "class": "Branchiopoda",
-      "order": "Anomopoda",
-      "family": "Daphniidae",
-      "genus": "Daphnia",
-      "species": "Daphnia cristata",
-      "remove": false,
-      "records": 1,
-      "max_year": 2008,
-      "source_obis": true,
-      "source_gbif": false,
-      "source_dna": false
-    },
-    {
-      "AphiaID": 148371,
-      "phylum": "Arthropoda",
-      "class": "Branchiopoda",
-      "order": "Anomopoda",
-      "family": "Daphniidae",
-      "genus": "Daphnia",
-      "species": "Daphnia cucullata",
-      "remove": false,
-      "records": 40,
-      "max_year": 2021,
-      "source_obis": true,
-      "source_gbif": true,
-      "source_dna": false,
-      "vernacular": "helmeted waterflea"
-    },
-    {
-      "AphiaID": 378586,
-      "phylum": "Arthropoda",
-      "class": "Branchiopoda",
-      "order": "Anomopoda",
-      "family": "Daphniidae",
-      "genus": "Daphnia",
-      "species": "Daphnia cucullata",
-      "remove": false,
-      "records": 2,
-      "max_year": 2008,
-      "source_obis": true,
-      "source_gbif": false,
-      "source_dna": false
-    },
-    {
-      "AphiaID": 717575,
-      "phylum": "Arthropoda",
-      "class": "Branchiopoda",
-      "order": "Anomopoda",
-      "family": "Daphniidae",
-      "genus": "Daphnia",
-      "species": "Daphnia galeata",
-      "remove": false,
-      "records": 4,
-      "max_year": 2014,
-      "source_obis": true,
-      "source_gbif": false,
-      "source_dna": false
-    },
-    {
-      "AphiaID": 412813,
-      "phylum": "Arthropoda",
-      "class": "Branchiopoda",
-      "order": "Anomopoda",
-      "family": "Eurycercidae",
-      "genus": "Eurycercus",
-      "species": "Eurycercus lamellatus",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "vernacular": "giant crawling waterflea"
-    },
-    {
-      "AphiaID": 410029,
-      "phylum": "Arthropoda",
-      "class": "Branchiopoda",
-      "order": "Ctenopoda",
-      "family": "Sididae",
-      "genus": "Sida",
-      "species": "Sida crystallina",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false
-    },
-    {
-      "AphiaID": 247980,
-      "phylum": "Arthropoda",
-      "class": "Branchiopoda",
-      "order": "Haplopoda",
-      "family": "Leptodoridae",
-      "genus": "Leptodora",
-      "species": "Leptodora kindtii",
-      "remove": false,
-      "records": 9,
-      "max_year": 2021,
-      "source_obis": true,
-      "source_gbif": false,
-      "source_dna": false
-    },
-    {
-      "AphiaID": 234084,
-      "phylum": "Arthropoda",
-      "class": "Branchiopoda",
-      "order": "Onychopoda",
-      "family": "Podonidae",
-      "genus": "Evadne",
-      "species": "Evadne anonyx",
-      "remove": false,
-      "records": 5,
-      "max_year": 2021,
-      "source_obis": true,
-      "source_gbif": false,
-      "source_dna": false
-    },
-    {
-      "AphiaID": 106273,
-      "phylum": "Arthropoda",
-      "class": "Branchiopoda",
-      "order": "Onychopoda",
-      "family": "Podonidae",
-      "genus": "Evadne",
-      "species": "Evadne nordmanni",
-      "remove": false,
-      "records": 249,
-      "max_year": 2021,
-      "source_obis": true,
-      "source_gbif": true,
-      "source_dna": false
-    },
-    {
-      "AphiaID": 247981,
-      "phylum": "Arthropoda",
-      "class": "Branchiopoda",
-      "order": "Onychopoda",
-      "family": "Podonidae",
-      "genus": "Pleopis",
-      "species": "Pleopis polyphemoides",
-      "remove": false,
-      "records": 119,
-      "max_year": 2021,
-      "source_obis": true,
-      "source_gbif": true,
-      "source_dna": false
-    },
-    {
-      "AphiaID": 106276,
-      "phylum": "Arthropoda",
-      "class": "Branchiopoda",
-      "order": "Onychopoda",
-      "family": "Podonidae",
-      "genus": "Podon",
-      "species": "Podon intermedius",
-      "remove": false,
-      "records": 35,
-      "max_year": 2020,
-      "source_obis": true,
-      "source_gbif": true,
-      "source_dna": false
-    },
-    {
-      "AphiaID": 106277,
-      "phylum": "Arthropoda",
-      "class": "Branchiopoda",
-      "order": "Onychopoda",
-      "family": "Podonidae",
-      "genus": "Podon",
-      "species": "Podon leuckartii",
-      "remove": false,
-      "records": 14,
-      "max_year": 2021,
-      "source_obis": true,
-      "source_gbif": true,
-      "source_dna": false
-    },
-    {
       "AphiaID": 394509,
       "phylum": "Arthropoda",
       "class": "Chilopoda",
@@ -7597,22 +7629,6 @@
       "source_gbif": true,
       "source_dna": false,
       "vernacular": "carp louse"
-    },
-    {
-      "AphiaID": 421139,
-      "phylum": "Arthropoda",
-      "class": "Thecostraca",
-      "order": "Balanomorpha",
-      "family": "Balanidae",
-      "genus": "Amphibalanus",
-      "species": "Amphibalanus improvisus",
-      "remove": false,
-      "records": 1842,
-      "max_year": 2021,
-      "source_obis": true,
-      "source_gbif": true,
-      "source_dna": false,
-      "vernacular": "bay barnacle"
     },
     {
       "AphiaID": 562564,
@@ -9556,15 +9572,15 @@
     "groups": {
         "algae": 148,
         "birds": 80,
+        "cnidarians": 3,
         "copepods": 9,
-        "crustaceans": 28,
-        "filter-feeders": 2,
+        "crustaceans": 44,
         "fish": 47,
         "fungi": 3,
-        "jellyfish": 3,
         "mammals": 5,
         "molluscs": 15,
-        "single-cell": 58,
+        "moss animals": 2,
+        "unicellular": 58,
         "worms": 17
       },
     "groups_edna": {},
