@@ -1,5 +1,5 @@
 {
-  "created": "2023-12-17T10:59:35",
+  "created": "2024-01-16T10:14:23",
   "species": [
     {
       "AphiaID": 149004,
@@ -1486,25 +1486,6 @@
       "group": "mammals"
     },
     {
-      "AphiaID": 993620,
-      "phylum": "Chordata",
-      "class": "Mammalia",
-      "order": "Lagomorpha",
-      "family": "Leporidae",
-      "genus": "Oryctolagus",
-      "species": "Oryctolagus cuniculus",
-      "remove": false,
-      "reads": 19843,
-      "asvs": 6,
-      "target_gene": "12S;16S",
-      "source_obis": false,
-      "source_gbif": false,
-      "source_dna": true,
-      "category": "EN",
-      "redlist_category": "EN",
-      "group": "mammals"
-    },
-    {
       "AphiaID": 505963,
       "phylum": "Mollusca",
       "class": "Bivalvia",
@@ -2056,22 +2037,22 @@
       {
         "locality": "Kerguelen - Armor",
         "materialSampleID": "EE0007",
-        "reads": 957024,
-        "asvs": 3303,
-        "decimalLongitude": 69.7342,
-        "decimalLatitude": -49.4644,
-        "sampleSize": 1500,
-        "species": 49
-      },
-      {
-        "locality": "Kerguelen - Armor",
-        "materialSampleID": "EE0016",
-        "reads": 1865522,
-        "asvs": 3556,
+        "reads": 956963,
+        "asvs": 3302,
         "decimalLongitude": 69.7342,
         "decimalLatitude": -49.4644,
         "sampleSize": 1500,
         "species": 48
+      },
+      {
+        "locality": "Kerguelen - Armor",
+        "materialSampleID": "EE0016",
+        "reads": 1849373,
+        "asvs": 3550,
+        "decimalLongitude": 69.7342,
+        "decimalLatitude": -49.4644,
+        "sampleSize": 1500,
+        "species": 47
       },
       {
         "locality": "Kerguelen - Suhm",
@@ -2105,12 +2086,12 @@
       },
       {
         "materialSampleID": "EE0010",
-        "reads": 2880025,
-        "asvs": 3642,
+        "reads": 2876392,
+        "asvs": 3637,
         "decimalLongitude": 69.7753,
         "decimalLatitude": -49.5494,
         "sampleSize": 1500,
-        "species": 72
+        "species": 71
       },
       {
         "materialSampleID": "EE0014",
@@ -2127,27 +2108,27 @@
       }
     ],
     "dna": {
-        "reads": 17199365,
-        "asvs": 8178
+        "reads": 17179522,
+        "asvs": 8172
       },
     "markers": [
       {
         "pcr_primer_name_forward": "MiFish-UE-F",
-        "reads": 3096039,
-        "species": 16,
-        "asvs": 1613
+        "reads": 3087612,
+        "species": 15,
+        "asvs": 1609
       },
       {
         "pcr_primer_name_forward": "MiMammal-UEB-F",
-        "reads": 3115355,
-        "species": 16,
-        "asvs": 1741
+        "reads": 3106952,
+        "species": 15,
+        "asvs": 1737
       },
       {
         "pcr_primer_name_forward": "Vert-16S-eDNA-F1",
-        "reads": 777306,
-        "species": 33,
-        "asvs": 839
+        "reads": 774293,
+        "species": 32,
+        "asvs": 837
       },
       {
         "pcr_primer_name_forward": "mlCOIintF",
@@ -2170,8 +2151,8 @@
       {
         "category": "EN",
         "obis_species": 13,
-        "edna_species": 2,
-        "fraction": 0.1538
+        "edna_species": 1,
+        "fraction": 0.0769
       },
       {
         "category": "VU",
@@ -2189,7 +2170,7 @@
         "echinoderms": 9,
         "fish": 14,
         "fungi": 1,
-        "mammals": 2,
+        "mammals": 1,
         "molluscs": 5,
         "moss animals": 2,
         "sponges": 4,
@@ -2200,7 +2181,7 @@
       "obis": 1616,
       "gbif": 2869,
       "db": 3173,
-      "edna": 112,
+      "edna": 111,
       "both": 49
     }
   }
