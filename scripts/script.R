@@ -50,8 +50,8 @@ obis_species <- map(sites, function(site_name) {
 
 # read eDNA species lists
 
-dna_files <- list.files("edna-results/data", "*DNADerivedData*", full.names = TRUE)
-occurrence_files <- list.files("edna-results/data", "*Occurrence*", full.names = TRUE)
+dna_files <- list.files("output", "*DNADerivedData*", full.names = TRUE)
+occurrence_files <- list.files("output", "*Occurrence*", full.names = TRUE)
 
 dna <- map(dna_files, read.table, sep = "\t", quote = "", header = TRUE) %>%
   bind_rows() %>%
