@@ -1,5 +1,5 @@
 {
-  "created": "2024-01-16T10:14:38",
+  "created": "2024-01-18T23:07:07",
   "species": [
     {
       "AphiaID": 149004,
@@ -10,8 +10,8 @@
       "genus": "Cylindrotheca",
       "species": "Cylindrotheca closterium",
       "remove": false,
-      "reads": 29729,
-      "asvs": 41,
+      "reads": 29732,
+      "asvs": 42,
       "target_gene": "12S;16S;COI",
       "source_obis": false,
       "source_gbif": false,
@@ -78,8 +78,8 @@
       "genus": "Coscinodiscus",
       "species": "Coscinodiscus granii",
       "remove": false,
-      "reads": 33057,
-      "asvs": 11,
+      "reads": 33065,
+      "asvs": 12,
       "target_gene": "12S;16S;COI",
       "source_obis": false,
       "source_gbif": false,
@@ -282,8 +282,8 @@
       "genus": "Navicula",
       "species": "Navicula minima",
       "remove": false,
-      "reads": 288110,
-      "asvs": 287,
+      "reads": 288883,
+      "asvs": 290,
       "target_gene": "12S",
       "source_obis": false,
       "source_gbif": false,
@@ -486,8 +486,8 @@
       "genus": "Odontella",
       "species": "Odontella aurita",
       "remove": false,
-      "reads": 689,
-      "asvs": 1,
+      "reads": 700,
+      "asvs": 2,
       "target_gene": "12S",
       "source_obis": false,
       "source_gbif": false,
@@ -588,8 +588,8 @@
       "genus": "Micromonas",
       "species": "Micromonas pusilla",
       "remove": false,
-      "reads": 3265022,
-      "asvs": 186,
+      "reads": 3265451,
+      "asvs": 188,
       "target_gene": "12S;16S;COI",
       "source_obis": false,
       "source_gbif": false,
@@ -608,6 +608,23 @@
       "reads": 17,
       "asvs": 2,
       "target_gene": "COI",
+      "source_obis": false,
+      "source_gbif": false,
+      "source_dna": true,
+      "group": "algae"
+    },
+    {
+      "AphiaID": 134566,
+      "phylum": "Chlorophyta",
+      "class": "Pyramimonadophyceae",
+      "order": "Pseudoscourfieldiales",
+      "family": "Pycnococcaceae",
+      "genus": "Pseudoscourfieldia",
+      "species": "Pseudoscourfieldia marina",
+      "remove": false,
+      "reads": 148,
+      "asvs": 1,
+      "target_gene": "12S",
       "source_obis": false,
       "source_gbif": false,
       "source_dna": true,
@@ -931,6 +948,23 @@
       "remove": false,
       "reads": 33,
       "asvs": 2,
+      "target_gene": "12S",
+      "source_obis": false,
+      "source_gbif": false,
+      "source_dna": true,
+      "group": "algae"
+    },
+    {
+      "AphiaID": 178628,
+      "phylum": "Ochrophyta",
+      "class": "Dictyochophyceae",
+      "order": "Florenciellales",
+      "family": "Florenciellales incertae sedis",
+      "genus": "Florenciella",
+      "species": "Florenciella parvula",
+      "remove": false,
+      "reads": 111,
+      "asvs": 1,
       "target_gene": "12S",
       "source_obis": false,
       "source_gbif": false,
@@ -2484,6 +2518,25 @@
       "group": "birds"
     },
     {
+      "AphiaID": 1034710,
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Anseriformes",
+      "family": "Anatidae",
+      "genus": "Anas",
+      "species": "Anas poecilorhyncha",
+      "remove": false,
+      "reads": 3203,
+      "asvs": 2,
+      "target_gene": "12S",
+      "source_obis": false,
+      "source_gbif": false,
+      "source_dna": true,
+      "category": "LC",
+      "redlist_category": "LC",
+      "group": "birds"
+    },
+    {
       "AphiaID": 225980,
       "phylum": "Chordata",
       "class": "Aves",
@@ -2807,8 +2860,8 @@
       "genus": "Haematopus",
       "species": "Haematopus palliatus",
       "remove": false,
-      "reads": 10959,
-      "asvs": 4,
+      "reads": 10981,
+      "asvs": 6,
       "target_gene": "12S;COI",
       "source_obis": false,
       "source_gbif": true,
@@ -2985,8 +3038,8 @@
       "genus": "Larus",
       "species": "Larus occidentalis",
       "remove": false,
-      "reads": 40323,
-      "asvs": 10,
+      "reads": 42647,
+      "asvs": 12,
       "target_gene": "12S",
       "source_obis": false,
       "source_gbif": false,
@@ -3492,8 +3545,8 @@
       "genus": "Phoenicopterus",
       "species": "Phoenicopterus ruber",
       "remove": false,
-      "reads": 32865,
-      "asvs": 13,
+      "reads": 34819,
+      "asvs": 15,
       "target_gene": "12S;16S",
       "source_obis": false,
       "source_gbif": false,
@@ -3823,8 +3876,8 @@
       "species": "Spheniscus magellanicus",
       "remove": false,
       "records": 7,
-      "reads": 4380,
-      "asvs": 9,
+      "reads": 6286,
+      "asvs": 11,
       "target_gene": "12S;16S",
       "source_obis": true,
       "source_gbif": true,
@@ -4186,8 +4239,8 @@
       "genus": "Isozoanthus",
       "species": "Isozoanthus sulcatus",
       "remove": false,
-      "reads": 150085,
-      "asvs": 8,
+      "reads": 154654,
+      "asvs": 10,
       "target_gene": "12S;16S;COI",
       "source_obis": false,
       "source_gbif": false,
@@ -6425,10 +6478,10 @@
       "species": "Callorhinchus callorynchus",
       "remove": false,
       "records": 6,
-      "reads": 17,
-      "asvs": 1,
+      "reads": 28,
+      "asvs": 2,
       "max_year": 1995,
-      "target_gene": "COI",
+      "target_gene": "12S;COI",
       "source_obis": true,
       "source_gbif": true,
       "source_dna": true,
@@ -6610,8 +6663,8 @@
       "species": "Odontesthes incisa",
       "remove": false,
       "records": 1,
-      "reads": 18733,
-      "asvs": 15,
+      "reads": 19194,
+      "asvs": 16,
       "target_gene": "12S;COI",
       "source_obis": true,
       "source_gbif": true,
@@ -6943,8 +6996,8 @@
       "genus": "Clupea",
       "species": "Clupea harengus",
       "remove": false,
-      "reads": 62,
-      "asvs": 2,
+      "reads": 84,
+      "asvs": 4,
       "target_gene": "12S;16S",
       "source_obis": false,
       "source_gbif": false,
@@ -7004,8 +7057,8 @@
       "genus": "Ethmalosa",
       "species": "Ethmalosa fimbriata",
       "remove": false,
-      "reads": 148,
-      "asvs": 2,
+      "reads": 228,
+      "asvs": 3,
       "target_gene": "12S;16S",
       "source_obis": false,
       "source_gbif": false,
@@ -7064,8 +7117,8 @@
       "genus": "Spratelloides",
       "species": "Spratelloides delicatulus",
       "remove": false,
-      "reads": 18,
-      "asvs": 1,
+      "reads": 26,
+      "asvs": 2,
       "target_gene": "12S",
       "source_obis": false,
       "source_gbif": false,
@@ -7123,8 +7176,8 @@
       "genus": "Chlorurus",
       "species": "Chlorurus sordidus",
       "remove": false,
-      "reads": 33,
-      "asvs": 2,
+      "reads": 43,
+      "asvs": 3,
       "target_gene": "12S;16S",
       "source_obis": false,
       "source_gbif": false,
@@ -7180,8 +7233,8 @@
       "genus": "Diplodus",
       "species": "Diplodus kotschyi",
       "remove": false,
-      "reads": 71,
-      "asvs": 2,
+      "reads": 118,
+      "asvs": 3,
       "target_gene": "12S",
       "source_obis": false,
       "source_gbif": false,
@@ -7489,8 +7542,8 @@
       "genus": "Mugil",
       "species": "Mugil bananensis",
       "remove": false,
-      "reads": 29,
-      "asvs": 1,
+      "reads": 35,
+      "asvs": 3,
       "target_gene": "12S",
       "source_obis": false,
       "source_gbif": false,
@@ -7508,8 +7561,8 @@
       "genus": "Mugil",
       "species": "Mugil capurrii",
       "remove": false,
-      "reads": 18,
-      "asvs": 1,
+      "reads": 28,
+      "asvs": 2,
       "target_gene": "12S",
       "source_obis": false,
       "source_gbif": false,
@@ -7568,9 +7621,12 @@
       "species": "Mugil liza",
       "remove": false,
       "records": 1,
+      "reads": 20,
+      "asvs": 1,
+      "target_gene": "12S",
       "source_obis": true,
       "source_gbif": true,
-      "source_dna": false,
+      "source_dna": true,
       "category": "DD",
       "redlist_category": "DD",
       "vernacular": "liza",
@@ -7585,8 +7641,8 @@
       "genus": "Planiliza",
       "species": "Planiliza macrolepis",
       "remove": false,
-      "reads": 44,
-      "asvs": 1,
+      "reads": 54,
+      "asvs": 2,
       "target_gene": "12S",
       "source_obis": false,
       "source_gbif": false,
@@ -7795,8 +7851,8 @@
       "species": "Bovichtus argentinus",
       "remove": false,
       "records": 3,
-      "reads": 186559,
-      "asvs": 24,
+      "reads": 295381,
+      "asvs": 50,
       "max_year": 1992,
       "target_gene": "12S;16S",
       "source_obis": true,
@@ -7881,8 +7937,8 @@
       "species": "Eleginops maclovinus",
       "remove": false,
       "records": 2,
-      "reads": 603434,
-      "asvs": 58,
+      "reads": 604083,
+      "asvs": 60,
       "target_gene": "12S;16S;COI",
       "source_obis": true,
       "source_gbif": true,
@@ -8018,6 +8074,24 @@
       "source_gbif": false,
       "source_dna": true,
       "vernacular": "Nakamura’s eelpout",
+      "group": "fish"
+    },
+    {
+      "AphiaID": 234801,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Nototheniidae",
+      "genus": "Pagothenia",
+      "species": "Pagothenia borchgrevinki",
+      "remove": false,
+      "reads": 1142,
+      "asvs": 1,
+      "target_gene": "12S",
+      "source_obis": false,
+      "source_gbif": false,
+      "source_dna": true,
+      "vernacular": "bald notothen",
       "group": "fish"
     },
     {
@@ -8475,6 +8549,23 @@
       "category": "LC",
       "redlist_category": "LC",
       "vernacular": "Atlantic chub mackerel, maquereaux blanc",
+      "group": "fish"
+    },
+    {
+      "AphiaID": 282755,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Scombriformes",
+      "family": "Centrolophidae",
+      "genus": "Seriolella",
+      "species": "Seriolella brama",
+      "remove": false,
+      "reads": 39157,
+      "asvs": 7,
+      "target_gene": "12S",
+      "source_obis": false,
+      "source_gbif": false,
+      "source_dna": true,
       "group": "fish"
     },
     {
@@ -9280,8 +9371,8 @@
       "genus": "Tursiops",
       "species": "Tursiops truncatus",
       "remove": false,
-      "reads": 1137,
-      "asvs": 3,
+      "reads": 1197,
+      "asvs": 5,
       "target_gene": "12S",
       "source_obis": false,
       "source_gbif": true,
@@ -14692,145 +14783,225 @@
   "stats": {
     "samples": [
       {
-        "locality": "Wadden Sea",
-        "materialSampleID": "EE0220",
-        "reads": 2747812,
-        "asvs": 4930,
-        "decimalLongitude": 4.9988,
-        "decimalLatitude": 52.9612,
-        "sampleSize": 1500,
-        "species": 80
-      },
-      {
-        "materialSampleID": "AR-22",
-        "reads": 31297,
-        "asvs": 55,
-        "species": 6
-      },
-      {
+        "locality": "Peninsula Valdès",
         "materialSampleID": "EE0199",
-        "reads": 1390104,
-        "asvs": 6337,
-        "species": 174
+        "reads": 1914672,
+        "asvs": 8113,
+        "decimalLongitude": -63.6116,
+        "decimalLatitude": -42.4608,
+        "sampleSize": 1800,
+        "species": 179
       },
       {
+        "locality": "Peninsula Valdès",
         "materialSampleID": "EE0200",
-        "reads": 2416875,
-        "asvs": 8088,
-        "species": 143
+        "reads": 2479262,
+        "asvs": 9947,
+        "decimalLongitude": -64.6124,
+        "decimalLatitude": -42.4235,
+        "sampleSize": 1620,
+        "species": 145
       },
       {
+        "locality": "Peninsula Valdès",
         "materialSampleID": "EE0201",
-        "reads": 1155973,
-        "asvs": 6710,
-        "species": 175
+        "reads": 1617107,
+        "asvs": 8397,
+        "decimalLongitude": -63.6116,
+        "decimalLatitude": -42.4608,
+        "sampleSize": 1620,
+        "species": 181
       },
       {
+        "locality": "Peninsula Valdès",
         "materialSampleID": "EE0202",
-        "reads": 912547,
-        "asvs": 5623,
-        "species": 150
+        "reads": 1084262,
+        "asvs": 7145,
+        "decimalLongitude": -63.6116,
+        "decimalLatitude": -42.4608,
+        "sampleSize": 1800,
+        "species": 156
       },
       {
+        "locality": "Peninsula Valdès",
         "materialSampleID": "EE0203",
-        "reads": 2246411,
-        "asvs": 9258,
-        "species": 175
+        "reads": 2590116,
+        "asvs": 11322,
+        "decimalLongitude": -63.6116,
+        "decimalLatitude": -42.4608,
+        "sampleSize": 1800,
+        "species": 181
       },
       {
+        "locality": "Peninsula Valdès",
         "materialSampleID": "EE0204",
-        "reads": 1836064,
-        "asvs": 5447,
-        "species": 115
+        "reads": 1992504,
+        "asvs": 6964,
+        "decimalLongitude": -64.9435,
+        "decimalLatitude": -42.6393,
+        "sampleSize": 1620,
+        "species": 119
       },
       {
+        "locality": "Peninsula Valdès",
         "materialSampleID": "EE0205",
-        "reads": 2818597,
-        "asvs": 7525,
-        "species": 146
+        "reads": 2872400,
+        "asvs": 9043,
+        "decimalLongitude": -63.603,
+        "decimalLatitude": -42.5215,
+        "sampleSize": 1620,
+        "species": 151
       },
       {
+        "locality": "Peninsula Valdès",
         "materialSampleID": "EE0206",
-        "reads": 1872326,
-        "asvs": 4261,
-        "species": 94
-      },
-      {
-        "materialSampleID": "EE0216",
-        "reads": 1475700,
-        "asvs": 9938,
-        "species": 148
-      },
-      {
-        "materialSampleID": "EE0217",
-        "reads": 1852526,
-        "asvs": 7232,
-        "species": 141
-      },
-      {
-        "materialSampleID": "EE0218",
-        "reads": 2858030,
-        "asvs": 10114,
-        "species": 171
-      },
-      {
-        "materialSampleID": "EE0219",
-        "reads": 1628778,
-        "asvs": 4755,
+        "reads": 1982831,
+        "asvs": 5724,
+        "decimalLongitude": -64.9435,
+        "decimalLatitude": -42.6393,
+        "sampleSize": 1800,
         "species": 97
       },
       {
+        "locality": "Peninsula Valdès",
+        "materialSampleID": "EE0216",
+        "reads": 1788227,
+        "asvs": 11899,
+        "decimalLongitude": -63.603,
+        "decimalLatitude": -42.5215,
+        "sampleSize": 1620,
+        "species": 153
+      },
+      {
+        "locality": "Peninsula Valdès",
+        "materialSampleID": "EE0217",
+        "reads": 2118418,
+        "asvs": 8878,
+        "decimalLongitude": -63.603,
+        "decimalLatitude": -42.5215,
+        "sampleSize": 1680,
+        "species": 147
+      },
+      {
+        "locality": "Peninsula Valdès",
+        "materialSampleID": "EE0218",
+        "reads": 3173178,
+        "asvs": 12267,
+        "decimalLongitude": -63.603,
+        "decimalLatitude": -42.5215,
+        "sampleSize": 1800,
+        "species": 180
+      },
+      {
+        "locality": "Peninsula Valdès",
+        "materialSampleID": "EE0219",
+        "reads": 1992877,
+        "asvs": 6248,
+        "decimalLongitude": -64.9435,
+        "decimalLatitude": -42.6393,
+        "sampleSize": 1800,
+        "species": 103
+      },
+      {
+        "locality": "Peninsula Valdès",
+        "materialSampleID": "EE0220",
+        "reads": 2936534,
+        "asvs": 6523,
+        "decimalLongitude": -64.6422,
+        "decimalLatitude": -42.5083,
+        "sampleSize": 1800,
+        "species": 86
+      },
+      {
+        "locality": "Peninsula Valdès",
         "materialSampleID": "EE0221",
-        "reads": 283768,
-        "asvs": 198,
+        "reads": 334102,
+        "asvs": 343,
+        "decimalLongitude": -64.9897,
+        "decimalLatitude": -42.7855,
+        "sampleSize": 1500,
         "species": 19
       },
       {
+        "locality": "Peninsula Valdès",
         "materialSampleID": "EE0231",
-        "reads": 2643778,
-        "asvs": 8694,
-        "species": 146
+        "reads": 2720070,
+        "asvs": 10721,
+        "decimalLongitude": -64.6124,
+        "decimalLatitude": -42.4235,
+        "sampleSize": 1800,
+        "species": 150
       },
       {
+        "locality": "Peninsula Valdès",
         "materialSampleID": "EE0232",
-        "reads": 1873505,
-        "asvs": 4027,
-        "species": 92
+        "reads": 2464578,
+        "asvs": 5454,
+        "decimalLongitude": -64.6422,
+        "decimalLatitude": -42.5083,
+        "sampleSize": 1800,
+        "species": 95
       },
       {
+        "locality": "Peninsula Valdès",
         "materialSampleID": "EE0233",
-        "reads": 2937466,
-        "asvs": 9656,
-        "species": 158
+        "reads": 3043986,
+        "asvs": 11671,
+        "decimalLongitude": -64.6124,
+        "decimalLatitude": -42.4235,
+        "sampleSize": 1800,
+        "species": 164
       },
       {
+        "locality": "Peninsula Valdès",
         "materialSampleID": "EE0234",
-        "reads": 1967465,
-        "asvs": 6924,
-        "species": 138
+        "reads": 2040817,
+        "asvs": 8712,
+        "decimalLongitude": -64.6124,
+        "decimalLatitude": -42.4235,
+        "sampleSize": 1680,
+        "species": 141
       },
       {
+        "locality": "Peninsula Valdès",
         "materialSampleID": "EE0235",
-        "reads": 2415260,
-        "asvs": 5030,
-        "species": 93
+        "reads": 2533015,
+        "asvs": 6488,
+        "decimalLongitude": -64.9435,
+        "decimalLatitude": -42.6393,
+        "sampleSize": 1800,
+        "species": 98
       },
       {
+        "locality": "Peninsula Valdès",
         "materialSampleID": "EE0236",
-        "reads": 2510599,
-        "asvs": 5732,
-        "species": 92
+        "reads": 2655433,
+        "asvs": 7434,
+        "decimalLongitude": -64.6422,
+        "decimalLatitude": -42.5083,
+        "sampleSize": 1800,
+        "species": 95
       },
       {
+        "locality": "Peninsula Valdès",
         "materialSampleID": "EE0252",
-        "reads": 2512620,
-        "asvs": 4923,
-        "species": 103
+        "reads": 2668648,
+        "asvs": 6496,
+        "decimalLongitude": -64.6422,
+        "decimalLatitude": -42.5083,
+        "sampleSize": 1800,
+        "species": 107
+      },
+      {
+        "materialSampleID": "AR-22",
+        "reads": 32736,
+        "asvs": 156,
+        "species": 6
       }
     ],
     "dna": {
-        "reads": 42387501,
-        "asvs": 27631
+        "reads": 47035773,
+        "asvs": 31789
       },
     "markers": [
       {
@@ -14856,6 +15027,12 @@
         "reads": 18298853,
         "species": 258,
         "asvs": 18082
+      },
+      {
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 4648272,
+        "species": 29,
+        "asvs": 4158
       }
     ],
     "redlist": [
@@ -15020,6 +15197,11 @@
         "reads": 7
       },
       {
+        "family": "Anatidae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 7485
+      },
+      {
         "family": "Aphididae",
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 3
@@ -15105,6 +15287,11 @@
         "reads": 13809
       },
       {
+        "family": "Atherinopsidae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 4805
+      },
+      {
         "family": "Attheyaceae",
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 37
@@ -15128,6 +15315,11 @@
         "family": "Bacillariaceae",
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 36141
+      },
+      {
+        "family": "Bacillariaceae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 3
       },
       {
         "family": "Bacteriovoracaceae",
@@ -15240,6 +15432,11 @@
         "reads": 490
       },
       {
+        "family": "Bovichtidae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 108822
+      },
+      {
         "family": "Bovidae",
         "pcr_primer_name_forward": "MiFish-UE-F",
         "reads": 33550
@@ -15258,6 +15455,11 @@
         "family": "Bovidae",
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 20
+      },
+      {
+        "family": "Bovidae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 318
       },
       {
         "family": "Buccinanopsidae",
@@ -15325,6 +15527,11 @@
         "reads": 17
       },
       {
+        "family": "Callorhinchidae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 22
+      },
+      {
         "family": "Callyspongiidae",
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 293
@@ -15355,6 +15562,11 @@
         "reads": 63
       },
       {
+        "family": "Camelidae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 57
+      },
+      {
         "family": "Campanulariidae",
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 1259
@@ -15383,6 +15595,11 @@
         "family": "Canidae",
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 187
+      },
+      {
+        "family": "Canidae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 433
       },
       {
         "family": "Capitellidae",
@@ -15443,6 +15660,11 @@
         "family": "Centrolophidae",
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 32
+      },
+      {
+        "family": "Centrolophidae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 39584
       },
       {
         "family": "Cephalotrichidae",
@@ -15510,6 +15732,11 @@
         "reads": 88
       },
       {
+        "family": "Charadriidae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 22
+      },
+      {
         "family": "Cheilodactylidae",
         "pcr_primer_name_forward": "MiFish-UE-F",
         "reads": 11
@@ -15555,6 +15782,11 @@
         "reads": 5
       },
       {
+        "family": "Cichlidae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 2188
+      },
+      {
         "family": "Cionidae",
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 50
@@ -15563,6 +15795,11 @@
         "family": "Cladosporiaceae",
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 85
+      },
+      {
+        "family": "Clariidae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 521
       },
       {
         "family": "Clinidae",
@@ -15593,6 +15830,11 @@
         "family": "Clupeidae",
         "pcr_primer_name_forward": "Vert-16S-eDNA-F1",
         "reads": 1264
+      },
+      {
+        "family": "Clupeidae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 61
       },
       {
         "family": "Colaconemataceae",
@@ -15655,6 +15897,11 @@
         "reads": 2584
       },
       {
+        "family": "Corallinaceae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 3
+      },
+      {
         "family": "Corophiidae",
         "pcr_primer_name_forward": "MiFish-UE-F",
         "reads": 13
@@ -15693,6 +15940,11 @@
         "family": "Coscinodiscaceae",
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 30851
+      },
+      {
+        "family": "Coscinodiscaceae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 8
       },
       {
         "family": "Cottidae",
@@ -15785,6 +16037,11 @@
         "reads": 5
       },
       {
+        "family": "Delphinidae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 60
+      },
+      {
         "family": "Desmacididae",
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 34
@@ -15875,6 +16132,11 @@
         "reads": 7
       },
       {
+        "family": "Dorosomatidae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 80
+      },
+      {
         "family": "Dromiidae",
         "pcr_primer_name_forward": "Vert-16S-eDNA-F1",
         "reads": 20
@@ -15913,6 +16175,11 @@
         "family": "Eleginopidae",
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 3350
+      },
+      {
+        "family": "Eleginopidae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 649
       },
       {
         "family": "Engraulidae",
@@ -15960,6 +16227,11 @@
         "reads": 6028
       },
       {
+        "family": "Euglenaceae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 39
+      },
+      {
         "family": "Euphausiidae",
         "pcr_primer_name_forward": "MiMammal-UEB-F",
         "reads": 17
@@ -15985,6 +16257,11 @@
         "reads": 1192
       },
       {
+        "family": "Felidae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 90
+      },
+      {
         "family": "Flabelligeridae",
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 1891
@@ -15993,6 +16270,11 @@
         "family": "Florenciellales incertae sedis",
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 5124
+      },
+      {
+        "family": "Florenciellales incertae sedis",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 111
       },
       {
         "family": "Formicidae",
@@ -16055,9 +16337,19 @@
         "reads": 14
       },
       {
+        "family": "Goniasteridae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 113
+      },
+      {
         "family": "Gymnodiniaceae",
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 92
+      },
+      {
+        "family": "Haemadipsidae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 26
       },
       {
         "family": "Halichondriidae",
@@ -16160,6 +16452,11 @@
         "reads": 6348
       },
       {
+        "family": "Hominidae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 2826255
+      },
+      {
         "family": "Hyalodiscaceae",
         "pcr_primer_name_forward": "MiFish-UE-F",
         "reads": 14
@@ -16260,6 +16557,11 @@
         "reads": 1449
       },
       {
+        "family": "Laridae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 2712
+      },
+      {
         "family": "Leptochitonidae",
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 58
@@ -16310,6 +16612,11 @@
         "reads": 16555
       },
       {
+        "family": "Lithodesmiaceae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 14
+      },
+      {
         "family": "Lutjanidae",
         "pcr_primer_name_forward": "MiFish-UE-F",
         "reads": 26
@@ -16338,6 +16645,11 @@
         "family": "Mamiellaceae",
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 3257685
+      },
+      {
+        "family": "Mamiellaceae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 429
       },
       {
         "family": "Melitidae",
@@ -16373,6 +16685,11 @@
         "family": "Merlucciidae",
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 30
+      },
+      {
+        "family": "Merlucciidae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 54
       },
       {
         "family": "Microcionidae",
@@ -16430,6 +16747,11 @@
         "reads": 7
       },
       {
+        "family": "Mugilidae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 46
+      },
+      {
         "family": "Mullidae",
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 29
@@ -16458,6 +16780,11 @@
         "family": "Muridae",
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 73
+      },
+      {
+        "family": "Muridae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 747
       },
       {
         "family": "Mycalidae",
@@ -16498,6 +16825,11 @@
         "family": "Naviculaceae",
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 402
+      },
+      {
+        "family": "Naviculaceae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 773
       },
       {
         "family": "Nectriaceae",
@@ -16568,6 +16900,11 @@
         "family": "Nototheniidae",
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 37
+      },
+      {
+        "family": "Nototheniidae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 1142
       },
       {
         "family": "Ochromonadaceae",
@@ -16715,6 +17052,11 @@
         "reads": 149890
       },
       {
+        "family": "Parazoanthidae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 4569
+      },
+      {
         "family": "Pectinariidae",
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 6
@@ -16830,6 +17172,11 @@
         "reads": 124
       },
       {
+        "family": "Phasianidae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 3414
+      },
+      {
         "family": "Phocidae",
         "pcr_primer_name_forward": "MiFish-UE-F",
         "reads": 1956024
@@ -16848,6 +17195,11 @@
         "family": "Phocidae",
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 31226
+      },
+      {
+        "family": "Phocidae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 11642
       },
       {
         "family": "Phocoenidae",
@@ -16883,6 +17235,11 @@
         "family": "Phoenicopteridae",
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 104
+      },
+      {
+        "family": "Phoenicopteridae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 1954
       },
       {
         "family": "Phyllophoraceae",
@@ -17035,6 +17392,11 @@
         "reads": 218
       },
       {
+        "family": "Psychromonadaceae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 229
+      },
+      {
         "family": "Ptychoderidae",
         "pcr_primer_name_forward": "Vert-16S-eDNA-F1",
         "reads": 3412
@@ -17053,6 +17415,11 @@
         "family": "Pycnococcaceae",
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 48987
+      },
+      {
+        "family": "Pycnococcaceae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 148
       },
       {
         "family": "Pythiaceae",
@@ -17165,6 +17532,11 @@
         "reads": 6
       },
       {
+        "family": "Scaridae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 10
+      },
+      {
         "family": "Schizasteridae",
         "pcr_primer_name_forward": "Vert-16S-eDNA-F1",
         "reads": 4
@@ -17205,6 +17577,11 @@
         "reads": 326
       },
       {
+        "family": "Scombridae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 30380
+      },
+      {
         "family": "Scytosiphonaceae",
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 1240
@@ -17225,6 +17602,11 @@
         "reads": 3509
       },
       {
+        "family": "Sebastidae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 2821
+      },
+      {
         "family": "Serranidae",
         "pcr_primer_name_forward": "MiFish-UE-F",
         "reads": 7
@@ -17238,6 +17620,11 @@
         "family": "Serranidae",
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 35
+      },
+      {
+        "family": "Sesarmidae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 78
       },
       {
         "family": "Shewanellaceae",
@@ -17265,6 +17652,11 @@
         "reads": 4
       },
       {
+        "family": "Sinipercidae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 46
+      },
+      {
         "family": "Skeletonemaceae",
         "pcr_primer_name_forward": "MiFish-UE-F",
         "reads": 6225
@@ -17283,6 +17675,11 @@
         "family": "Skeletonemaceae",
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 118703
+      },
+      {
+        "family": "Skeletonemaceae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 98
       },
       {
         "family": "Solenoceridae",
@@ -17305,6 +17702,11 @@
         "reads": 31
       },
       {
+        "family": "Sparidae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 83
+      },
+      {
         "family": "Sphaeroceridae",
         "pcr_primer_name_forward": "Vert-16S-eDNA-F1",
         "reads": 3
@@ -17323,6 +17725,11 @@
         "family": "Spheniscidae",
         "pcr_primer_name_forward": "Vert-16S-eDNA-F1",
         "reads": 1060
+      },
+      {
+        "family": "Spheniscidae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 1906
       },
       {
         "family": "Spionidae",
@@ -17345,6 +17752,11 @@
         "reads": 28
       },
       {
+        "family": "Spirochaetaceae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 12
+      },
+      {
         "family": "Spratelloididae",
         "pcr_primer_name_forward": "MiFish-UE-F",
         "reads": 9
@@ -17355,6 +17767,11 @@
         "reads": 9
       },
       {
+        "family": "Spratelloididae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 8
+      },
+      {
         "family": "Squatinidae",
         "pcr_primer_name_forward": "Vert-16S-eDNA-F1",
         "reads": 133
@@ -17363,6 +17780,11 @@
         "family": "Stelligeridae",
         "pcr_primer_name_forward": "Vert-16S-eDNA-F1",
         "reads": 9
+      },
+      {
+        "family": "Stephanodiscaceae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 12
       },
       {
         "family": "Stephanopyxidaceae",
@@ -17445,6 +17867,11 @@
         "reads": 51
       },
       {
+        "family": "Suidae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 540
+      },
+      {
         "family": "Syllidae",
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 31
@@ -17480,6 +17907,11 @@
         "reads": 315
       },
       {
+        "family": "Syndiniaceae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 7
+      },
+      {
         "family": "Talitridae",
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 26
@@ -17503,6 +17935,11 @@
         "family": "Temnopleuridae",
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 152
+      },
+      {
+        "family": "Temnopleuridae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 1822
       },
       {
         "family": "Terapontidae",
@@ -17578,6 +18015,11 @@
         "family": "Triceratiaceae",
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 2576
+      },
+      {
+        "family": "Triceratiaceae",
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 11
       },
       {
         "family": "Trichocomaceae",
@@ -17679,16 +18121,20 @@
       {
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 10032641
+      },
+      {
+        "pcr_primer_name_forward": "teleo_F_L1848",
+        "reads": 4349267
       }
     ],
     "groups": {
-        "algae": 147,
-        "birds": 81,
+        "algae": 149,
+        "birds": 82,
         "cnidarians": 47,
         "copepods": 5,
         "crustaceans": 64,
         "echinoderms": 29,
-        "fish": 141,
+        "fish": 143,
         "fungi": 6,
         "horseshoe worms": 1,
         "mammals": 28,
@@ -17701,13 +18147,13 @@
         "worms": 55
       },
     "groups_edna": {
-        "algae": 116,
-        "birds": 16,
+        "algae": 118,
+        "birds": 17,
         "cnidarians": 21,
         "copepods": 5,
         "crustaceans": 19,
         "echinoderms": 13,
-        "fish": 81,
+        "fish": 84,
         "fungi": 5,
         "mammals": 10,
         "molluscs": 16,
@@ -17721,8 +18167,8 @@
       "obis": 309,
       "gbif": 568,
       "db": 617,
-      "edna": 365,
-      "both": 77
+      "edna": 371,
+      "both": 78
     }
   }
 }
