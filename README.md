@@ -5,7 +5,9 @@ This repository contains species lists for the marine World Heritage sites and f
 Species lists based on OBIS are generated in the [mwhs-obis-species](https://github.com/iobis/mwhs-obis-species) repository, eDNA results are generated in [edna-results](https://github.com/iobis/edna-results), and combined lists are generated using a Python script in this repository as well (folders [lists](lists) and [lists_full](lists_full)). The lists are available as CSV and JSON.
 
 
-## Download data
+## For maintainers
+
+To download the eDNA dataset:
 
 ```
 rm -r edna-results output.zip output edna-results
