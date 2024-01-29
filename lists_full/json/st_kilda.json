@@ -1,5 +1,5 @@
 {
-  "created": "2024-01-18T23:07:12",
+  "created": "2024-01-29T14:11:05",
   "species": [
     {
       "AphiaID": 144462,
@@ -1103,7 +1103,7 @@
       "records": 32,
       "max_year": 2014,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "group": "algae"
     },
@@ -2528,7 +2528,7 @@
       "records": 1,
       "max_year": 1997,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "vernacular": "orange anemone, anémone flammeé",
       "group": "cnidarians"
@@ -2877,22 +2877,9 @@
       "records": 3,
       "max_year": 2010,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "vernacular": "yellow cluster anemone, anémone encroûtante jaune",
-      "group": "cnidarians"
-    },
-    {
-      "AphiaID": 1674631,
-      "phylum": "Cnidaria",
-      "class": "Anthozoa",
-      "family": "Synarachnactidae",
-      "genus": "Synarachnactis",
-      "species": "Synarachnactis lloydii",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
       "group": "cnidarians"
     },
     {
@@ -2991,7 +2978,7 @@
       "records": 2,
       "max_year": 2015,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "group": "cnidarians"
     },
@@ -3007,7 +2994,7 @@
       "records": 1,
       "max_year": 1997,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "group": "cnidarians"
     },
@@ -3023,7 +3010,7 @@
       "records": 1,
       "max_year": 2011,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "group": "cnidarians"
     },
@@ -3039,7 +3026,7 @@
       "records": 1,
       "max_year": 1997,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "vernacular": "clapper hydroid",
       "group": "cnidarians"
@@ -3073,7 +3060,7 @@
       "records": 1,
       "max_year": 1979,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "vernacular": "Jack sail-by-the-wind, vélelle",
       "group": "cnidarians"
@@ -3124,7 +3111,7 @@
       "records": 1,
       "max_year": 1997,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "vernacular": "tamaris de mer",
       "group": "cnidarians"
@@ -3190,7 +3177,7 @@
       "records": 1,
       "max_year": 1997,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "vernacular": "sea hedgehog hydroid",
       "group": "cnidarians"
@@ -3324,7 +3311,7 @@
       "records": 1,
       "max_year": 1997,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "vernacular": "great tooth hydroid",
       "group": "cnidarians"
@@ -3452,7 +3439,7 @@
       "phylum": "Ctenophora",
       "class": "Tentaculata",
       "order": "Cydippida",
-      "family": "Pleurobrachiidae",
+      "family": "Cydippidae",
       "genus": "Hormiphora",
       "species": "Hormiphora cucumis",
       "remove": false,
@@ -3772,7 +3759,7 @@
       "records": 1,
       "max_year": 2015,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "vernacular": "great spider crab, crabe araignée",
       "group": "crustaceans"
@@ -4190,7 +4177,7 @@
       "records": 39,
       "max_year": 2015,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "group": "echinoderms"
     },
@@ -4307,7 +4294,7 @@
       "records": 1,
       "max_year": 2011,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "vernacular": "starlet, astérie bossue",
       "group": "echinoderms"
@@ -4324,7 +4311,7 @@
       "records": 2,
       "max_year": 1997,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "vernacular": "common sun star",
       "group": "echinoderms"
@@ -4358,7 +4345,7 @@
       "records": 4,
       "max_year": 1997,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "vernacular": "Northern sun star",
       "group": "echinoderms"
@@ -4460,7 +4447,7 @@
       "records": 1,
       "max_year": 1997,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "vernacular": "green sea urchin, fève de mer",
       "group": "echinoderms"
@@ -4477,7 +4464,7 @@
       "records": 1,
       "max_year": 1997,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "vernacular": "sea-potato, oursin de sable",
       "group": "echinoderms"
@@ -4593,7 +4580,7 @@
       "records": 31,
       "max_year": 2015,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "vernacular": "Daisy brittle star, ophiure pâquerette",
       "group": "echinoderms"
@@ -4627,7 +4614,7 @@
       "records": 51,
       "max_year": 2015,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "vernacular": "black serpent star, ophiure noire",
       "group": "echinoderms"
@@ -4661,7 +4648,7 @@
       "records": 1,
       "max_year": 1997,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "vernacular": "serpent star, ophiure rose",
       "group": "echinoderms"
@@ -4702,23 +4689,6 @@
       "category": "VU",
       "redlist_category": "VU",
       "vernacular": "nursehound, grande roussette",
-      "group": "fish"
-    },
-    {
-      "AphiaID": 105837,
-      "phylum": "Chordata",
-      "class": "Elasmobranchii",
-      "order": "Lamniformes",
-      "family": "Cetorhinidae",
-      "genus": "Cetorhinus",
-      "species": "Cetorhinus maximus",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "category": "EN",
-      "redlist_category": "EN",
-      "vernacular": "sailfish, le très grand",
       "group": "fish"
     },
     {
@@ -5129,7 +5099,7 @@
       "genus": "Pholis",
       "species": "Pholis gunnellus",
       "remove": false,
-      "records": 2,
+      "records": 3,
       "source_obis": true,
       "source_gbif": true,
       "source_dna": false,
@@ -5148,7 +5118,7 @@
       "records": 31,
       "max_year": 2015,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "category": "LC",
       "redlist_category": "LC",
@@ -5435,21 +5405,6 @@
       "group": "fungi"
     },
     {
-      "AphiaID": 147713,
-      "phylum": "Ascomycota",
-      "class": "Lecanoromycetes",
-      "order": "Lecanorales",
-      "family": "Ramalinaceae",
-      "genus": "Ramalina",
-      "species": "Ramalina siliquosa",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "vernacular": "sea ivory",
-      "group": "fungi"
-    },
-    {
       "AphiaID": 438957,
       "phylum": "Ascomycota",
       "class": "Lecanoromycetes",
@@ -5461,21 +5416,6 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
-      "group": "fungi"
-    },
-    {
-      "AphiaID": 147735,
-      "phylum": "Ascomycota",
-      "class": "Lecanoromycetes",
-      "order": "Pertusariales",
-      "family": "Ochrolechiaceae",
-      "genus": "Ochrolechia",
-      "species": "Ochrolechia parella",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "vernacular": "parelle",
       "group": "fungi"
     },
     {
@@ -5778,7 +5718,7 @@
       "records": 1,
       "max_year": 1997,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "vernacular": "razor shell",
       "group": "molluscs"
@@ -5811,7 +5751,7 @@
       "records": 1,
       "max_year": 1997,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "vernacular": "rusty Montagu shell",
       "group": "molluscs"
@@ -5828,7 +5768,7 @@
       "records": 1,
       "max_year": 1997,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "vernacular": "northern lucina",
       "group": "molluscs"
@@ -5848,21 +5788,6 @@
       "source_gbif": true,
       "source_dna": false,
       "vernacular": "blue mussel, moule commune",
-      "group": "molluscs"
-    },
-    {
-      "AphiaID": 138749,
-      "phylum": "Mollusca",
-      "class": "Bivalvia",
-      "order": "Pectinida",
-      "family": "Anomiidae",
-      "genus": "Heteranomia",
-      "species": "Heteranomia squamula",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "vernacular": "smallest saddle oyster",
       "group": "molluscs"
     },
     {
@@ -5892,24 +5817,9 @@
       "records": 1,
       "max_year": 2015,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "vernacular": "tiger scallop",
-      "group": "molluscs"
-    },
-    {
-      "AphiaID": 140712,
-      "phylum": "Mollusca",
-      "class": "Bivalvia",
-      "order": "Pectinida",
-      "family": "Pectinidae",
-      "genus": "Pecten",
-      "species": "Pecten maximus",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "vernacular": "great scallop, grande coquille st. Jacques",
       "group": "molluscs"
     },
     {
@@ -6021,7 +5931,7 @@
       "records": 1,
       "max_year": 1997,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "vernacular": "European spoon clam",
       "group": "molluscs"
@@ -6038,7 +5948,7 @@
       "records": 1,
       "max_year": 2010,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "category": "DD",
       "redlist_category": "DD",
@@ -6076,7 +5986,7 @@
       "records": 1,
       "max_year": 1970,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "category": "LC",
       "redlist_category": "LC",
@@ -6095,7 +6005,7 @@
       "records": 28,
       "max_year": 2015,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "vernacular": "spotted sea hare, aplysie ponctuée",
       "group": "molluscs"
@@ -6128,7 +6038,7 @@
       "records": 1,
       "max_year": 1997,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "vernacular": "Greek keyhole limpet, fissurelle",
       "group": "molluscs"
@@ -6161,7 +6071,7 @@
       "records": 1,
       "max_year": 2015,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "vernacular": "northern lacuna, lacune commune de l'Atlantique",
       "group": "molluscs"
@@ -6229,7 +6139,7 @@
       "records": 1,
       "max_year": 1997,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "vernacular": "flat skenea, skénée planorbe",
       "group": "molluscs"
@@ -6246,7 +6156,7 @@
       "records": 33,
       "max_year": 2011,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "vernacular": "northern cowrie, grain de café",
       "group": "molluscs"
@@ -6294,7 +6204,7 @@
       "records": 1,
       "max_year": 2015,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "vernacular": "waved whelk, bulot",
       "group": "molluscs"
@@ -6446,20 +6356,6 @@
       "group": "molluscs"
     },
     {
-      "AphiaID": 141611,
-      "phylum": "Mollusca",
-      "class": "Gastropoda",
-      "order": "Nudibranchia",
-      "family": "Trinchesiidae",
-      "genus": "Catriona",
-      "species": "Catriona gymnota",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "group": "molluscs"
-    },
-    {
       "AphiaID": 139980,
       "phylum": "Mollusca",
       "class": "Gastropoda",
@@ -6536,7 +6432,7 @@
       "records": 1,
       "max_year": 2013,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "vernacular": "frond-aeolis, nudibranche hérissé",
       "group": "molluscs"
@@ -6652,7 +6548,7 @@
       "records": 1,
       "max_year": 1997,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "vernacular": "facelina, facéline",
       "group": "molluscs"
@@ -6669,7 +6565,7 @@
       "records": 1,
       "max_year": 1997,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "group": "molluscs"
     },
@@ -6685,7 +6581,7 @@
       "records": 5,
       "max_year": 2015,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "group": "molluscs"
     },
@@ -6721,6 +6617,20 @@
       "source_gbif": true,
       "source_dna": false,
       "vernacular": "orange-clubbed nudibranch",
+      "group": "molluscs"
+    },
+    {
+      "AphiaID": 1723483,
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Nudibranchia",
+      "family": "Goniodorididae",
+      "genus": "Okenia",
+      "species": "Okenia nodosa",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
       "group": "molluscs"
     },
     {
@@ -6784,7 +6694,7 @@
       "records": 1,
       "max_year": 2010,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "vernacular": "Johnston's balloon eolis",
       "group": "molluscs"
@@ -6992,7 +6902,7 @@
       "records": 1,
       "max_year": 1997,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "vernacular": "sevenplated chiton",
       "group": "molluscs"
@@ -7026,7 +6936,7 @@
       "records": 1,
       "max_year": 1997,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "vernacular": "cinereous chiton",
       "group": "molluscs"
@@ -7336,7 +7246,7 @@
       "records": 45,
       "max_year": 2015,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "vernacular": "hornwrack, grande flustre",
       "group": "moss animals"
@@ -7599,7 +7509,7 @@
       "records": 38,
       "max_year": 2015,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "group": "moss animals"
     },
@@ -8076,7 +7986,7 @@
       "records": 40,
       "max_year": 2015,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "vernacular": "golden star tunicate, botrylle étoilé",
       "group": "sea squirts"
@@ -8275,7 +8185,7 @@
       "records": 1,
       "max_year": 1970,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "vernacular": "orange pipe sponge, éponge en grappe",
       "group": "sponges"
@@ -8359,7 +8269,7 @@
       "records": 1,
       "max_year": 1997,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "vernacular": "massive beige horny sponge, éponge variante",
       "group": "sponges"
@@ -8393,7 +8303,7 @@
       "records": 34,
       "max_year": 2015,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "vernacular": "boring sponge, clione jaune",
       "group": "sponges"
@@ -8540,7 +8450,7 @@
       "records": 1,
       "max_year": 1997,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "group": "sponges"
     },
@@ -8637,7 +8547,7 @@
       "records": 1,
       "max_year": 1997,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "group": "sponges"
     },
@@ -8673,20 +8583,6 @@
       "group": "sponges"
     },
     {
-      "AphiaID": 133090,
-      "phylum": "Porifera",
-      "class": "Demospongiae",
-      "order": "Poecilosclerida",
-      "family": "Microcionidae",
-      "genus": "Ophlitaspongia",
-      "species": "Ophlitaspongia papilla",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "group": "sponges"
-    },
-    {
       "AphiaID": 184428,
       "phylum": "Porifera",
       "class": "Demospongiae",
@@ -8698,7 +8594,7 @@
       "records": 1,
       "max_year": 1997,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "group": "sponges"
     },
@@ -8831,7 +8727,7 @@
       "records": 1,
       "max_year": 1997,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "group": "sponges"
     },
@@ -8864,7 +8760,7 @@
       "records": 1,
       "max_year": 2015,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "group": "sponges"
     },
@@ -8914,7 +8810,7 @@
       "records": 1,
       "max_year": 2015,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "group": "sponges"
     },
@@ -8963,7 +8859,7 @@
       "records": 1,
       "max_year": 1997,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "group": "sponges"
     },
@@ -9638,20 +9534,6 @@
       "vernacular": "sea rocket"
     },
     {
-      "AphiaID": 425785,
-      "phylum": "Tracheophyta",
-      "class": "Magnoliopsida",
-      "order": "Brassicales",
-      "family": "Brassicaceae",
-      "genus": "Cochlearia",
-      "species": "Cochlearia officinalis",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "vernacular": "common scurvygrass"
-    },
-    {
       "AphiaID": 182769,
       "phylum": "Tracheophyta",
       "class": "Magnoliopsida",
@@ -9766,6 +9648,20 @@
       "vernacular": "red fescue"
     },
     {
+      "AphiaID": 403907,
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Poales",
+      "family": "Poaceae",
+      "genus": "Puccinellia",
+      "species": "Puccinellia maritima",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "vernacular": "common saltmarsh-grass, atropis maritime"
+    },
+    {
       "AphiaID": 1523497,
       "phylum": "Tracheophyta",
       "class": "Polypodiopsida",
@@ -9809,10 +9705,6 @@
         "obis_species": 1
       },
       {
-        "category": "EN",
-        "obis_species": 1
-      },
-      {
         "category": "EX",
         "obis_species": 1
       },
@@ -9825,24 +9717,24 @@
     "groups": {
         "algae": 71,
         "birds": 76,
-        "cnidarians": 64,
+        "cnidarians": 63,
         "crustaceans": 40,
         "echinoderms": 30,
-        "fish": 32,
-        "fungi": 20,
+        "fish": 31,
+        "fungi": 18,
         "mammals": 12,
-        "molluscs": 79,
+        "molluscs": 77,
         "moss animals": 42,
         "sea squirts": 27,
-        "sponges": 50,
+        "sponges": 49,
         "turtles": 1,
         "worms": 29
       },
     "groups_edna": {},
     "source": {
       "obis": 462,
-      "gbif": 553,
-      "db": 595,
+      "gbif": 491,
+      "db": 588,
       "edna": 0,
       "both": 0
     }

@@ -1,5 +1,5 @@
 {
-  "created": "2024-01-18T23:07:03",
+  "created": "2024-01-29T14:10:56",
   "species": [
     {
       "AphiaID": 149004,
@@ -4462,6 +4462,20 @@
       "family": "Acidostomatidae",
       "genus": "Acidostoma",
       "species": "Acidostoma obesum",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "crustaceans"
+    },
+    {
+      "AphiaID": 101881,
+      "phylum": "Arthropoda",
+      "class": "Malacostraca",
+      "order": "Amphipoda",
+      "family": "Amathillopsidae",
+      "genus": "Amathillopsis",
+      "species": "Amathillopsis spinigera",
       "remove": false,
       "source_obis": false,
       "source_gbif": true,
@@ -9950,7 +9964,7 @@
       "genus": "Boreogadus",
       "species": "Boreogadus saida",
       "remove": false,
-      "records": 1,
+      "records": 2,
       "max_year": 2009,
       "source_obis": true,
       "source_gbif": true,
@@ -9990,6 +10004,21 @@
       "category": "LC",
       "redlist_category": "LC",
       "vernacular": "fourbeard rockling, motelle à quatre barbillons",
+      "group": "fish"
+    },
+    {
+      "AphiaID": 126435,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Gadiformes",
+      "family": "Gadidae",
+      "genus": "Gadiculus",
+      "species": "Gadiculus argenteus",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "vernacular": "silvery pout",
       "group": "fish"
     },
     {
@@ -10363,7 +10392,7 @@
       "genus": "Anisarchus",
       "species": "Anisarchus medius",
       "remove": false,
-      "records": 3,
+      "records": 4,
       "max_year": 2009,
       "source_obis": true,
       "source_gbif": true,
@@ -10414,6 +10443,20 @@
       "source_gbif": true,
       "source_dna": false,
       "vernacular": "Arctic alligatorfish",
+      "group": "fish"
+    },
+    {
+      "AphiaID": 398464,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Liparidae",
+      "genus": "Careproctus",
+      "species": "Careproctus kidoi",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
       "group": "fish"
     },
     {
@@ -10593,7 +10636,7 @@
       "genus": "Icelus",
       "species": "Icelus spatula",
       "remove": false,
-      "records": 2,
+      "records": 4,
       "max_year": 2009,
       "source_obis": true,
       "source_gbif": true,
@@ -10625,7 +10668,7 @@
       "genus": "Leptoclinus",
       "species": "Leptoclinus maculatus",
       "remove": false,
-      "records": 3,
+      "records": 4,
       "max_year": 2009,
       "source_obis": true,
       "source_gbif": true,
@@ -10657,7 +10700,7 @@
       "genus": "Liparis",
       "species": "Liparis fabricii",
       "remove": false,
-      "records": 3,
+      "records": 4,
       "max_year": 2009,
       "source_obis": true,
       "source_gbif": true,
@@ -10691,7 +10734,7 @@
       "genus": "Liparis",
       "species": "Liparis tunicatus",
       "remove": false,
-      "records": 4,
+      "records": 6,
       "max_year": 2009,
       "source_obis": true,
       "source_gbif": true,
@@ -10745,6 +10788,49 @@
       "group": "fish"
     },
     {
+      "AphiaID": 127104,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Zoarcidae",
+      "genus": "Lycodes",
+      "species": "Lycodes eudipleurostictus",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "vernacular": "eel pout",
+      "group": "fish"
+    },
+    {
+      "AphiaID": 274100,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Zoarcidae",
+      "genus": "Lycodes",
+      "species": "Lycodes gracilis",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "fish"
+    },
+    {
+      "AphiaID": 127108,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Zoarcidae",
+      "genus": "Lycodes",
+      "species": "Lycodes luetkenii",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "fish"
+    },
+    {
       "AphiaID": 254584,
       "phylum": "Chordata",
       "class": "Teleostei",
@@ -10772,6 +10858,50 @@
       "source_gbif": true,
       "source_dna": false,
       "vernacular": "polar eelpout, lycode polaire",
+      "group": "fish"
+    },
+    {
+      "AphiaID": 127112,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Zoarcidae",
+      "genus": "Lycodes",
+      "species": "Lycodes reticulatus",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "vernacular": "Arctic eelpout, lycode arctique",
+      "group": "fish"
+    },
+    {
+      "AphiaID": 127115,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Zoarcidae",
+      "genus": "Lycodes",
+      "species": "Lycodes seminudus",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "fish"
+    },
+    {
+      "AphiaID": 127118,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Zoarcidae",
+      "genus": "Lycodes",
+      "species": "Lycodes vahlii",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "vernacular": "checker eelpout, lycode de Vahl",
       "group": "fish"
     },
     {
@@ -10946,6 +11076,23 @@
       "source_gbif": true,
       "source_dna": false,
       "vernacular": "ocean pout, loquette",
+      "group": "fish"
+    },
+    {
+      "AphiaID": 127136,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Pleuronectiformes",
+      "family": "Pleuronectidae",
+      "genus": "Glyptocephalus",
+      "species": "Glyptocephalus cynoglossus",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "category": "VU",
+      "redlist_category": "VU",
+      "vernacular": "pole dab, plie grise",
       "group": "fish"
     },
     {
@@ -11205,6 +11352,32 @@
       "source_gbif": true,
       "source_dna": false,
       "vernacular": "common orange lichen",
+      "group": "fungi"
+    },
+    {
+      "AphiaID": 100499,
+      "phylum": "Ascomycota",
+      "class": "Pezizomycotina incertae sedis",
+      "genus": "Asteromyces",
+      "species": "Asteromyces cruciatus",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "fungi"
+    },
+    {
+      "AphiaID": 438101,
+      "phylum": "Ascomycota",
+      "class": "Sordariomycetes",
+      "order": "Microascales",
+      "family": "Halosphaeriaceae",
+      "genus": "Havispora",
+      "species": "Havispora longyearbyenensis",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
       "group": "fungi"
     },
     {
@@ -20552,6 +20725,20 @@
       "group": "worms"
     },
     {
+      "AphiaID": 1729705,
+      "phylum": "Annelida",
+      "class": "Polychaeta",
+      "order": "Terebellida",
+      "family": "Cirratulidae",
+      "genus": "Chaetozone",
+      "species": "Chaetozone artaspinosa",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "worms"
+    },
+    {
       "AphiaID": 129955,
       "phylum": "Annelida",
       "class": "Polychaeta",
@@ -24234,32 +24421,6 @@
       "source_dna": false
     },
     {
-      "AphiaID": 1398196,
-      "phylum": "Foraminifera",
-      "class": "Nodosariata",
-      "order": "Lagenida",
-      "family": "Protonodosariidae",
-      "genus": "Nodosinelloides",
-      "species": "Nodosinelloides aequiampla",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false
-    },
-    {
-      "AphiaID": 1398198,
-      "phylum": "Foraminifera",
-      "class": "Nodosariata",
-      "order": "Lagenida",
-      "family": "Protonodosariidae",
-      "genus": "Nodosinelloides",
-      "species": "Nodosinelloides netschajewi",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false
-    },
-    {
       "AphiaID": 1055651,
       "phylum": "Foraminifera",
       "class": "Nodosariata",
@@ -24280,6 +24441,32 @@
       "family": "Lagenidae",
       "genus": "Lagena",
       "species": "Lagena nebulosa",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false
+    },
+    {
+      "AphiaID": 1398196,
+      "phylum": "Foraminifera",
+      "class": "Nodosariata",
+      "order": "Nodosariida",
+      "family": "Protonodosariidae",
+      "genus": "Nodosinelloides",
+      "species": "Nodosinelloides aequiampla",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false
+    },
+    {
+      "AphiaID": 1398198,
+      "phylum": "Foraminifera",
+      "class": "Nodosariata",
+      "order": "Nodosariida",
+      "family": "Protonodosariidae",
+      "genus": "Nodosinelloides",
+      "species": "Nodosinelloides netschajewi",
       "remove": false,
       "source_obis": false,
       "source_gbif": true,
@@ -25376,7 +25563,7 @@
       },
       {
         "category": "VU",
-        "obis_species": 19
+        "obis_species": 20
       }
     ],
     "markers_family": [],
@@ -25386,23 +25573,23 @@
         "birds": 100,
         "cnidarians": 34,
         "copepods": 30,
-        "crustaceans": 317,
+        "crustaceans": 318,
         "echinoderms": 71,
-        "fish": 86,
-        "fungi": 5,
+        "fish": 95,
+        "fungi": 7,
         "mammals": 22,
         "molluscs": 260,
         "moss animals": 83,
         "sea squirts": 21,
         "sponges": 20,
         "unicellular": 35,
-        "worms": 356
+        "worms": 357
       },
     "groups_edna": {},
     "source": {
       "obis": 35,
-      "gbif": 1768,
-      "db": 1771,
+      "gbif": 1781,
+      "db": 1784,
       "edna": 0,
       "both": 0
     }

@@ -1,5 +1,5 @@
 {
-  "created": "2024-01-18T23:07:07",
+  "created": "2024-01-29T14:11:00",
   "species": [
     {
       "AphiaID": 149004,
@@ -3464,7 +3464,7 @@
       "genus": "Callorhinchus",
       "species": "Callorhinchus callorynchus",
       "remove": false,
-      "records": 6,
+      "records": 11,
       "reads": 28,
       "asvs": 2,
       "max_year": 1995,
@@ -3546,7 +3546,7 @@
       "genus": "Odontesthes",
       "species": "Odontesthes argentinensis",
       "remove": false,
-      "records": 2,
+      "records": 3,
       "reads": 6898,
       "asvs": 7,
       "target_gene": "16S;COI",
@@ -3584,7 +3584,7 @@
       "genus": "Odontesthes",
       "species": "Odontesthes nigricans",
       "remove": false,
-      "records": 2,
+      "records": 3,
       "reads": 7530,
       "asvs": 9,
       "target_gene": "12S;COI",
@@ -4356,7 +4356,7 @@
       "genus": "Acanthistius",
       "species": "Acanthistius patachonicus",
       "remove": false,
-      "records": 5,
+      "records": 7,
       "reads": 35,
       "asvs": 1,
       "target_gene": "COI",
@@ -5115,7 +5115,7 @@
       "genus": "Eubalaena",
       "species": "Eubalaena australis",
       "remove": false,
-      "records": 403,
+      "records": 410,
       "reads": 871984,
       "asvs": 162,
       "max_year": 2023,
@@ -6735,16 +6735,6 @@
       },
       {
         "locality": "Peninsula Valdès",
-        "materialSampleID": "EE0221",
-        "reads": 334102,
-        "asvs": 343,
-        "decimalLongitude": -64.9897,
-        "decimalLatitude": -42.7855,
-        "sampleSize": 1500,
-        "species": 19
-      },
-      {
-        "locality": "Peninsula Valdès",
         "materialSampleID": "EE0231",
         "reads": 2720070,
         "asvs": 10721,
@@ -6818,6 +6808,12 @@
         "reads": 32736,
         "asvs": 156,
         "species": 6
+      },
+      {
+        "materialSampleID": "EE0221",
+        "reads": 334102,
+        "asvs": 343,
+        "species": 19
       }
     ],
     "dna": {

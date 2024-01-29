@@ -1,5 +1,5 @@
 {
-  "created": "2024-01-18T23:07:14",
+  "created": "2024-01-29T14:11:06",
   "species": [
     {
       "AphiaID": 149004,
@@ -1482,7 +1482,7 @@
       "genus": "Scatophagus",
       "species": "Scatophagus argus",
       "remove": false,
-      "records": 6,
+      "records": 7,
       "reads": 109464,
       "asvs": 30,
       "target_gene": "12S;16S;COI",
@@ -1522,7 +1522,7 @@
       "genus": "Pisodonophis",
       "species": "Pisodonophis boro",
       "remove": false,
-      "records": 11,
+      "records": 15,
       "reads": 8071,
       "asvs": 5,
       "max_year": 1937,
@@ -1703,7 +1703,7 @@
       "genus": "Zenarchopterus",
       "species": "Zenarchopterus ectuntio",
       "remove": false,
-      "records": 3,
+      "records": 4,
       "reads": 57,
       "asvs": 2,
       "target_gene": "COI",
@@ -2057,7 +2057,7 @@
       "genus": "Coilia",
       "species": "Coilia ramcarati",
       "remove": false,
-      "records": 5,
+      "records": 6,
       "reads": 189493,
       "asvs": 52,
       "target_gene": "12S;16S;COI",
@@ -2137,7 +2137,7 @@
       "genus": "Hilsa",
       "species": "Hilsa kelee",
       "remove": false,
-      "records": 5,
+      "records": 6,
       "reads": 6872,
       "asvs": 9,
       "target_gene": "12S;16S",
@@ -2240,7 +2240,7 @@
       "genus": "Setipinna",
       "species": "Setipinna taty",
       "remove": false,
-      "records": 5,
+      "records": 6,
       "reads": 60589,
       "asvs": 14,
       "target_gene": "12S;16S",
@@ -2337,7 +2337,7 @@
       "genus": "Tenualosa",
       "species": "Tenualosa ilisha",
       "remove": false,
-      "records": 5,
+      "records": 6,
       "reads": 7236,
       "asvs": 1,
       "target_gene": "12S",
@@ -3269,7 +3269,7 @@
       "genus": "Taenioides",
       "species": "Taenioides cirratus",
       "remove": false,
-      "records": 5,
+      "records": 6,
       "reads": 524,
       "asvs": 1,
       "target_gene": "16S",
@@ -3423,7 +3423,7 @@
       "genus": "Paramugil",
       "species": "Paramugil parmatus",
       "remove": false,
-      "records": 2,
+      "records": 3,
       "reads": 74,
       "asvs": 1,
       "target_gene": "COI",
@@ -3501,7 +3501,7 @@
       "genus": "Planiliza",
       "species": "Planiliza subviridis",
       "remove": false,
-      "records": 7,
+      "records": 9,
       "reads": 2898,
       "asvs": 7,
       "target_gene": "12S",
@@ -3521,7 +3521,7 @@
       "genus": "Planiliza",
       "species": "Planiliza tade",
       "remove": false,
-      "records": 4,
+      "records": 5,
       "reads": 5897,
       "asvs": 4,
       "target_gene": "16S;COI",
@@ -4012,7 +4012,7 @@
       "genus": "Plotosus",
       "species": "Plotosus canius",
       "remove": false,
-      "records": 4,
+      "records": 5,
       "reads": 10785,
       "asvs": 8,
       "target_gene": "12S;16S;COI",
@@ -4366,16 +4366,6 @@
         "species": 69
       },
       {
-        "locality": "Sundarban West Wildlife Sanctuary",
-        "materialSampleID": "EE0333",
-        "reads": 1279056,
-        "asvs": 842,
-        "decimalLongitude": 89.2836,
-        "decimalLatitude": 21.8269,
-        "sampleSize": 1800,
-        "species": 17
-      },
-      {
         "locality": "Sundarban west wildlife sanctuary",
         "materialSampleID": "EE0330",
         "reads": 1753183,
@@ -4570,6 +4560,12 @@
         "reads": 8447,
         "asvs": 239,
         "species": 6
+      },
+      {
+        "materialSampleID": "EE0333",
+        "reads": 1279056,
+        "asvs": 842,
+        "species": 17
       }
     ],
     "dna": {
@@ -4644,8 +4640,8 @@
       },
     "source": {
       "obis": 538,
-      "gbif": 74,
-      "db": 595,
+      "gbif": 75,
+      "db": 596,
       "edna": 233,
       "both": 98
     }

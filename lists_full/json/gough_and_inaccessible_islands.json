@@ -1,5 +1,5 @@
 {
-  "created": "2024-01-18T23:06:54",
+  "created": "2024-01-29T14:10:47",
   "species": [
     {
       "AphiaID": 145078,
@@ -1487,6 +1487,20 @@
       "group": "cnidarians"
     },
     {
+      "AphiaID": 1726271,
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Scleractinia",
+      "family": "Caryophylliidae",
+      "genus": "Caryophyllia",
+      "species": "Caryophyllia cyathus",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "cnidarians"
+    },
+    {
       "AphiaID": 1245747,
       "phylum": "Cnidaria",
       "class": "Anthozoa",
@@ -2130,7 +2144,7 @@
       "remove": false,
       "records": 2,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "group": "crustaceans"
     },
@@ -2188,6 +2202,20 @@
       "remove": false,
       "records": 2,
       "source_obis": true,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "crustaceans"
+    },
+    {
+      "AphiaID": 1728899,
+      "phylum": "Arthropoda",
+      "class": "Malacostraca",
+      "order": "Amphipoda",
+      "family": "Ischyroceridae",
+      "genus": "Neoischyrocerus",
+      "species": "Neoischyrocerus longimanus",
+      "remove": false,
+      "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
       "group": "crustaceans"
@@ -3755,7 +3783,7 @@
       "genus": "Helicolenus",
       "species": "Helicolenus mouchezi",
       "remove": false,
-      "records": 18,
+      "records": 20,
       "max_year": 2004,
       "source_obis": true,
       "source_gbif": true,
@@ -3771,7 +3799,7 @@
       "genus": "Lepidoperca",
       "species": "Lepidoperca coatsii",
       "remove": false,
-      "records": 6,
+      "records": 7,
       "max_year": 2004,
       "source_obis": true,
       "source_gbif": true,
@@ -3853,7 +3881,7 @@
       "genus": "Arnoglossus",
       "species": "Arnoglossus capensis",
       "remove": false,
-      "records": 3,
+      "records": 4,
       "max_year": 2004,
       "source_obis": true,
       "source_gbif": true,
@@ -4115,7 +4143,7 @@
       "genus": "Notopogon",
       "species": "Notopogon lilliei",
       "remove": false,
-      "records": 6,
+      "records": 7,
       "max_year": 2004,
       "source_obis": true,
       "source_gbif": true,
@@ -6380,9 +6408,9 @@
     "groups": {
         "algae": 43,
         "birds": 42,
-        "cnidarians": 28,
+        "cnidarians": 29,
         "copepods": 12,
-        "crustaceans": 51,
+        "crustaceans": 52,
         "echinoderms": 14,
         "fish": 71,
         "fungi": 4,
@@ -6396,8 +6424,8 @@
     "groups_edna": {},
     "source": {
       "obis": 204,
-      "gbif": 391,
-      "db": 408,
+      "gbif": 392,
+      "db": 410,
       "edna": 0,
       "both": 0
     }

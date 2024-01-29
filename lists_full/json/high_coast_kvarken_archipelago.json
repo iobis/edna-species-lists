@@ -1,5 +1,5 @@
 {
-  "created": "2024-01-18T23:06:57",
+  "created": "2024-01-29T14:10:51",
   "species": [
     {
       "AphiaID": 148990,
@@ -7458,6 +7458,21 @@
       "source_dna": false
     },
     {
+      "AphiaID": 1714220,
+      "phylum": "Arthropoda",
+      "class": "Hexapoda",
+      "order": "Ephemeroptera",
+      "family": "Baetidae",
+      "genus": "Baetis",
+      "species": "Baetis rhodani",
+      "remove": false,
+      "records": 1,
+      "max_year": 2007,
+      "source_obis": true,
+      "source_gbif": false,
+      "source_dna": false
+    },
+    {
       "AphiaID": 494272,
       "phylum": "Arthropoda",
       "class": "Hexapoda",
@@ -9585,9 +9600,9 @@
       },
     "groups_edna": {},
     "source": {
-      "obis": 325,
+      "obis": 326,
       "gbif": 519,
-      "db": 614,
+      "db": 615,
       "edna": 0,
       "both": 0
     }

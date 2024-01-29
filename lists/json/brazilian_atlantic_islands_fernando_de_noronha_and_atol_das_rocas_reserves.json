@@ -1,5 +1,5 @@
 {
-  "created": "2024-01-18T23:06:49",
+  "created": "2024-01-29T14:10:42",
   "species": [
     {
       "AphiaID": 149004,
@@ -1221,23 +1221,6 @@
       "group": "birds"
     },
     {
-      "AphiaID": 288925,
-      "phylum": "Cnidaria",
-      "class": "Anthozoa",
-      "order": "Actiniaria",
-      "family": "Boloceroididae",
-      "genus": "Boloceroides",
-      "species": "Boloceroides mcmurrichi",
-      "remove": false,
-      "reads": 4,
-      "asvs": 1,
-      "target_gene": "COI",
-      "source_obis": false,
-      "source_gbif": false,
-      "source_dna": true,
-      "group": "cnidarians"
-    },
-    {
       "AphiaID": 1264073,
       "phylum": "Cnidaria",
       "class": "Anthozoa",
@@ -1487,24 +1470,6 @@
       "source_obis": false,
       "source_gbif": false,
       "source_dna": true,
-      "group": "cnidarians"
-    },
-    {
-      "AphiaID": 117386,
-      "phylum": "Cnidaria",
-      "class": "Hydrozoa",
-      "order": "Leptothecata",
-      "family": "Campanulariidae",
-      "genus": "Obelia",
-      "species": "Obelia dichotoma",
-      "remove": false,
-      "reads": 120,
-      "asvs": 4,
-      "target_gene": "COI",
-      "source_obis": false,
-      "source_gbif": false,
-      "source_dna": true,
-      "vernacular": "sea thread hydroid",
       "group": "cnidarians"
     },
     {
@@ -2668,8 +2633,8 @@
       "genus": "Paraconger",
       "species": "Paraconger caudilimbatus",
       "remove": false,
-      "reads": 3964,
-      "asvs": 5,
+      "reads": 7900,
+      "asvs": 6,
       "target_gene": "12S;COI",
       "source_obis": false,
       "source_gbif": false,
@@ -2677,25 +2642,6 @@
       "category": "LC",
       "redlist_category": "LC",
       "vernacular": "margintail conger",
-      "group": "fish"
-    },
-    {
-      "AphiaID": 271791,
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Anguilliformes",
-      "family": "Congridae",
-      "genus": "Paraconger",
-      "species": "Paraconger notialis",
-      "remove": false,
-      "reads": 3936,
-      "asvs": 4,
-      "target_gene": "12S",
-      "source_obis": false,
-      "source_gbif": false,
-      "source_dna": true,
-      "category": "LC",
-      "redlist_category": "LC",
       "group": "fish"
     },
     {
@@ -3315,44 +3261,6 @@
       "group": "fish"
     },
     {
-      "AphiaID": 127077,
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Centrarchiformes",
-      "family": "Terapontidae",
-      "genus": "Pelates",
-      "species": "Pelates quadrilineatus",
-      "remove": false,
-      "reads": 10,
-      "asvs": 1,
-      "target_gene": "12S",
-      "source_obis": false,
-      "source_gbif": false,
-      "source_dna": true,
-      "vernacular": "fourlined terapon",
-      "group": "fish"
-    },
-    {
-      "AphiaID": 126417,
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Clupeiformes",
-      "family": "Clupeidae",
-      "genus": "Clupea",
-      "species": "Clupea harengus",
-      "remove": false,
-      "reads": 6,
-      "asvs": 1,
-      "target_gene": "12S",
-      "source_obis": false,
-      "source_gbif": false,
-      "source_dna": true,
-      "category": "LC",
-      "redlist_category": "LC",
-      "vernacular": "herring, hareng de l'Atlantique",
-      "group": "fish"
-    },
-    {
       "AphiaID": 367197,
       "phylum": "Chordata",
       "class": "Teleostei",
@@ -3924,26 +3832,6 @@
       "group": "fish"
     },
     {
-      "AphiaID": 126913,
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Gobiiformes",
-      "family": "Gobiidae",
-      "genus": "Neogobius",
-      "species": "Neogobius fluviatilis",
-      "remove": false,
-      "reads": 473,
-      "asvs": 1,
-      "target_gene": "12S",
-      "source_obis": false,
-      "source_gbif": false,
-      "source_dna": true,
-      "category": "LC",
-      "redlist_category": "LC",
-      "vernacular": "monkey goby",
-      "group": "fish"
-    },
-    {
       "AphiaID": 159378,
       "phylum": "Chordata",
       "class": "Teleostei",
@@ -4029,25 +3917,6 @@
       "category": "LC",
       "redlist_category": "LC",
       "vernacular": "dusky cardinalfish",
-      "group": "fish"
-    },
-    {
-      "AphiaID": 273647,
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Mugiliformes",
-      "family": "Mugilidae",
-      "genus": "Mugil",
-      "species": "Mugil bananensis",
-      "remove": false,
-      "reads": 2,
-      "asvs": 1,
-      "target_gene": "12S",
-      "source_obis": false,
-      "source_gbif": false,
-      "source_dna": true,
-      "category": "LC",
-      "redlist_category": "LC",
       "group": "fish"
     },
     {
@@ -4492,47 +4361,6 @@
       "redlist_category": "LC",
       "vernacular": "black durgon",
       "group": "fish"
-    },
-    {
-      "AphiaID": 231410,
-      "phylum": "Chordata",
-      "class": "Mammalia",
-      "order": "Carnivora",
-      "family": "Otariidae",
-      "genus": "Arctocephalus",
-      "species": "Arctocephalus pusillus",
-      "remove": false,
-      "reads": 22,
-      "asvs": 1,
-      "target_gene": "12S",
-      "source_obis": false,
-      "source_gbif": false,
-      "source_dna": true,
-      "category": "LC",
-      "redlist_category": "LC",
-      "vernacular": "South African fur seal",
-      "group": "mammals"
-    },
-    {
-      "AphiaID": 231413,
-      "phylum": "Chordata",
-      "class": "Mammalia",
-      "order": "Carnivora",
-      "family": "Phocidae",
-      "genus": "Mirounga",
-      "species": "Mirounga leonina",
-      "remove": false,
-      "records": 1,
-      "reads": 43,
-      "asvs": 1,
-      "target_gene": "12S",
-      "source_obis": true,
-      "source_gbif": true,
-      "source_dna": true,
-      "category": "LC",
-      "redlist_category": "LC",
-      "vernacular": "southern elephant seal",
-      "group": "mammals"
     },
     {
       "AphiaID": 137096,
@@ -5964,23 +5792,6 @@
       "group": "worms"
     },
     {
-      "AphiaID": 760017,
-      "phylum": "Annelida",
-      "class": "Polychaeta",
-      "order": "Phyllodocida",
-      "family": "Syllidae",
-      "genus": "Xenosyllis",
-      "species": "Xenosyllis moloch",
-      "remove": false,
-      "reads": 3,
-      "asvs": 1,
-      "target_gene": "COI",
-      "source_obis": false,
-      "source_gbif": false,
-      "source_dna": true,
-      "group": "worms"
-    },
-    {
       "AphiaID": 1259021,
       "phylum": "Annelida",
       "class": "Polychaeta",
@@ -6119,22 +5930,6 @@
       "source_dna": true
     },
     {
-      "AphiaID": 1491271,
-      "phylum": "Arthropoda",
-      "class": "Hexapoda",
-      "order": "Thysanoptera",
-      "family": "Thripidae",
-      "genus": "Selenothrips",
-      "species": "Selenothrips rubrocinctus",
-      "remove": false,
-      "reads": 60,
-      "asvs": 2,
-      "target_gene": "COI",
-      "source_obis": false,
-      "source_gbif": false,
-      "source_dna": true
-    },
-    {
       "AphiaID": 437835,
       "phylum": "Basidiomycota",
       "class": "Agaricomycetes",
@@ -6240,7 +6035,7 @@
         "decimalLongitude": -32.4521,
         "decimalLatitude": -3.8578,
         "sampleSize": 1200,
-        "species": 55
+        "species": 48
       },
       {
         "locality": "Baia dos Golfhinos",
@@ -6250,7 +6045,7 @@
         "decimalLongitude": -32.452,
         "decimalLatitude": -3.8578,
         "sampleSize": 1440,
-        "species": 61
+        "species": 55
       },
       {
         "locality": "Cagarras",
@@ -6260,7 +6055,7 @@
         "decimalLongitude": -32.3899,
         "decimalLatitude": -3.8088,
         "sampleSize": 1500,
-        "species": 77
+        "species": 70
       },
       {
         "locality": "Cagarras",
@@ -6270,7 +6065,7 @@
         "decimalLongitude": -32.3899,
         "decimalLatitude": -3.8088,
         "sampleSize": 1500,
-        "species": 134
+        "species": 133
       },
       {
         "locality": "Sueste",
@@ -6280,7 +6075,7 @@
         "decimalLongitude": -32.4241,
         "decimalLatitude": -3.8713,
         "sampleSize": 1500,
-        "species": 140
+        "species": 139
       },
       {
         "locality": "Sueste",
@@ -6290,7 +6085,7 @@
         "decimalLongitude": -32.4242,
         "decimalLatitude": -3.8713,
         "sampleSize": 1500,
-        "species": 175
+        "species": 174
       },
       {
         "locality": "Sueste",
@@ -6300,7 +6095,7 @@
         "decimalLongitude": -32.4241,
         "decimalLatitude": -3.8712,
         "sampleSize": 1260,
-        "species": 165
+        "species": 164
       },
       {
         "locality": "Sueste",
@@ -6331,7 +6126,6 @@
         "materialSampleID": "EE0445",
         "reads": 851981,
         "asvs": 489,
-        "sampleSize": 1200,
         "species": 5
       },
       {
@@ -6352,13 +6146,13 @@
       {
         "pcr_primer_name_forward": "MiFish-UE-F",
         "reads": 1450819,
-        "species": 30,
+        "species": 31,
         "asvs": 3831
       },
       {
         "pcr_primer_name_forward": "MiMammal-UEB-F",
         "reads": 1705155,
-        "species": 59,
+        "species": 58,
         "asvs": 4015
       },
       {
@@ -6370,13 +6164,13 @@
       {
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 12336957,
-        "species": 288,
+        "species": 287,
         "asvs": 22870
       },
       {
         "pcr_primer_name_forward": "teleo_F_L1848",
         "reads": 2838810,
-        "species": 24,
+        "species": 26,
         "asvs": 4715
       }
     ],
@@ -6403,26 +6197,26 @@
     "groups_edna": {
         "algae": 70,
         "birds": 2,
-        "cnidarians": 23,
+        "cnidarians": 21,
         "copepods": 4,
         "crustaceans": 23,
         "echinoderms": 13,
-        "fish": 101,
-        "mammals": 6,
+        "fish": 96,
+        "mammals": 4,
         "molluscs": 20,
         "moss animals": 2,
         "sea squirts": 1,
         "sponges": 39,
         "turtles": 1,
         "unicellular": 5,
-        "worms": 16
+        "worms": 15
       },
     "source": {
-      "obis": 822,
-      "gbif": 619,
-      "db": 1006,
-      "edna": 334,
-      "both": 125
+      "obis": 821,
+      "gbif": 618,
+      "db": 1004,
+      "edna": 323,
+      "both": 124
     }
   }
 }

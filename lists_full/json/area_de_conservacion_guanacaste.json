@@ -1,5 +1,5 @@
 {
-  "created": "2024-01-18T23:06:46",
+  "created": "2024-01-29T14:10:39",
   "species": [
     {
       "AphiaID": 144474,
@@ -2677,6 +2677,20 @@
       "family": "Astropectinidae",
       "genus": "Astropecten",
       "species": "Astropecten armatus",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "echinoderms"
+    },
+    {
+      "AphiaID": 254919,
+      "phylum": "Echinodermata",
+      "class": "Asteroidea",
+      "order": "Valvatida",
+      "family": "Oreasteridae",
+      "genus": "Nidorellia",
+      "species": "Nidorellia armata",
       "remove": false,
       "source_obis": false,
       "source_gbif": true,
@@ -6286,23 +6300,6 @@
       "category": "DD",
       "redlist_category": "DD",
       "vernacular": "mangrove wrasse",
-      "group": "fish"
-    },
-    {
-      "AphiaID": 158815,
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Eupercaria incertae sedis",
-      "family": "Labridae",
-      "genus": "Halichoeres",
-      "species": "Halichoeres bivittatus",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "category": "LC",
-      "redlist_category": "LC",
-      "vernacular": "slippery dick",
       "group": "fish"
     },
     {
@@ -11428,13 +11425,13 @@
       "group": "molluscs"
     },
     {
-      "AphiaID": 394069,
+      "AphiaID": 1728455,
       "phylum": "Mollusca",
       "class": "Bivalvia",
       "order": "Pectinida",
       "family": "Pectinidae",
       "genus": "Euvola",
-      "species": "Euvola perula",
+      "species": "Euvola perulus",
       "remove": false,
       "source_obis": false,
       "source_gbif": true,
@@ -15502,20 +15499,6 @@
       "group": "molluscs"
     },
     {
-      "AphiaID": 464847,
-      "phylum": "Mollusca",
-      "class": "Gastropoda",
-      "order": "Neogastropoda",
-      "family": "Cancellariidae",
-      "genus": "Trigonostoma",
-      "species": "Trigonostoma bullatum",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
-      "source_dna": false,
-      "group": "molluscs"
-    },
-    {
       "AphiaID": 714223,
       "phylum": "Mollusca",
       "class": "Gastropoda",
@@ -15555,6 +15538,20 @@
       "records": 1,
       "max_year": 1974,
       "source_obis": true,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "molluscs"
+    },
+    {
+      "AphiaID": 1721415,
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Neogastropoda",
+      "family": "Cancellariidae",
+      "genus": "Ventrilia",
+      "species": "Ventrilia bullata",
+      "remove": false,
+      "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
       "group": "molluscs"
@@ -16285,6 +16282,19 @@
       "group": "molluscs"
     },
     {
+      "AphiaID": 456592,
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "family": "Lottiidae",
+      "genus": "Lottia",
+      "species": "Lottia filosa",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "molluscs"
+    },
+    {
       "AphiaID": 456599,
       "phylum": "Mollusca",
       "class": "Gastropoda",
@@ -16933,6 +16943,19 @@
       "group": "worms"
     },
     {
+      "AphiaID": 1728350,
+      "phylum": "Actinobacteria",
+      "class": "Actinobacteria",
+      "order": "Actinomycetales",
+      "family": "Streptomycetaceae",
+      "genus": "Streptomyces",
+      "species": "Streptomyces olivaceus",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false
+    },
+    {
       "AphiaID": 158482,
       "phylum": "Arthropoda",
       "class": "Hexapoda",
@@ -17458,10 +17481,10 @@
         "birds": 60,
         "cnidarians": 9,
         "crustaceans": 93,
-        "echinoderms": 19,
-        "fish": 387,
+        "echinoderms": 20,
+        "fish": 386,
         "mammals": 2,
-        "molluscs": 466,
+        "molluscs": 467,
         "moss animals": 5,
         "sea squirts": 1,
         "turtles": 3,
@@ -17471,8 +17494,8 @@
     "groups_edna": {},
     "source": {
       "obis": 455,
-      "gbif": 904,
-      "db": 1097,
+      "gbif": 906,
+      "db": 1099,
       "edna": 0,
       "both": 0
     }

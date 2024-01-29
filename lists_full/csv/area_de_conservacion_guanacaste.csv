@@ -176,6 +176,7 @@
 1564539,"Arthropoda","Thecostraca","Balanomorpha","Tetraclitidae","Tetraclita","Tetraclita panamensis",FALSE,1,,,1938,,TRUE,TRUE,FALSE,,,,"crustaceans"
 292851,"Echinodermata","Asteroidea","Paxillosida","Astropectinidae","Astropecten","Astropecten armatus",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"echinoderms"
 1450108,"Echinodermata","Asteroidea","Paxillosida","Astropectinidae","Astropecten","Astropecten armatus",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"echinoderms"
+254919,"Echinodermata","Asteroidea","Valvatida","Oreasteridae","Nidorellia","Nidorellia armata",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"echinoderms"
 370899,"Echinodermata","Asteroidea","Valvatida","Oreasteridae","Pentaceraster","Pentaceraster cumingi",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"echinoderms"
 292795,"Echinodermata","Asteroidea","Valvatida","Ophidiasteridae","Pharia","Pharia pyramidata",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"echinoderms"
 292797,"Echinodermata","Asteroidea","Valvatida","Ophidiasteridae","Phataria","Phataria unifascialis",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"echinoderms"
@@ -378,7 +379,6 @@
 275738,"Chordata","Teleostei","Eupercaria incertae sedis","Haemulidae","Haemulon","Haemulon steindachneri",FALSE,6,,,2005,,TRUE,TRUE,FALSE,"LC","LC","Latin grunt","fish"
 280975,"Chordata","Teleostei","Eupercaria incertae sedis","Haemulidae","Haemulopsis","Haemulopsis leuciscus",FALSE,1,,,,,TRUE,TRUE,FALSE,"LC","LC","raucous grunt","fish"
 275748,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Halichoeres","Halichoeres aestuaricola",FALSE,1,,,2005,,TRUE,FALSE,FALSE,"DD","DD","mangrove wrasse","fish"
-158815,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Halichoeres","Halichoeres bivittatus",FALSE,,,,,,FALSE,TRUE,FALSE,"LC","LC","slippery dick","fish"
 275756,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Halichoeres","Halichoeres chierchiae",FALSE,6,,,1969,,TRUE,TRUE,FALSE,"LC","LC","wounded wrasse","fish"
 275763,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Halichoeres","Halichoeres dispilus",FALSE,16,,,2005,,TRUE,TRUE,FALSE,"LC","LC","chameleon wrasse","fish"
 275775,"Chordata","Teleostei","Eupercaria incertae sedis","Labridae","Halichoeres","Halichoeres melanotis",FALSE,2,,,,,TRUE,TRUE,FALSE,"LC","LC","golden wrasse","fish"
@@ -680,7 +680,7 @@
 506729,"Mollusca","Bivalvia","Ostreida","Ostreidae","Saccostrea","Saccostrea palmula",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"molluscs"
 504259,"Mollusca","Bivalvia","Pectinida","Anomiidae","Anomia","Anomia peruviana",FALSE,1,,,1973,,TRUE,FALSE,FALSE,,,,"molluscs"
 394270,"Mollusca","Bivalvia","Pectinida","Pectinidae","Argopecten","Argopecten ventricosus",FALSE,,,,,,FALSE,TRUE,FALSE,,,"Catarina scallop","molluscs"
-394069,"Mollusca","Bivalvia","Pectinida","Pectinidae","Euvola","Euvola perula",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"molluscs"
+1728455,"Mollusca","Bivalvia","Pectinida","Pectinidae","Euvola","Euvola perulus",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"molluscs"
 394078,"Mollusca","Bivalvia","Pectinida","Pectinidae","Euvola","Euvola vogdesi",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"molluscs"
 605797,"Mollusca","Bivalvia","Pectinida","Pectinidae","Leptopecten","Leptopecten biolleyi",FALSE,1,,,1975,,TRUE,TRUE,FALSE,,,,"molluscs"
 394310,"Mollusca","Bivalvia","Pectinida","Pectinidae","Leptopecten","Leptopecten camerella",FALSE,1,,,1973,,TRUE,FALSE,FALSE,,,,"molluscs"
@@ -959,10 +959,10 @@
 438859,"Mollusca","Gastropoda","Neogastropoda","Terebridae","Terebra","Terebra robusta",FALSE,,,,,,FALSE,TRUE,FALSE,,,"robust auger","molluscs"
 408217,"Mollusca","Gastropoda","Neogastropoda","Muricidae","Trachypollia","Trachypollia lugubris",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"molluscs"
 464846,"Mollusca","Gastropoda","Neogastropoda","Cancellariidae","Trigonostoma","Trigonostoma breve",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"molluscs"
-464847,"Mollusca","Gastropoda","Neogastropoda","Cancellariidae","Trigonostoma","Trigonostoma bullatum",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"molluscs"
 714223,"Mollusca","Gastropoda","Neogastropoda","Muricidae","Vasula","Vasula melones",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"molluscs"
 714222,"Mollusca","Gastropoda","Neogastropoda","Muricidae","Vasula","Vasula speciosa",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"molluscs"
 575609,"Mollusca","Gastropoda","Neogastropoda","Turbinellidae","Vasum","Vasum caestus",FALSE,1,,,1974,,TRUE,TRUE,FALSE,,,,"molluscs"
+1721415,"Mollusca","Gastropoda","Neogastropoda","Cancellariidae","Ventrilia","Ventrilia bullata",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"molluscs"
 408055,"Mollusca","Gastropoda","Neogastropoda","Muricidae","Vitularia","Vitularia salebrosa",FALSE,,,,,,FALSE,TRUE,FALSE,,,"rugged seacalf","molluscs"
 405226,"Mollusca","Gastropoda","Neogastropoda","Muricidae","Vokesimurex","Vokesimurex recurvirostris",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"molluscs"
 954759,"Mollusca","Gastropoda","Neogastropoda","Olividae","Vullietoliva","Vullietoliva splendidula",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"molluscs"
@@ -1014,6 +1014,7 @@
 1625191,"Mollusca","Gastropoda",,"Pyramidellidae","Besla","Besla caneloensis",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"molluscs"
 494440,"Mollusca","Gastropoda",,"Plakobranchidae","Elysia","Elysia diomedea",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"molluscs"
 866689,"Mollusca","Gastropoda",,"Pyramidellidae","Eulimastoma","Eulimastoma dotella",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"molluscs"
+456592,"Mollusca","Gastropoda",,"Lottiidae","Lottia","Lottia filosa",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"molluscs"
 456599,"Mollusca","Gastropoda",,"Lottiidae","Lottia","Lottia mesoleuca",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"molluscs"
 594472,"Mollusca","Gastropoda",,"Lottiidae","Lottia","Lottia mitella",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"molluscs"
 594473,"Mollusca","Gastropoda",,"Lottiidae","Lottia","Lottia pediculus",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"molluscs"
@@ -1060,6 +1061,7 @@
 1321853,"Myzozoa","Dinophyceae","Peridiniales","Peridiniaceae","Scrippsiella","Scrippsiella acuminata",FALSE,1,,,2018,,TRUE,FALSE,FALSE,,,,"unicellular"
 129829,"Annelida","Polychaeta","Amphinomida","Amphinomidae","Eurythoe","Eurythoe complanata",FALSE,,,,,,FALSE,TRUE,FALSE,,,"fireworm","worms"
 390245,"Annelida","Polychaeta","Terebellida","Terebellidae","Thelepus","Thelepus fraggleorum",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"worms"
+1728350,"Actinobacteria","Actinobacteria","Actinomycetales","Streptomycetaceae","Streptomyces","Streptomyces olivaceus",FALSE,,,,,,FALSE,TRUE,FALSE,,,,
 158482,"Arthropoda","Hexapoda","Diptera","Chironomidae","Cricotopus","Cricotopus sylvestris",FALSE,,,,,,FALSE,TRUE,FALSE,,,,
 503281,"Arthropoda","Hexapoda","Diptera","Ephydridae","Leptopsilopa","Leptopsilopa similis",FALSE,,,,,,FALSE,TRUE,FALSE,,,,
 865848,"Arthropoda","Hexapoda","Odonata","Libellulidae","Pantala","Pantala flavescens",FALSE,,,,,,FALSE,TRUE,FALSE,"LC","LC","wandering glider",

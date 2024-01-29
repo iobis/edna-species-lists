@@ -295,6 +295,7 @@
 102862,"Arthropoda","Malacostraca","Amphipoda","Oedicerotidae","Acanthostepheia","Acanthostepheia behringiensis",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"crustaceans"
 102864,"Arthropoda","Malacostraca","Amphipoda","Oedicerotidae","Acanthostepheia","Acanthostepheia malmgreni",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"crustaceans"
 102497,"Arthropoda","Malacostraca","Amphipoda","Acidostomatidae","Acidostoma","Acidostoma obesum",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"crustaceans"
+101881,"Arthropoda","Malacostraca","Amphipoda","Amathillopsidae","Amathillopsis","Amathillopsis spinigera",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"crustaceans"
 102502,"Arthropoda","Malacostraca","Amphipoda","Ambasiidae","Ambasia","Ambasia atlantica",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"crustaceans"
 101883,"Arthropoda","Malacostraca","Amphipoda","Ampeliscidae","Ampelisca","Ampelisca aequicornis",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"crustaceans"
 101896,"Arthropoda","Malacostraca","Amphipoda","Ampeliscidae","Ampelisca","Ampelisca diadema",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"crustaceans"
@@ -677,9 +678,10 @@
 101174,"Chordata","Petromyzonti","Petromyzontiformes","Petromyzontidae","Petromyzon","Petromyzon marinus",FALSE,,,,,,FALSE,TRUE,FALSE,"LC","LC","stone sucker, set-ulls","fish"
 126417,"Chordata","Teleostei","Clupeiformes","Clupeidae","Clupea","Clupea harengus",FALSE,,,,,,FALSE,TRUE,FALSE,"LC","LC","herring, hareng de l'Atlantique","fish"
 126432,"Chordata","Teleostei","Gadiformes","Gadidae","Arctogadus","Arctogadus glacialis",FALSE,,,,,,FALSE,TRUE,FALSE,,,"polar cod, saïda imberbe","fish"
-126433,"Chordata","Teleostei","Gadiformes","Gadidae","Boreogadus","Boreogadus saida",FALSE,1,,,2009,,TRUE,TRUE,FALSE,,,"Arctic cod, morue polaire","fish"
+126433,"Chordata","Teleostei","Gadiformes","Gadidae","Boreogadus","Boreogadus saida",FALSE,2,,,2009,,TRUE,TRUE,FALSE,,,"Arctic cod, morue polaire","fish"
 126448,"Chordata","Teleostei","Gadiformes","Lotidae","Ciliata","Ciliata mustela",FALSE,,,,,,FALSE,TRUE,FALSE,"LC","LC","five-bearded rockling, motelle à cinq barbillons","fish"
 126450,"Chordata","Teleostei","Gadiformes","Lotidae","Enchelyopus","Enchelyopus cimbrius",FALSE,,,,,,FALSE,TRUE,FALSE,"LC","LC","fourbeard rockling, motelle à quatre barbillons","fish"
+126435,"Chordata","Teleostei","Gadiformes","Gadidae","Gadiculus","Gadiculus argenteus",FALSE,,,,,,FALSE,TRUE,FALSE,,,"silvery pout","fish"
 300735,"Chordata","Teleostei","Gadiformes","Gadidae","Gadus","Gadus chalcogrammus",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"fish"
 126436,"Chordata","Teleostei","Gadiformes","Gadidae","Gadus","Gadus morhua",FALSE,,,,,,FALSE,TRUE,FALSE,"VU","VU","cod, morue franche","fish"
 126451,"Chordata","Teleostei","Gadiformes","Lotidae","Gaidropsarus","Gaidropsarus argentatus",FALSE,,,,,,FALSE,TRUE,FALSE,,,"silver rockling, mustèle argentée","fish"
@@ -703,10 +705,11 @@
 126758,"Chordata","Teleostei","Perciformes","Anarhichadidae","Anarhichas","Anarhichas lupus",FALSE,,,,,,FALSE,TRUE,FALSE,,,"catfish, loup marin","fish"
 126759,"Chordata","Teleostei","Perciformes","Anarhichadidae","Anarhichas","Anarhichas minor",FALSE,,,,,,FALSE,TRUE,FALSE,,,"spotted catfish, loup tacheté","fish"
 254511,"Chordata","Teleostei","Perciformes","Anarhichadidae","Anarhichas","Anarhichas orientalis",FALSE,,,,,,FALSE,TRUE,FALSE,,,"Bering wolffish","fish"
-127070,"Chordata","Teleostei","Perciformes","Stichaeidae","Anisarchus","Anisarchus medius",FALSE,3,,,2009,,TRUE,TRUE,FALSE,,,"stout eelblenny, lompénie naine","fish"
+127070,"Chordata","Teleostei","Perciformes","Stichaeidae","Anisarchus","Anisarchus medius",FALSE,4,,,2009,,TRUE,TRUE,FALSE,,,"stout eelblenny, lompénie naine","fish"
 127193,"Chordata","Teleostei","Perciformes","Cottidae","Artediellus","Artediellus atlanticus",FALSE,,,,,,FALSE,TRUE,FALSE,,,"Atlantic hookear sculpin, hameçon atlantique","fish"
 127194,"Chordata","Teleostei","Perciformes","Cottidae","Artediellus","Artediellus scaber",FALSE,,,,,,FALSE,TRUE,FALSE,,,"hamecon","fish"
 309268,"Chordata","Teleostei","Perciformes","Agonidae","Aspidophoroides","Aspidophoroides olrikii",FALSE,,,,,,FALSE,TRUE,FALSE,,,"Arctic alligatorfish","fish"
+398464,"Chordata","Teleostei","Perciformes","Liparidae","Careproctus","Careproctus kidoi",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"fish"
 127071,"Chordata","Teleostei","Perciformes","Stichaeidae","Chirolophis","Chirolophis ascanii",FALSE,,,,,,FALSE,TRUE,FALSE,,,"Atlantic warbonnet, toupet marbré","fish"
 127235,"Chordata","Teleostei","Perciformes","Psychrolutidae","Cottunculus","Cottunculus microps",FALSE,,,,,,FALSE,TRUE,FALSE,,,"polar sculpin, cotte polaire","fish"
 127214,"Chordata","Teleostei","Perciformes","Cyclopteridae","Cyclopterus","Cyclopterus lumpus",FALSE,,,,,,FALSE,TRUE,FALSE,,,"lumpfish, grosse poule de mer","fish"
@@ -718,18 +721,24 @@
 127096,"Chordata","Teleostei","Perciformes","Zoarcidae","Gymnelus","Gymnelus viridis",FALSE,,,,,,FALSE,TRUE,FALSE,,,"fish doctor, unernak caméléon","fish"
 127198,"Chordata","Teleostei","Perciformes","Cottidae","Gymnocanthus","Gymnocanthus tricuspis",FALSE,,,,,,FALSE,TRUE,FALSE,,,"Arctic staghorn sculpin, tricorne arctique","fish"
 127199,"Chordata","Teleostei","Perciformes","Cottidae","Icelus","Icelus bicornis",FALSE,,,,,,FALSE,TRUE,FALSE,,,"twohorn sculpin, icèle à deux cornes","fish"
-127200,"Chordata","Teleostei","Perciformes","Cottidae","Icelus","Icelus spatula",FALSE,2,,,2009,,TRUE,TRUE,FALSE,,,"spatulate sculpin, icèle spatulée","fish"
+127200,"Chordata","Teleostei","Perciformes","Cottidae","Icelus","Icelus spatula",FALSE,4,,,2009,,TRUE,TRUE,FALSE,,,"spatulate sculpin, icèle spatulée","fish"
 127191,"Chordata","Teleostei","Perciformes","Agonidae","Leptagonus","Leptagonus decagonus",FALSE,,,,,,FALSE,TRUE,FALSE,,,"Atlantic poacher, agone atlantique","fish"
-127072,"Chordata","Teleostei","Perciformes","Stichaeidae","Leptoclinus","Leptoclinus maculatus",FALSE,3,,,2009,,TRUE,TRUE,FALSE,,,"daubed shanny, lompénie tachetée","fish"
+127072,"Chordata","Teleostei","Perciformes","Stichaeidae","Leptoclinus","Leptoclinus maculatus",FALSE,4,,,2009,,TRUE,TRUE,FALSE,,,"daubed shanny, lompénie tachetée","fish"
 867958,"Chordata","Teleostei","Perciformes","Liparidae","Liparis","Liparis bathyarcticus",FALSE,,,,,,FALSE,TRUE,FALSE,,,"nebulous snailfish, limace nébuleuse","fish"
-127218,"Chordata","Teleostei","Perciformes","Liparidae","Liparis","Liparis fabricii",FALSE,3,,,2009,,TRUE,TRUE,FALSE,,,"gelatinous seasnail, limace gélaineuse","fish"
+127218,"Chordata","Teleostei","Perciformes","Liparidae","Liparis","Liparis fabricii",FALSE,4,,,2009,,TRUE,TRUE,FALSE,,,"gelatinous seasnail, limace gélaineuse","fish"
 127219,"Chordata","Teleostei","Perciformes","Liparidae","Liparis","Liparis liparis",FALSE,,,,,,FALSE,TRUE,FALSE,"LC","LC","sea-snail, grande limace de mer","fish"
-154825,"Chordata","Teleostei","Perciformes","Liparidae","Liparis","Liparis tunicatus",FALSE,4,,,2009,,TRUE,TRUE,FALSE,,,"kelp snailfish, limace des laminaires","fish"
+154825,"Chordata","Teleostei","Perciformes","Liparidae","Liparis","Liparis tunicatus",FALSE,6,,,2009,,TRUE,TRUE,FALSE,,,"kelp snailfish, limace des laminaires","fish"
 127073,"Chordata","Teleostei","Perciformes","Stichaeidae","Lumpenus","Lumpenus fabricii",FALSE,,,,,,FALSE,TRUE,FALSE,,,"slender eelblenny, lompénie élancée","fish"
 154675,"Chordata","Teleostei","Perciformes","Stichaeidae","Lumpenus","Lumpenus lampretaeformis",FALSE,,,,,,FALSE,TRUE,FALSE,,,"snake blenny, lompénie-serpent","fish"
 127103,"Chordata","Teleostei","Perciformes","Zoarcidae","Lycodes","Lycodes esmarkii",FALSE,,,,,,FALSE,TRUE,FALSE,,,"Esmark's eelpout, lycode d'Esmark","fish"
+127104,"Chordata","Teleostei","Perciformes","Zoarcidae","Lycodes","Lycodes eudipleurostictus",FALSE,,,,,,FALSE,TRUE,FALSE,,,"eel pout","fish"
+274100,"Chordata","Teleostei","Perciformes","Zoarcidae","Lycodes","Lycodes gracilis",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"fish"
+127108,"Chordata","Teleostei","Perciformes","Zoarcidae","Lycodes","Lycodes luetkenii",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"fish"
 254584,"Chordata","Teleostei","Perciformes","Zoarcidae","Lycodes","Lycodes mucosus",FALSE,,,,,,FALSE,TRUE,FALSE,,,"saddled eelpout","fish"
 127111,"Chordata","Teleostei","Perciformes","Zoarcidae","Lycodes","Lycodes polaris",FALSE,,,,,,FALSE,TRUE,FALSE,,,"polar eelpout, lycode polaire","fish"
+127112,"Chordata","Teleostei","Perciformes","Zoarcidae","Lycodes","Lycodes reticulatus",FALSE,,,,,,FALSE,TRUE,FALSE,,,"Arctic eelpout, lycode arctique","fish"
+127115,"Chordata","Teleostei","Perciformes","Zoarcidae","Lycodes","Lycodes seminudus",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"fish"
+127118,"Chordata","Teleostei","Perciformes","Zoarcidae","Lycodes","Lycodes vahlii",FALSE,,,,,,FALSE,TRUE,FALSE,,,"checker eelpout, lycode de Vahl","fish"
 254527,"Chordata","Teleostei","Perciformes","Cottidae","Myoxocephalus","Myoxocephalus jaok",FALSE,,,,,,FALSE,TRUE,FALSE,,,"plain sculpin","fish"
 254529,"Chordata","Teleostei","Perciformes","Cottidae","Myoxocephalus","Myoxocephalus quadricornis",FALSE,,,,,,FALSE,TRUE,FALSE,"LC","LC","fourhorn sculpin, chaboisseau à quatre cornes","fish"
 127203,"Chordata","Teleostei","Perciformes","Cottidae","Myoxocephalus","Myoxocephalus scorpius",FALSE,,,,,,FALSE,TRUE,FALSE,,,"sculpin, chaboisseau","fish"
@@ -741,6 +750,7 @@
 127204,"Chordata","Teleostei","Perciformes","Cottidae","Taurulus","Taurulus bubalis",FALSE,,,,,,FALSE,TRUE,FALSE,"LC","LC","sea scorpion, petit chabot","fish"
 127207,"Chordata","Teleostei","Perciformes","Cottidae","Triglops","Triglops pingelii",FALSE,,,,,,FALSE,TRUE,FALSE,,,"ribbed sculpin, faux-trigle bardé","fish"
 127123,"Chordata","Teleostei","Perciformes","Zoarcidae","Zoarces","Zoarces viviparus",FALSE,,,,,,FALSE,TRUE,FALSE,,,"ocean pout, loquette","fish"
+127136,"Chordata","Teleostei","Pleuronectiformes","Pleuronectidae","Glyptocephalus","Glyptocephalus cynoglossus",FALSE,,,,,,FALSE,TRUE,FALSE,"VU","VU","pole dab, plie grise","fish"
 127137,"Chordata","Teleostei","Pleuronectiformes","Pleuronectidae","Hippoglossoides","Hippoglossoides platessoides",FALSE,,,,,,FALSE,TRUE,FALSE,"EN","EN","Canadian plaice, sole d'Écosse","fish"
 254561,"Chordata","Teleostei","Pleuronectiformes","Pleuronectidae","Hippoglossoides","Hippoglossoides robustus",FALSE,,,,,,FALSE,TRUE,FALSE,"LC","LC","Bering flounder","fish"
 127139,"Chordata","Teleostei","Pleuronectiformes","Pleuronectidae","Limanda","Limanda limanda",FALSE,,,,,,FALSE,TRUE,FALSE,"LC","LC","common dab, limande","fish"
@@ -757,6 +767,8 @@
 437863,"Ascomycota","Eurotiomycetes","Verrucariales","Verrucariaceae","Verrucaria","Verrucaria ceuthocarpa",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"fungi"
 438957,"Ascomycota","Lecanoromycetes","Lecanorales","Mycoblastaceae","Tephromela","Tephromela atra var. atra",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"fungi"
 147709,"Ascomycota","Lecanoromycetes","Teloschistales","Teloschistaceae","Xanthoria","Xanthoria parietina",FALSE,,,,,,FALSE,TRUE,FALSE,,,"common orange lichen","fungi"
+100499,"Ascomycota","Pezizomycotina incertae sedis",,,"Asteromyces","Asteromyces cruciatus",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"fungi"
+438101,"Ascomycota","Sordariomycetes","Microascales","Halosphaeriaceae","Havispora","Havispora longyearbyenensis",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"fungi"
 147651,"Ascomycota","Sordariomycetes","Phyllachorales","Phyllachoraceae","Phycomelaina","Phycomelaina laminariae",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"fungi"
 137078,"Chordata","Mammalia","Carnivora","Phocidae","Cystophora","Cystophora cristata",FALSE,,,,,,FALSE,TRUE,FALSE,"VU","VU","hooded seal, phoques","mammals"
 137079,"Chordata","Mammalia","Carnivora","Phocidae","Erignathus","Erignathus barbatus",FALSE,,,,,,FALSE,TRUE,FALSE,"LC","LC","bearded seal, phoque barbu","mammals"
@@ -1408,6 +1420,7 @@
 129938,"Annelida","Polychaeta","Terebellida","Cirratulidae","Aphelochaeta","Aphelochaeta marioni",FALSE,,,,,,FALSE,TRUE,FALSE,,,"bristleworm","worms"
 1355594,"Annelida","Polychaeta","Terebellida","Flabelligeridae","Bradabyssa","Bradabyssa villosa",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"worms"
 129944,"Annelida","Polychaeta","Terebellida","Cirratulidae","Caulleriella","Caulleriella bioculata",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"worms"
+1729705,"Annelida","Polychaeta","Terebellida","Cirratulidae","Chaetozone","Chaetozone artaspinosa",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"worms"
 129955,"Annelida","Polychaeta","Terebellida","Cirratulidae","Chaetozone","Chaetozone setosa",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"worms"
 129959,"Annelida","Polychaeta","Terebellida","Cirratulidae","Cirratulus","Cirratulus cirratus",FALSE,,,,,,FALSE,TRUE,FALSE,,,"bristleworm","worms"
 238377,"Annelida","Polychaeta","Terebellida","Pectinariidae","Cistenides","Cistenides granulata",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"worms"
@@ -1685,10 +1698,10 @@
 114191,"Foraminifera","Monothalamea","Astrorhizida","Saccamminidae","Saccammina","Saccammina sphaerica",FALSE,,,,,,FALSE,TRUE,FALSE,,,,
 113974,"Foraminifera","Monothalamea","Astrorhizida","Hyperamminidae","Saccorhiza","Saccorhiza ramosa",FALSE,,,,,,FALSE,TRUE,FALSE,,,,
 114215,"Foraminifera","Monothalamea","Astrorhizida","Saccamminidae","Thurammina","Thurammina papillata",FALSE,,,,,,FALSE,TRUE,FALSE,,,,
-1398196,"Foraminifera","Nodosariata","Lagenida","Protonodosariidae","Nodosinelloides","Nodosinelloides aequiampla",FALSE,,,,,,FALSE,TRUE,FALSE,,,,
-1398198,"Foraminifera","Nodosariata","Lagenida","Protonodosariidae","Nodosinelloides","Nodosinelloides netschajewi",FALSE,,,,,,FALSE,TRUE,FALSE,,,,
 1055651,"Foraminifera","Nodosariata","Nodosariida","Syzraniidae","Amphoratheca","Amphoratheca iniqua",FALSE,,,,,,FALSE,TRUE,FALSE,,,,
 113500,"Foraminifera","Nodosariata","Nodosariida","Lagenidae","Lagena","Lagena nebulosa",FALSE,,,,,,FALSE,TRUE,FALSE,,,,
+1398196,"Foraminifera","Nodosariata","Nodosariida","Protonodosariidae","Nodosinelloides","Nodosinelloides aequiampla",FALSE,,,,,,FALSE,TRUE,FALSE,,,,
+1398198,"Foraminifera","Nodosariata","Nodosariida","Protonodosariidae","Nodosinelloides","Nodosinelloides netschajewi",FALSE,,,,,,FALSE,TRUE,FALSE,,,,
 760034,"Foraminifera","Nodosariata","Nodosariida","Lagenidae","Reussoolina","Reussoolina apiculata",FALSE,,,,,,FALSE,TRUE,FALSE,,,,
 1055648,"Foraminifera","Nodosariata","Nodosariida","Syzraniidae","Syzranella","Syzranella arctica",FALSE,,,,,,FALSE,TRUE,FALSE,,,,
 896599,"Foraminifera","Nodosariata","Nodosariida","Syzraniidae","Syzrania","Syzrania bella",FALSE,,,,,,FALSE,TRUE,FALSE,,,,

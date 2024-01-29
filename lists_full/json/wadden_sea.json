@@ -1,5 +1,5 @@
 {
-  "created": "2024-01-18T23:07:17",
+  "created": "2024-01-29T14:11:09",
   "species": [
     {
       "AphiaID": 149387,
@@ -11156,6 +11156,20 @@
       "group": "algae"
     },
     {
+      "AphiaID": 232221,
+      "phylum": "Rhodophyta",
+      "class": "Florideophyceae",
+      "order": "Ceramiales",
+      "family": "Delesseriaceae",
+      "genus": "Dasya",
+      "species": "Dasya sessilis",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "algae"
+    },
+    {
       "AphiaID": 836896,
       "phylum": "Rhodophyta",
       "class": "Florideophyceae",
@@ -11855,7 +11869,7 @@
       "remove": false,
       "records": 2,
       "source_obis": true,
-      "source_gbif": false,
+      "source_gbif": true,
       "source_dna": false,
       "group": "algae"
     },
@@ -11935,6 +11949,20 @@
       "group": "algae"
     },
     {
+      "AphiaID": 145677,
+      "phylum": "Rhodophyta",
+      "class": "Florideophyceae",
+      "order": "Gigartinales",
+      "family": "Solieriaceae",
+      "genus": "Agardhiella",
+      "species": "Agardhiella subulata",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "algae"
+    },
+    {
       "AphiaID": 145613,
       "phylum": "Rhodophyta",
       "class": "Florideophyceae",
@@ -11975,6 +12003,20 @@
       "remove": false,
       "records": 2,
       "source_obis": true,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "algae"
+    },
+    {
+      "AphiaID": 496188,
+      "phylum": "Rhodophyta",
+      "class": "Florideophyceae",
+      "order": "Gigartinales",
+      "family": "Caulacanthaceae",
+      "genus": "Caulacanthus",
+      "species": "Caulacanthus okamurae",
+      "remove": false,
+      "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
       "group": "algae"
@@ -17903,7 +17945,7 @@
       "phylum": "Ctenophora",
       "class": "Tentaculata",
       "order": "Cydippida",
-      "family": "Pleurobrachiidae",
+      "family": "Cydippidae",
       "genus": "Hormiphora",
       "species": "Hormiphora cucumis",
       "remove": false,
@@ -18245,6 +18287,20 @@
       "source_obis": true,
       "source_gbif": true,
       "source_dna": true,
+      "group": "copepods"
+    },
+    {
+      "AphiaID": 115732,
+      "phylum": "Arthropoda",
+      "class": "Copepoda",
+      "order": "Canuelloida",
+      "family": "Canuellidae",
+      "genus": "Sunaristes",
+      "species": "Sunaristes paguri",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
       "group": "copepods"
     },
     {
@@ -18621,6 +18677,20 @@
       "group": "copepods"
     },
     {
+      "AphiaID": 116418,
+      "phylum": "Arthropoda",
+      "class": "Copepoda",
+      "order": "Harpacticoida",
+      "family": "Paramesochridae",
+      "genus": "Diarthrodella",
+      "species": "Diarthrodella secunda",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "copepods"
+    },
+    {
       "AphiaID": 116886,
       "phylum": "Arthropoda",
       "class": "Copepoda",
@@ -18632,7 +18702,7 @@
       "records": 1,
       "max_year": 1986,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "group": "copepods"
     },
@@ -19137,6 +19207,20 @@
       "group": "copepods"
     },
     {
+      "AphiaID": 116351,
+      "phylum": "Arthropoda",
+      "class": "Copepoda",
+      "order": "Harpacticoida",
+      "family": "Leptastacidae",
+      "genus": "Paraleptastacus",
+      "species": "Paraleptastacus spinicauda",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "copepods"
+    },
+    {
       "AphiaID": 359891,
       "phylum": "Arthropoda",
       "class": "Copepoda",
@@ -19148,7 +19232,7 @@
       "records": 1,
       "max_year": 1986,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "group": "copepods"
     },
@@ -19181,6 +19265,20 @@
       "group": "copepods"
     },
     {
+      "AphiaID": 116437,
+      "phylum": "Arthropoda",
+      "class": "Copepoda",
+      "order": "Harpacticoida",
+      "family": "Paramesochridae",
+      "genus": "Paramesochra",
+      "species": "Paramesochra helgolandica",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "copepods"
+    },
+    {
       "AphiaID": 116894,
       "phylum": "Arthropoda",
       "class": "Copepoda",
@@ -19192,7 +19290,7 @@
       "records": 1,
       "max_year": 1986,
       "source_obis": true,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": false,
       "group": "copepods"
     },
@@ -19383,12 +19481,26 @@
       "species": "Tachidius (Tachidius) discipes",
       "remove": false,
       "records": 85,
-      "reads": 44432,
-      "asvs": 13,
       "max_year": 2004,
-      "target_gene": "COI",
       "source_obis": true,
       "source_gbif": true,
+      "source_dna": false,
+      "group": "copepods"
+    },
+    {
+      "AphiaID": 157725,
+      "phylum": "Arthropoda",
+      "class": "Copepoda",
+      "order": "Harpacticoida",
+      "family": "Tachidiidae",
+      "genus": "Tachidius",
+      "species": "Tachidius discipes",
+      "remove": false,
+      "reads": 44432,
+      "asvs": 13,
+      "target_gene": "COI",
+      "source_obis": false,
+      "source_gbif": false,
       "source_dna": true,
       "group": "copepods"
     },
@@ -19501,20 +19613,6 @@
       "max_year": 2004,
       "source_obis": true,
       "source_gbif": false,
-      "source_dna": false,
-      "group": "copepods"
-    },
-    {
-      "AphiaID": 115732,
-      "phylum": "Arthropoda",
-      "class": "Copepoda",
-      "order": "Polyarthra",
-      "family": "Canuellidae",
-      "genus": "Sunaristes",
-      "species": "Sunaristes paguri",
-      "remove": false,
-      "source_obis": false,
-      "source_gbif": true,
       "source_dna": false,
       "group": "copepods"
     },
@@ -24069,6 +24167,48 @@
       "group": "echinoderms"
     },
     {
+      "AphiaID": 124398,
+      "phylum": "Echinodermata",
+      "class": "Echinoidea",
+      "order": "Spatangoida",
+      "family": "Loveniidae",
+      "genus": "Echinocardium",
+      "species": "Echinocardium laevigaster",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "echinoderms"
+    },
+    {
+      "AphiaID": 124400,
+      "phylum": "Echinodermata",
+      "class": "Echinoidea",
+      "order": "Spatangoida",
+      "family": "Loveniidae",
+      "genus": "Echinocardium",
+      "species": "Echinocardium mortenseni",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "echinoderms"
+    },
+    {
+      "AphiaID": 124402,
+      "phylum": "Echinodermata",
+      "class": "Echinoidea",
+      "order": "Spatangoida",
+      "family": "Loveniidae",
+      "genus": "Echinocardium",
+      "species": "Echinocardium pennatifidum",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "echinoderms"
+    },
+    {
       "AphiaID": 124418,
       "phylum": "Echinodermata",
       "class": "Echinoidea",
@@ -24910,7 +25050,7 @@
       "genus": "Anguilla",
       "species": "Anguilla anguilla",
       "remove": false,
-      "records": 8691,
+      "records": 8692,
       "reads": 100084,
       "asvs": 22,
       "max_year": 2013,
@@ -25032,7 +25172,7 @@
       "genus": "Belone",
       "species": "Belone belone",
       "remove": false,
-      "records": 12899,
+      "records": 12900,
       "max_year": 2013,
       "source_obis": true,
       "source_gbif": true,
@@ -25374,7 +25514,7 @@
       "genus": "Alosa",
       "species": "Alosa chrysochloris",
       "remove": false,
-      "records": 2,
+      "records": 3,
       "source_obis": true,
       "source_gbif": true,
       "source_dna": false,
@@ -25580,7 +25720,7 @@
       "genus": "Sprattus",
       "species": "Sprattus sprattus",
       "remove": false,
-      "records": 5902,
+      "records": 5903,
       "reads": 3624477,
       "asvs": 237,
       "max_year": 2021,
@@ -25850,7 +25990,7 @@
       "genus": "Misgurnus",
       "species": "Misgurnus fossilis",
       "remove": false,
-      "records": 2,
+      "records": 3,
       "source_obis": true,
       "source_gbif": true,
       "source_dna": false,
@@ -26825,7 +26965,7 @@
       "remove": false,
       "records": 1,
       "source_obis": true,
-      "source_gbif": false,
+      "source_gbif": true,
       "source_dna": false,
       "category": "LC",
       "redlist_category": "LC",
@@ -27357,7 +27497,7 @@
       "genus": "Osmerus",
       "species": "Osmerus eperlanus",
       "remove": false,
-      "records": 2463,
+      "records": 2465,
       "reads": 207417,
       "asvs": 73,
       "max_year": 2013,
@@ -27379,7 +27519,7 @@
       "genus": "Agonus",
       "species": "Agonus cataphractus",
       "remove": false,
-      "records": 1326,
+      "records": 1329,
       "max_year": 2013,
       "source_obis": true,
       "source_gbif": true,
@@ -27398,8 +27538,8 @@
       "genus": "Ammodytes",
       "species": "Ammodytes marinus",
       "remove": false,
-      "records": 53,
-      "max_year": 2011,
+      "records": 61,
+      "max_year": 2016,
       "source_obis": true,
       "source_gbif": true,
       "source_dna": false,
@@ -27433,7 +27573,7 @@
       "genus": "Ammodytes",
       "species": "Ammodytes tobianus",
       "remove": false,
-      "records": 486,
+      "records": 487,
       "reads": 125,
       "asvs": 1,
       "max_year": 2011,
@@ -27542,7 +27682,7 @@
       "genus": "Chelidonichthys",
       "species": "Chelidonichthys lucerna",
       "remove": false,
-      "records": 1177,
+      "records": 1178,
       "max_year": 2013,
       "source_obis": true,
       "source_gbif": true,
@@ -27662,7 +27802,7 @@
       "genus": "Eutrigla",
       "species": "Eutrigla gurnardus",
       "remove": false,
-      "records": 85,
+      "records": 86,
       "max_year": 2013,
       "source_obis": true,
       "source_gbif": true,
@@ -27701,7 +27841,7 @@
       "genus": "Gymnocephalus",
       "species": "Gymnocephalus cernua",
       "remove": false,
-      "records": 32,
+      "records": 34,
       "max_year": 2010,
       "source_obis": true,
       "source_gbif": true,
@@ -27754,10 +27894,10 @@
       "genus": "Hyperoplus",
       "species": "Hyperoplus lanceolatus",
       "remove": false,
-      "records": 892,
+      "records": 896,
       "reads": 5293,
       "asvs": 6,
-      "max_year": 2013,
+      "max_year": 2016,
       "target_gene": "16S",
       "source_obis": true,
       "source_gbif": true,
@@ -27911,7 +28051,7 @@
       "genus": "Perca",
       "species": "Perca fluviatilis",
       "remove": false,
-      "records": 52,
+      "records": 53,
       "reads": 759,
       "asvs": 6,
       "max_year": 2004,
@@ -27971,7 +28111,7 @@
       "genus": "Pungitius",
       "species": "Pungitius pungitius",
       "remove": false,
-      "records": 3,
+      "records": 4,
       "reads": 45,
       "asvs": 1,
       "target_gene": "16S",
@@ -28014,7 +28154,7 @@
       "genus": "Scorpaena",
       "species": "Scorpaena notata",
       "remove": false,
-      "records": 2,
+      "records": 4,
       "source_obis": true,
       "source_gbif": false,
       "source_dna": false,
@@ -28031,7 +28171,7 @@
       "genus": "Scorpaena",
       "species": "Scorpaena porcus",
       "remove": false,
-      "records": 2,
+      "records": 4,
       "source_obis": true,
       "source_gbif": false,
       "source_dna": false,
@@ -28083,7 +28223,7 @@
       "genus": "Serranus",
       "species": "Serranus scriba",
       "remove": false,
-      "records": 1,
+      "records": 2,
       "source_obis": true,
       "source_gbif": false,
       "source_dna": false,
@@ -28101,7 +28241,7 @@
       "genus": "Spinachia",
       "species": "Spinachia spinachia",
       "remove": false,
-      "records": 15,
+      "records": 16,
       "max_year": 2005,
       "source_obis": true,
       "source_gbif": true,
@@ -28329,7 +28469,7 @@
       "genus": "Platichthys",
       "species": "Platichthys flesus",
       "remove": false,
-      "records": 40828,
+      "records": 40830,
       "reads": 112522,
       "asvs": 17,
       "max_year": 2013,
@@ -30799,6 +30939,21 @@
       "group": "molluscs"
     },
     {
+      "AphiaID": 140736,
+      "phylum": "Mollusca",
+      "class": "Bivalvia",
+      "order": "Adapedonta",
+      "family": "Pharidae",
+      "genus": "Pharus",
+      "species": "Pharus legumen",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "vernacular": "bean razor clam",
+      "group": "molluscs"
+    },
+    {
       "AphiaID": 140737,
       "phylum": "Mollusca",
       "class": "Bivalvia",
@@ -32660,6 +32815,23 @@
       "group": "molluscs"
     },
     {
+      "AphiaID": 140270,
+      "phylum": "Mollusca",
+      "class": "Cephalopoda",
+      "order": "Myopsida",
+      "family": "Loliginidae",
+      "genus": "Loligo",
+      "species": "Loligo forbesii",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "category": "LC",
+      "redlist_category": "LC",
+      "vernacular": "veined squid, encornet veiné",
+      "group": "molluscs"
+    },
+    {
       "AphiaID": 140271,
       "phylum": "Mollusca",
       "class": "Cephalopoda",
@@ -32880,6 +33052,20 @@
       "records": 1,
       "max_year": 1986,
       "source_obis": true,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "molluscs"
+    },
+    {
+      "AphiaID": 140743,
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Cephalaspidea",
+      "family": "Philinidae",
+      "genus": "Philine",
+      "species": "Philine angulata",
+      "remove": false,
+      "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
       "group": "molluscs"
@@ -35490,6 +35676,20 @@
       "group": "moss animals"
     },
     {
+      "AphiaID": 395061,
+      "phylum": "Bryozoa",
+      "class": "Gymnolaemata",
+      "order": "Cheilostomatida",
+      "family": "Candidae",
+      "genus": "Tricellaria",
+      "species": "Tricellaria occidentalis",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "moss animals"
+    },
+    {
       "AphiaID": 468026,
       "phylum": "Bryozoa",
       "class": "Gymnolaemata",
@@ -36034,6 +36234,20 @@
       "source_gbif": true,
       "source_dna": false,
       "vernacular": "baked-bean ascidian",
+      "group": "sea squirts"
+    },
+    {
+      "AphiaID": 236666,
+      "phylum": "Chordata",
+      "class": "Ascidiacea",
+      "order": "Stolidobranchia",
+      "family": "Pyuridae",
+      "genus": "Microcosmus",
+      "species": "Microcosmus squamiger",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
       "group": "sea squirts"
     },
     {
@@ -41833,8 +42047,22 @@
       "asvs": 1,
       "target_gene": "COI",
       "source_obis": false,
-      "source_gbif": false,
+      "source_gbif": true,
       "source_dna": true,
+      "group": "worms"
+    },
+    {
+      "AphiaID": 130642,
+      "phylum": "Annelida",
+      "class": "Polychaeta",
+      "order": "Phyllodocida",
+      "family": "Phyllodocidae",
+      "genus": "Eumida",
+      "species": "Eumida ockelmanni",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
       "group": "worms"
     },
     {
@@ -42278,7 +42506,7 @@
       "records": 9,
       "max_year": 2010,
       "source_obis": true,
-      "source_gbif": false,
+      "source_gbif": true,
       "source_dna": false,
       "group": "worms"
     },
@@ -42387,7 +42615,7 @@
       "records": 7,
       "max_year": 2016,
       "source_obis": true,
-      "source_gbif": false,
+      "source_gbif": true,
       "source_dna": false,
       "group": "worms"
     },
@@ -42600,7 +42828,7 @@
       "records": 66,
       "max_year": 2014,
       "source_obis": true,
-      "source_gbif": false,
+      "source_gbif": true,
       "source_dna": false,
       "group": "worms"
     },
@@ -42841,7 +43069,7 @@
       "remove": false,
       "records": 1,
       "source_obis": true,
-      "source_gbif": false,
+      "source_gbif": true,
       "source_dna": false,
       "group": "worms"
     },
@@ -44460,6 +44688,20 @@
       "group": "worms"
     },
     {
+      "AphiaID": 122817,
+      "phylum": "Nemertea",
+      "class": "Hoplonemertea",
+      "order": "Monostilifera",
+      "family": "Oerstediidae",
+      "genus": "Oerstedia",
+      "species": "Oerstedia dorsalis",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "worms"
+    },
+    {
       "AphiaID": 573286,
       "phylum": "Nemertea",
       "class": "Palaeonemertea",
@@ -44555,6 +44797,19 @@
       "family": "Acidimicrobiaceae",
       "genus": "Ilumatobacter",
       "species": "Ilumatobacter fluminis",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false
+    },
+    {
+      "AphiaID": 1726879,
+      "phylum": "Actinobacteria",
+      "class": "Actinobacteria",
+      "order": "Actinomycetales",
+      "family": "Micrococcaceae",
+      "genus": "Nesterenkonia",
+      "species": "Nesterenkonia flava",
       "remove": false,
       "source_obis": false,
       "source_gbif": true,
@@ -45654,6 +45909,19 @@
       "source_dna": false
     },
     {
+      "AphiaID": 493423,
+      "phylum": "Arthropoda",
+      "class": "Hexapoda",
+      "order": "Diptera",
+      "family": "Canacidae",
+      "genus": "Pelomyiella",
+      "species": "Pelomyiella mallochi",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false
+    },
+    {
       "AphiaID": 151067,
       "phylum": "Arthropoda",
       "class": "Hexapoda",
@@ -45899,6 +46167,19 @@
       "family": "Corixidae",
       "genus": "Paracorixa",
       "species": "Paracorixa concinna",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false
+    },
+    {
+      "AphiaID": 503319,
+      "phylum": "Arthropoda",
+      "class": "Hexapoda",
+      "order": "Hemiptera",
+      "family": "Delphacidae",
+      "genus": "Prokelisia",
+      "species": "Prokelisia marginata",
       "remove": false,
       "source_obis": false,
       "source_gbif": true,
@@ -47361,7 +47642,7 @@
       "genus": "Acipenser",
       "species": "Acipenser sturio",
       "remove": false,
-      "records": 3,
+      "records": 4,
       "source_obis": true,
       "source_gbif": true,
       "source_dna": false,
@@ -49874,6 +50155,18 @@
       "family": "Mariplanellidae",
       "genus": "Mariplanella",
       "species": "Mariplanella frisia",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false
+    },
+    {
+      "AphiaID": 417036,
+      "phylum": "Platyhelminthes",
+      "order": "Polycladida",
+      "family": "Stylochidae",
+      "genus": "Stylochus",
+      "species": "Stylochus ellipticus",
       "remove": false,
       "source_obis": false,
       "source_gbif": true,
@@ -52794,6 +53087,19 @@
       "vernacular": "ivy-leaved duckweed"
     },
     {
+      "AphiaID": 669496,
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Alismatales",
+      "family": "Zosteraceae",
+      "genus": "Nanozostera",
+      "species": "Nanozostera noltei",
+      "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false
+    },
+    {
       "AphiaID": 145794,
       "phylum": "Tracheophyta",
       "class": "Magnoliopsida",
@@ -54492,16 +54798,6 @@
   "stats": {
     "samples": [
       {
-        "locality": "Hjertig",
-        "materialSampleID": "EE0090",
-        "reads": 782482,
-        "asvs": 528,
-        "decimalLongitude": 8.3486,
-        "decimalLatitude": 55.5278,
-        "sampleSize": 1200,
-        "species": 4
-      },
-      {
         "locality": "Hjerting sejlklub",
         "materialSampleID": "EE0071",
         "reads": 439,
@@ -54540,16 +54836,6 @@
         "decimalLatitude": 55.5277,
         "sampleSize": 1200,
         "species": 7
-      },
-      {
-        "locality": "Tidal creek, river Elbe estuary, island Neuwerk",
-        "materialSampleID": "EE0088",
-        "reads": 437591,
-        "asvs": 1260,
-        "decimalLongitude": 8.487,
-        "decimalLatitude": 53.9164,
-        "sampleSize": 1320,
-        "species": 27
       },
       {
         "locality": "Tidal creek, river elbe estuary",
@@ -54613,14 +54899,6 @@
       },
       {
         "locality": "Tidal creek, river elbe estuary, Island Neuwerk",
-        "materialSampleID": "EE0225",
-        "reads": 274471,
-        "asvs": 1220,
-        "sampleSize": 900,
-        "species": 23
-      },
-      {
-        "locality": "Tidal creek, river elbe estuary, Island Neuwerk",
         "materialSampleID": "EE0226",
         "reads": 204480,
         "asvs": 4471,
@@ -54628,14 +54906,6 @@
         "decimalLatitude": 53.9175,
         "sampleSize": 1200,
         "species": 95
-      },
-      {
-        "locality": "Wadden Sea",
-        "materialSampleID": "EE0073",
-        "reads": 161303,
-        "asvs": 1016,
-        "sampleSize": 1380,
-        "species": 27
       },
       {
         "locality": "Wadden Sea",
@@ -54686,16 +54956,6 @@
         "decimalLatitude": 52.9612,
         "sampleSize": 1560,
         "species": 3
-      },
-      {
-        "locality": "Wadden Sea",
-        "materialSampleID": "EE0529",
-        "reads": 214484,
-        "asvs": 611,
-        "decimalLongitude": 4.9988,
-        "decimalLatitude": 52.9612,
-        "sampleSize": 1500,
-        "species": 11
       },
       {
         "locality": "Wadden Sea; NL",
@@ -54827,24 +55087,6 @@
       },
       {
         "locality": "Wilhelmshaven",
-        "materialSampleID": "EE0089",
-        "reads": 295544,
-        "asvs": 1059,
-        "decimalLongitude": 8.1529,
-        "decimalLatitude": 53.5133,
-        "sampleSize": 1500,
-        "species": 18
-      },
-      {
-        "locality": "Wilhelmshaven",
-        "materialSampleID": "EE0193",
-        "reads": 196679,
-        "asvs": 1269,
-        "sampleSize": 1400,
-        "species": 19
-      },
-      {
-        "locality": "Wilhelmshaven",
         "materialSampleID": "EE0210",
         "reads": 144144,
         "asvs": 340,
@@ -54874,6 +55116,36 @@
         "asvs": 4456,
         "sampleSize": 1800,
         "species": 71
+      },
+      {
+        "materialSampleID": "EE0073",
+        "reads": 161303,
+        "asvs": 1016,
+        "species": 27
+      },
+      {
+        "materialSampleID": "EE0088",
+        "reads": 437591,
+        "asvs": 1260,
+        "species": 27
+      },
+      {
+        "materialSampleID": "EE0089",
+        "reads": 295544,
+        "asvs": 1059,
+        "species": 18
+      },
+      {
+        "materialSampleID": "EE0090",
+        "reads": 782482,
+        "asvs": 528,
+        "species": 4
+      },
+      {
+        "materialSampleID": "EE0193",
+        "reads": 196679,
+        "asvs": 1269,
+        "species": 19
       },
       {
         "materialSampleID": "EE0196",
@@ -54910,6 +55182,18 @@
         "decimalLatitude": 55.5317,
         "sampleSize": 1850,
         "species": 113
+      },
+      {
+        "materialSampleID": "EE0225",
+        "reads": 274471,
+        "asvs": 1220,
+        "species": 23
+      },
+      {
+        "materialSampleID": "EE0529",
+        "reads": 214484,
+        "asvs": 611,
+        "species": 11
       },
       {
         "materialSampleID": "INC2",
@@ -55468,27 +55752,22 @@
       {
         "family": "Bovidae",
         "pcr_primer_name_forward": "MiFish-UE-F",
-        "reads": 278527
+        "reads": 226
       },
       {
         "family": "Bovidae",
         "pcr_primer_name_forward": "MiMammal-UEB-F",
-        "reads": 276543
+        "reads": 277
       },
       {
         "family": "Bovidae",
         "pcr_primer_name_forward": "Vert-16S-eDNA-F1",
-        "reads": 170374
-      },
-      {
-        "family": "Bovidae",
-        "pcr_primer_name_forward": "mlCOIintF",
-        "reads": 976
+        "reads": 760
       },
       {
         "family": "Bovidae",
         "pcr_primer_name_forward": "teleo_F_L1848",
-        "reads": 1827
+        "reads": 366
       },
       {
         "family": "Bufonidae",
@@ -55538,27 +55817,12 @@
       {
         "family": "Canidae",
         "pcr_primer_name_forward": "MiFish-UE-F",
-        "reads": 44938
+        "reads": 599
       },
       {
         "family": "Canidae",
         "pcr_primer_name_forward": "MiMammal-UEB-F",
-        "reads": 45048
-      },
-      {
-        "family": "Canidae",
-        "pcr_primer_name_forward": "Vert-16S-eDNA-F1",
-        "reads": 9599
-      },
-      {
-        "family": "Canidae",
-        "pcr_primer_name_forward": "mlCOIintF",
-        "reads": 39
-      },
-      {
-        "family": "Canidae",
-        "pcr_primer_name_forward": "teleo_F_L1848",
-        "reads": 438
+        "reads": 4775
       },
       {
         "family": "Capitellidae",
@@ -56113,22 +56377,17 @@
       {
         "family": "Felidae",
         "pcr_primer_name_forward": "MiFish-UE-F",
-        "reads": 6227
+        "reads": 1318
       },
       {
         "family": "Felidae",
         "pcr_primer_name_forward": "MiMammal-UEB-F",
-        "reads": 6221
+        "reads": 1330
       },
       {
         "family": "Felidae",
         "pcr_primer_name_forward": "Vert-16S-eDNA-F1",
-        "reads": 694
-      },
-      {
-        "family": "Felidae",
-        "pcr_primer_name_forward": "teleo_F_L1848",
-        "reads": 68
+        "reads": 8
       },
       {
         "family": "Ferrimonadaceae",
@@ -56378,27 +56637,22 @@
       {
         "family": "Hominidae",
         "pcr_primer_name_forward": "MiFish-UE-F",
-        "reads": 11494722
+        "reads": 76446
       },
       {
         "family": "Hominidae",
         "pcr_primer_name_forward": "MiMammal-UEB-F",
-        "reads": 11350824
+        "reads": 71498
       },
       {
         "family": "Hominidae",
         "pcr_primer_name_forward": "Vert-16S-eDNA-F1",
-        "reads": 3310681
-      },
-      {
-        "family": "Hominidae",
-        "pcr_primer_name_forward": "mlCOIintF",
-        "reads": 31766
+        "reads": 1307
       },
       {
         "family": "Hominidae",
         "pcr_primer_name_forward": "teleo_F_L1848",
-        "reads": 10128995
+        "reads": 357742
       },
       {
         "family": "Hydractiniidae",
@@ -57188,27 +57442,22 @@
       {
         "family": "Phasianidae",
         "pcr_primer_name_forward": "MiFish-UE-F",
-        "reads": 208179
+        "reads": 4036
       },
       {
         "family": "Phasianidae",
         "pcr_primer_name_forward": "MiMammal-UEB-F",
-        "reads": 161785
+        "reads": 4334
       },
       {
         "family": "Phasianidae",
         "pcr_primer_name_forward": "Vert-16S-eDNA-F1",
-        "reads": 26741
-      },
-      {
-        "family": "Phasianidae",
-        "pcr_primer_name_forward": "mlCOIintF",
-        "reads": 64
+        "reads": 153
       },
       {
         "family": "Phasianidae",
         "pcr_primer_name_forward": "teleo_F_L1848",
-        "reads": 30604
+        "reads": 29845
       },
       {
         "family": "Phocidae",
@@ -57786,31 +58035,6 @@
         "reads": 6
       },
       {
-        "family": "Suidae",
-        "pcr_primer_name_forward": "MiFish-UE-F",
-        "reads": 141870
-      },
-      {
-        "family": "Suidae",
-        "pcr_primer_name_forward": "MiMammal-UEB-F",
-        "reads": 140513
-      },
-      {
-        "family": "Suidae",
-        "pcr_primer_name_forward": "Vert-16S-eDNA-F1",
-        "reads": 142115
-      },
-      {
-        "family": "Suidae",
-        "pcr_primer_name_forward": "mlCOIintF",
-        "reads": 660
-      },
-      {
-        "family": "Suidae",
-        "pcr_primer_name_forward": "teleo_F_L1848",
-        "reads": 1947
-      },
-      {
         "family": "Synchaetidae",
         "pcr_primer_name_forward": "MiFish-UE-F",
         "reads": 6
@@ -58172,24 +58396,24 @@
       }
     ],
     "groups": {
-        "algae": 820,
+        "algae": 823,
         "amphibians": 1,
         "birds": 195,
         "cnidarians": 113,
-        "copepods": 100,
+        "copepods": 104,
         "crustaceans": 267,
-        "echinoderms": 36,
+        "echinoderms": 39,
         "fish": 252,
         "fungi": 58,
         "horseshoe worms": 3,
         "mammals": 34,
-        "molluscs": 281,
-        "moss animals": 53,
-        "sea squirts": 14,
+        "molluscs": 284,
+        "moss animals": 54,
+        "sea squirts": 15,
         "sponges": 15,
         "turtles": 2,
         "unicellular": 280,
-        "worms": 239
+        "worms": 241
       },
     "groups_edna": {
         "algae": 67,
@@ -58210,8 +58434,8 @@
       },
     "source": {
       "obis": 2059,
-      "gbif": 2396,
-      "db": 3371,
+      "gbif": 2421,
+      "db": 3393,
       "edna": 370,
       "both": 226
     }

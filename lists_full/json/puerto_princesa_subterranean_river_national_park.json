@@ -1,5 +1,5 @@
 {
-  "created": "2024-01-18T23:07:08",
+  "created": "2024-01-29T14:11:01",
   "species": [
     {
       "AphiaID": 145984,
@@ -1764,7 +1764,7 @@
       "genus": "Sphyraena",
       "species": "Sphyraena barracuda",
       "remove": false,
-      "records": 2,
+      "records": 3,
       "max_year": 1948,
       "source_obis": true,
       "source_gbif": false,
@@ -1864,7 +1864,7 @@
       "genus": "Lutjanus",
       "species": "Lutjanus decussatus",
       "remove": false,
-      "records": 2,
+      "records": 3,
       "source_obis": true,
       "source_gbif": false,
       "source_dna": false,
@@ -1974,17 +1974,20 @@
       "group": "fish"
     },
     {
-      "AphiaID": 277516,
+      "AphiaID": 209403,
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Kurtiformes",
       "family": "Apogonidae",
       "genus": "Fowleria",
-      "species": "Fowleria punctulata",
+      "species": "Fowleria variegata",
       "remove": false,
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
+      "category": "LC",
+      "redlist_category": "LC",
+      "vernacular": "variegated cardinalfish",
       "group": "fish"
     },
     {
