@@ -108,7 +108,8 @@ for (annotations_file in annotations_files) {
   # replace
   
   aphiaid_replace <- annotations %>%
-    filter(!is.na(new_AphiaID))
+    filter(!is.na(new_AphiaID)) %>%
+    mutate(new_AphiaID = as.numeric(str_trim(new_AphiaID)))
   message(glue("Replacing {nrow(aphiaid_replace)} species"))
   
   aphiaid_replace_batches <- split(aphiaid_replace$new_AphiaID, as.integer((seq_along(aphiaid_replace$new_AphiaID) - 1) / 50))
