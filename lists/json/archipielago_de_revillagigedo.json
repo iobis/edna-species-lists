@@ -1,5 +1,5 @@
 {
-  "created": "2024-01-29T14:10:39",
+  "created": "2024-01-29T14:45:21",
   "species": [
     {
       "AphiaID": 149004,
@@ -265,7 +265,7 @@
       "genus": "Bathycoccus",
       "species": "Bathycoccus prasinos",
       "remove": false,
-      "reads": 121,
+      "reads": 120,
       "asvs": 2,
       "target_gene": "COI",
       "source_obis": false,
@@ -570,7 +570,7 @@
       "genus": "Pelagomonas",
       "species": "Pelagomonas calceolata",
       "remove": false,
-      "reads": 175435,
+      "reads": 175421,
       "asvs": 17,
       "target_gene": "12S;16S;COI",
       "source_obis": false,
@@ -1090,9 +1090,9 @@
       "genus": "Sula",
       "species": "Sula sula",
       "remove": false,
-      "reads": 905,
-      "asvs": 7,
-      "target_gene": "12S;16S;COI",
+      "reads": 216,
+      "asvs": 1,
+      "target_gene": "16S",
       "source_obis": false,
       "source_gbif": true,
       "source_dna": true,
@@ -1667,7 +1667,7 @@
       "genus": "Clausocalanus",
       "species": "Clausocalanus furcatus",
       "remove": false,
-      "reads": 545905,
+      "reads": 545904,
       "asvs": 51,
       "target_gene": "16S;COI",
       "source_obis": false,
@@ -2919,7 +2919,7 @@
       "species": "Acanthurus nigricans",
       "remove": false,
       "records": 64,
-      "reads": 5511,
+      "reads": 5509,
       "asvs": 10,
       "max_year": 2018,
       "target_gene": "12S;COI",
@@ -3834,7 +3834,7 @@
       "species": "Seriola lalandi",
       "remove": false,
       "records": 4,
-      "reads": 18334,
+      "reads": 18324,
       "asvs": 14,
       "target_gene": "16S;COI",
       "source_obis": true,
@@ -4027,7 +4027,7 @@
       "species": "Kyphosus vaigiensis",
       "remove": false,
       "records": 10,
-      "reads": 15251,
+      "reads": 15247,
       "asvs": 12,
       "max_year": 1955,
       "target_gene": "12S;16S",
@@ -4233,7 +4233,7 @@
       "genus": "Eucinostomus",
       "species": "Eucinostomus melanopterus",
       "remove": false,
-      "reads": 14,
+      "reads": 13,
       "asvs": 1,
       "target_gene": "12S",
       "source_obis": false,
@@ -4403,7 +4403,7 @@
       "genus": "Lutjanus",
       "species": "Lutjanus argentimaculatus",
       "remove": false,
-      "reads": 10,
+      "reads": 8,
       "asvs": 2,
       "target_gene": "12S",
       "source_obis": false,
@@ -4487,7 +4487,7 @@
       "species": "Stethojulis bandanensis",
       "remove": false,
       "records": 4,
-      "reads": 32755,
+      "reads": 32754,
       "asvs": 18,
       "target_gene": "12S;16S;COI",
       "source_obis": true,
@@ -4879,7 +4879,7 @@
       "genus": "Mugil",
       "species": "Mugil cephalus",
       "remove": false,
-      "reads": 92,
+      "reads": 90,
       "asvs": 1,
       "target_gene": "12S",
       "source_obis": false,
@@ -4900,7 +4900,7 @@
       "species": "Mugil curema",
       "remove": false,
       "records": 28,
-      "reads": 22,
+      "reads": 20,
       "asvs": 1,
       "max_year": 1974,
       "target_gene": "12S",
@@ -5519,7 +5519,7 @@
       "genus": "Oncorhynchus",
       "species": "Oncorhynchus kisutch",
       "remove": false,
-      "reads": 479,
+      "reads": 477,
       "asvs": 4,
       "target_gene": "12S",
       "source_obis": false,
@@ -6328,7 +6328,7 @@
       "species": "Tursiops truncatus",
       "remove": false,
       "records": 30,
-      "reads": 44586,
+      "reads": 44584,
       "asvs": 20,
       "max_year": 2006,
       "target_gene": "12S;16S",
@@ -7213,8 +7213,8 @@
       "genus": "Cafeteria",
       "species": "Cafeteria roenbergensis",
       "remove": false,
-      "reads": 116673,
-      "asvs": 6,
+      "reads": 116624,
+      "asvs": 5,
       "target_gene": "12S;16S;COI",
       "source_obis": false,
       "source_gbif": false,
@@ -7466,54 +7466,42 @@
         "decimalLatitude": 18.9917,
         "sampleSize": 1800,
         "species": 58
-      },
-      {
-        "materialSampleID": "EE0133",
-        "reads": 530063,
-        "asvs": 505,
-        "species": 12
-      },
-      {
-        "materialSampleID": "ME-22",
-        "reads": 26476,
-        "asvs": 199,
-        "species": 5
       }
     ],
     "dna": {
-        "reads": 26595748,
-        "asvs": 31677
+        "reads": 26039209,
+        "asvs": 31643
       },
     "markers": [
       {
         "pcr_primer_name_forward": "MiFish-UE-F",
-        "reads": 3516841,
+        "reads": 3462072,
         "species": 93,
-        "asvs": 4243
+        "asvs": 4233
       },
       {
         "pcr_primer_name_forward": "MiMammal-UEB-F",
-        "reads": 3700297,
-        "species": 130,
-        "asvs": 4368
+        "reads": 3649683,
+        "species": 129,
+        "asvs": 4354
       },
       {
         "pcr_primer_name_forward": "Vert-16S-eDNA-F1",
-        "reads": 1420597,
+        "reads": 1415004,
         "species": 168,
-        "asvs": 2909
+        "asvs": 2907
       },
       {
         "pcr_primer_name_forward": "mlCOIintF",
-        "reads": 9847421,
-        "species": 335,
-        "asvs": 18829
+        "reads": 9842318,
+        "species": 334,
+        "asvs": 18815
       },
       {
         "pcr_primer_name_forward": "teleo_F_L1848",
-        "reads": 8110592,
+        "reads": 7670132,
         "species": 58,
-        "asvs": 5182
+        "asvs": 5177
       }
     ],
     "redlist": [

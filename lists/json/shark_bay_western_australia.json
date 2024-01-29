@@ -1,5 +1,5 @@
 {
-  "created": "2024-01-29T14:11:02",
+  "created": "2024-01-29T14:45:44",
   "species": [
     {
       "AphiaID": 149004,
@@ -10,7 +10,7 @@
       "genus": "Cylindrotheca",
       "species": "Cylindrotheca closterium",
       "remove": false,
-      "reads": 20282,
+      "reads": 20232,
       "asvs": 154,
       "target_gene": "COI",
       "source_obis": false,
@@ -284,7 +284,7 @@
       "genus": "Bathycoccus",
       "species": "Bathycoccus prasinos",
       "remove": false,
-      "reads": 306225,
+      "reads": 306201,
       "asvs": 21,
       "target_gene": "16S;COI",
       "source_obis": false,
@@ -1327,24 +1327,6 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": true,
-      "group": "crustaceans"
-    },
-    {
-      "AphiaID": 106210,
-      "phylum": "Arthropoda",
-      "class": "Thecostraca",
-      "order": "Balanomorpha",
-      "family": "Balanidae",
-      "genus": "Semibalanus",
-      "species": "Semibalanus balanoides",
-      "remove": false,
-      "reads": 31,
-      "asvs": 1,
-      "target_gene": "COI",
-      "source_obis": false,
-      "source_gbif": false,
-      "source_dna": true,
-      "vernacular": "barnacle, balane",
       "group": "crustaceans"
     },
     {
@@ -2958,7 +2940,7 @@
       "genus": "Sardinella",
       "species": "Sardinella albella",
       "remove": false,
-      "reads": 847,
+      "reads": 846,
       "asvs": 2,
       "target_gene": "12S",
       "source_obis": false,
@@ -3347,7 +3329,7 @@
       "genus": "Eucinostomus",
       "species": "Eucinostomus gula",
       "remove": false,
-      "reads": 11,
+      "reads": 9,
       "asvs": 1,
       "target_gene": "12S",
       "source_obis": false,
@@ -3447,7 +3429,7 @@
       "species": "Hemigymnus melapterus",
       "remove": false,
       "records": 4,
-      "reads": 1311,
+      "reads": 1309,
       "asvs": 5,
       "max_year": 1964,
       "target_gene": "12S;16S",
@@ -4166,7 +4148,7 @@
       "species": "Mugil cephalus",
       "remove": false,
       "records": 36,
-      "reads": 2163328,
+      "reads": 2163324,
       "asvs": 67,
       "max_year": 1985,
       "target_gene": "12S;16S;COI",
@@ -5682,7 +5664,7 @@
       "genus": "Ascidia",
       "species": "Ascidia ahodori",
       "remove": false,
-      "reads": 20603,
+      "reads": 20592,
       "asvs": 11,
       "target_gene": "16S;COI",
       "source_obis": false,
@@ -6074,23 +6056,6 @@
       "group": "worms"
     },
     {
-      "AphiaID": 129868,
-      "phylum": "Annelida",
-      "class": "Polychaeta",
-      "family": "Arenicolidae",
-      "genus": "Arenicola",
-      "species": "Arenicola marina",
-      "remove": false,
-      "reads": 327,
-      "asvs": 3,
-      "target_gene": "12S;16S;COI",
-      "source_obis": false,
-      "source_gbif": false,
-      "source_dna": true,
-      "vernacular": "lugworm, arénicole",
-      "group": "worms"
-    },
-    {
       "AphiaID": 1490377,
       "phylum": "Arthropoda",
       "class": "Hexapoda",
@@ -6333,54 +6298,42 @@
         "decimalLatitude": -26.1007,
         "sampleSize": 1500,
         "species": 57
-      },
-      {
-        "materialSampleID": "EE0083",
-        "reads": 831920,
-        "asvs": 454,
-        "species": 9
-      },
-      {
-        "materialSampleID": "S-INC",
-        "reads": 1603,
-        "asvs": 161,
-        "species": 1
       }
     ],
     "dna": {
-        "reads": 40980901,
-        "asvs": 24961
+        "reads": 40147378,
+        "asvs": 24926
       },
     "markers": [
       {
         "pcr_primer_name_forward": "MiFish-UE-F",
-        "reads": 8855781,
-        "species": 82,
-        "asvs": 4370
+        "reads": 8804390,
+        "species": 81,
+        "asvs": 4364
       },
       {
         "pcr_primer_name_forward": "MiMammal-UEB-F",
-        "reads": 9869219,
+        "reads": 9821994,
         "species": 104,
-        "asvs": 4511
+        "asvs": 4500
       },
       {
         "pcr_primer_name_forward": "Vert-16S-eDNA-F1",
-        "reads": 4551898,
-        "species": 140,
-        "asvs": 2754
+        "reads": 4542598,
+        "species": 139,
+        "asvs": 2752
       },
       {
         "pcr_primer_name_forward": "mlCOIintF",
-        "reads": 7448503,
-        "species": 189,
-        "asvs": 13020
+        "reads": 7444200,
+        "species": 187,
+        "asvs": 13004
       },
       {
         "pcr_primer_name_forward": "teleo_F_L1848",
-        "reads": 10255500,
+        "reads": 9534196,
         "species": 46,
-        "asvs": 4249
+        "asvs": 4243
       }
     ],
     "redlist": [
@@ -6408,7 +6361,7 @@
         "birds": 2,
         "cnidarians": 8,
         "copepods": 6,
-        "crustaceans": 10,
+        "crustaceans": 9,
         "echinoderms": 5,
         "fish": 187,
         "mammals": 3,
@@ -6418,13 +6371,13 @@
         "sponges": 13,
         "turtles": 1,
         "unicellular": 5,
-        "worms": 4
+        "worms": 3
       },
     "source": {
       "obis": 1908,
       "gbif": 2325,
       "db": 2653,
-      "edna": 324,
+      "edna": 322,
       "both": 154
     }
   }

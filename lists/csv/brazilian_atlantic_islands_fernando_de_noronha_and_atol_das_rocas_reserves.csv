@@ -1,16 +1,16 @@
 "AphiaID","phylum","class","order","family","genus","species","remove","records","reads","asvs","max_year","target_gene","source_obis","source_gbif","source_dna","category","redlist_category","vernacular","group"
 149004,"Bacillariophyta","Bacillariophyceae","Bacillariales","Bacillariaceae","Cylindrotheca","Cylindrotheca closterium",FALSE,,92456,269,,"16S;COI",FALSE,FALSE,TRUE,,,,"algae"
-464448,"Bacillariophyta","Bacillariophyceae","Hemiaulales","Bellerocheaceae","Bellerochea","Bellerochea polymorpha",FALSE,,188693,23,,"12S;16S;COI",FALSE,FALSE,TRUE,,,,"algae"
+464448,"Bacillariophyta","Bacillariophyceae","Hemiaulales","Bellerocheaceae","Bellerochea","Bellerochea polymorpha",FALSE,,188648,23,,"12S;16S;COI",FALSE,FALSE,TRUE,,,,"algae"
 609925,"Bacillariophyta","Bacillariophyceae","Naviculales","Pinnulariaceae","Pinnularia","Pinnularia acrosphaeria",FALSE,,17,1,,"COI",FALSE,FALSE,TRUE,,,,"algae"
 345463,"Chlorophyta","Mamiellophyceae","Dolichomastigales","Dolichomastigaceae","Dolichomastix","Dolichomastix tenuilepis",FALSE,,931,6,,"COI",FALSE,FALSE,TRUE,,,,"algae"
 345459,"Chlorophyta","Mamiellophyceae","Mamiellales","Bathycoccaceae","Bathycoccus","Bathycoccus prasinos",FALSE,,20,1,,"COI",FALSE,FALSE,TRUE,,,,"algae"
 1361174,"Chlorophyta","Mamiellophyceae","Mamiellales","Mamiellaceae","Micromonas","Micromonas commoda",FALSE,,165,3,,"12S",FALSE,FALSE,TRUE,,,,"algae"
-134564,"Chlorophyta","Mamiellophyceae","Mamiellales","Mamiellaceae","Micromonas","Micromonas pusilla",FALSE,,259687,28,,"12S;16S;COI",FALSE,FALSE,TRUE,,,,"algae"
+134564,"Chlorophyta","Mamiellophyceae","Mamiellales","Mamiellaceae","Micromonas","Micromonas pusilla",FALSE,,259686,28,,"12S;16S;COI",FALSE,FALSE,TRUE,,,,"algae"
 375881,"Chlorophyta","Pyramimonadophyceae","Prasinococcales","Prasinococcaceae","Prasinoderma","Prasinoderma coloniale",FALSE,,394,5,,"COI",FALSE,FALSE,TRUE,,,,"algae"
 1361158,"Chlorophyta",,,,"Chloroparvula","Chloroparvula pacifica",FALSE,,167,3,,"COI",FALSE,FALSE,TRUE,,,,"algae"
 1361155,"Chlorophyta",,,,"Chloropicon","Chloropicon laureae",FALSE,,29,1,,"COI",FALSE,FALSE,TRUE,,,,"algae"
 1361154,"Chlorophyta",,,,"Chloropicon","Chloropicon mariensis",FALSE,,11,1,,"COI",FALSE,FALSE,TRUE,,,,"algae"
-1361153,"Chlorophyta",,,,"Chloropicon","Chloropicon roscoffensis",FALSE,,4936,8,,"12S;COI",FALSE,FALSE,TRUE,,,,"algae"
+1361153,"Chlorophyta",,,,"Chloropicon","Chloropicon roscoffensis",FALSE,,4916,8,,"12S;COI",FALSE,FALSE,TRUE,,,,"algae"
 1541871,"Chlorophyta",,,,"Chloropicon","Chloropicon sieburthii",FALSE,,60618,39,,"12S;16S;COI",FALSE,FALSE,TRUE,,,,"algae"
 115104,"Haptophyta","Coccolithophyceae","Isochrysidales","Noelaerhabdaceae","Emiliania","Emiliania huxleyi",FALSE,,59661,13,,"12S;16S;COI",FALSE,FALSE,TRUE,,,,"algae"
 160538,"Haptophyta","Coccolithophyceae","Phaeocystales","Phaeocystaceae","Phaeocystis","Phaeocystis globosa",FALSE,,16838,20,,"16S;COI",FALSE,FALSE,TRUE,,,,"algae"
@@ -176,8 +176,8 @@
 159646,"Chordata","Teleostei","Carangiformes","Carangidae","Selar","Selar crumenophthalmus",FALSE,1,1376,3,,"16S;COI",TRUE,FALSE,TRUE,"LC","LC","bigeye scad","fish"
 277569,"Chordata","Teleostei","Centrarchiformes","Cirrhitidae","Amblycirrhitus","Amblycirrhitus pinos",FALSE,29,293,1,2019,"16S",TRUE,TRUE,TRUE,"LC","LC","redspotted hawkfish","fish"
 218706,"Chordata","Teleostei","Centrarchiformes","Kyphosidae","Kyphosus","Kyphosus vaigiensis",FALSE,5,4532,2,2014,"16S",TRUE,TRUE,TRUE,"LC","LC","brassy chub","fish"
-367197,"Chordata","Teleostei","Clupeiformes","Dorosomatidae","Harengula","Harengula humeralis",FALSE,,4,1,,"12S",FALSE,FALSE,TRUE,"LC","LC","pilchard","fish"
-277551,"Chordata","Teleostei","Clupeiformes","Dorosomatidae","Harengula","Harengula jaguana",FALSE,1,321738,49,,"12S;16S",TRUE,TRUE,TRUE,"LC","LC","scaled sardine","fish"
+367197,"Chordata","Teleostei","Clupeiformes","Dorosomatidae","Harengula","Harengula humeralis",FALSE,,3,1,,"12S",FALSE,FALSE,TRUE,"LC","LC","pilchard","fish"
+277551,"Chordata","Teleostei","Clupeiformes","Dorosomatidae","Harengula","Harengula jaguana",FALSE,1,321737,49,,"12S;16S",TRUE,TRUE,TRUE,"LC","LC","scaled sardine","fish"
 127232,"Chordata","Teleostei","Dactylopteriformes","Dactylopteridae","Dactylopterus","Dactylopterus volitans",FALSE,5,726,4,1982,"12S;16S;COI",TRUE,TRUE,TRUE,"LC","LC","flying gurnard, grondin volant","fish"
 279623,"Chordata","Teleostei","Eupercaria incertae sedis","Haemulidae","Anisotremus","Anisotremus surinamensis",FALSE,152,17871,6,2019,"12S;16S",TRUE,TRUE,TRUE,"DD","DD","black margate","fish"
 1577330,"Chordata","Teleostei","Eupercaria incertae sedis","Haemulidae","Brachygenys","Brachygenys chrysargyreum",FALSE,416,12090,4,2019,"16S;COI",TRUE,TRUE,TRUE,,,,"fish"
@@ -316,7 +316,6 @@
 330566,"Annelida","Polychaeta",,"Chaetopteridae","Phyllochaetopterus","Phyllochaetopterus verrilli",FALSE,,638,1,,"COI",FALSE,FALSE,TRUE,,,,"worms"
 266513,"Annelida",,"Sipuncula","Siphonosomatidae","Siphonosoma","Siphonosoma vastum",FALSE,,2171,4,,"COI",FALSE,FALSE,TRUE,,,,"worms"
 745109,"Arthropoda","Arachnida","Trombidiformes","Halacaridae","Rhombognathus","Rhombognathus areolatus",FALSE,,82,1,,"COI",FALSE,FALSE,TRUE,,,,
-1489088,"Arthropoda","Hexapoda","Hemiptera","Aleyrodidae","Bemisia","Bemisia tabaci",FALSE,,7,1,,"16S",FALSE,FALSE,TRUE,,,,
 437835,"Basidiomycota","Agaricomycetes","Agaricales","Schizophyllaceae","Schizophyllum","Schizophyllum commune",FALSE,,6,1,,"COI",FALSE,FALSE,TRUE,,,,
 221006,"Chordata","Leptocardii",,"Branchiostomatidae","Asymmetron","Asymmetron lucayanum",FALSE,,32,2,,"COI",FALSE,FALSE,TRUE,,,,
 1361130,"Cryptophyta","Cryptophyceae","Cryptophyceae incertae sedis",,"Hemiarma","Hemiarma marina",FALSE,,141,3,,"COI",FALSE,FALSE,TRUE,,,,

@@ -1,5 +1,5 @@
 {
-  "created": "2024-01-29T14:10:44",
+  "created": "2024-01-29T14:45:26",
   "species": [
     {
       "AphiaID": 149004,
@@ -9549,46 +9549,40 @@
         "decimalLatitude": 7.7012,
         "sampleSize": 1440,
         "species": 140
-      },
-      {
-        "materialSampleID": "PA-INC",
-        "reads": 6233,
-        "asvs": 111,
-        "species": 0
       }
     ],
     "dna": {
-        "reads": 32950790,
-        "asvs": 31063
+        "reads": 32944557,
+        "asvs": 31057
       },
     "markers": [
       {
         "pcr_primer_name_forward": "MiFish-UE-F",
-        "reads": 4681973,
+        "reads": 4680262,
         "species": 95,
         "asvs": 5504
       },
       {
         "pcr_primer_name_forward": "MiMammal-UEB-F",
-        "reads": 5037625,
+        "reads": 5035949,
         "species": 117,
         "asvs": 5544
       },
       {
         "pcr_primer_name_forward": "Vert-16S-eDNA-F1",
-        "reads": 3187156,
+        "reads": 3187151,
         "species": 208,
         "asvs": 3724
       },
       {
         "pcr_primer_name_forward": "mlCOIintF",
-        "reads": 11681275,
+        "reads": 11679751,
         "species": 343,
-        "asvs": 15884
+        "asvs": 15878
       },
       {
         "pcr_primer_name_forward": "teleo_F_L1848",
-        "reads": 8362761,
+        "reads": 8361444,
         "species": 53,
         "asvs": 5383
       }

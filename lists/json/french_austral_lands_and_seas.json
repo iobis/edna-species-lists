@@ -1,5 +1,5 @@
 {
-  "created": "2024-01-29T14:10:46",
+  "created": "2024-01-29T14:45:29",
   "species": [
     {
       "AphiaID": 149004,
@@ -299,7 +299,7 @@
       "genus": "Micromonas",
       "species": "Micromonas pusilla",
       "remove": false,
-      "reads": 746999,
+      "reads": 746998,
       "asvs": 64,
       "target_gene": "12S;16S;COI",
       "source_obis": false,
@@ -316,7 +316,7 @@
       "genus": "Prasinoderma",
       "species": "Prasinoderma coloniale",
       "remove": false,
-      "reads": 3,
+      "reads": 1,
       "asvs": 1,
       "target_gene": "COI",
       "source_obis": false,
@@ -1392,7 +1392,7 @@
       "species": "Oithona similis",
       "remove": false,
       "records": 7066,
-      "reads": 21818,
+      "reads": 21814,
       "asvs": 10,
       "max_year": 1988,
       "target_gene": "12S;16S;COI",
@@ -2212,7 +2212,7 @@
       "genus": "Pagothenia",
       "species": "Pagothenia borchgrevinki",
       "remove": false,
-      "reads": 1184863,
+      "reads": 1184862,
       "asvs": 66,
       "target_gene": "12S",
       "source_obis": false,
@@ -2251,7 +2251,7 @@
       "species": "Salmo trutta",
       "remove": false,
       "records": 12,
-      "reads": 128627,
+      "reads": 120892,
       "asvs": 20,
       "max_year": 1999,
       "target_gene": "12S;16S;COI",
@@ -2368,7 +2368,7 @@
       "species": "Mirounga leonina",
       "remove": false,
       "records": 26704,
-      "reads": 6694849,
+      "reads": 6694841,
       "asvs": 182,
       "max_year": 2018,
       "target_gene": "12S;16S;COI",
@@ -2412,7 +2412,7 @@
       "species": "Eubalaena australis",
       "remove": false,
       "records": 287,
-      "reads": 7,
+      "reads": 6,
       "asvs": 1,
       "max_year": 2014,
       "target_gene": "16S",
@@ -2919,7 +2919,7 @@
       "genus": "Limnodrilus",
       "species": "Limnodrilus hoffmeisteri",
       "remove": false,
-      "reads": 10,
+      "reads": 2,
       "asvs": 1,
       "target_gene": "COI",
       "source_obis": false,
@@ -3225,21 +3225,6 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": true
-    },
-    {
-      "AphiaID": 431954,
-      "phylum": "Rotifera",
-      "class": "Eurotatoria",
-      "family": "Philodinidae",
-      "genus": "Rotaria",
-      "species": "Rotaria rotatoria",
-      "remove": false,
-      "reads": 64,
-      "asvs": 1,
-      "target_gene": "COI",
-      "source_obis": false,
-      "source_gbif": false,
-      "source_dna": true
     }
   ],
   "stats": {
@@ -3453,66 +3438,42 @@
         "decimalLatitude": -49.4988,
         "sampleSize": 1500,
         "species": 25
-      },
-      {
-        "materialSampleID": "EE0002",
-        "reads": 266587,
-        "asvs": 730,
-        "species": 3
-      },
-      {
-        "materialSampleID": "EE0014",
-        "reads": 776213,
-        "asvs": 1190,
-        "species": 6
-      },
-      {
-        "materialSampleID": "SO-INC",
-        "reads": 709,
-        "asvs": 89,
-        "species": 1
-      },
-      {
-        "materialSampleID": "SO-blank",
-        "reads": 1232,
-        "asvs": 95,
-        "species": 1
       }
     ],
     "dna": {
-        "reads": 40257036,
-        "asvs": 16332
+        "reads": 39212295,
+        "asvs": 15418
       },
     "markers": [
       {
         "pcr_primer_name_forward": "MiFish-UE-F",
-        "reads": 10530108,
+        "reads": 10473608,
         "species": 38,
-        "asvs": 3042
+        "asvs": 2900
       },
       {
         "pcr_primer_name_forward": "MiMammal-UEB-F",
-        "reads": 10322214,
+        "reads": 10262698,
         "species": 41,
-        "asvs": 3245
+        "asvs": 3081
       },
       {
         "pcr_primer_name_forward": "Vert-16S-eDNA-F1",
-        "reads": 2588106,
+        "reads": 2568391,
         "species": 61,
-        "asvs": 1598
+        "asvs": 1504
       },
       {
         "pcr_primer_name_forward": "mlCOIintF",
-        "reads": 10052850,
-        "species": 172,
-        "asvs": 8267
+        "reads": 9738707,
+        "species": 171,
+        "asvs": 7749
       },
       {
         "pcr_primer_name_forward": "teleo_F_L1848",
-        "reads": 6763758,
+        "reads": 6168891,
         "species": 24,
-        "asvs": 2953
+        "asvs": 2822
       }
     ],
     "redlist": [
@@ -3553,7 +3514,7 @@
       "obis": 1616,
       "gbif": 2866,
       "db": 3172,
-      "edna": 178,
+      "edna": 177,
       "both": 84
     }
   }

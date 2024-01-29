@@ -1,5 +1,5 @@
 {
-  "created": "2024-01-29T14:10:55",
+  "created": "2024-01-29T14:45:36",
   "species": [
     {
       "AphiaID": 149004,
@@ -418,7 +418,7 @@
       "genus": "Micromonas",
       "species": "Micromonas pusilla",
       "remove": false,
-      "reads": 1633340,
+      "reads": 1633338,
       "asvs": 90,
       "target_gene": "12S;16S;COI",
       "source_obis": false,
@@ -533,7 +533,7 @@
       "genus": "Emiliania",
       "species": "Emiliania huxleyi",
       "remove": false,
-      "reads": 53683,
+      "reads": 53682,
       "asvs": 19,
       "target_gene": "12S;COI",
       "source_obis": false,
@@ -7191,7 +7191,7 @@
       "species": "Spratelloides gracilis",
       "remove": false,
       "records": 1,
-      "reads": 67214,
+      "reads": 67213,
       "asvs": 28,
       "target_gene": "12S;16S",
       "source_obis": true,
@@ -10500,7 +10500,7 @@
       "species": "Parupeneus multifasciatus",
       "remove": false,
       "records": 39,
-      "reads": 61928,
+      "reads": 61926,
       "asvs": 21,
       "max_year": 2003,
       "target_gene": "12S;16S;COI",
@@ -11219,7 +11219,7 @@
       "species": "Plectroglyphidodon gascoynei",
       "remove": false,
       "records": 6,
-      "reads": 31983,
+      "reads": 31977,
       "asvs": 5,
       "max_year": 1991,
       "target_gene": "12S",
@@ -15913,52 +15913,40 @@
         "decimalLatitude": -20.405,
         "sampleSize": 1800,
         "species": 149
-      },
-      {
-        "materialSampleID": "EE0285",
-        "reads": 15,
-        "asvs": 15,
-        "species": 2
-      },
-      {
-        "materialSampleID": "NC-21",
-        "reads": 1505,
-        "asvs": 96,
-        "species": 3
       }
     ],
     "dna": {
-        "reads": 45045782,
-        "asvs": 51938
+        "reads": 45044262,
+        "asvs": 51936
       },
     "markers": [
       {
         "pcr_primer_name_forward": "MiFish-UE-F",
-        "reads": 6380092,
+        "reads": 6380087,
         "species": 143,
         "asvs": 6299
       },
       {
         "pcr_primer_name_forward": "MiMammal-UEB-F",
-        "reads": 6430341,
+        "reads": 6430337,
         "species": 228,
         "asvs": 6235
       },
       {
         "pcr_primer_name_forward": "Vert-16S-eDNA-F1",
-        "reads": 7351757,
+        "reads": 7351755,
         "species": 373,
         "asvs": 5045
       },
       {
         "pcr_primer_name_forward": "mlCOIintF",
-        "reads": 14168408,
+        "reads": 14167566,
         "species": 586,
-        "asvs": 32745
+        "asvs": 32743
       },
       {
         "pcr_primer_name_forward": "teleo_F_L1848",
-        "reads": 10715184,
+        "reads": 10714517,
         "species": 105,
         "asvs": 7341
       }

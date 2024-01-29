@@ -1,5 +1,5 @@
 {
-  "created": "2024-01-29T14:10:38",
+  "created": "2024-01-29T14:45:20",
   "species": [
     {
       "AphiaID": 149004,
@@ -163,8 +163,8 @@
       "genus": "Navicula",
       "species": "Navicula minima",
       "remove": false,
-      "reads": 53729,
-      "asvs": 215,
+      "reads": 53713,
+      "asvs": 212,
       "target_gene": "12S",
       "source_obis": false,
       "source_gbif": false,
@@ -265,7 +265,7 @@
       "genus": "Micromonas",
       "species": "Micromonas pusilla",
       "remove": false,
-      "reads": 3190,
+      "reads": 3184,
       "asvs": 6,
       "target_gene": "COI",
       "source_obis": false,
@@ -400,7 +400,7 @@
       "genus": "Phaeocystis",
       "species": "Phaeocystis pouchetii",
       "remove": false,
-      "reads": 407,
+      "reads": 406,
       "asvs": 9,
       "target_gene": "16S;COI",
       "source_obis": false,
@@ -420,23 +420,6 @@
       "reads": 44,
       "asvs": 2,
       "target_gene": "COI",
-      "source_obis": false,
-      "source_gbif": false,
-      "source_dna": true,
-      "group": "algae"
-    },
-    {
-      "AphiaID": 624265,
-      "phylum": "Ochrophyta",
-      "class": "Chrysophyceae",
-      "order": "Chromulinales",
-      "family": "Dinobryaceae",
-      "genus": "Poteriospumella",
-      "species": "Poteriospumella lacustris",
-      "remove": false,
-      "reads": 4876,
-      "asvs": 5,
-      "target_gene": "16S;COI",
       "source_obis": false,
       "source_gbif": false,
       "source_dna": true,
@@ -2136,7 +2119,7 @@
       "genus": "Clausocalanus",
       "species": "Clausocalanus furcatus",
       "remove": false,
-      "reads": 513087,
+      "reads": 513085,
       "asvs": 57,
       "target_gene": "12S;16S;COI",
       "source_obis": false,
@@ -7411,7 +7394,7 @@
       "species": "Chlorurus sordidus",
       "remove": false,
       "records": 100,
-      "reads": 38954,
+      "reads": 38951,
       "asvs": 14,
       "max_year": 2021,
       "target_gene": "12S;16S;COI",
@@ -7595,7 +7578,7 @@
       "genus": "Diplodus",
       "species": "Diplodus kotschyi",
       "remove": false,
-      "reads": 85,
+      "reads": 81,
       "asvs": 3,
       "target_gene": "12S",
       "source_obis": false,
@@ -7612,7 +7595,7 @@
       "genus": "Gerres",
       "species": "Gerres longirostris",
       "remove": false,
-      "reads": 1506955,
+      "reads": 1506945,
       "asvs": 28,
       "target_gene": "12S;16S;COI",
       "source_obis": false,
@@ -8014,7 +7997,7 @@
       "species": "Lutjanus argentimaculatus",
       "remove": false,
       "records": 2,
-      "reads": 35806,
+      "reads": 35805,
       "asvs": 15,
       "target_gene": "12S;16S",
       "source_obis": true,
@@ -9973,7 +9956,7 @@
       "genus": "Mugil",
       "species": "Mugil cephalus",
       "remove": false,
-      "reads": 62,
+      "reads": 58,
       "asvs": 1,
       "target_gene": "12S",
       "source_obis": false,
@@ -14418,23 +14401,6 @@
       "group": "unicellular"
     },
     {
-      "AphiaID": 1501278,
-      "phylum": "Amoebozoa",
-      "class": "Myxogastrea",
-      "order": "Stemonitida",
-      "family": "Didymiidae",
-      "genus": "Didymium",
-      "species": "Didymium nigripes",
-      "remove": false,
-      "reads": 190,
-      "asvs": 1,
-      "target_gene": "COI",
-      "source_obis": false,
-      "source_gbif": false,
-      "source_dna": true,
-      "group": "unicellular"
-    },
-    {
       "AphiaID": 376277,
       "phylum": "Cercozoa",
       "class": "Chlorarachnea",
@@ -14896,7 +14862,7 @@
       "genus": "Macrosteles",
       "species": "Macrosteles quadrilineatus",
       "remove": false,
-      "reads": 507,
+      "reads": 504,
       "asvs": 1,
       "target_gene": "COI",
       "source_obis": false,
@@ -14997,22 +14963,6 @@
       "vernacular": "Hawaiian acorn worm"
     },
     {
-      "AphiaID": 1609888,
-      "phylum": "Nematoda",
-      "class": "Enoplea",
-      "order": "Dorylaimida",
-      "family": "Longidoridae",
-      "genus": "Xiphinema",
-      "species": "Xiphinema brevicolle",
-      "remove": false,
-      "reads": 12787,
-      "asvs": 6,
-      "target_gene": "12S;COI",
-      "source_obis": false,
-      "source_gbif": false,
-      "source_dna": true
-    },
-    {
       "AphiaID": 1508730,
       "phylum": "Platyhelminthes",
       "order": "Polycladida",
@@ -15028,22 +14978,6 @@
       "source_dna": true
     },
     {
-      "AphiaID": 419297,
-      "phylum": "Rotifera",
-      "class": "Eurotatoria",
-      "order": "Ploima",
-      "family": "Lecanidae",
-      "genus": "Lecane",
-      "species": "Lecane inermis",
-      "remove": false,
-      "reads": 31,
-      "asvs": 2,
-      "target_gene": "16S;COI",
-      "source_obis": false,
-      "source_gbif": false,
-      "source_dna": true
-    },
-    {
       "AphiaID": 103429,
       "genus": "Amastigomonas",
       "species": "Amastigomonas debruynei",
@@ -15051,18 +14985,6 @@
       "reads": 18,
       "asvs": 2,
       "target_gene": "COI",
-      "source_obis": false,
-      "source_gbif": false,
-      "source_dna": true
-    },
-    {
-      "AphiaID": 650024,
-      "genus": "Diphylleia",
-      "species": "Diphylleia rotans",
-      "remove": false,
-      "reads": 66,
-      "asvs": 3,
-      "target_gene": "12S;16S",
       "source_obis": false,
       "source_gbif": false,
       "source_dna": true
@@ -15269,54 +15191,42 @@
         "decimalLatitude": -9.4462,
         "sampleSize": 1255,
         "species": 236
-      },
-      {
-        "materialSampleID": "EE0500",
-        "reads": 2303613,
-        "asvs": 2489,
-        "species": 15
-      },
-      {
-        "materialSampleID": "SE-22",
-        "reads": 34195,
-        "asvs": 130,
-        "species": 2
       }
     ],
     "dna": {
-        "reads": 41178443,
-        "asvs": 48230
+        "reads": 38840635,
+        "asvs": 46489
       },
     "markers": [
       {
         "pcr_primer_name_forward": "MiFish-UE-F",
-        "reads": 6663864,
-        "species": 153,
-        "asvs": 7913
+        "reads": 6243905,
+        "species": 152,
+        "asvs": 7366
       },
       {
         "pcr_primer_name_forward": "MiMammal-UEB-F",
-        "reads": 8784545,
-        "species": 239,
-        "asvs": 8267
+        "reads": 8343461,
+        "species": 238,
+        "asvs": 7653
       },
       {
         "pcr_primer_name_forward": "Vert-16S-eDNA-F1",
-        "reads": 3603950,
-        "species": 335,
-        "asvs": 4725
+        "reads": 3509560,
+        "species": 332,
+        "asvs": 4462
       },
       {
         "pcr_primer_name_forward": "mlCOIintF",
-        "reads": 12921462,
-        "species": 575,
-        "asvs": 27132
+        "reads": 11673220,
+        "species": 571,
+        "asvs": 26391
       },
       {
         "pcr_primer_name_forward": "teleo_F_L1848",
-        "reads": 9204622,
+        "reads": 9070489,
         "species": 99,
-        "asvs": 7338
+        "asvs": 7227
       }
     ],
     "redlist": [
@@ -15340,7 +15250,7 @@
       }
     ],
     "groups_edna": {
-        "algae": 73,
+        "algae": 72,
         "arrow worms": 4,
         "birds": 3,
         "cnidarians": 37,
@@ -15354,14 +15264,14 @@
         "sea squirts": 1,
         "sponges": 43,
         "turtles": 1,
-        "unicellular": 10,
+        "unicellular": 9,
         "worms": 20
       },
     "source": {
       "obis": 1444,
       "gbif": 984,
       "db": 1618,
-      "edna": 792,
+      "edna": 787,
       "both": 336
     }
   }

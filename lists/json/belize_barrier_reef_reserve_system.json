@@ -1,5 +1,5 @@
 {
-  "created": "2024-01-29T14:10:41",
+  "created": "2024-01-29T14:45:23",
   "species": [
     {
       "AphiaID": 149004,
@@ -27,7 +27,7 @@
       "genus": "Bellerochea",
       "species": "Bellerochea polymorpha",
       "remove": false,
-      "reads": 64,
+      "reads": 62,
       "asvs": 2,
       "target_gene": "COI",
       "source_obis": false,
@@ -4462,7 +4462,7 @@
       "species": "Sphyraena barracuda",
       "remove": false,
       "records": 18,
-      "reads": 13939,
+      "reads": 13933,
       "asvs": 17,
       "max_year": 2015,
       "target_gene": "12S;16S;COI",
@@ -5667,8 +5667,8 @@
       "species": "Lutjanus griseus",
       "remove": false,
       "records": 33,
-      "reads": 83120,
-      "asvs": 34,
+      "reads": 74671,
+      "asvs": 33,
       "max_year": 2015,
       "target_gene": "12S;16S;COI",
       "source_obis": true,
@@ -5817,7 +5817,7 @@
       "species": "Scarus iseri",
       "remove": false,
       "records": 169,
-      "reads": 73178,
+      "reads": 73177,
       "asvs": 19,
       "max_year": 2015,
       "target_gene": "12S;16S;COI",
@@ -6034,7 +6034,7 @@
       "species": "Thalassoma bifasciatum",
       "remove": false,
       "records": 106,
-      "reads": 191110,
+      "reads": 191108,
       "asvs": 45,
       "max_year": 2015,
       "target_gene": "12S;16S;COI",
@@ -7211,8 +7211,8 @@
       "species": "Mycteroperca bonaci",
       "remove": false,
       "records": 7,
-      "reads": 7648,
-      "asvs": 9,
+      "reads": 3922,
+      "asvs": 8,
       "max_year": 2015,
       "target_gene": "12S;16S;COI",
       "source_obis": true,
@@ -11199,54 +11199,42 @@
         "decimalLatitude": 16.8276,
         "sampleSize": 1800,
         "species": 162
-      },
-      {
-        "materialSampleID": "BE-18",
-        "reads": 1364,
-        "asvs": 88,
-        "species": 2
-      },
-      {
-        "materialSampleID": "EE0417",
-        "reads": 450464,
-        "asvs": 302,
-        "species": 5
       }
     ],
     "dna": {
-        "reads": 32761261,
-        "asvs": 39435
+        "reads": 32309433,
+        "asvs": 39416
       },
     "markers": [
       {
         "pcr_primer_name_forward": "MiFish-UE-F",
-        "reads": 4348588,
+        "reads": 4337688,
         "species": 78,
-        "asvs": 5245
+        "asvs": 5242
       },
       {
         "pcr_primer_name_forward": "MiMammal-UEB-F",
-        "reads": 4758032,
+        "reads": 4747103,
         "species": 132,
-        "asvs": 5351
+        "asvs": 5348
       },
       {
         "pcr_primer_name_forward": "Vert-16S-eDNA-F1",
-        "reads": 2810308,
+        "reads": 2797767,
         "species": 197,
-        "asvs": 3343
+        "asvs": 3337
       },
       {
         "pcr_primer_name_forward": "mlCOIintF",
-        "reads": 15088324,
+        "reads": 15073369,
         "species": 494,
-        "asvs": 24358
+        "asvs": 24349
       },
       {
         "pcr_primer_name_forward": "teleo_F_L1848",
-        "reads": 5756009,
+        "reads": 5353506,
         "species": 49,
-        "asvs": 5901
+        "asvs": 5899
       }
     ],
     "redlist": [

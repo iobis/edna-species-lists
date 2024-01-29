@@ -1,5 +1,5 @@
 {
-  "created": "2024-01-29T14:10:46",
+  "created": "2024-01-29T14:45:28",
   "species": [
     {
       "AphiaID": 149004,
@@ -44,8 +44,8 @@
       "genus": "Dolichomastix",
       "species": "Dolichomastix tenuilepis",
       "remove": false,
-      "reads": 129,
-      "asvs": 5,
+      "reads": 126,
+      "asvs": 4,
       "target_gene": "COI",
       "source_obis": false,
       "source_gbif": false,
@@ -62,7 +62,7 @@
       "species": "Micromonas pusilla",
       "remove": false,
       "records": 2,
-      "reads": 31,
+      "reads": 30,
       "asvs": 2,
       "target_gene": "COI",
       "source_obis": true,
@@ -918,7 +918,7 @@
       "species": "Tylosurus crocodilus",
       "remove": false,
       "records": 3,
-      "reads": 151,
+      "reads": 149,
       "asvs": 2,
       "max_year": 2007,
       "target_gene": "12S;16S",
@@ -1262,7 +1262,7 @@
       "species": "Harengula jaguana",
       "remove": false,
       "records": 36,
-      "reads": 610698,
+      "reads": 610697,
       "asvs": 68,
       "max_year": 2007,
       "target_gene": "12S;16S;COI",
@@ -2038,7 +2038,7 @@
       "species": "Lutjanus griseus",
       "remove": false,
       "records": 26,
-      "reads": 374049,
+      "reads": 374045,
       "asvs": 27,
       "max_year": 2008,
       "target_gene": "12S;16S;COI",
@@ -2319,7 +2319,7 @@
       "species": "Mugil curema",
       "remove": false,
       "records": 25,
-      "reads": 2499236,
+      "reads": 2499232,
       "asvs": 103,
       "max_year": 2007,
       "target_gene": "12S;16S;COI",
@@ -3021,7 +3021,7 @@
       "species": "Acteocina canaliculata",
       "remove": false,
       "records": 16,
-      "reads": 3346,
+      "reads": 3333,
       "asvs": 12,
       "max_year": 2001,
       "target_gene": "12S;16S;COI",
@@ -4282,60 +4282,42 @@
         "decimalLatitude": 25.0507,
         "sampleSize": 1800,
         "species": 94
-      },
-      {
-        "materialSampleID": "EE0410",
-        "reads": 154532,
-        "asvs": 148,
-        "species": 2
-      },
-      {
-        "materialSampleID": "EV-22",
-        "reads": 37619,
-        "asvs": 218,
-        "species": 5
-      },
-      {
-        "materialSampleID": "INC",
-        "reads": 16862,
-        "asvs": 67,
-        "species": 0
       }
     ],
     "dna": {
-        "reads": 36435812,
-        "asvs": 18800
+        "reads": 36226799,
+        "asvs": 18772
       },
     "markers": [
       {
         "pcr_primer_name_forward": "MiFish-UE-F",
-        "reads": 9430517,
+        "reads": 9420488,
         "species": 57,
-        "asvs": 3572
+        "asvs": 3562
       },
       {
         "pcr_primer_name_forward": "MiMammal-UEB-F",
-        "reads": 12148314,
+        "reads": 12138287,
         "species": 89,
-        "asvs": 3827
+        "asvs": 3817
       },
       {
         "pcr_primer_name_forward": "Vert-16S-eDNA-F1",
-        "reads": 3054099,
+        "reads": 3053581,
         "species": 101,
-        "asvs": 1946
+        "asvs": 1942
       },
       {
         "pcr_primer_name_forward": "mlCOIintF",
-        "reads": 7854120,
+        "reads": 7832706,
         "species": 151,
-        "asvs": 9461
+        "asvs": 9454
       },
       {
         "pcr_primer_name_forward": "teleo_F_L1848",
-        "reads": 3948762,
+        "reads": 3781737,
         "species": 33,
-        "asvs": 3249
+        "asvs": 3244
       }
     ],
     "redlist": [

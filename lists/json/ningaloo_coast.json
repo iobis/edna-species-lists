@@ -1,5 +1,5 @@
 {
-  "created": "2024-01-29T14:10:58",
+  "created": "2024-01-29T14:45:40",
   "species": [
     {
       "AphiaID": 149004,
@@ -7044,7 +7044,7 @@
       "species": "Atule mate",
       "remove": false,
       "records": 29,
-      "reads": 1485,
+      "reads": 1483,
       "asvs": 4,
       "max_year": 2014,
       "target_gene": "12S",
@@ -8482,7 +8482,7 @@
       "species": "Lutjanus argentimaculatus",
       "remove": false,
       "records": 4,
-      "reads": 2489809,
+      "reads": 2489807,
       "asvs": 118,
       "max_year": 2014,
       "target_gene": "12S;16S;COI",
@@ -9155,7 +9155,7 @@
       "species": "Xenojulis margaritacea",
       "remove": false,
       "records": 1,
-      "reads": 20020,
+      "reads": 20018,
       "asvs": 9,
       "max_year": 1976,
       "target_gene": "12S;16S",
@@ -9697,7 +9697,7 @@
       "genus": "Myripristis",
       "species": "Myripristis amaena",
       "remove": false,
-      "reads": 755,
+      "reads": 754,
       "asvs": 4,
       "target_gene": "12S",
       "source_obis": false,
@@ -10140,7 +10140,7 @@
       "genus": "Mugil",
       "species": "Mugil curema",
       "remove": false,
-      "reads": 20,
+      "reads": 18,
       "asvs": 1,
       "target_gene": "12S",
       "source_obis": false,
@@ -10809,7 +10809,7 @@
       "species": "Pomacentrus moluccensis",
       "remove": false,
       "records": 518,
-      "reads": 598,
+      "reads": 597,
       "asvs": 2,
       "max_year": 2015,
       "target_gene": "16S;COI",
@@ -11888,7 +11888,7 @@
       "species": "Mirounga leonina",
       "remove": false,
       "records": 1,
-      "reads": 192,
+      "reads": 191,
       "asvs": 3,
       "target_gene": "12S;16S",
       "source_obis": true,
@@ -14592,22 +14592,6 @@
       "source_dna": true
     },
     {
-      "AphiaID": 1489088,
-      "phylum": "Arthropoda",
-      "class": "Hexapoda",
-      "order": "Hemiptera",
-      "family": "Aleyrodidae",
-      "genus": "Bemisia",
-      "species": "Bemisia tabaci",
-      "remove": false,
-      "reads": 3,
-      "asvs": 1,
-      "target_gene": "16S",
-      "source_obis": false,
-      "source_gbif": false,
-      "source_dna": true
-    },
-    {
       "AphiaID": 1488520,
       "phylum": "Arthropoda",
       "class": "Hexapoda",
@@ -14932,54 +14916,42 @@
         "decimalLatitude": -22.1319,
         "sampleSize": 1800,
         "species": 222
-      },
-      {
-        "materialSampleID": "EE0459",
-        "reads": 918722,
-        "asvs": 420,
-        "species": 1
-      },
-      {
-        "materialSampleID": "NI-22",
-        "reads": 49899,
-        "asvs": 213,
-        "species": 7
       }
     ],
     "dna": {
-        "reads": 51184061,
-        "asvs": 59323
+        "reads": 50215440,
+        "asvs": 59159
       },
     "markers": [
       {
         "pcr_primer_name_forward": "MiFish-UE-F",
-        "reads": 12000780,
+        "reads": 11978776,
         "species": 170,
-        "asvs": 8930
+        "asvs": 8910
       },
       {
         "pcr_primer_name_forward": "MiMammal-UEB-F",
-        "reads": 12585730,
+        "reads": 12564364,
         "species": 225,
-        "asvs": 9171
+        "asvs": 9153
       },
       {
         "pcr_primer_name_forward": "Vert-16S-eDNA-F1",
-        "reads": 5395396,
-        "species": 262,
-        "asvs": 4665
+        "reads": 5271377,
+        "species": 261,
+        "asvs": 4598
       },
       {
         "pcr_primer_name_forward": "mlCOIintF",
-        "reads": 10871705,
+        "reads": 10717520,
         "species": 552,
-        "asvs": 36862
+        "asvs": 36797
       },
       {
         "pcr_primer_name_forward": "teleo_F_L1848",
-        "reads": 10330450,
+        "reads": 9683403,
         "species": 102,
-        "asvs": 7668
+        "asvs": 7657
       }
     ],
     "redlist": [
@@ -15023,7 +14995,7 @@
       "obis": 4103,
       "gbif": 3818,
       "db": 4979,
-      "edna": 770,
+      "edna": 769,
       "both": 438
     }
   }

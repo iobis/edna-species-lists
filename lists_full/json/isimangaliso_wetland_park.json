@@ -1,5 +1,5 @@
 {
-  "created": "2024-01-29T14:10:52",
+  "created": "2024-01-29T14:45:34",
   "species": [
     {
       "AphiaID": 633649,
@@ -433,7 +433,7 @@
       "genus": "Bellerochea",
       "species": "Bellerochea polymorpha",
       "remove": false,
-      "reads": 416954,
+      "reads": 416953,
       "asvs": 33,
       "target_gene": "12S;16S;COI",
       "source_obis": false,
@@ -27700,7 +27700,7 @@
       "genus": "Callionymus",
       "species": "Callionymus enneactis",
       "remove": false,
-      "reads": 5,
+      "reads": 4,
       "asvs": 1,
       "target_gene": "12S",
       "source_obis": false,
@@ -29898,7 +29898,7 @@
       "genus": "Ethmalosa",
       "species": "Ethmalosa fimbriata",
       "remove": false,
-      "reads": 236,
+      "reads": 234,
       "asvs": 3,
       "target_gene": "12S;16S",
       "source_obis": false,
@@ -33225,7 +33225,7 @@
       "species": "Lutjanus fulviflamma",
       "remove": false,
       "records": 31,
-      "reads": 2482,
+      "reads": 2480,
       "asvs": 2,
       "max_year": 2007,
       "target_gene": "12S;16S",
@@ -39298,7 +39298,7 @@
       "species": "Mugil cephalus",
       "remove": false,
       "records": 16,
-      "reads": 39289,
+      "reads": 39288,
       "asvs": 15,
       "max_year": 1994,
       "target_gene": "12S;16S",
@@ -39339,7 +39339,7 @@
       "genus": "Mugil",
       "species": "Mugil liza",
       "remove": false,
-      "reads": 64904,
+      "reads": 64903,
       "asvs": 21,
       "target_gene": "12S",
       "source_obis": false,
@@ -68516,46 +68516,40 @@
         "decimalLatitude": -28.3752,
         "sampleSize": 1500,
         "species": 67
-      },
-      {
-        "materialSampleID": "SA-22",
-        "reads": 6829,
-        "asvs": 157,
-        "species": 6
       }
     ],
     "dna": {
-        "reads": 40898780,
-        "asvs": 45735
+        "reads": 40891951,
+        "asvs": 45732
       },
     "markers": [
       {
         "pcr_primer_name_forward": "MiFish-UE-F",
-        "reads": 9403578,
+        "reads": 9403530,
         "species": 148,
         "asvs": 8570
       },
       {
         "pcr_primer_name_forward": "MiMammal-UEB-F",
-        "reads": 8837307,
+        "reads": 8837181,
         "species": 210,
         "asvs": 8970
       },
       {
         "pcr_primer_name_forward": "Vert-16S-eDNA-F1",
-        "reads": 3062699,
+        "reads": 3062657,
         "species": 272,
         "asvs": 4072
       },
       {
         "pcr_primer_name_forward": "mlCOIintF",
-        "reads": 12480857,
+        "reads": 12479920,
         "species": 514,
-        "asvs": 25550
+        "asvs": 25547
       },
       {
         "pcr_primer_name_forward": "teleo_F_L1848",
-        "reads": 7114339,
+        "reads": 7108663,
         "species": 88,
         "asvs": 6190
       }
@@ -69069,7 +69063,7 @@
       {
         "family": "Bellerocheaceae",
         "pcr_primer_name_forward": "mlCOIintF",
-        "reads": 414714
+        "reads": 414713
       },
       {
         "family": "Bellerocheaceae",
@@ -69264,7 +69258,7 @@
       {
         "family": "Callionymidae",
         "pcr_primer_name_forward": "MiMammal-UEB-F",
-        "reads": 96840
+        "reads": 96839
       },
       {
         "family": "Callionymidae",
@@ -69529,7 +69523,7 @@
       {
         "family": "Cicadellidae",
         "pcr_primer_name_forward": "mlCOIintF",
-        "reads": 522
+        "reads": 521
       },
       {
         "family": "Cicadidae",
@@ -69994,12 +69988,12 @@
       {
         "family": "Dorosomatidae",
         "pcr_primer_name_forward": "MiFish-UE-F",
-        "reads": 18947
+        "reads": 18946
       },
       {
         "family": "Dorosomatidae",
         "pcr_primer_name_forward": "MiMammal-UEB-F",
-        "reads": 53151
+        "reads": 53150
       },
       {
         "family": "Dorosomatidae",
@@ -70704,7 +70698,7 @@
       {
         "family": "Hominidae",
         "pcr_primer_name_forward": "teleo_F_L1848",
-        "reads": 187086
+        "reads": 186547
       },
       {
         "family": "Hydridae",
@@ -71004,7 +70998,7 @@
       {
         "family": "Lutjanidae",
         "pcr_primer_name_forward": "teleo_F_L1848",
-        "reads": 1564
+        "reads": 1562
       },
       {
         "family": "Lygaeidae",
@@ -71234,12 +71228,12 @@
       {
         "family": "Mugilidae",
         "pcr_primer_name_forward": "MiFish-UE-F",
-        "reads": 94052
+        "reads": 94050
       },
       {
         "family": "Mugilidae",
         "pcr_primer_name_forward": "MiMammal-UEB-F",
-        "reads": 93510
+        "reads": 93508
       },
       {
         "family": "Mugilidae",
@@ -71254,7 +71248,7 @@
       {
         "family": "Mugilidae",
         "pcr_primer_name_forward": "teleo_F_L1848",
-        "reads": 155194
+        "reads": 155193
       },
       {
         "family": "Mullidae",
@@ -72544,12 +72538,12 @@
       {
         "family": "Serranidae",
         "pcr_primer_name_forward": "MiFish-UE-F",
-        "reads": 9495
+        "reads": 9494
       },
       {
         "family": "Serranidae",
         "pcr_primer_name_forward": "MiMammal-UEB-F",
-        "reads": 13696
+        "reads": 13695
       },
       {
         "family": "Serranidae",
@@ -73099,7 +73093,7 @@
       {
         "family": "Trichocomaceae",
         "pcr_primer_name_forward": "mlCOIintF",
-        "reads": 360
+        "reads": 273
       },
       {
         "family": "Trichonotidae",
@@ -73318,23 +73312,23 @@
       },
       {
         "pcr_primer_name_forward": "MiFish-UE-F",
-        "reads": 6688868
+        "reads": 6688761
       },
       {
         "pcr_primer_name_forward": "MiMammal-UEB-F",
-        "reads": 4796968
+        "reads": 4796847
       },
       {
         "pcr_primer_name_forward": "Vert-16S-eDNA-F1",
-        "reads": 445505
+        "reads": 445463
       },
       {
         "pcr_primer_name_forward": "mlCOIintF",
-        "reads": 7871545
+        "reads": 7870697
       },
       {
         "pcr_primer_name_forward": "teleo_F_L1848",
-        "reads": 5096272
+        "reads": 5091138
       }
     ],
     "groups": {

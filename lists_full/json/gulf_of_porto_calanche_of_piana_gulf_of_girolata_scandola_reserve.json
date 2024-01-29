@@ -1,5 +1,5 @@
 {
-  "created": "2024-01-29T14:10:49",
+  "created": "2024-01-29T14:45:31",
   "species": [
     {
       "AphiaID": 149004,
@@ -163,7 +163,7 @@
       "genus": "Micromonas",
       "species": "Micromonas commoda",
       "remove": false,
-      "reads": 39804,
+      "reads": 39803,
       "asvs": 22,
       "target_gene": "12S;16S",
       "source_obis": false,
@@ -22468,12 +22468,6 @@
         "species": 22
       },
       {
-        "materialSampleID": "EE0314",
-        "reads": 40454,
-        "asvs": 167,
-        "species": 1
-      },
-      {
         "materialSampleID": "EE0322",
         "reads": 1662438,
         "asvs": 6149,
@@ -22481,48 +22475,42 @@
         "decimalLatitude": 42.3047,
         "sampleSize": 1010,
         "species": 44
-      },
-      {
-        "materialSampleID": "SC-blank",
-        "reads": 3366,
-        "asvs": 63,
-        "species": 0
       }
     ],
     "dna": {
-        "reads": 28398469,
-        "asvs": 19897
+        "reads": 28354649,
+        "asvs": 19869
       },
     "markers": [
       {
         "pcr_primer_name_forward": "MiFish-UE-F",
-        "reads": 1523200,
+        "reads": 1520786,
         "species": 23,
-        "asvs": 2501
+        "asvs": 2491
       },
       {
         "pcr_primer_name_forward": "MiMammal-UEB-F",
-        "reads": 1812288,
+        "reads": 1810557,
         "species": 42,
-        "asvs": 2622
+        "asvs": 2613
       },
       {
         "pcr_primer_name_forward": "Vert-16S-eDNA-F1",
-        "reads": 1273103,
+        "reads": 1265012,
         "species": 71,
-        "asvs": 1861
+        "asvs": 1860
       },
       {
         "pcr_primer_name_forward": "mlCOIintF",
-        "reads": 19647179,
+        "reads": 19638790,
         "species": 171,
-        "asvs": 11778
+        "asvs": 11764
       },
       {
         "pcr_primer_name_forward": "teleo_F_L1848",
-        "reads": 4142699,
+        "reads": 4119504,
         "species": 23,
-        "asvs": 3457
+        "asvs": 3454
       }
     ],
     "redlist": [
@@ -22667,7 +22655,7 @@
       {
         "family": "Aspergillaceae",
         "pcr_primer_name_forward": "mlCOIintF",
-        "reads": 100
+        "reads": 94
       },
       {
         "family": "Asterinidae",
@@ -22922,7 +22910,7 @@
       {
         "family": "Cicadellidae",
         "pcr_primer_name_forward": "mlCOIintF",
-        "reads": 199
+        "reads": 194
       },
       {
         "family": "Cichlidae",
@@ -22932,7 +22920,7 @@
       {
         "family": "Cladosporiaceae",
         "pcr_primer_name_forward": "mlCOIintF",
-        "reads": 12280
+        "reads": 12277
       },
       {
         "family": "Clariidae",
@@ -23252,7 +23240,7 @@
       {
         "family": "Hominidae",
         "pcr_primer_name_forward": "MiMammal-UEB-F",
-        "reads": 11439
+        "reads": 11438
       },
       {
         "family": "Hominidae",
@@ -23262,7 +23250,7 @@
       {
         "family": "Hominidae",
         "pcr_primer_name_forward": "teleo_F_L1848",
-        "reads": 116514
+        "reads": 115415
       },
       {
         "family": "Hymedesmiidae",
@@ -23352,7 +23340,7 @@
       {
         "family": "Mamiellaceae",
         "pcr_primer_name_forward": "teleo_F_L1848",
-        "reads": 3299
+        "reads": 3298
       },
       {
         "family": "Microcionidae",
@@ -23727,7 +23715,7 @@
       {
         "family": "Sciaridae",
         "pcr_primer_name_forward": "mlCOIintF",
-        "reads": 30
+        "reads": 28
       },
       {
         "family": "Scombridae",
@@ -23812,12 +23800,12 @@
       {
         "family": "Sparidae",
         "pcr_primer_name_forward": "MiFish-UE-F",
-        "reads": 309047
+        "reads": 309046
       },
       {
         "family": "Sparidae",
         "pcr_primer_name_forward": "MiMammal-UEB-F",
-        "reads": 318566
+        "reads": 318565
       },
       {
         "family": "Sparidae",
@@ -23832,7 +23820,7 @@
       {
         "family": "Sparidae",
         "pcr_primer_name_forward": "teleo_F_L1848",
-        "reads": 405963
+        "reads": 405961
       },
       {
         "family": "Spatangidae",
@@ -23987,7 +23975,7 @@
       {
         "family": "Trichocomaceae",
         "pcr_primer_name_forward": "mlCOIintF",
-        "reads": 2119
+        "reads": 305
       },
       {
         "family": "Trinchesiidae",
@@ -24046,23 +24034,23 @@
       },
       {
         "pcr_primer_name_forward": "MiFish-UE-F",
-        "reads": 1351704
+        "reads": 1349291
       },
       {
         "pcr_primer_name_forward": "MiMammal-UEB-F",
-        "reads": 1342318
+        "reads": 1340589
       },
       {
         "pcr_primer_name_forward": "Vert-16S-eDNA-F1",
-        "reads": 212925
+        "reads": 204834
       },
       {
         "pcr_primer_name_forward": "mlCOIintF",
-        "reads": 14471832
+        "reads": 14465273
       },
       {
         "pcr_primer_name_forward": "teleo_F_L1848",
-        "reads": 3606497
+        "reads": 3584404
       }
     ],
     "groups": {

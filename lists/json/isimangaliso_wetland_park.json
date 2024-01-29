@@ -1,5 +1,5 @@
 {
-  "created": "2024-01-29T14:10:52",
+  "created": "2024-01-29T14:45:34",
   "species": [
     {
       "AphiaID": 612073,
@@ -265,7 +265,7 @@
       "genus": "Bellerochea",
       "species": "Bellerochea polymorpha",
       "remove": false,
-      "reads": 416954,
+      "reads": 416953,
       "asvs": 33,
       "target_gene": "12S;16S;COI",
       "source_obis": false,
@@ -6412,7 +6412,7 @@
       "genus": "Callionymus",
       "species": "Callionymus enneactis",
       "remove": false,
-      "reads": 5,
+      "reads": 4,
       "asvs": 1,
       "target_gene": "12S",
       "source_obis": false,
@@ -7477,7 +7477,7 @@
       "genus": "Ethmalosa",
       "species": "Ethmalosa fimbriata",
       "remove": false,
-      "reads": 236,
+      "reads": 234,
       "asvs": 3,
       "target_gene": "12S;16S",
       "source_obis": false,
@@ -8625,7 +8625,7 @@
       "species": "Lutjanus fulviflamma",
       "remove": false,
       "records": 31,
-      "reads": 2482,
+      "reads": 2480,
       "asvs": 2,
       "max_year": 2007,
       "target_gene": "12S;16S",
@@ -10165,7 +10165,7 @@
       "species": "Mugil cephalus",
       "remove": false,
       "records": 16,
-      "reads": 39289,
+      "reads": 39288,
       "asvs": 15,
       "max_year": 1994,
       "target_gene": "12S;16S",
@@ -10206,7 +10206,7 @@
       "genus": "Mugil",
       "species": "Mugil liza",
       "remove": false,
-      "reads": 64904,
+      "reads": 64903,
       "asvs": 21,
       "target_gene": "12S",
       "source_obis": false,
@@ -14561,46 +14561,40 @@
         "decimalLatitude": -28.3752,
         "sampleSize": 1500,
         "species": 67
-      },
-      {
-        "materialSampleID": "SA-22",
-        "reads": 6829,
-        "asvs": 157,
-        "species": 6
       }
     ],
     "dna": {
-        "reads": 40898780,
-        "asvs": 45735
+        "reads": 40891951,
+        "asvs": 45732
       },
     "markers": [
       {
         "pcr_primer_name_forward": "MiFish-UE-F",
-        "reads": 9403578,
+        "reads": 9403530,
         "species": 148,
         "asvs": 8570
       },
       {
         "pcr_primer_name_forward": "MiMammal-UEB-F",
-        "reads": 8837307,
+        "reads": 8837181,
         "species": 210,
         "asvs": 8970
       },
       {
         "pcr_primer_name_forward": "Vert-16S-eDNA-F1",
-        "reads": 3062699,
+        "reads": 3062657,
         "species": 272,
         "asvs": 4072
       },
       {
         "pcr_primer_name_forward": "mlCOIintF",
-        "reads": 12480857,
+        "reads": 12479920,
         "species": 514,
-        "asvs": 25550
+        "asvs": 25547
       },
       {
         "pcr_primer_name_forward": "teleo_F_L1848",
-        "reads": 7114339,
+        "reads": 7108663,
         "species": 88,
         "asvs": 6190
       }

@@ -1,5 +1,5 @@
 {
-  "created": "2024-01-29T14:11:08",
+  "created": "2024-01-29T14:45:49",
   "species": [
     {
       "AphiaID": 149004,
@@ -78,7 +78,7 @@
       "genus": "Bellerochea",
       "species": "Bellerochea polymorpha",
       "remove": false,
-      "reads": 16525,
+      "reads": 16524,
       "asvs": 10,
       "target_gene": "12S;16S;COI",
       "source_obis": false,
@@ -146,7 +146,7 @@
       "genus": "Micromonas",
       "species": "Micromonas pusilla",
       "remove": false,
-      "reads": 2274957,
+      "reads": 2274956,
       "asvs": 103,
       "target_gene": "12S;16S;COI",
       "source_obis": false,
@@ -5016,7 +5016,7 @@
       "genus": "Hypoatherina",
       "species": "Hypoatherina temminckii",
       "remove": false,
-      "reads": 27580,
+      "reads": 27579,
       "asvs": 8,
       "target_gene": "12S;16S;COI",
       "source_obis": false,
@@ -5651,7 +5651,7 @@
       "species": "Sphyraena barracuda",
       "remove": false,
       "records": 4,
-      "reads": 3427,
+      "reads": 3209,
       "asvs": 5,
       "target_gene": "12S;COI",
       "source_obis": true,
@@ -5980,7 +5980,7 @@
       "genus": "Pelates",
       "species": "Pelates quadrilineatus",
       "remove": false,
-      "reads": 36,
+      "reads": 34,
       "asvs": 1,
       "target_gene": "12S",
       "source_obis": false,
@@ -6018,7 +6018,7 @@
       "genus": "Clupea",
       "species": "Clupea harengus",
       "remove": false,
-      "reads": 28,
+      "reads": 25,
       "asvs": 3,
       "target_gene": "12S;16S",
       "source_obis": false,
@@ -6077,7 +6077,7 @@
       "genus": "Engraulis",
       "species": "Engraulis ringens",
       "remove": false,
-      "reads": 8,
+      "reads": 6,
       "asvs": 1,
       "target_gene": "12S",
       "source_obis": false,
@@ -6097,7 +6097,7 @@
       "genus": "Ethmalosa",
       "species": "Ethmalosa fimbriata",
       "remove": false,
-      "reads": 136,
+      "reads": 131,
       "asvs": 3,
       "target_gene": "12S;16S",
       "source_obis": false,
@@ -6158,7 +6158,7 @@
       "genus": "Sprattus",
       "species": "Sprattus sprattus",
       "remove": false,
-      "reads": 35,
+      "reads": 31,
       "asvs": 1,
       "target_gene": "12S",
       "source_obis": false,
@@ -6221,7 +6221,7 @@
       "species": "Caesio caerulaurea",
       "remove": false,
       "records": 8,
-      "reads": 9662,
+      "reads": 9661,
       "asvs": 9,
       "target_gene": "12S;16S",
       "source_obis": true,
@@ -8621,7 +8621,7 @@
       "genus": "Mugil",
       "species": "Mugil bananensis",
       "remove": false,
-      "reads": 8,
+      "reads": 6,
       "asvs": 2,
       "target_gene": "12S",
       "source_obis": false,
@@ -8660,7 +8660,7 @@
       "genus": "Planiliza",
       "species": "Planiliza macrolepis",
       "remove": false,
-      "reads": 31,
+      "reads": 29,
       "asvs": 2,
       "target_gene": "12S;16S",
       "source_obis": false,
@@ -10491,7 +10491,7 @@
       "species": "Arothron nigropunctatus",
       "remove": false,
       "records": 8,
-      "reads": 26592,
+      "reads": 26591,
       "asvs": 11,
       "target_gene": "12S;16S;COI",
       "source_obis": true,
@@ -10819,7 +10819,7 @@
       "genus": "Mirounga",
       "species": "Mirounga leonina",
       "remove": false,
-      "reads": 100,
+      "reads": 75,
       "asvs": 2,
       "target_gene": "12S;16S",
       "source_obis": false,
@@ -13555,54 +13555,42 @@
         "decimalLatitude": 8.8045,
         "sampleSize": 1600,
         "species": 285
-      },
-      {
-        "materialSampleID": "EE0115",
-        "reads": 340850,
-        "asvs": 289,
-        "species": 12
-      },
-      {
-        "materialSampleID": "PH-INC",
-        "reads": 33116,
-        "asvs": 157,
-        "species": 2
       }
     ],
     "dna": {
-        "reads": 33074651,
-        "asvs": 38050
+        "reads": 32700685,
+        "asvs": 38035
       },
     "markers": [
       {
         "pcr_primer_name_forward": "MiFish-UE-F",
-        "reads": 4843068,
+        "reads": 4768770,
         "species": 128,
-        "asvs": 6035
+        "asvs": 6031
       },
       {
         "pcr_primer_name_forward": "MiMammal-UEB-F",
-        "reads": 5607052,
+        "reads": 5532473,
         "species": 208,
-        "asvs": 6190
+        "asvs": 6184
       },
       {
         "pcr_primer_name_forward": "Vert-16S-eDNA-F1",
-        "reads": 2393131,
+        "reads": 2376242,
         "species": 286,
         "asvs": 4296
       },
       {
         "pcr_primer_name_forward": "mlCOIintF",
-        "reads": 15217017,
+        "reads": 15212039,
         "species": 480,
-        "asvs": 20369
+        "asvs": 20362
       },
       {
         "pcr_primer_name_forward": "teleo_F_L1848",
-        "reads": 5014383,
+        "reads": 4811161,
         "species": 93,
-        "asvs": 6658
+        "asvs": 6656
       }
     ],
     "redlist": [

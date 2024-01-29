@@ -1,5 +1,5 @@
 {
-  "created": "2024-01-29T14:10:42",
+  "created": "2024-01-29T14:45:24",
   "species": [
     {
       "AphiaID": 149004,
@@ -27,7 +27,7 @@
       "genus": "Bellerochea",
       "species": "Bellerochea polymorpha",
       "remove": false,
-      "reads": 188693,
+      "reads": 188648,
       "asvs": 23,
       "target_gene": "12S;16S;COI",
       "source_obis": false,
@@ -112,7 +112,7 @@
       "genus": "Micromonas",
       "species": "Micromonas pusilla",
       "remove": false,
-      "reads": 259687,
+      "reads": 259686,
       "asvs": 28,
       "target_gene": "12S;16S;COI",
       "source_obis": false,
@@ -185,7 +185,7 @@
       "genus": "Chloropicon",
       "species": "Chloropicon roscoffensis",
       "remove": false,
-      "reads": 4936,
+      "reads": 4916,
       "asvs": 8,
       "target_gene": "12S;COI",
       "source_obis": false,
@@ -3269,7 +3269,7 @@
       "genus": "Harengula",
       "species": "Harengula humeralis",
       "remove": false,
-      "reads": 4,
+      "reads": 3,
       "asvs": 1,
       "target_gene": "12S",
       "source_obis": false,
@@ -3290,7 +3290,7 @@
       "species": "Harengula jaguana",
       "remove": false,
       "records": 1,
-      "reads": 321738,
+      "reads": 321737,
       "asvs": 49,
       "target_gene": "12S;16S",
       "source_obis": true,
@@ -5914,22 +5914,6 @@
       "source_dna": true
     },
     {
-      "AphiaID": 1489088,
-      "phylum": "Arthropoda",
-      "class": "Hexapoda",
-      "order": "Hemiptera",
-      "family": "Aleyrodidae",
-      "genus": "Bemisia",
-      "species": "Bemisia tabaci",
-      "remove": false,
-      "reads": 7,
-      "asvs": 1,
-      "target_gene": "16S",
-      "source_obis": false,
-      "source_gbif": false,
-      "source_dna": true
-    },
-    {
       "AphiaID": 437835,
       "phylum": "Basidiomycota",
       "class": "Agaricomycetes",
@@ -6108,12 +6092,6 @@
         "species": 177
       },
       {
-        "materialSampleID": "B-INC",
-        "reads": 20938,
-        "asvs": 134,
-        "species": 1
-      },
-      {
         "materialSampleID": "EE0431",
         "reads": 1365441,
         "asvs": 11899,
@@ -6121,12 +6099,6 @@
         "decimalLatitude": -3.8088,
         "sampleSize": 1320,
         "species": 138
-      },
-      {
-        "materialSampleID": "EE0445",
-        "reads": 851981,
-        "asvs": 489,
-        "species": 5
       },
       {
         "materialSampleID": "EE0455",
@@ -6139,39 +6111,39 @@
       }
     ],
     "dna": {
-        "reads": 19487435,
-        "asvs": 34254
+        "reads": 18614516,
+        "asvs": 34170
       },
     "markers": [
       {
         "pcr_primer_name_forward": "MiFish-UE-F",
-        "reads": 1450819,
+        "reads": 1297383,
         "species": 31,
-        "asvs": 3831
+        "asvs": 3803
       },
       {
         "pcr_primer_name_forward": "MiMammal-UEB-F",
-        "reads": 1705155,
+        "reads": 1557132,
         "species": 58,
-        "asvs": 4015
+        "asvs": 3984
       },
       {
         "pcr_primer_name_forward": "Vert-16S-eDNA-F1",
-        "reads": 1155694,
-        "species": 78,
-        "asvs": 2403
+        "reads": 1138516,
+        "species": 77,
+        "asvs": 2392
       },
       {
         "pcr_primer_name_forward": "mlCOIintF",
-        "reads": 12336957,
+        "reads": 12327635,
         "species": 287,
-        "asvs": 22870
+        "asvs": 22839
       },
       {
         "pcr_primer_name_forward": "teleo_F_L1848",
-        "reads": 2838810,
+        "reads": 2293850,
         "species": 26,
-        "asvs": 4715
+        "asvs": 4706
       }
     ],
     "redlist": [
@@ -6215,7 +6187,7 @@
       "obis": 821,
       "gbif": 618,
       "db": 1004,
-      "edna": 323,
+      "edna": 322,
       "both": 124
     }
   }
