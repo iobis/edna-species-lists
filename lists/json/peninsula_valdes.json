@@ -1,5 +1,5 @@
 {
-  "created": "2024-01-29T14:45:42",
+  "created": "2024-01-30T12:39:21",
   "species": [
     {
       "AphiaID": 149004,
@@ -1850,23 +1850,6 @@
       "group": "algae"
     },
     {
-      "AphiaID": 145179,
-      "phylum": "Rhodophyta",
-      "class": "Florideophyceae",
-      "order": "Corallinales",
-      "family": "Hapalidiaceae",
-      "genus": "Lithothamnion",
-      "species": "Lithothamnion tophiforme",
-      "remove": false,
-      "reads": 47,
-      "asvs": 1,
-      "target_gene": "COI",
-      "source_obis": false,
-      "source_gbif": false,
-      "source_dna": true,
-      "group": "algae"
-    },
-    {
       "AphiaID": 162919,
       "phylum": "Rhodophyta",
       "class": "Florideophyceae",
@@ -1927,6 +1910,23 @@
       "species": "Meridionella obtusangula",
       "remove": false,
       "reads": 4,
+      "asvs": 1,
+      "target_gene": "COI",
+      "source_obis": false,
+      "source_gbif": false,
+      "source_dna": true,
+      "group": "algae"
+    },
+    {
+      "AphiaID": 145179,
+      "phylum": "Rhodophyta",
+      "class": "Florideophyceae",
+      "order": "Hapalidiales",
+      "family": "Hapalidiaceae",
+      "genus": "Lithothamnion",
+      "species": "Lithothamnion tophiforme",
+      "remove": false,
+      "reads": 47,
       "asvs": 1,
       "target_gene": "COI",
       "source_obis": false,
@@ -6606,6 +6606,7 @@
       {
         "locality": "Peninsula Valdès",
         "materialSampleID": "EE0199",
+        "locationID": "valdes_station_1",
         "reads": 1914672,
         "asvs": 8113,
         "decimalLongitude": -63.6116,
@@ -6616,6 +6617,7 @@
       {
         "locality": "Peninsula Valdès",
         "materialSampleID": "EE0200",
+        "locationID": "valdes_station_3",
         "reads": 2479262,
         "asvs": 9947,
         "decimalLongitude": -64.6124,
@@ -6626,6 +6628,7 @@
       {
         "locality": "Peninsula Valdès",
         "materialSampleID": "EE0201",
+        "locationID": "valdes_station_1",
         "reads": 1617107,
         "asvs": 8397,
         "decimalLongitude": -63.6116,
@@ -6636,6 +6639,7 @@
       {
         "locality": "Peninsula Valdès",
         "materialSampleID": "EE0202",
+        "locationID": "valdes_station_1",
         "reads": 1084262,
         "asvs": 7145,
         "decimalLongitude": -63.6116,
@@ -6646,6 +6650,7 @@
       {
         "locality": "Peninsula Valdès",
         "materialSampleID": "EE0203",
+        "locationID": "valdes_station_1",
         "reads": 2590116,
         "asvs": 11322,
         "decimalLongitude": -63.6116,
@@ -6656,6 +6661,7 @@
       {
         "locality": "Peninsula Valdès",
         "materialSampleID": "EE0204",
+        "locationID": "valdes_station_4",
         "reads": 1992504,
         "asvs": 6964,
         "decimalLongitude": -64.9435,
@@ -6666,6 +6672,7 @@
       {
         "locality": "Peninsula Valdès",
         "materialSampleID": "EE0205",
+        "locationID": "valdes_station_2",
         "reads": 2872400,
         "asvs": 9043,
         "decimalLongitude": -63.603,
@@ -6676,6 +6683,7 @@
       {
         "locality": "Peninsula Valdès",
         "materialSampleID": "EE0206",
+        "locationID": "valdes_station_4",
         "reads": 1982831,
         "asvs": 5724,
         "decimalLongitude": -64.9435,
@@ -6686,6 +6694,7 @@
       {
         "locality": "Peninsula Valdès",
         "materialSampleID": "EE0216",
+        "locationID": "valdes_station_2",
         "reads": 1788227,
         "asvs": 11899,
         "decimalLongitude": -63.603,
@@ -6696,6 +6705,7 @@
       {
         "locality": "Peninsula Valdès",
         "materialSampleID": "EE0217",
+        "locationID": "valdes_station_2",
         "reads": 2118418,
         "asvs": 8878,
         "decimalLongitude": -63.603,
@@ -6706,6 +6716,7 @@
       {
         "locality": "Peninsula Valdès",
         "materialSampleID": "EE0218",
+        "locationID": "valdes_station_2",
         "reads": 3173178,
         "asvs": 12267,
         "decimalLongitude": -63.603,
@@ -6716,6 +6727,7 @@
       {
         "locality": "Peninsula Valdès",
         "materialSampleID": "EE0219",
+        "locationID": "valdes_station_4",
         "reads": 1992877,
         "asvs": 6248,
         "decimalLongitude": -64.9435,
@@ -6726,6 +6738,7 @@
       {
         "locality": "Peninsula Valdès",
         "materialSampleID": "EE0220",
+        "locationID": "valdes_station_5",
         "reads": 2936534,
         "asvs": 6523,
         "decimalLongitude": -64.6422,
@@ -6736,6 +6749,7 @@
       {
         "locality": "Peninsula Valdès",
         "materialSampleID": "EE0231",
+        "locationID": "valdes_station_3",
         "reads": 2720070,
         "asvs": 10721,
         "decimalLongitude": -64.6124,
@@ -6746,6 +6760,7 @@
       {
         "locality": "Peninsula Valdès",
         "materialSampleID": "EE0232",
+        "locationID": "valdes_station_5",
         "reads": 2464578,
         "asvs": 5454,
         "decimalLongitude": -64.6422,
@@ -6756,6 +6771,7 @@
       {
         "locality": "Peninsula Valdès",
         "materialSampleID": "EE0233",
+        "locationID": "valdes_station_3",
         "reads": 3043986,
         "asvs": 11671,
         "decimalLongitude": -64.6124,
@@ -6766,6 +6782,7 @@
       {
         "locality": "Peninsula Valdès",
         "materialSampleID": "EE0234",
+        "locationID": "valdes_station_3",
         "reads": 2040817,
         "asvs": 8712,
         "decimalLongitude": -64.6124,
@@ -6776,6 +6793,7 @@
       {
         "locality": "Peninsula Valdès",
         "materialSampleID": "EE0235",
+        "locationID": "valdes_station_4",
         "reads": 2533015,
         "asvs": 6488,
         "decimalLongitude": -64.9435,
@@ -6786,6 +6804,7 @@
       {
         "locality": "Peninsula Valdès",
         "materialSampleID": "EE0236",
+        "locationID": "valdes_station_5",
         "reads": 2655433,
         "asvs": 7434,
         "decimalLongitude": -64.6422,
@@ -6796,6 +6815,7 @@
       {
         "locality": "Peninsula Valdès",
         "materialSampleID": "EE0252",
+        "locationID": "valdes_station_5",
         "reads": 2668648,
         "asvs": 6496,
         "decimalLongitude": -64.6422,

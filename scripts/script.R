@@ -123,7 +123,8 @@ for (annotations_file in annotations_files) {
   aphiaid_replace <- aphiaid_replace %>%
     select(old_AphiaID = AphiaID, aphiaid = new_AphiaID) %>%
     left_join(replacement_taxa, by = c("aphiaid" = "valid_aphiaid")) %>%
-    mutate(site = site_name)
+    mutate(site = site_name) %>%
+    distinct()
   
   occurrence <- occurrence %>%
     mutate(old_AphiaID = aphiaid) %>%
@@ -295,7 +296,7 @@ for (site_name in sites) {
 
   sample_stats <- occurrence %>%
     filter(site == site_name & !remove_reads) %>%
-    group_by(locality, materialSampleID) %>%
+    group_by(locality, materialSampleID, locationID) %>%
     summarize(
       reads = sum(organismQuantity),
       asvs = n_distinct(DNA_sequence),
