@@ -1,5 +1,5 @@
 {
-  "created": "2024-01-30T12:39:16",
+  "created": "2024-02-08T16:49:55",
   "species": [
     {
       "AphiaID": 162258,
@@ -3932,23 +3932,6 @@
       "group": "algae"
     },
     {
-      "AphiaID": 841069,
-      "phylum": "Rhodophyta",
-      "class": "Florideophyceae",
-      "order": "Corallinales",
-      "family": "Mesophyllumaceae",
-      "genus": "Melyvonnea",
-      "species": "Melyvonnea erubescens",
-      "remove": false,
-      "reads": 16,
-      "asvs": 2,
-      "target_gene": "COI",
-      "source_obis": false,
-      "source_gbif": false,
-      "source_dna": true,
-      "group": "algae"
-    },
-    {
       "AphiaID": 145191,
       "phylum": "Rhodophyta",
       "class": "Florideophyceae",
@@ -4545,6 +4528,23 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
+      "group": "algae"
+    },
+    {
+      "AphiaID": 841069,
+      "phylum": "Rhodophyta",
+      "class": "Florideophyceae",
+      "order": "Hapalidiales",
+      "family": "Mesophyllumaceae",
+      "genus": "Melyvonnea",
+      "species": "Melyvonnea erubescens",
+      "remove": false,
+      "reads": 16,
+      "asvs": 2,
+      "target_gene": "COI",
+      "source_obis": false,
+      "source_gbif": false,
+      "source_dna": true,
       "group": "algae"
     },
     {
