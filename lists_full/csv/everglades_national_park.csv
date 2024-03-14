@@ -274,8 +274,7 @@
 283505,"Cnidaria","Anthozoa","Actiniaria","Boloceroididae","Bunodeopsis","Bunodeopsis antilliensis",FALSE,,,,,,FALSE,TRUE,FALSE,,,"stining mangrove anemone","cnidarians"
 283507,"Cnidaria","Anthozoa","Actiniaria","Boloceroididae","Bunodeopsis","Bunodeopsis globulifera",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"cnidarians"
 283419,"Cnidaria","Anthozoa","Actiniaria","Actiniidae","Condylactis","Condylactis gigantea",FALSE,,,,,,FALSE,TRUE,FALSE,,,"giant caribbean anemone","cnidarians"
-158230,"Cnidaria","Anthozoa","Actiniaria","Diadumenidae","Diadumene","Diadumene leucolena",FALSE,,4563,3,,"16S;COI",FALSE,FALSE,TRUE,,,"white anemone","cnidarians"
-1264073,"Cnidaria","Anthozoa","Actiniaria","Aiptasiidae","Exaiptasia","Exaiptasia diaphana",FALSE,,14586,8,,"16S;COI",FALSE,TRUE,TRUE,,,,"cnidarians"
+1264073,"Cnidaria","Anthozoa","Actiniaria","Aiptasiidae","Exaiptasia","Exaiptasia diaphana",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"cnidarians"
 283712,"Cnidaria","Anthozoa","Actiniaria","Phymanthidae","Phymanthus","Phymanthus crucifer",FALSE,,,,,,FALSE,TRUE,FALSE,,,"red beaded anemone","cnidarians"
 291182,"Cnidaria","Anthozoa","Antipatharia","Myriopathidae","Tanacetipathes","Tanacetipathes thamnea",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"cnidarians"
 367982,"Cnidaria","Anthozoa","Malacalcyonacea","Gorgoniidae","Antillogorgia","Antillogorgia acerosa",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"cnidarians"
@@ -314,9 +313,11 @@
 291055,"Cnidaria","Anthozoa","Scleractinia","Scleractinia incertae sedis","Solenastrea","Solenastrea hyades",FALSE,,,,,,FALSE,TRUE,FALSE,"LC","LC","knobby star coral","cnidarians"
 289534,"Cnidaria","Anthozoa","Scleralcyonacea","Briareidae","Briareum","Briareum asbestinum",FALSE,,,,,,FALSE,TRUE,FALSE,,,"corky sea finger","cnidarians"
 158282,"Cnidaria","Anthozoa","Spirularia","Cerianthidae","Ceriantheopsis","Ceriantheopsis americana",FALSE,,,,,,FALSE,TRUE,FALSE,,,"sand anemone","cnidarians"
-743536,"Cnidaria","Anthozoa","Zoantharia","Nanozoanthidae","Nanozoanthus","Nanozoanthus harenaceus",FALSE,,38,1,,"COI",FALSE,FALSE,TRUE,,,,"cnidarians"
 288456,"Cnidaria","Anthozoa","Zoantharia","Sphenopidae","Palythoa","Palythoa caribaeorum",FALSE,,,,,,FALSE,TRUE,FALSE,,,"encrusting colonial anemone","cnidarians"
 288840,"Cnidaria","Anthozoa","Zoantharia","Zoanthidae","Zoanthus","Zoanthus pulchellus",FALSE,,,,,,FALSE,TRUE,FALSE,,,"mat zoanthid","cnidarians"
+158230,"Cnidaria","Hexacorallia","Actiniaria","Diadumenidae","Diadumene","Diadumene leucolena",FALSE,,4563,3,,"16S;COI",FALSE,FALSE,TRUE,,,"white anemone","cnidarians"
+1264073,"Cnidaria","Hexacorallia","Actiniaria","Aiptasiidae","Exaiptasia","Exaiptasia diaphana",FALSE,,14586,8,,"16S;COI",FALSE,FALSE,TRUE,,,,"cnidarians"
+743536,"Cnidaria","Hexacorallia","Zoantharia","Nanozoanthidae","Nanozoanthus","Nanozoanthus harenaceus",FALSE,,38,1,,"COI",FALSE,FALSE,TRUE,,,,"cnidarians"
 210726,"Cnidaria","Hydrozoa","Anthoathecata","Milleporidae","Millepora","Millepora alcicornis",FALSE,,,,,,FALSE,TRUE,FALSE,"VU","VU","fire coral","cnidarians"
 287421,"Cnidaria","Hydrozoa","Anthoathecata","Milleporidae","Millepora","Millepora complanata",FALSE,,,,,,FALSE,TRUE,FALSE,"CR","CR","bladed fire coral","cnidarians"
 117802,"Cnidaria","Hydrozoa","Anthoathecata","Pennariidae","Pennaria","Pennaria disticha",FALSE,,,,,,FALSE,TRUE,FALSE,,,"feather hydroid","cnidarians"
@@ -2216,8 +2217,6 @@
 422564,"Chordata",,"Testudines","Emydidae","Malaclemys","Malaclemys terrapin",FALSE,,,,,,FALSE,TRUE,FALSE,"VU","VU","diamondback terrapin","turtles"
 120664,"Amoebozoa","Discosea","Dactylopodida","Vexilliferidae","Neoparamoeba","Neoparamoeba aestuarina",FALSE,,322,5,,"COI",FALSE,FALSE,TRUE,,,,"unicellular"
 1501261,"Amoebozoa","Myxogastrea","Physarida","Physaridae","Craterium","Craterium leucocephalum",FALSE,,60,3,,"16S",FALSE,FALSE,TRUE,,,,"unicellular"
-376277,"Cercozoa","Chlorarachnea","Chlorachniida","Chlorarachniaceae","Bigelowiella","Bigelowiella natans",FALSE,,20668,13,,"12S;16S;COI",FALSE,FALSE,TRUE,,,,"unicellular"
-376147,"Cercozoa","Chlorarachnea","Chlorachniida","Chlorarachniaceae","Chlorarachnion","Chlorarachnion reptans",FALSE,,19391,12,,"COI",FALSE,FALSE,TRUE,,,,"unicellular"
 109743,"Myzozoa","Dinophyceae","Amphidiniales","Amphidiniaceae","Amphidinium","Amphidinium massartii",FALSE,,1529,8,,"16S;COI",FALSE,FALSE,TRUE,,,,"unicellular"
 623628,"Myzozoa","Dinophyceae","Gonyaulacales","Ostreopsidaceae","Gambierdiscus","Gambierdiscus caribaeus",FALSE,1,,,2008,,TRUE,FALSE,FALSE,,,,"unicellular"
 233509,"Myzozoa","Dinophyceae","Gonyaulacales","Gonyaulacaceae","Gonyaulax","Gonyaulax ceratocoroides",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"unicellular"
@@ -2529,6 +2528,8 @@
 437785,"Basidiomycota","Agaricomycetes","Hymenochaetales","Hymenochaetaceae","Phellinus","Phellinus swieteniae",FALSE,,,,,,FALSE,TRUE,FALSE,,,,
 399468,"Charophyta","Charophyceae","Charales","Characeae","Chara","Chara canescens",FALSE,,,,,,FALSE,TRUE,FALSE,,,,
 623885,"Charophyta","Charophyceae","Charales","Characeae","Chara","Chara hornemannii",FALSE,,,,,,FALSE,TRUE,FALSE,,,,
+376277,"Chlorarachniophyta","Chlorarachniophyceae","Chlorarachniales","Chlorarachniaceae","Bigelowiella","Bigelowiella natans",FALSE,,20668,13,,"12S;16S;COI",FALSE,FALSE,TRUE,,,,
+376147,"Chlorarachniophyta","Chlorarachniophyceae","Chlorarachniales","Chlorarachniaceae","Chlorarachnion","Chlorarachnion reptans",FALSE,,19391,12,,"COI",FALSE,FALSE,TRUE,,,,
 886665,"Chordata","Crocodylia",,"Alligatoridae","Alligator","Alligator mississippiensis",FALSE,,,,,,FALSE,TRUE,FALSE,"LC","LC","American alligator",
 422566,"Chordata","Crocodylia",,"Crocodylidae","Crocodylus","Crocodylus acutus",FALSE,,,,,,FALSE,TRUE,FALSE,"VU","VU",,
 275402,"Chordata","Holostei","Lepisosteiformes","Lepisosteidae","Lepisosteus","Lepisosteus oculatus",FALSE,2,,,1940,,TRUE,TRUE,FALSE,"LC","LC","spotted gar, lépisosté tacheté",

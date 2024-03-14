@@ -1,5 +1,5 @@
 {
-  "created": "2024-02-10T09:17:48",
+  "created": "2024-03-14T20:14:41",
   "species": [
     {
       "AphiaID": 149004,
@@ -189,13 +189,13 @@
       "group": "algae"
     },
     {
-      "AphiaID": 115104,
+      "AphiaID": 236056,
       "phylum": "Haptophyta",
       "class": "Coccolithophyceae",
       "order": "Isochrysidales",
       "family": "Noelaerhabdaceae",
-      "genus": "Emiliania",
-      "species": "Emiliania huxleyi",
+      "genus": "Gephyrocapsa",
+      "species": "Gephyrocapsa huxleyi",
       "remove": false,
       "reads": 32682,
       "asvs": 9,
@@ -529,13 +529,13 @@
       "group": "algae"
     },
     {
-      "AphiaID": 144714,
+      "AphiaID": 239192,
       "phylum": "Rhodophyta",
       "class": "Florideophyceae",
       "order": "Ceramiales",
       "family": "Delesseriaceae",
       "genus": "Dasya",
-      "species": "Dasya baillouviana",
+      "species": "Dasya pedicellata",
       "remove": false,
       "reads": 7,
       "asvs": 1,
@@ -705,7 +705,7 @@
     {
       "AphiaID": 1264073,
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Actiniaria",
       "family": "Aiptasiidae",
       "genus": "Exaiptasia",
@@ -722,7 +722,7 @@
     {
       "AphiaID": 101053,
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Zoantharia",
       "family": "Parazoanthidae",
       "genus": "Isozoanthus",
@@ -3430,7 +3430,7 @@
       "phylum": "Myzozoa",
       "class": "Dinophyceae",
       "order": "Gonyaulacales",
-      "family": "Gonyaulacaceae",
+      "family": "Protoceratiaceae",
       "genus": "Protoceratium",
       "species": "Protoceratium reticulatum",
       "remove": false,

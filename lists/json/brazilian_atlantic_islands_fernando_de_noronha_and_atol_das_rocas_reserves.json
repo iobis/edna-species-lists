@@ -1,5 +1,5 @@
 {
-  "created": "2024-02-10T09:17:41",
+  "created": "2024-03-14T20:14:34",
   "species": [
     {
       "AphiaID": 149004,
@@ -46,6 +46,23 @@
       "remove": false,
       "reads": 17,
       "asvs": 1,
+      "target_gene": "COI",
+      "source_obis": false,
+      "source_gbif": false,
+      "source_dna": true,
+      "group": "algae"
+    },
+    {
+      "AphiaID": 1361158,
+      "phylum": "Chlorophyta",
+      "class": "Chloropicophyceae",
+      "order": "Chloropicales",
+      "family": "Chloropicaceae",
+      "genus": "Chloroparvula",
+      "species": "Chloroparvula pacifica",
+      "remove": false,
+      "reads": 167,
+      "asvs": 3,
       "target_gene": "COI",
       "source_obis": false,
       "source_gbif": false,
@@ -121,37 +138,6 @@
       "group": "algae"
     },
     {
-      "AphiaID": 375881,
-      "phylum": "Chlorophyta",
-      "class": "Pyramimonadophyceae",
-      "order": "Prasinococcales",
-      "family": "Prasinococcaceae",
-      "genus": "Prasinoderma",
-      "species": "Prasinoderma coloniale",
-      "remove": false,
-      "reads": 394,
-      "asvs": 5,
-      "target_gene": "COI",
-      "source_obis": false,
-      "source_gbif": false,
-      "source_dna": true,
-      "group": "algae"
-    },
-    {
-      "AphiaID": 1361158,
-      "phylum": "Chlorophyta",
-      "genus": "Chloroparvula",
-      "species": "Chloroparvula pacifica",
-      "remove": false,
-      "reads": 167,
-      "asvs": 3,
-      "target_gene": "COI",
-      "source_obis": false,
-      "source_gbif": false,
-      "source_dna": true,
-      "group": "algae"
-    },
-    {
       "AphiaID": 1361155,
       "phylum": "Chlorophyta",
       "genus": "Chloropicon",
@@ -208,13 +194,13 @@
       "group": "algae"
     },
     {
-      "AphiaID": 115104,
+      "AphiaID": 236056,
       "phylum": "Haptophyta",
       "class": "Coccolithophyceae",
       "order": "Isochrysidales",
       "family": "Noelaerhabdaceae",
-      "genus": "Emiliania",
-      "species": "Emiliania huxleyi",
+      "genus": "Gephyrocapsa",
+      "species": "Gephyrocapsa huxleyi",
       "remove": false,
       "reads": 59661,
       "asvs": 13,
@@ -545,23 +531,6 @@
       "remove": false,
       "reads": 1081,
       "asvs": 5,
-      "target_gene": "COI",
-      "source_obis": false,
-      "source_gbif": false,
-      "source_dna": true,
-      "group": "algae"
-    },
-    {
-      "AphiaID": 494801,
-      "phylum": "Ochrophyta",
-      "class": "Phaeophyceae",
-      "order": "Fucales",
-      "family": "Sargassaceae",
-      "genus": "Sargassum",
-      "species": "Sargassum vulgare",
-      "remove": false,
-      "reads": 526,
-      "asvs": 1,
       "target_gene": "COI",
       "source_obis": false,
       "source_gbif": false,
@@ -1223,44 +1192,24 @@
     {
       "AphiaID": 1264073,
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Actiniaria",
       "family": "Aiptasiidae",
       "genus": "Exaiptasia",
       "species": "Exaiptasia diaphana",
       "remove": false,
-      "records": 4,
       "reads": 312,
       "asvs": 2,
-      "target_gene": "COI",
-      "source_obis": true,
-      "source_gbif": true,
-      "source_dna": true,
-      "group": "cnidarians"
-    },
-    {
-      "AphiaID": 125338,
-      "phylum": "Cnidaria",
-      "class": "Anthozoa",
-      "order": "Malacalcyonacea",
-      "family": "Clavulariidae",
-      "genus": "Clavularia",
-      "species": "Clavularia crassa",
-      "remove": false,
-      "reads": 4,
-      "asvs": 1,
       "target_gene": "COI",
       "source_obis": false,
       "source_gbif": false,
       "source_dna": true,
-      "category": "LC",
-      "redlist_category": "LC",
       "group": "cnidarians"
     },
     {
       "AphiaID": 287111,
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Pocilloporidae",
       "genus": "Madracis",
@@ -1278,19 +1227,17 @@
     {
       "AphiaID": 287962,
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Montastraeidae",
       "genus": "Montastraea",
       "species": "Montastraea cavernosa",
       "remove": false,
-      "records": 125,
       "reads": 90,
       "asvs": 1,
-      "max_year": 2019,
       "target_gene": "COI",
-      "source_obis": true,
-      "source_gbif": true,
+      "source_obis": false,
+      "source_gbif": false,
       "source_dna": true,
       "category": "LC",
       "redlist_category": "LC",
@@ -1300,7 +1247,7 @@
     {
       "AphiaID": 207516,
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Rhizangiidae",
       "genus": "Siderastrea",
@@ -1573,6 +1520,25 @@
       "source_gbif": false,
       "source_dna": true,
       "vernacular": "American pipit",
+      "group": "cnidarians"
+    },
+    {
+      "AphiaID": 125338,
+      "phylum": "Cnidaria",
+      "class": "Octocorallia",
+      "order": "Malacalcyonacea",
+      "family": "Clavulariidae",
+      "genus": "Clavularia",
+      "species": "Clavularia crassa",
+      "remove": false,
+      "reads": 4,
+      "asvs": 1,
+      "target_gene": "COI",
+      "source_obis": false,
+      "source_gbif": false,
+      "source_dna": true,
+      "category": "LC",
+      "redlist_category": "LC",
       "group": "cnidarians"
     },
     {
@@ -5582,45 +5548,11 @@
       "group": "unicellular"
     },
     {
-      "AphiaID": 376277,
-      "phylum": "Cercozoa",
-      "class": "Chlorarachnea",
-      "order": "Chlorachniida",
-      "family": "Chlorarachniaceae",
-      "genus": "Bigelowiella",
-      "species": "Bigelowiella natans",
-      "remove": false,
-      "reads": 1147,
-      "asvs": 8,
-      "target_gene": "16S;COI",
-      "source_obis": false,
-      "source_gbif": false,
-      "source_dna": true,
-      "group": "unicellular"
-    },
-    {
-      "AphiaID": 376147,
-      "phylum": "Cercozoa",
-      "class": "Chlorarachnea",
-      "order": "Chlorachniida",
-      "family": "Chlorarachniaceae",
-      "genus": "Chlorarachnion",
-      "species": "Chlorarachnion reptans",
-      "remove": false,
-      "reads": 178,
-      "asvs": 4,
-      "target_gene": "COI",
-      "source_obis": false,
-      "source_gbif": false,
-      "source_dna": true,
-      "group": "unicellular"
-    },
-    {
       "AphiaID": 840029,
       "phylum": "Myzozoa",
       "class": "Dinophyceae",
       "order": "Suessiales",
-      "family": "Biecheleriaceae",
+      "family": "Suessiaceae",
       "genus": "Biecheleria",
       "species": "Biecheleria cincta",
       "remove": false,
@@ -5930,6 +5862,38 @@
       "source_dna": true
     },
     {
+      "AphiaID": 376277,
+      "phylum": "Chlorarachniophyta",
+      "class": "Chlorarachniophyceae",
+      "order": "Chlorarachniales",
+      "family": "Chlorarachniaceae",
+      "genus": "Bigelowiella",
+      "species": "Bigelowiella natans",
+      "remove": false,
+      "reads": 1147,
+      "asvs": 8,
+      "target_gene": "16S;COI",
+      "source_obis": false,
+      "source_gbif": false,
+      "source_dna": true
+    },
+    {
+      "AphiaID": 376147,
+      "phylum": "Chlorarachniophyta",
+      "class": "Chlorarachniophyceae",
+      "order": "Chlorarachniales",
+      "family": "Chlorarachniaceae",
+      "genus": "Chlorarachnion",
+      "species": "Chlorarachnion reptans",
+      "remove": false,
+      "reads": 178,
+      "asvs": 4,
+      "target_gene": "COI",
+      "source_obis": false,
+      "source_gbif": false,
+      "source_dna": true
+    },
+    {
       "AphiaID": 221006,
       "phylum": "Chordata",
       "class": "Leptocardii",
@@ -5975,6 +5939,22 @@
       "source_gbif": false,
       "source_dna": true,
       "vernacular": "Hawaiian acorn worm"
+    },
+    {
+      "AphiaID": 375881,
+      "phylum": "Prasinodermatophyta",
+      "class": "Prasinodermatophyceae",
+      "order": "Prasinodermatales",
+      "family": "Prasinodermataceae",
+      "genus": "Prasinoderma",
+      "species": "Prasinoderma coloniale",
+      "remove": false,
+      "reads": 394,
+      "asvs": 5,
+      "target_gene": "COI",
+      "source_obis": false,
+      "source_gbif": false,
+      "source_dna": true
     },
     {
       "AphiaID": 103429,
@@ -6066,7 +6046,7 @@
         "decimalLongitude": -32.4241,
         "decimalLatitude": -3.8713,
         "sampleSize": 1500,
-        "species": 139
+        "species": 138
       },
       {
         "locality": "Sueste",
@@ -6077,7 +6057,7 @@
         "decimalLongitude": -32.4242,
         "decimalLatitude": -3.8713,
         "sampleSize": 1500,
-        "species": 174
+        "species": 173
       },
       {
         "locality": "Sueste",
@@ -6088,7 +6068,7 @@
         "decimalLongitude": -32.4241,
         "decimalLatitude": -3.8712,
         "sampleSize": 1260,
-        "species": 164
+        "species": 163
       },
       {
         "locality": "Sueste",
@@ -6099,7 +6079,7 @@
         "decimalLongitude": -32.4241,
         "decimalLatitude": -3.8713,
         "sampleSize": 1380,
-        "species": 177
+        "species": 176
       },
       {
         "materialSampleID": "EE0431",
@@ -6148,7 +6128,7 @@
       {
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 12327635,
-        "species": 287,
+        "species": 286,
         "asvs": 22839
       },
       {
@@ -6179,7 +6159,7 @@
       }
     ],
     "groups_edna": {
-        "algae": 70,
+        "algae": 68,
         "birds": 2,
         "cnidarians": 21,
         "copepods": 4,
@@ -6192,15 +6172,15 @@
         "sea squirts": 1,
         "sponges": 39,
         "turtles": 1,
-        "unicellular": 5,
+        "unicellular": 3,
         "worms": 15
       },
     "source": {
       "obis": 821,
       "gbif": 618,
       "db": 1004,
-      "edna": 322,
-      "both": 124
+      "edna": 321,
+      "both": 122
     }
   }
 }

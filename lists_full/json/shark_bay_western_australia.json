@@ -1,5 +1,5 @@
 {
-  "created": "2024-02-10T09:18:01",
+  "created": "2024-03-14T20:14:55",
   "species": [
     {
       "AphiaID": 847411,
@@ -1039,13 +1039,13 @@
       "group": "algae"
     },
     {
-      "AphiaID": 115104,
+      "AphiaID": 236056,
       "phylum": "Haptophyta",
       "class": "Coccolithophyceae",
       "order": "Isochrysidales",
       "family": "Noelaerhabdaceae",
-      "genus": "Emiliania",
-      "species": "Emiliania huxleyi",
+      "genus": "Gephyrocapsa",
+      "species": "Gephyrocapsa huxleyi",
       "remove": false,
       "reads": 1525,
       "asvs": 6,
@@ -1583,23 +1583,6 @@
       "species": "Pinguiococcus pyrenoidosus",
       "remove": false,
       "reads": 48,
-      "asvs": 1,
-      "target_gene": "COI",
-      "source_obis": false,
-      "source_gbif": false,
-      "source_dna": true,
-      "group": "algae"
-    },
-    {
-      "AphiaID": 233780,
-      "phylum": "Ochrophyta",
-      "class": "Raphidophyceae",
-      "order": "Chattonellales",
-      "family": "Vacuolariaceae",
-      "genus": "Chattonella",
-      "species": "Chattonella marina",
-      "remove": false,
-      "reads": 262,
       "asvs": 1,
       "target_gene": "COI",
       "source_obis": false,
@@ -2178,11 +2161,25 @@
       "genus": "Neogoniolithon",
       "species": "Neogoniolithon brassica-florida",
       "remove": false,
+      "source_obis": false,
+      "source_gbif": true,
+      "source_dna": false,
+      "group": "algae"
+    },
+    {
+      "AphiaID": 145191,
+      "phylum": "Rhodophyta",
+      "class": "Florideophyceae",
+      "order": "Corallinales",
+      "family": "Spongitidaceae",
+      "genus": "Neogoniolithon",
+      "species": "Neogoniolithon brassica-florida",
+      "remove": false,
       "reads": 3,
       "asvs": 1,
       "target_gene": "COI",
       "source_obis": false,
-      "source_gbif": true,
+      "source_gbif": false,
       "source_dna": true,
       "group": "algae"
     },
@@ -4318,12 +4315,9 @@
       "species": "Boloceroides mcmurrichi",
       "remove": false,
       "records": 2,
-      "reads": 22,
-      "asvs": 1,
-      "target_gene": "COI",
       "source_obis": true,
       "source_gbif": true,
-      "source_dna": true,
+      "source_dna": false,
       "group": "cnidarians"
     },
     {
@@ -6882,6 +6876,23 @@
       "group": "cnidarians"
     },
     {
+      "AphiaID": 288925,
+      "phylum": "Cnidaria",
+      "class": "Hexacorallia",
+      "order": "Actiniaria",
+      "family": "Boloceroididae",
+      "genus": "Boloceroides",
+      "species": "Boloceroides mcmurrichi",
+      "remove": false,
+      "reads": 22,
+      "asvs": 1,
+      "target_gene": "COI",
+      "source_obis": false,
+      "source_gbif": false,
+      "source_dna": true,
+      "group": "cnidarians"
+    },
+    {
       "AphiaID": 117328,
       "phylum": "Cnidaria",
       "class": "Hydrozoa",
@@ -8661,7 +8672,7 @@
       "phylum": "Arthropoda",
       "class": "Malacostraca",
       "order": "Decapoda",
-      "family": "Calcinidae",
+      "family": "Diogenidae",
       "genus": "Calcinus",
       "species": "Calcinus dapsiles",
       "remove": false,
@@ -8669,22 +8680,8 @@
       "asvs": 2,
       "target_gene": "COI",
       "source_obis": false,
-      "source_gbif": false,
-      "source_dna": true,
-      "group": "crustaceans"
-    },
-    {
-      "AphiaID": 367435,
-      "phylum": "Arthropoda",
-      "class": "Malacostraca",
-      "order": "Decapoda",
-      "family": "Diogenidae",
-      "genus": "Calcinus",
-      "species": "Calcinus dapsiles",
-      "remove": false,
-      "source_obis": false,
       "source_gbif": true,
-      "source_dna": false,
+      "source_dna": true,
       "group": "crustaceans"
     },
     {
@@ -43579,40 +43576,6 @@
       "group": "unicellular"
     },
     {
-      "AphiaID": 376277,
-      "phylum": "Cercozoa",
-      "class": "Chlorarachnea",
-      "order": "Chlorachniida",
-      "family": "Chlorarachniaceae",
-      "genus": "Bigelowiella",
-      "species": "Bigelowiella natans",
-      "remove": false,
-      "reads": 7085,
-      "asvs": 11,
-      "target_gene": "COI",
-      "source_obis": false,
-      "source_gbif": false,
-      "source_dna": true,
-      "group": "unicellular"
-    },
-    {
-      "AphiaID": 376147,
-      "phylum": "Cercozoa",
-      "class": "Chlorarachnea",
-      "order": "Chlorachniida",
-      "family": "Chlorarachniaceae",
-      "genus": "Chlorarachnion",
-      "species": "Chlorarachnion reptans",
-      "remove": false,
-      "reads": 290,
-      "asvs": 4,
-      "target_gene": "COI",
-      "source_obis": false,
-      "source_gbif": false,
-      "source_dna": true,
-      "group": "unicellular"
-    },
-    {
       "AphiaID": 233273,
       "phylum": "Myzozoa",
       "class": "Dinophyceae",
@@ -45161,6 +45124,38 @@
       "source_dna": false
     },
     {
+      "AphiaID": 376277,
+      "phylum": "Chlorarachniophyta",
+      "class": "Chlorarachniophyceae",
+      "order": "Chlorarachniales",
+      "family": "Chlorarachniaceae",
+      "genus": "Bigelowiella",
+      "species": "Bigelowiella natans",
+      "remove": false,
+      "reads": 7085,
+      "asvs": 11,
+      "target_gene": "COI",
+      "source_obis": false,
+      "source_gbif": false,
+      "source_dna": true
+    },
+    {
+      "AphiaID": 376147,
+      "phylum": "Chlorarachniophyta",
+      "class": "Chlorarachniophyceae",
+      "order": "Chlorarachniales",
+      "family": "Chlorarachniaceae",
+      "genus": "Chlorarachnion",
+      "species": "Chlorarachnion reptans",
+      "remove": false,
+      "reads": 290,
+      "asvs": 4,
+      "target_gene": "COI",
+      "source_obis": false,
+      "source_gbif": false,
+      "source_dna": true
+    },
+    {
       "AphiaID": 344637,
       "phylum": "Chordata",
       "order": "Squamata",
@@ -45912,7 +45907,7 @@
         "decimalLongitude": 113.6197,
         "decimalLatitude": -25.9283,
         "sampleSize": 1500,
-        "species": 93
+        "species": 92
       },
       {
         "locality": "Fowlers Camp Shark Bay",
@@ -45945,7 +45940,7 @@
         "decimalLongitude": 113.6198,
         "decimalLatitude": -26.1042,
         "sampleSize": 1500,
-        "species": 107
+        "species": 106
       },
       {
         "locality": "Fowlers camp",
@@ -45956,7 +45951,7 @@
         "decimalLongitude": 113.6197,
         "decimalLatitude": -26.1043,
         "sampleSize": 1500,
-        "species": 94
+        "species": 93
       },
       {
         "locality": "Monkey Mia seagrass banks Western Australia",
@@ -45967,7 +45962,7 @@
         "decimalLongitude": 113.5351,
         "decimalLatitude": -25.9284,
         "sampleSize": 1500,
-        "species": 92
+        "species": 91
       },
       {
         "locality": "Monkey Mia, Western Australia, Australia",
@@ -45978,7 +45973,7 @@
         "decimalLongitude": 113.5351,
         "decimalLatitude": -25.9284,
         "sampleSize": 1500,
-        "species": 88
+        "species": 87
       },
       {
         "locality": "Monkey Mia, Western Australia, Australia",
@@ -45989,7 +45984,7 @@
         "decimalLongitude": 113.5351,
         "decimalLatitude": -25.9284,
         "sampleSize": 1500,
-        "species": 103
+        "species": 102
       },
       {
         "locality": "Petit Point",
@@ -46044,7 +46039,7 @@
         "decimalLongitude": 113.5351,
         "decimalLatitude": -25.9283,
         "sampleSize": 1500,
-        "species": 105
+        "species": 104
       },
       {
         "locality": "Shark Bay; Debault Creek",
@@ -46055,7 +46050,7 @@
         "decimalLongitude": 113.7242,
         "decimalLatitude": -25.8637,
         "sampleSize": 1500,
-        "species": 77
+        "species": 76
       },
       {
         "locality": "Shark Bay; Debault Creek",
@@ -46066,7 +46061,7 @@
         "decimalLongitude": 113.7242,
         "decimalLatitude": -25.8637,
         "sampleSize": 1500,
-        "species": 82
+        "species": 81
       },
       {
         "locality": "Shark Bay; Debault Creek",
@@ -46085,6 +46080,8 @@
         "locationID": "petit_point",
         "reads": 2703226,
         "asvs": 3587,
+        "decimalLongitude": 113.9075,
+        "decimalLatitude": -26.1006,
         "sampleSize": 1500,
         "species": 52
       },
@@ -46137,7 +46134,7 @@
       {
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 7444200,
-        "species": 181,
+        "species": 180,
         "asvs": 13004
       },
       {
@@ -46549,11 +46546,6 @@
         "reads": 4394
       },
       {
-        "family": "Calcinidae",
-        "pcr_primer_name_forward": "mlCOIintF",
-        "reads": 367
-      },
-      {
         "family": "Callionymidae",
         "pcr_primer_name_forward": "MiFish-UE-F",
         "reads": 2086
@@ -46754,6 +46746,11 @@
         "reads": 163
       },
       {
+        "family": "Chattonellaceae",
+        "pcr_primer_name_forward": "mlCOIintF",
+        "reads": 262
+      },
+      {
         "family": "Cheloniidae",
         "pcr_primer_name_forward": "MiMammal-UEB-F",
         "reads": 280
@@ -46777,6 +46774,16 @@
         "family": "Chlorarachniaceae",
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 7375
+      },
+      {
+        "family": "Chloropicaceae",
+        "pcr_primer_name_forward": "MiMammal-UEB-F",
+        "reads": 5
+      },
+      {
+        "family": "Chloropicaceae",
+        "pcr_primer_name_forward": "mlCOIintF",
+        "reads": 748
       },
       {
         "family": "Chordariaceae",
@@ -46991,7 +46998,7 @@
       {
         "family": "Diogenidae",
         "pcr_primer_name_forward": "mlCOIintF",
-        "reads": 4
+        "reads": 371
       },
       {
         "family": "Discosporangiaceae",
@@ -48224,7 +48231,7 @@
         "reads": 41
       },
       {
-        "family": "Prasinococcaceae",
+        "family": "Prasinodermataceae",
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 846
       },
@@ -48639,7 +48646,7 @@
         "reads": 6
       },
       {
-        "family": "Spongitaceae",
+        "family": "Spongitidaceae",
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 3
       },
@@ -48906,7 +48913,7 @@
       {
         "family": "Vacuolariaceae",
         "pcr_primer_name_forward": "mlCOIintF",
-        "reads": 280
+        "reads": 18
       },
       {
         "family": "Vannellidae",
@@ -48979,7 +48986,7 @@
       },
       {
         "pcr_primer_name_forward": "MiMammal-UEB-F",
-        "reads": 4665751
+        "reads": 4665746
       },
       {
         "pcr_primer_name_forward": "Vert-16S-eDNA-F1",
@@ -48987,7 +48994,7 @@
       },
       {
         "pcr_primer_name_forward": "mlCOIintF",
-        "reads": 6980846
+        "reads": 6980098
       },
       {
         "pcr_primer_name_forward": "teleo_F_L1848",
@@ -48998,9 +49005,9 @@
         "algae": 166,
         "arrow worms": 4,
         "birds": 97,
-        "cnidarians": 180,
+        "cnidarians": 181,
         "copepods": 23,
-        "crustaceans": 220,
+        "crustaceans": 219,
         "echinoderms": 110,
         "fish": 987,
         "fungi": 2,
@@ -49010,11 +49017,11 @@
         "sea squirts": 34,
         "sponges": 83,
         "turtles": 2,
-        "unicellular": 13,
+        "unicellular": 11,
         "worms": 76
       },
     "groups_edna": {
-        "algae": 49,
+        "algae": 48,
         "birds": 1,
         "cnidarians": 6,
         "copepods": 6,
@@ -49027,15 +49034,15 @@
         "sea squirts": 1,
         "sponges": 11,
         "turtles": 1,
-        "unicellular": 5,
+        "unicellular": 3,
         "worms": 2
       },
     "source": {
       "obis": 1908,
       "gbif": 2325,
       "db": 2653,
-      "edna": 289,
-      "both": 155
+      "edna": 288,
+      "both": 154
     }
   }
 }

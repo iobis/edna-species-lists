@@ -14,12 +14,11 @@
 489112,"Bacillariophyta","Bacillariophyceae","Thalassiosirales","Skeletonemaceae","Skeletonema","Skeletonema dohrnii",FALSE,,176,2,,"16S;COI",FALSE,FALSE,TRUE,,,,"algae"
 148931,"Bacillariophyta","Bacillariophyceae","Thalassiosirales","Thalassiosiraceae","Thalassiosira","Thalassiosira nordenskioeldii",FALSE,,33,2,,"16S",FALSE,FALSE,TRUE,,,,"algae"
 148942,"Bacillariophyta","Bacillariophyceae","Thalassiosirales","Thalassiosiraceae","Thalassiosira","Thalassiosira rotula",FALSE,,17772,3,,"12S;16S",FALSE,FALSE,TRUE,,,,"algae"
+1361158,"Chlorophyta","Chloropicophyceae","Chloropicales","Chloropicaceae","Chloroparvula","Chloroparvula pacifica",FALSE,,3519,12,,"COI",FALSE,FALSE,TRUE,,,,"algae"
 345459,"Chlorophyta","Mamiellophyceae","Mamiellales","Bathycoccaceae","Bathycoccus","Bathycoccus prasinos",FALSE,,91547,81,,"16S;COI",FALSE,FALSE,TRUE,,,,"algae"
 1361174,"Chlorophyta","Mamiellophyceae","Mamiellales","Mamiellaceae","Micromonas","Micromonas commoda",FALSE,,191,1,,"12S",FALSE,FALSE,TRUE,,,,"algae"
 134564,"Chlorophyta","Mamiellophyceae","Mamiellales","Mamiellaceae","Micromonas","Micromonas pusilla",FALSE,,746998,64,,"12S;16S;COI",FALSE,FALSE,TRUE,,,,"algae"
-375881,"Chlorophyta","Pyramimonadophyceae","Prasinococcales","Prasinococcaceae","Prasinoderma","Prasinoderma coloniale",FALSE,,1,1,,"COI",FALSE,FALSE,TRUE,,,,"algae"
-1361158,"Chlorophyta",,,,"Chloroparvula","Chloroparvula pacifica",FALSE,,3519,12,,"COI",FALSE,FALSE,TRUE,,,,"algae"
-115104,"Haptophyta","Coccolithophyceae","Isochrysidales","Noelaerhabdaceae","Emiliania","Emiliania huxleyi",FALSE,,6585,3,,"16S;COI",FALSE,FALSE,TRUE,,,,"algae"
+236056,"Haptophyta","Coccolithophyceae","Isochrysidales","Noelaerhabdaceae","Gephyrocapsa","Gephyrocapsa huxleyi",FALSE,,6585,3,,"16S;COI",FALSE,FALSE,TRUE,,,,"algae"
 341585,"Haptophyta","Coccolithophyceae","Phaeocystales","Phaeocystaceae","Phaeocystis","Phaeocystis antarctica",FALSE,,666,1,,"COI",FALSE,FALSE,TRUE,,,,"algae"
 341388,"Ochrophyta","Bolidophyceae","Parmales","Triparmaceae","Triparma","Triparma laevis",FALSE,,129,3,,"16S;COI",FALSE,FALSE,TRUE,,,,"algae"
 1310442,"Ochrophyta","Dictyochophyceae","Dictyochales","Dictyochaceae","Octactis","Octactis speculum",FALSE,,87,1,,"COI",FALSE,FALSE,TRUE,,,,"algae"
@@ -153,7 +152,7 @@
 529750,"Porifera","Demospongiae","Suberitida","Stylocordylidae","Stylocordyla","Stylocordyla chupachups",FALSE,,3,1,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
 170139,"Porifera","Demospongiae","Tetractinellida","Geodiidae","Geodia","Geodia libera",FALSE,,5,1,,"COI",FALSE,FALSE,TRUE,,,,"sponges"
 120633,"Amoebozoa","Discosea","Himatismenida","Himatismenida incertae sedis","Parvamoeba","Parvamoeba rugata",FALSE,,54,2,,"COI",FALSE,FALSE,TRUE,,,,"unicellular"
-233024,"Myzozoa","Dinophyceae","Gymnodiniales","Brachidiniaceae","Karenia","Karenia mikimotoi",FALSE,,11,1,,"COI",FALSE,FALSE,TRUE,,,,"unicellular"
+233024,"Myzozoa","Dinophyceae","Gymnodiniales","Kareniaceae","Karenia","Karenia mikimotoi",FALSE,,11,1,,"COI",FALSE,FALSE,TRUE,,,,"unicellular"
 110152,"Myzozoa","Dinophyceae","Peridiniales","Heterocapsaceae","Heterocapsa","Heterocapsa rotundata",FALSE,,2460,4,,"16S;COI",FALSE,FALSE,TRUE,,,,"unicellular"
 1320683,"Annelida","Clitellata","Enchytraeida","Enchytraeidae","Cognettia","Cognettia varisetosa",FALSE,,16,1,,"COI",FALSE,FALSE,TRUE,,,,"worms"
 475841,"Annelida","Clitellata","Enchytraeida","Enchytraeidae","Lumbricillus","Lumbricillus antarcticus",FALSE,,13,1,,"COI",FALSE,FALSE,TRUE,,,,"worms"
@@ -173,6 +172,7 @@
 994592,"Arthropoda","Hexapoda",,"Hypogastruridae","Ceratophysella","Ceratophysella denticulata",FALSE,,6,1,,"COI",FALSE,FALSE,TRUE,,,,
 994594,"Arthropoda","Hexapoda",,"Hypogastruridae","Hypogastrura","Hypogastrura purpurescens",FALSE,,9,1,,"COI",FALSE,FALSE,TRUE,,,,
 118137,"Arthropoda","Hexapoda",,"Hypogastruridae","Hypogastrura","Hypogastrura viatica",FALSE,,2468,7,,"12S;COI",FALSE,TRUE,TRUE,,,,
-104012,"Bigyra","Bicoecea","Bicoecida","Cafeteriaceae","Cafeteria","Cafeteria roenbergensis",FALSE,,3,1,,"COI",FALSE,FALSE,TRUE,,,,
-573829,"Cryptophyta","Cryptophyceae","Cryptomonadales","Hemiselmidaceae","Chroomonas","Chroomonas placoidea",FALSE,,80,1,,"COI",FALSE,FALSE,TRUE,,,,
+104012,"Bigyra","Bicosoecophyceae","Caecitellales","Cafeteriaceae","Cafeteria","Cafeteria roenbergensis",FALSE,,3,1,,"COI",FALSE,FALSE,TRUE,,,,
+573829,"Cryptophyta","Cryptophyceae","Pyrenomonadales","Hemiselmidaceae","Chroomonas","Chroomonas placoidea",FALSE,,80,1,,"COI",FALSE,FALSE,TRUE,,,,
 466393,"Foraminifera","Globothalamea","Rotaliida","Virgulinellidae","Virgulinella","Virgulinella fragilis",FALSE,,69,1,,"16S",FALSE,TRUE,TRUE,,,,
+375881,"Prasinodermatophyta","Prasinodermatophyceae","Prasinodermatales","Prasinodermataceae","Prasinoderma","Prasinoderma coloniale",FALSE,,1,1,,"COI",FALSE,FALSE,TRUE,,,,

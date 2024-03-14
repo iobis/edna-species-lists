@@ -1,5 +1,5 @@
 {
-  "created": "2024-02-10T09:17:58",
+  "created": "2024-03-14T20:14:52",
   "species": [
     {
       "AphiaID": 464444,
@@ -391,13 +391,13 @@
       "group": "algae"
     },
     {
-      "AphiaID": 115104,
+      "AphiaID": 236056,
       "phylum": "Haptophyta",
       "class": "Coccolithophyceae",
       "order": "Isochrysidales",
       "family": "Noelaerhabdaceae",
-      "genus": "Emiliania",
-      "species": "Emiliania huxleyi",
+      "genus": "Gephyrocapsa",
+      "species": "Gephyrocapsa huxleyi",
       "remove": false,
       "reads": 35027,
       "asvs": 8,
@@ -1385,12 +1385,9 @@
       "genus": "Polysiphonia",
       "species": "Polysiphonia morrowii",
       "remove": false,
-      "reads": 9616,
-      "asvs": 6,
-      "target_gene": "16S;COI",
       "source_obis": false,
       "source_gbif": true,
-      "source_dna": true,
+      "source_dna": false,
       "group": "algae"
     },
     {
@@ -3216,23 +3213,6 @@
       "group": "cnidarians"
     },
     {
-      "AphiaID": 128537,
-      "phylum": "Cnidaria",
-      "class": "Anthozoa",
-      "order": "Scleralcyonacea",
-      "family": "Virgulariidae",
-      "genus": "Stylatula",
-      "species": "Stylatula elegans",
-      "remove": false,
-      "reads": 9294,
-      "asvs": 4,
-      "target_gene": "COI",
-      "source_obis": false,
-      "source_gbif": false,
-      "source_dna": true,
-      "group": "cnidarians"
-    },
-    {
       "AphiaID": 286700,
       "phylum": "Cnidaria",
       "class": "Anthozoa",
@@ -3263,27 +3243,9 @@
       "group": "cnidarians"
     },
     {
-      "AphiaID": 128539,
-      "phylum": "Cnidaria",
-      "class": "Anthozoa",
-      "order": "Scleralcyonacea",
-      "family": "Virgulariidae",
-      "genus": "Virgularia",
-      "species": "Virgularia mirabilis",
-      "remove": false,
-      "reads": 15,
-      "asvs": 1,
-      "target_gene": "16S",
-      "source_obis": false,
-      "source_gbif": false,
-      "source_dna": true,
-      "vernacular": "elegant sea pen, pennatule magnifique",
-      "group": "cnidarians"
-    },
-    {
       "AphiaID": 101053,
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Zoantharia",
       "family": "Parazoanthidae",
       "genus": "Isozoanthus",
@@ -3656,6 +3618,41 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
+      "group": "cnidarians"
+    },
+    {
+      "AphiaID": 128537,
+      "phylum": "Cnidaria",
+      "class": "Octocorallia",
+      "order": "Scleralcyonacea",
+      "family": "Virgulariidae",
+      "genus": "Stylatula",
+      "species": "Stylatula elegans",
+      "remove": false,
+      "reads": 9294,
+      "asvs": 4,
+      "target_gene": "COI",
+      "source_obis": false,
+      "source_gbif": false,
+      "source_dna": true,
+      "group": "cnidarians"
+    },
+    {
+      "AphiaID": 128539,
+      "phylum": "Cnidaria",
+      "class": "Octocorallia",
+      "order": "Scleralcyonacea",
+      "family": "Virgulariidae",
+      "genus": "Virgularia",
+      "species": "Virgularia mirabilis",
+      "remove": false,
+      "reads": 15,
+      "asvs": 1,
+      "target_gene": "16S",
+      "source_obis": false,
+      "source_gbif": false,
+      "source_dna": true,
+      "vernacular": "elegant sea pen, pennatule magnifique",
       "group": "cnidarians"
     },
     {
@@ -10296,19 +10293,33 @@
       "AphiaID": 109603,
       "phylum": "Myzozoa",
       "class": "Dinophyceae",
+      "order": "Dinophysales",
+      "family": "Dinophysaceae",
+      "genus": "Dinophysis",
+      "species": "Dinophysis acuminata",
+      "remove": false,
+      "reads": 12,
+      "asvs": 1,
+      "target_gene": "COI",
+      "source_obis": false,
+      "source_gbif": false,
+      "source_dna": true,
+      "group": "unicellular"
+    },
+    {
+      "AphiaID": 109603,
+      "phylum": "Myzozoa",
+      "class": "Dinophyceae",
       "order": "Dinophysiales",
       "family": "Dinophysaceae",
       "genus": "Dinophysis",
       "species": "Dinophysis acuminata",
       "remove": false,
       "records": 2,
-      "reads": 12,
-      "asvs": 1,
       "max_year": 1996,
-      "target_gene": "COI",
       "source_obis": true,
       "source_gbif": false,
-      "source_dna": true,
+      "source_dna": false,
       "group": "unicellular"
     },
     {
@@ -12002,7 +12013,7 @@
         "decimalLongitude": -63.6116,
         "decimalLatitude": -42.4608,
         "sampleSize": 1800,
-        "species": 107
+        "species": 106
       },
       {
         "locality": "Peninsula Valdès",
@@ -12013,7 +12024,7 @@
         "decimalLongitude": -64.6124,
         "decimalLatitude": -42.4235,
         "sampleSize": 1620,
-        "species": 85
+        "species": 84
       },
       {
         "locality": "Peninsula Valdès",
@@ -12024,7 +12035,7 @@
         "decimalLongitude": -63.6116,
         "decimalLatitude": -42.4608,
         "sampleSize": 1620,
-        "species": 106
+        "species": 105
       },
       {
         "locality": "Peninsula Valdès",
@@ -12035,7 +12046,7 @@
         "decimalLongitude": -63.6116,
         "decimalLatitude": -42.4608,
         "sampleSize": 1800,
-        "species": 101
+        "species": 100
       },
       {
         "locality": "Peninsula Valdès",
@@ -12046,7 +12057,7 @@
         "decimalLongitude": -63.6116,
         "decimalLatitude": -42.4608,
         "sampleSize": 1800,
-        "species": 107
+        "species": 106
       },
       {
         "locality": "Peninsula Valdès",
@@ -12057,7 +12068,7 @@
         "decimalLongitude": -64.9435,
         "decimalLatitude": -42.6393,
         "sampleSize": 1620,
-        "species": 63
+        "species": 62
       },
       {
         "locality": "Peninsula Valdès",
@@ -12079,7 +12090,7 @@
         "decimalLongitude": -64.9435,
         "decimalLatitude": -42.6393,
         "sampleSize": 1800,
-        "species": 54
+        "species": 53
       },
       {
         "locality": "Peninsula Valdès",
@@ -12090,7 +12101,7 @@
         "decimalLongitude": -63.603,
         "decimalLatitude": -42.5215,
         "sampleSize": 1620,
-        "species": 86
+        "species": 85
       },
       {
         "locality": "Peninsula Valdès",
@@ -12112,7 +12123,7 @@
         "decimalLongitude": -63.603,
         "decimalLatitude": -42.5215,
         "sampleSize": 1800,
-        "species": 104
+        "species": 103
       },
       {
         "locality": "Peninsula Valdès",
@@ -12123,7 +12134,7 @@
         "decimalLongitude": -64.9435,
         "decimalLatitude": -42.6393,
         "sampleSize": 1800,
-        "species": 52
+        "species": 51
       },
       {
         "locality": "Peninsula Valdès",
@@ -12134,7 +12145,7 @@
         "decimalLongitude": -64.6422,
         "decimalLatitude": -42.5083,
         "sampleSize": 1800,
-        "species": 45
+        "species": 44
       },
       {
         "locality": "Peninsula Valdès",
@@ -12145,7 +12156,7 @@
         "decimalLongitude": -64.6124,
         "decimalLatitude": -42.4235,
         "sampleSize": 1800,
-        "species": 97
+        "species": 96
       },
       {
         "locality": "Peninsula Valdès",
@@ -12156,7 +12167,7 @@
         "decimalLongitude": -64.6422,
         "decimalLatitude": -42.5083,
         "sampleSize": 1800,
-        "species": 45
+        "species": 44
       },
       {
         "locality": "Peninsula Valdès",
@@ -12167,7 +12178,7 @@
         "decimalLongitude": -64.6124,
         "decimalLatitude": -42.4235,
         "sampleSize": 1800,
-        "species": 101
+        "species": 100
       },
       {
         "locality": "Peninsula Valdès",
@@ -12178,7 +12189,7 @@
         "decimalLongitude": -64.6124,
         "decimalLatitude": -42.4235,
         "sampleSize": 1680,
-        "species": 90
+        "species": 89
       },
       {
         "locality": "Peninsula Valdès",
@@ -12211,7 +12222,7 @@
         "decimalLongitude": -64.6422,
         "decimalLatitude": -42.5083,
         "sampleSize": 1800,
-        "species": 60
+        "species": 59
       }
     ],
     "dna": {
@@ -12234,13 +12245,13 @@
       {
         "pcr_primer_name_forward": "Vert-16S-eDNA-F1",
         "reads": 2836693,
-        "species": 77,
+        "species": 76,
         "asvs": 2845
       },
       {
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 18246197,
-        "species": 211,
+        "species": 210,
         "asvs": 18077
       },
       {
@@ -12935,6 +12946,11 @@
         "family": "Chitonidae",
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 129
+      },
+      {
+        "family": "Chloropicaceae",
+        "pcr_primer_name_forward": "mlCOIintF",
+        "reads": 26
       },
       {
         "family": "Chondropsidae",
@@ -14462,7 +14478,7 @@
         "reads": 41
       },
       {
-        "family": "Prasinococcaceae",
+        "family": "Prasinodermataceae",
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 17
       },
@@ -14583,13 +14599,8 @@
       },
       {
         "family": "Rhodomelaceae",
-        "pcr_primer_name_forward": "Vert-16S-eDNA-F1",
-        "reads": 10
-      },
-      {
-        "family": "Rhodomelaceae",
         "pcr_primer_name_forward": "mlCOIintF",
-        "reads": 16903
+        "reads": 7297
       },
       {
         "family": "Rhodophysemataceae",
@@ -15216,11 +15227,11 @@
       },
       {
         "pcr_primer_name_forward": "Vert-16S-eDNA-F1",
-        "reads": 454941
+        "reads": 454951
       },
       {
         "pcr_primer_name_forward": "mlCOIintF",
-        "reads": 9980080
+        "reads": 9989660
       },
       {
         "pcr_primer_name_forward": "teleo_F_L1848",
@@ -15243,11 +15254,11 @@
         "sea squirts": 16,
         "sponges": 15,
         "turtles": 1,
-        "unicellular": 12,
+        "unicellular": 13,
         "worms": 53
       },
     "groups_edna": {
-        "algae": 72,
+        "algae": 71,
         "birds": 9,
         "cnidarians": 17,
         "copepods": 5,
@@ -15267,8 +15278,8 @@
       "obis": 309,
       "gbif": 568,
       "db": 617,
-      "edna": 215,
-      "both": 80
+      "edna": 214,
+      "both": 78
     }
   }
 }

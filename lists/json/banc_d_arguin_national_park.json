@@ -1,5 +1,5 @@
 {
-  "created": "2024-02-10T09:17:40",
+  "created": "2024-03-14T20:14:32",
   "species": [
     {
       "AphiaID": 149004,
@@ -359,23 +359,6 @@
       "group": "algae"
     },
     {
-      "AphiaID": 375881,
-      "phylum": "Chlorophyta",
-      "class": "Pyramimonadophyceae",
-      "order": "Prasinococcales",
-      "family": "Prasinococcaceae",
-      "genus": "Prasinoderma",
-      "species": "Prasinoderma coloniale",
-      "remove": false,
-      "reads": 223,
-      "asvs": 1,
-      "target_gene": "COI",
-      "source_obis": false,
-      "source_gbif": false,
-      "source_dna": true,
-      "group": "algae"
-    },
-    {
       "AphiaID": 526636,
       "phylum": "Chlorophyta",
       "class": "Ulvophyceae",
@@ -393,13 +376,13 @@
       "group": "algae"
     },
     {
-      "AphiaID": 115104,
+      "AphiaID": 236056,
       "phylum": "Haptophyta",
       "class": "Coccolithophyceae",
       "order": "Isochrysidales",
       "family": "Noelaerhabdaceae",
-      "genus": "Emiliania",
-      "species": "Emiliania huxleyi",
+      "genus": "Gephyrocapsa",
+      "species": "Gephyrocapsa huxleyi",
       "remove": false,
       "reads": 32520,
       "asvs": 4,
@@ -548,28 +531,11 @@
       "group": "algae"
     },
     {
-      "AphiaID": 233780,
-      "phylum": "Ochrophyta",
-      "class": "Raphidophyceae",
-      "order": "Chattonellales",
-      "family": "Vacuolariaceae",
-      "genus": "Chattonella",
-      "species": "Chattonella marina",
-      "remove": false,
-      "reads": 1016,
-      "asvs": 5,
-      "target_gene": "12S;COI",
-      "source_obis": false,
-      "source_gbif": false,
-      "source_dna": true,
-      "group": "algae"
-    },
-    {
       "AphiaID": 246590,
       "phylum": "Ochrophyta",
       "class": "Raphidophyceae",
       "order": "Chattonellales",
-      "family": "Vacuolariaceae",
+      "family": "Chattonellaceae",
       "genus": "Chattonella",
       "species": "Chattonella subsalsa",
       "remove": false,
@@ -3918,40 +3884,6 @@
       "group": "unicellular"
     },
     {
-      "AphiaID": 376277,
-      "phylum": "Cercozoa",
-      "class": "Chlorarachnea",
-      "order": "Chlorachniida",
-      "family": "Chlorarachniaceae",
-      "genus": "Bigelowiella",
-      "species": "Bigelowiella natans",
-      "remove": false,
-      "reads": 13611,
-      "asvs": 4,
-      "target_gene": "COI",
-      "source_obis": false,
-      "source_gbif": false,
-      "source_dna": true,
-      "group": "unicellular"
-    },
-    {
-      "AphiaID": 376147,
-      "phylum": "Cercozoa",
-      "class": "Chlorarachnea",
-      "order": "Chlorachniida",
-      "family": "Chlorarachniaceae",
-      "genus": "Chlorarachnion",
-      "species": "Chlorarachnion reptans",
-      "remove": false,
-      "reads": 121,
-      "asvs": 3,
-      "target_gene": "COI",
-      "source_obis": false,
-      "source_gbif": false,
-      "source_dna": true,
-      "group": "unicellular"
-    },
-    {
       "AphiaID": 110152,
       "phylum": "Myzozoa",
       "class": "Dinophyceae",
@@ -3973,7 +3905,7 @@
       "phylum": "Myzozoa",
       "class": "Dinophyceae",
       "order": "Suessiales",
-      "family": "Biecheleriaceae",
+      "family": "Suessiaceae",
       "genus": "Biecheleria",
       "species": "Biecheleria cincta",
       "remove": false,
@@ -4140,6 +4072,38 @@
       "group": "worms"
     },
     {
+      "AphiaID": 376277,
+      "phylum": "Chlorarachniophyta",
+      "class": "Chlorarachniophyceae",
+      "order": "Chlorarachniales",
+      "family": "Chlorarachniaceae",
+      "genus": "Bigelowiella",
+      "species": "Bigelowiella natans",
+      "remove": false,
+      "reads": 13611,
+      "asvs": 4,
+      "target_gene": "COI",
+      "source_obis": false,
+      "source_gbif": false,
+      "source_dna": true
+    },
+    {
+      "AphiaID": 376147,
+      "phylum": "Chlorarachniophyta",
+      "class": "Chlorarachniophyceae",
+      "order": "Chlorarachniales",
+      "family": "Chlorarachniaceae",
+      "genus": "Chlorarachnion",
+      "species": "Chlorarachnion reptans",
+      "remove": false,
+      "reads": 121,
+      "asvs": 3,
+      "target_gene": "COI",
+      "source_obis": false,
+      "source_gbif": false,
+      "source_dna": true
+    },
+    {
       "AphiaID": 1361130,
       "phylum": "Cryptophyta",
       "class": "Cryptophyceae",
@@ -4167,6 +4131,22 @@
       "source_obis": false,
       "source_gbif": false,
       "source_dna": true
+    },
+    {
+      "AphiaID": 375881,
+      "phylum": "Prasinodermatophyta",
+      "class": "Prasinodermatophyceae",
+      "order": "Prasinodermatales",
+      "family": "Prasinodermataceae",
+      "genus": "Prasinoderma",
+      "species": "Prasinoderma coloniale",
+      "remove": false,
+      "reads": 223,
+      "asvs": 1,
+      "target_gene": "COI",
+      "source_obis": false,
+      "source_gbif": false,
+      "source_dna": true
     }
   ],
   "stats": {
@@ -4180,7 +4160,7 @@
         "decimalLongitude": -16.2915,
         "decimalLatitude": 19.8809,
         "sampleSize": 1500,
-        "species": 123
+        "species": 122
       },
       {
         "locality": "PNBA",
@@ -4191,7 +4171,7 @@
         "decimalLongitude": -16.3959,
         "decimalLatitude": 19.9129,
         "sampleSize": 1500,
-        "species": 143
+        "species": 142
       },
       {
         "locality": "PNBA",
@@ -4202,7 +4182,7 @@
         "decimalLongitude": -16.3979,
         "decimalLatitude": 19.9136,
         "sampleSize": 1500,
-        "species": 102
+        "species": 101
       },
       {
         "locality": "PNBA",
@@ -4213,7 +4193,7 @@
         "decimalLongitude": -16.2915,
         "decimalLatitude": 19.8809,
         "sampleSize": 1500,
-        "species": 127
+        "species": 126
       },
       {
         "locality": "PNBA",
@@ -4224,7 +4204,7 @@
         "decimalLongitude": -16.2915,
         "decimalLatitude": 19.8809,
         "sampleSize": 1500,
-        "species": 122
+        "species": 121
       },
       {
         "locality": "PNBA",
@@ -4235,7 +4215,7 @@
         "decimalLongitude": -16.2915,
         "decimalLatitude": 19.8809,
         "sampleSize": 1500,
-        "species": 103
+        "species": 102
       },
       {
         "locality": "PNBA",
@@ -4246,7 +4226,7 @@
         "decimalLongitude": -16.2915,
         "decimalLatitude": 19.8809,
         "sampleSize": 1500,
-        "species": 138
+        "species": 137
       },
       {
         "locality": "PNBA",
@@ -4257,7 +4237,7 @@
         "decimalLongitude": -16.2915,
         "decimalLatitude": 19.8809,
         "sampleSize": 1500,
-        "species": 128
+        "species": 127
       },
       {
         "locality": "PNBA",
@@ -4268,7 +4248,7 @@
         "decimalLongitude": -16.2915,
         "decimalLatitude": 19.8809,
         "sampleSize": 1500,
-        "species": 93
+        "species": 92
       },
       {
         "locality": "PNBA",
@@ -4279,7 +4259,7 @@
         "decimalLongitude": -16.2915,
         "decimalLatitude": 19.8809,
         "sampleSize": 1500,
-        "species": 139
+        "species": 138
       },
       {
         "locality": "PNBA",
@@ -4290,7 +4270,7 @@
         "decimalLongitude": -16.2915,
         "decimalLatitude": 19.8809,
         "sampleSize": 1500,
-        "species": 117
+        "species": 116
       },
       {
         "locality": "PNBA",
@@ -4301,7 +4281,7 @@
         "decimalLongitude": -16.2915,
         "decimalLatitude": 19.8809,
         "sampleSize": 1500,
-        "species": 116
+        "species": 115
       },
       {
         "locality": "PNBA",
@@ -4312,7 +4292,7 @@
         "decimalLongitude": -16.2915,
         "decimalLatitude": 19.8809,
         "sampleSize": 1500,
-        "species": 114
+        "species": 113
       },
       {
         "locality": "PNBA",
@@ -4334,7 +4314,7 @@
         "decimalLongitude": -16.2915,
         "decimalLatitude": 19.8809,
         "sampleSize": 1500,
-        "species": 112
+        "species": 111
       },
       {
         "locality": "PNBA",
@@ -4345,7 +4325,7 @@
         "decimalLongitude": -16.2915,
         "decimalLatitude": 19.8809,
         "sampleSize": 1500,
-        "species": 97
+        "species": 96
       },
       {
         "locality": "PNBA",
@@ -4378,7 +4358,7 @@
         "decimalLongitude": -16.2915,
         "decimalLatitude": 19.8809,
         "sampleSize": 1500,
-        "species": 96
+        "species": 95
       },
       {
         "locality": "PNBA",
@@ -4389,7 +4369,7 @@
         "decimalLongitude": -16.2915,
         "decimalLatitude": 19.8809,
         "sampleSize": 1500,
-        "species": 114
+        "species": 113
       }
     ],
     "dna": {
@@ -4418,13 +4398,13 @@
       {
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 6197169,
-        "species": 166,
+        "species": 165,
         "asvs": 8716
       },
       {
         "pcr_primer_name_forward": "teleo_F_L1848",
         "reads": 23925030,
-        "species": 38,
+        "species": 37,
         "asvs": 3776
       }
     ],
@@ -4449,7 +4429,7 @@
       }
     ],
     "groups_edna": {
-        "algae": 38,
+        "algae": 36,
         "birds": 16,
         "cnidarians": 12,
         "copepods": 5,
@@ -4463,14 +4443,14 @@
         "sea squirts": 1,
         "sponges": 6,
         "turtles": 1,
-        "unicellular": 5,
+        "unicellular": 3,
         "worms": 9
       },
     "source": {
       "obis": 372,
       "gbif": 467,
       "db": 536,
-      "edna": 222,
+      "edna": 221,
       "both": 83
     }
   }

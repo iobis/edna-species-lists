@@ -1,5 +1,5 @@
 {
-  "created": "2024-02-10T09:18:06",
+  "created": "2024-03-14T20:15:02",
   "species": [
     {
       "AphiaID": 149004,
@@ -605,13 +605,13 @@
       "group": "algae"
     },
     {
-      "AphiaID": 115104,
+      "AphiaID": 236056,
       "phylum": "Haptophyta",
       "class": "Coccolithophyceae",
       "order": "Isochrysidales",
       "family": "Noelaerhabdaceae",
-      "genus": "Emiliania",
-      "species": "Emiliania huxleyi",
+      "genus": "Gephyrocapsa",
+      "species": "Gephyrocapsa huxleyi",
       "remove": false,
       "reads": 1885,
       "asvs": 4,
@@ -845,23 +845,6 @@
       "target_gene": "COI",
       "source_obis": true,
       "source_gbif": true,
-      "source_dna": true,
-      "group": "algae"
-    },
-    {
-      "AphiaID": 233780,
-      "phylum": "Ochrophyta",
-      "class": "Raphidophyceae",
-      "order": "Chattonellales",
-      "family": "Vacuolariaceae",
-      "genus": "Chattonella",
-      "species": "Chattonella marina",
-      "remove": false,
-      "reads": 16,
-      "asvs": 1,
-      "target_gene": "COI",
-      "source_obis": false,
-      "source_gbif": false,
       "source_dna": true,
       "group": "algae"
     },
@@ -1825,19 +1808,17 @@
     {
       "AphiaID": 100982,
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Actiniaria",
       "family": "Metridiidae",
       "genus": "Metridium",
       "species": "Metridium senile",
       "remove": false,
-      "records": 4,
       "reads": 11,
       "asvs": 1,
-      "max_year": 1991,
       "target_gene": "16S",
-      "source_obis": true,
-      "source_gbif": true,
+      "source_obis": false,
+      "source_gbif": false,
       "source_dna": true,
       "vernacular": "clonal plumose anemone, oeillet de mer",
       "group": "cnidarians"
@@ -2206,31 +2187,13 @@
       "phylum": "Ctenophora",
       "class": "Tentaculata",
       "order": "Lobata",
-      "family": "Bolinidae",
-      "genus": "Mnemiopsis",
-      "species": "Mnemiopsis leidyi",
-      "remove": false,
-      "reads": 382,
-      "asvs": 4,
-      "target_gene": "12S;COI",
-      "source_obis": false,
-      "source_gbif": false,
-      "source_dna": true,
-      "vernacular": "sea walnut, cténophore américain ",
-      "group": "cnidarians"
-    },
-    {
-      "AphiaID": 106401,
-      "phylum": "Ctenophora",
-      "class": "Tentaculata",
-      "order": "Lobata",
       "family": "Bolinopsidae",
       "genus": "Mnemiopsis",
       "species": "Mnemiopsis leidyi",
       "remove": false,
       "records": 302,
-      "reads": 421,
-      "asvs": 5,
+      "reads": 803,
+      "asvs": 7,
       "max_year": 2013,
       "target_gene": "12S;COI",
       "source_obis": true,
@@ -6021,7 +5984,7 @@
       {
         "locality": "Wadden Sea",
         "materialSampleID": "EE0223",
-        "locationID": "wilhelmshaven",
+        "locationID": "den_oever",
         "reads": 12365,
         "asvs": 160,
         "decimalLongitude": 4.9988,
@@ -6049,7 +6012,7 @@
         "decimalLongitude": 5.0002,
         "decimalLatitude": 52.9738,
         "sampleSize": 1500,
-        "species": 98
+        "species": 97
       },
       {
         "locality": "Wadden Sea; NL",
@@ -6082,7 +6045,7 @@
         "decimalLongitude": 5.0002,
         "decimalLatitude": 52.9732,
         "sampleSize": 1500,
-        "species": 92
+        "species": 91
       },
       {
         "locality": "Wadden Sea; Schleswig-Holstein",
@@ -6170,7 +6133,7 @@
         "decimalLongitude": 8.1529,
         "decimalLatitude": 53.5133,
         "sampleSize": 1500,
-        "species": 89
+        "species": 88
       },
       {
         "locality": "Wilhelmshaven",
@@ -6178,6 +6141,8 @@
         "locationID": "wilhelmshaven",
         "reads": 144144,
         "asvs": 340,
+        "decimalLongitude": 8.1528,
+        "decimalLatitude": 53.5133,
         "sampleSize": 1400,
         "species": 12
       },
@@ -6187,6 +6152,8 @@
         "locationID": "wilhelmshaven",
         "reads": 1884004,
         "asvs": 7472,
+        "decimalLongitude": 8.1528,
+        "decimalLatitude": 53.5133,
         "sampleSize": 1500,
         "species": 103
       },
@@ -6196,6 +6163,8 @@
         "locationID": "wilhelmshaven",
         "reads": 826823,
         "asvs": 1450,
+        "decimalLongitude": 8.1528,
+        "decimalLatitude": 53.5133,
         "sampleSize": 840,
         "species": 19
       },
@@ -6205,6 +6174,8 @@
         "locationID": "wilhelmshaven",
         "reads": 1490690,
         "asvs": 4456,
+        "decimalLongitude": 8.1528,
+        "decimalLatitude": 53.5133,
         "sampleSize": 1800,
         "species": 59
       },
@@ -6275,7 +6246,7 @@
       {
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 10801387,
-        "species": 244,
+        "species": 243,
         "asvs": 10447
       },
       {
@@ -6308,10 +6279,10 @@
       }
     ],
     "groups_edna": {
-        "algae": 58,
+        "algae": 57,
         "amphibians": 1,
         "birds": 36,
-        "cnidarians": 22,
+        "cnidarians": 21,
         "copepods": 12,
         "crustaceans": 22,
         "echinoderms": 4,
@@ -6328,8 +6299,8 @@
       "obis": 2059,
       "gbif": 2421,
       "db": 3393,
-      "edna": 306,
-      "both": 228
+      "edna": 304,
+      "both": 227
     }
   }
 }

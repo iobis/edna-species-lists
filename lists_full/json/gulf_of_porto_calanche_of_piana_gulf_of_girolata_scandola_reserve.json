@@ -1,5 +1,5 @@
 {
-  "created": "2024-02-10T09:17:48",
+  "created": "2024-03-14T20:14:41",
   "species": [
     {
       "AphiaID": 149004,
@@ -441,13 +441,13 @@
       "group": "algae"
     },
     {
-      "AphiaID": 115104,
+      "AphiaID": 236056,
       "phylum": "Haptophyta",
       "class": "Coccolithophyceae",
       "order": "Isochrysidales",
       "family": "Noelaerhabdaceae",
-      "genus": "Emiliania",
-      "species": "Emiliania huxleyi",
+      "genus": "Gephyrocapsa",
+      "species": "Gephyrocapsa huxleyi",
       "remove": false,
       "reads": 32682,
       "asvs": 9,
@@ -1131,13 +1131,13 @@
       "group": "algae"
     },
     {
-      "AphiaID": 144714,
+      "AphiaID": 239192,
       "phylum": "Rhodophyta",
       "class": "Florideophyceae",
       "order": "Ceramiales",
       "family": "Delesseriaceae",
       "genus": "Dasya",
-      "species": "Dasya baillouviana",
+      "species": "Dasya pedicellata",
       "remove": false,
       "reads": 7,
       "asvs": 1,
@@ -2442,23 +2442,6 @@
       "group": "cnidarians"
     },
     {
-      "AphiaID": 1264073,
-      "phylum": "Cnidaria",
-      "class": "Anthozoa",
-      "order": "Actiniaria",
-      "family": "Aiptasiidae",
-      "genus": "Exaiptasia",
-      "species": "Exaiptasia diaphana",
-      "remove": false,
-      "reads": 11,
-      "asvs": 1,
-      "target_gene": "COI",
-      "source_obis": false,
-      "source_gbif": false,
-      "source_dna": true,
-      "group": "cnidarians"
-    },
-    {
       "AphiaID": 100972,
       "phylum": "Cnidaria",
       "class": "Anthozoa",
@@ -2772,23 +2755,6 @@
       "group": "cnidarians"
     },
     {
-      "AphiaID": 101053,
-      "phylum": "Cnidaria",
-      "class": "Anthozoa",
-      "order": "Zoantharia",
-      "family": "Parazoanthidae",
-      "genus": "Isozoanthus",
-      "species": "Isozoanthus sulcatus",
-      "remove": false,
-      "reads": 563,
-      "asvs": 1,
-      "target_gene": "COI",
-      "source_obis": false,
-      "source_gbif": false,
-      "source_dna": true,
-      "group": "cnidarians"
-    },
-    {
       "AphiaID": 101055,
       "phylum": "Cnidaria",
       "class": "Anthozoa",
@@ -2817,6 +2783,40 @@
       "source_obis": false,
       "source_gbif": true,
       "source_dna": false,
+      "group": "cnidarians"
+    },
+    {
+      "AphiaID": 1264073,
+      "phylum": "Cnidaria",
+      "class": "Hexacorallia",
+      "order": "Actiniaria",
+      "family": "Aiptasiidae",
+      "genus": "Exaiptasia",
+      "species": "Exaiptasia diaphana",
+      "remove": false,
+      "reads": 11,
+      "asvs": 1,
+      "target_gene": "COI",
+      "source_obis": false,
+      "source_gbif": false,
+      "source_dna": true,
+      "group": "cnidarians"
+    },
+    {
+      "AphiaID": 101053,
+      "phylum": "Cnidaria",
+      "class": "Hexacorallia",
+      "order": "Zoantharia",
+      "family": "Parazoanthidae",
+      "genus": "Isozoanthus",
+      "species": "Isozoanthus sulcatus",
+      "remove": false,
+      "reads": 563,
+      "asvs": 1,
+      "target_gene": "COI",
+      "source_obis": false,
+      "source_gbif": false,
+      "source_dna": true,
       "group": "cnidarians"
     },
     {
@@ -21144,7 +21144,7 @@
       "phylum": "Myzozoa",
       "class": "Dinophyceae",
       "order": "Gonyaulacales",
-      "family": "Gonyaulacaceae",
+      "family": "Protoceratiaceae",
       "genus": "Protoceratium",
       "species": "Protoceratium reticulatum",
       "remove": false,
@@ -22898,6 +22898,11 @@
         "reads": 4
       },
       {
+        "family": "Chloropicaceae",
+        "pcr_primer_name_forward": "mlCOIintF",
+        "reads": 269
+      },
+      {
         "family": "Chondropsidae",
         "pcr_primer_name_forward": "mlCOIintF",
         "reads": 65
@@ -23211,11 +23216,6 @@
         "family": "Gobiidae",
         "pcr_primer_name_forward": "teleo_F_L1848",
         "reads": 5629
-      },
-      {
-        "family": "Gonyaulacaceae",
-        "pcr_primer_name_forward": "mlCOIintF",
-        "reads": 27
       },
       {
         "family": "Halichondriidae",
@@ -23683,6 +23683,11 @@
         "reads": 566
       },
       {
+        "family": "Protoceratiaceae",
+        "pcr_primer_name_forward": "mlCOIintF",
+        "reads": 27
+      },
+      {
         "family": "Pseudoalteromonadaceae",
         "pcr_primer_name_forward": "MiFish-UE-F",
         "reads": 10
@@ -24066,7 +24071,7 @@
       },
       {
         "pcr_primer_name_forward": "mlCOIintF",
-        "reads": 14465273
+        "reads": 14465004
       },
       {
         "pcr_primer_name_forward": "teleo_F_L1848",

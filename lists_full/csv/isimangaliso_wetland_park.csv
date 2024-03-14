@@ -48,6 +48,7 @@
 149351,"Bacillariophyta","Bacillariophyceae","Triceratiales","Plagiogrammaceae","Plagiogramma","Plagiogramma staurophorum",FALSE,,23,1,,"12S",FALSE,FALSE,TRUE,,,,"algae"
 149352,"Bacillariophyta","Bacillariophyceae","Triceratiales","Plagiogrammaceae","Plagiogramma","Plagiogramma vanheurckii",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"algae"
 573623,"Bacillariophyta","Bacillariophyceae",,,"Tessella","Tessella interrupta",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"algae"
+1361158,"Chlorophyta","Chloropicophyceae","Chloropicales","Chloropicaceae","Chloroparvula","Chloroparvula pacifica",FALSE,,9761,13,,"16S;COI",FALSE,FALSE,TRUE,,,,"algae"
 345463,"Chlorophyta","Mamiellophyceae","Dolichomastigales","Dolichomastigaceae","Dolichomastix","Dolichomastix tenuilepis",FALSE,,1807,6,,"COI",FALSE,FALSE,TRUE,,,,"algae"
 134564,"Chlorophyta","Mamiellophyceae","Mamiellales","Mamiellaceae","Micromonas","Micromonas pusilla",FALSE,,2792551,173,,"12S;16S;COI",FALSE,FALSE,TRUE,,,,"algae"
 376073,"Chlorophyta","Pyramimonadophyceae","Pseudoscourfieldiales","Pycnococcaceae","Pycnococcus","Pycnococcus provasolii",FALSE,,41,1,,"16S",FALSE,FALSE,TRUE,,,,"algae"
@@ -112,14 +113,13 @@
 234471,"Chlorophyta","Ulvophyceae","Ulvales","Ulvaceae","Ulva","Ulva intestinalis",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"algae"
 145990,"Chlorophyta","Ulvophyceae","Ulvales","Ulvaceae","Ulva","Ulva rigida",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"algae"
 732259,"Chlorophyta","Ulvophyceae","Ulvales","Ulvellaceae","Ulvella","Ulvella viridis",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"algae"
-1361158,"Chlorophyta",,,,"Chloroparvula","Chloroparvula pacifica",FALSE,,9761,13,,"16S;COI",FALSE,FALSE,TRUE,,,,"algae"
 1361155,"Chlorophyta",,,,"Chloropicon","Chloropicon laureae",FALSE,,1110,5,,"COI",FALSE,FALSE,TRUE,,,,"algae"
 1361154,"Chlorophyta",,,,"Chloropicon","Chloropicon mariensis",FALSE,,13,1,,"COI",FALSE,FALSE,TRUE,,,,"algae"
 1361156,"Chlorophyta",,,,"Chloropicon","Chloropicon maureeniae",FALSE,,5,1,,"COI",FALSE,FALSE,TRUE,,,,"algae"
 1361151,"Chlorophyta",,,,"Chloropicon","Chloropicon primus",FALSE,,502,4,,"COI",FALSE,FALSE,TRUE,,,,"algae"
 1361153,"Chlorophyta",,,,"Chloropicon","Chloropicon roscoffensis",FALSE,,282,1,,"COI",FALSE,FALSE,TRUE,,,,"algae"
 1541871,"Chlorophyta",,,,"Chloropicon","Chloropicon sieburthii",FALSE,,1395,3,,"COI",FALSE,FALSE,TRUE,,,,"algae"
-115104,"Haptophyta","Coccolithophyceae","Isochrysidales","Noelaerhabdaceae","Emiliania","Emiliania huxleyi",FALSE,,44371,12,,"12S;COI",FALSE,FALSE,TRUE,,,,"algae"
+236056,"Haptophyta","Coccolithophyceae","Isochrysidales","Noelaerhabdaceae","Gephyrocapsa","Gephyrocapsa huxleyi",FALSE,,44371,12,,"12S;COI",FALSE,FALSE,TRUE,,,,"algae"
 235955,"Haptophyta","Coccolithophyceae","Isochrysidales","Noelaerhabdaceae","Gephyrocapsa","Gephyrocapsa oceanica",FALSE,,165,3,,"12S;16S",FALSE,FALSE,TRUE,,,,"algae"
 160538,"Haptophyta","Coccolithophyceae","Phaeocystales","Phaeocystaceae","Phaeocystis","Phaeocystis globosa",FALSE,,113222,38,,"12S;16S;COI",FALSE,FALSE,TRUE,,,,"algae"
 1358375,"Haptophyta","Coccolithophyceae","Prymnesiales","Chrysochromulinaceae","Chrysochromulina","Chrysochromulina tobinii",FALSE,,68,2,,"COI",FALSE,FALSE,TRUE,,,,"algae"
@@ -195,7 +195,6 @@
 495552,"Ochrophyta","Phaeophyceae","Ralfsiales","Neoralfsiaceae","Neoralfsia","Neoralfsia expansa",FALSE,,51,2,,"COI",FALSE,FALSE,TRUE,,,,"algae"
 375026,"Ochrophyta","Phaeophyceae","Scytothamnales","Asteronemataceae","Asteronema","Asteronema breviarticulatum",FALSE,2,,,2000,,TRUE,TRUE,FALSE,,,,"algae"
 145481,"Ochrophyta","Phaeophyceae","Scytothamnales","Bachelotiaceae","Bachelotia","Bachelotia antillarum",FALSE,,22,1,,"COI",FALSE,FALSE,TRUE,,,,"algae"
-233780,"Ochrophyta","Raphidophyceae","Chattonellales","Vacuolariaceae","Chattonella","Chattonella marina",FALSE,,137,2,,"COI",FALSE,FALSE,TRUE,,,,"algae"
 371039,"Rhodophyta","Compsopogonophyceae","Compsopogonales","Compsopogonaceae","Compsopogon","Compsopogon caeruleus",FALSE,,59,2,,"COI",FALSE,FALSE,TRUE,,,,"algae"
 145490,"Rhodophyta","Compsopogonophyceae","Erythropeltales","Erythrotrichiaceae","Erythrotrichia","Erythrotrichia carnea",FALSE,,16,2,,"12S;16S",FALSE,FALSE,TRUE,,,,"algae"
 623705,"Rhodophyta","Florideophyceae","Batrachospermales","Batrachospermaceae","Kumanoa","Kumanoa globospora",FALSE,,30,1,,"COI",FALSE,FALSE,TRUE,,,,"algae"
@@ -515,9 +514,7 @@
 283336,"Cnidaria","Anthozoa","Actiniaria","Actiniidae","Anthopleura","Anthopleura anneae",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"cnidarians"
 289434,"Cnidaria","Anthozoa","Actiniaria","Actiniidae","Anthostella","Anthostella stephensoni",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"cnidarians"
 289169,"Cnidaria","Anthozoa","Actiniaria","Thalassianthidae","Cryptodendrum","Cryptodendrum adhaesivum",FALSE,,,,,,FALSE,TRUE,FALSE,,,"adhesive sea anemone","cnidarians"
-158230,"Cnidaria","Anthozoa","Actiniaria","Diadumenidae","Diadumene","Diadumene leucolena",FALSE,,38,1,,"COI",FALSE,FALSE,TRUE,,,"white anemone","cnidarians"
 854446,"Cnidaria","Anthozoa","Actiniaria","Edwardsiidae","Edwardsia","Edwardsia isimangaliso",FALSE,1,,,,,TRUE,TRUE,FALSE,,,,"cnidarians"
-100889,"Cnidaria","Anthozoa","Actiniaria","Edwardsiidae","Edwardsia","Edwardsia longicornis",FALSE,,9,1,,"COI",FALSE,FALSE,TRUE,,,,"cnidarians"
 289898,"Cnidaria","Anthozoa","Actiniaria","Actiniidae","Entacmaea","Entacmaea quadricolor",FALSE,,,,,,FALSE,TRUE,FALSE,,,"bulb tentacle sea anemone","cnidarians"
 290054,"Cnidaria","Anthozoa","Actiniaria","Actiniidae","Gyractis","Gyractis sesere",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"cnidarians"
 290088,"Cnidaria","Anthozoa","Actiniaria","Heteractidae","Heteractis","Heteractis aurora",FALSE,,,,,,FALSE,TRUE,FALSE,,,"aurora anemone","cnidarians"
@@ -533,15 +530,13 @@
 213048,"Cnidaria","Anthozoa","Malacalcyonacea","Acrophytidae","Acrophytum","Acrophytum claviger",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"cnidarians"
 565326,"Cnidaria","Anthozoa","Malacalcyonacea","Cladiellidae","Aldersladum","Aldersladum sodwanum",FALSE,1,,,,,TRUE,FALSE,FALSE,,,,"cnidarians"
 209999,"Cnidaria","Anthozoa","Malacalcyonacea","Xeniidae","Anthelia","Anthelia glauca",FALSE,1,,,,,TRUE,FALSE,FALSE,,,"pulse coral","cnidarians"
-716889,"Cnidaria","Anthozoa","Malacalcyonacea","Arulidae","Arula","Arula petunia",FALSE,,9,1,,"COI",FALSE,FALSE,TRUE,,,,"cnidarians"
-395098,"Cnidaria","Anthozoa","Malacalcyonacea","Carijoidae","Carijoa","Carijoa riisei",FALSE,,10,1,,"COI",FALSE,FALSE,TRUE,,,"white telesto","cnidarians"
 209608,"Cnidaria","Anthozoa","Malacalcyonacea","Cladiellidae","Cladiella","Cladiella australis",FALSE,1,,,,,TRUE,FALSE,FALSE,,,"ghost coral","cnidarians"
 288620,"Cnidaria","Anthozoa","Malacalcyonacea","Cladiellidae","Cladiella","Cladiella kashmani",FALSE,1,,,,,TRUE,TRUE,FALSE,,,,"cnidarians"
 209611,"Cnidaria","Anthozoa","Malacalcyonacea","Cladiellidae","Cladiella","Cladiella krempfi",FALSE,1,,,,,TRUE,FALSE,FALSE,,,,"cnidarians"
 287765,"Cnidaria","Anthozoa","Malacalcyonacea","Alcyoniidae","Eleutherobia","Eleutherobia rubra",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"cnidarians"
 210004,"Cnidaria","Anthozoa","Malacalcyonacea","Xeniidae","Heteroxenia","Heteroxenia fuscescens",FALSE,1,,,,,TRUE,FALSE,FALSE,,,,"cnidarians"
 286254,"Cnidaria","Anthozoa","Malacalcyonacea","Gorgoniidae","Leptogorgia","Leptogorgia palma",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"cnidarians"
-209965,"Cnidaria","Anthozoa","Malacalcyonacea","Sarcophytidae","Lobophytum","Lobophytum crassum",FALSE,1,20,1,,"COI",TRUE,TRUE,TRUE,,,,"cnidarians"
+209965,"Cnidaria","Anthozoa","Malacalcyonacea","Sarcophytidae","Lobophytum","Lobophytum crassum",FALSE,1,,,,,TRUE,TRUE,FALSE,,,,"cnidarians"
 209962,"Cnidaria","Anthozoa","Malacalcyonacea","Sarcophytidae","Lobophytum","Lobophytum depressum",FALSE,1,,,,,TRUE,FALSE,FALSE,,,,"cnidarians"
 209964,"Cnidaria","Anthozoa","Malacalcyonacea","Sarcophytidae","Lobophytum","Lobophytum latilobatum",FALSE,1,,,,,TRUE,TRUE,FALSE,,,,"cnidarians"
 209960,"Cnidaria","Anthozoa","Malacalcyonacea","Sarcophytidae","Lobophytum","Lobophytum patulum",FALSE,1,,,,,TRUE,TRUE,FALSE,,,,"cnidarians"
@@ -703,7 +698,6 @@
 207167,"Cnidaria","Anthozoa","Scleractinia","Acroporidae","Montipora","Montipora undata",FALSE,,,,,,FALSE,TRUE,FALSE,"NT","NT","pore coral","cnidarians"
 207139,"Cnidaria","Anthozoa","Scleractinia","Acroporidae","Montipora","Montipora venosa",FALSE,1,,,,,TRUE,TRUE,FALSE,"NT","NT","pore coral","cnidarians"
 207146,"Cnidaria","Anthozoa","Scleractinia","Acroporidae","Montipora","Montipora verrucosa",FALSE,1,,,,,TRUE,FALSE,FALSE,"LC","LC","pore coral","cnidarians"
-290548,"Cnidaria","Anthozoa","Scleractinia","Oulastreidae","Oulastrea","Oulastrea crispata",FALSE,,8,1,,"COI",FALSE,FALSE,TRUE,"LC","LC","zebra coral","cnidarians"
 207485,"Cnidaria","Anthozoa","Scleractinia","Merulinidae","Oulophyllia","Oulophyllia crispa",FALSE,1,,,,,TRUE,TRUE,FALSE,"NT","NT","intermediate valley coral","cnidarians"
 1349604,"Cnidaria","Anthozoa","Scleractinia","Lobophylliidae","Oxypora","Oxypora echinata",FALSE,,,,,,FALSE,TRUE,FALSE,"LC","LC",,"cnidarians"
 207293,"Cnidaria","Anthozoa","Scleractinia","Scleractinia incertae sedis","Pachyseris","Pachyseris speciosa",FALSE,1,,,,,TRUE,TRUE,FALSE,"LC","LC","serpent coral","cnidarians"
@@ -731,7 +725,6 @@
 207229,"Cnidaria","Anthozoa","Scleractinia","Poritidae","Porites","Porites cylindrica",FALSE,,,,,,FALSE,TRUE,FALSE,"NT","NT","hump coral","cnidarians"
 207228,"Cnidaria","Anthozoa","Scleractinia","Poritidae","Porites","Porites lichen",FALSE,1,,,,,TRUE,TRUE,FALSE,"LC","LC","hump coral","cnidarians"
 207246,"Cnidaria","Anthozoa","Scleractinia","Poritidae","Porites","Porites lutea",FALSE,1,,,,,TRUE,FALSE,FALSE,"LC","LC","hump coral","cnidarians"
-207231,"Cnidaria","Anthozoa","Scleractinia","Poritidae","Porites","Porites rus",FALSE,,26,1,,"COI",FALSE,FALSE,TRUE,"LC","LC","hump coral","cnidarians"
 207227,"Cnidaria","Anthozoa","Scleractinia","Poritidae","Porites","Porites solida",FALSE,1,,,,,TRUE,FALSE,FALSE,"LC","LC","hump coral","cnidarians"
 290849,"Cnidaria","Anthozoa","Scleractinia","Dendrophylliidae","Pourtalopsammia","Pourtalopsammia togata",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"cnidarians"
 766867,"Cnidaria","Anthozoa","Scleractinia","Psammocoridae","Psammocora","Psammocora columna",FALSE,,,,,,FALSE,TRUE,FALSE,"LC","LC",,"cnidarians"
@@ -748,7 +741,7 @@
 135208,"Cnidaria","Anthozoa","Scleractinia","Stenocyathidae","Stenocyathus","Stenocyathus vermiformis",FALSE,,,,,,FALSE,TRUE,FALSE,,,"worm coral","cnidarians"
 291125,"Cnidaria","Anthozoa","Scleractinia","Micrabaciidae","Stephanophyllia","Stephanophyllia fungulus",FALSE,4,,,1990,,TRUE,TRUE,FALSE,,,,"cnidarians"
 287777,"Cnidaria","Anthozoa","Scleractinia","Pocilloporidae","Stylophora","Stylophora madagascarensis",FALSE,,,,,,FALSE,TRUE,FALSE,"EN","EN","hood coral","cnidarians"
-206982,"Cnidaria","Anthozoa","Scleractinia","Pocilloporidae","Stylophora","Stylophora pistillata",FALSE,1,8,1,,"COI",TRUE,TRUE,TRUE,"NT","NT","hood coral","cnidarians"
+206982,"Cnidaria","Anthozoa","Scleractinia","Pocilloporidae","Stylophora","Stylophora pistillata",FALSE,1,,,,,TRUE,TRUE,FALSE,"NT","NT","hood coral","cnidarians"
 206980,"Cnidaria","Anthozoa","Scleractinia","Pocilloporidae","Stylophora","Stylophora subseriata",FALSE,,,,,,FALSE,TRUE,FALSE,"LC","LC",,"cnidarians"
 286893,"Cnidaria","Anthozoa","Scleractinia","Caryophylliidae","Trochocyathus","Trochocyathus (Trochocyathus) rawsonii",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"cnidarians"
 291249,"Cnidaria","Anthozoa","Scleractinia","Turbinoliidae","Tropidocyathus","Tropidocyathus lessonii",FALSE,32,,,1990,,TRUE,TRUE,FALSE,,,,"cnidarians"
@@ -777,6 +770,11 @@
 220520,"Cnidaria","Anthozoa","Zoantharia","Sphenopidae","Palythoa","Palythoa tuberculosa",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"cnidarians"
 220523,"Cnidaria","Anthozoa","Zoantharia","Zoanthidae","Zoanthus","Zoanthus natalensis",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"cnidarians"
 220521,"Cnidaria","Anthozoa","Zoantharia","Zoanthidae","Zoanthus","Zoanthus sansibaricus",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"cnidarians"
+158230,"Cnidaria","Hexacorallia","Actiniaria","Diadumenidae","Diadumene","Diadumene leucolena",FALSE,,38,1,,"COI",FALSE,FALSE,TRUE,,,"white anemone","cnidarians"
+100889,"Cnidaria","Hexacorallia","Actiniaria","Edwardsiidae","Edwardsia","Edwardsia longicornis",FALSE,,9,1,,"COI",FALSE,FALSE,TRUE,,,,"cnidarians"
+290548,"Cnidaria","Hexacorallia","Scleractinia","Oulastreidae","Oulastrea","Oulastrea crispata",FALSE,,8,1,,"COI",FALSE,FALSE,TRUE,"LC","LC","zebra coral","cnidarians"
+207231,"Cnidaria","Hexacorallia","Scleractinia","Poritidae","Porites","Porites rus",FALSE,,26,1,,"COI",FALSE,FALSE,TRUE,"LC","LC","hump coral","cnidarians"
+206982,"Cnidaria","Hexacorallia","Scleractinia","Pocilloporidae","Stylophora","Stylophora pistillata",FALSE,,8,1,,"COI",FALSE,FALSE,TRUE,"NT","NT","hood coral","cnidarians"
 289484,"Cnidaria","Hydrozoa","Anthoathecata","Asyncorynidae","Asyncoryne","Asyncoryne ryniensis",FALSE,,40,3,,"COI",FALSE,FALSE,TRUE,,,,"cnidarians"
 221089,"Cnidaria","Hydrozoa","Anthoathecata","Sphaerocorynidae","Euphysilla","Euphysilla pyramidata",FALSE,,513,2,,"COI",FALSE,FALSE,TRUE,,,,"cnidarians"
 564153,"Cnidaria","Hydrozoa","Anthoathecata","Hydridae","Hydra","Hydra sinensis",FALSE,,309,1,,"COI",FALSE,FALSE,TRUE,,,,"cnidarians"
@@ -865,6 +863,9 @@
 135495,"Cnidaria","Hydrozoa","Siphonophorae","Agalmatidae","Nanomia","Nanomia bijuga",FALSE,,602,4,,"COI",FALSE,FALSE,TRUE,,,,"cnidarians"
 135479,"Cnidaria","Hydrozoa","Siphonophorae","Physaliidae","Physalia","Physalia physalis",FALSE,,21,1,,"COI",FALSE,TRUE,TRUE,,,"Portuguese man-of-war, galère portugaise","cnidarians"
 117865,"Cnidaria","Hydrozoa","Trachymedusae","Rhopalonematidae","Rhopalonema","Rhopalonema velatum",FALSE,,44,2,,"COI",FALSE,FALSE,TRUE,,,"veiled medusa","cnidarians"
+716889,"Cnidaria","Octocorallia","Malacalcyonacea","Arulidae","Arula","Arula petunia",FALSE,,9,1,,"COI",FALSE,FALSE,TRUE,,,,"cnidarians"
+395098,"Cnidaria","Octocorallia","Malacalcyonacea","Carijoidae","Carijoa","Carijoa riisei",FALSE,,10,1,,"COI",FALSE,FALSE,TRUE,,,"white telesto","cnidarians"
+209965,"Cnidaria","Octocorallia","Malacalcyonacea","Sarcophytidae","Lobophytum","Lobophytum crassum",FALSE,,20,1,,"COI",FALSE,FALSE,TRUE,,,,"cnidarians"
 220491,"Cnidaria","Scyphozoa","Rhizostomeae","Catostylidae","Catostylus","Catostylus mosaicus",FALSE,,,,,,FALSE,TRUE,FALSE,,,"blue blubber","cnidarians"
 289197,"Cnidaria","Scyphozoa","Rhizostomeae","Catostylidae","Crambionella","Crambionella stuhlmanni",FALSE,,6,1,,"COI",FALSE,FALSE,TRUE,,,,"cnidarians"
 287986,"Cnidaria","Scyphozoa","Rhizostomeae","Leptobrachidae","Thysanostoma","Thysanostoma thysanura",FALSE,,,,,,FALSE,TRUE,FALSE,,,,"cnidarians"
@@ -3881,8 +3882,6 @@
 137206,"Chordata",,"Testudines","Cheloniidae","Chelonia","Chelonia mydas",FALSE,2,,,2014,,TRUE,TRUE,FALSE,"EN","EN","green turtle, tortue verte","turtles"
 137209,"Chordata",,"Testudines","Dermochelyidae","Dermochelys","Dermochelys coriacea",FALSE,165,,,2013,,TRUE,TRUE,FALSE,"VU","VU","leatherback, tortue luth","turtles"
 137207,"Chordata",,"Testudines","Cheloniidae","Eretmochelys","Eretmochelys imbricata",FALSE,4,,,2013,,TRUE,TRUE,FALSE,"CR","CR","hawksbill turtle, caret","turtles"
-376277,"Cercozoa","Chlorarachnea","Chlorachniida","Chlorarachniaceae","Bigelowiella","Bigelowiella natans",FALSE,,2036,5,,"COI",FALSE,FALSE,TRUE,,,,"unicellular"
-376147,"Cercozoa","Chlorarachnea","Chlorachniida","Chlorarachniaceae","Chlorarachnion","Chlorarachnion reptans",FALSE,,119,1,,"COI",FALSE,FALSE,TRUE,,,,"unicellular"
 1306108,"Myzozoa","Dinophyceae","Suessiales","Suessiaceae","Yihiella","Yihiella yeosuensis",FALSE,,9,1,,"COI",FALSE,FALSE,TRUE,,,,"unicellular"
 1040470,"Annelida","Clitellata","Tubificida","Naididae","Aulophorus","Aulophorus borellii",FALSE,,65,1,,"COI",FALSE,FALSE,TRUE,,,,"worms"
 157589,"Annelida","Clitellata","Tubificida","Naididae","Chaetogaster","Chaetogaster diastrophus",FALSE,,48,2,,"COI",FALSE,FALSE,TRUE,,,,"worms"
@@ -3946,6 +3945,8 @@
 235610,"Brachiopoda","Rhynchonellata","Terebratulida","Frenulinidae","Jolonica","Jolonica suffusa",FALSE,,,,,,FALSE,TRUE,FALSE,,,,
 225711,"Brachiopoda","Rhynchonellata","Terebratulida","Cancellothyrididae","Terebratulina","Terebratulina abyssicola",FALSE,,,,,,FALSE,TRUE,FALSE,,,,
 179053,"Charophyta","Charophyceae","Charales","Characeae","Lamprothamnium","Lamprothamnium papulosum",FALSE,1,,,,,TRUE,TRUE,FALSE,,,,
+376277,"Chlorarachniophyta","Chlorarachniophyceae","Chlorarachniales","Chlorarachniaceae","Bigelowiella","Bigelowiella natans",FALSE,,2036,5,,"COI",FALSE,FALSE,TRUE,,,,
+376147,"Chlorarachniophyta","Chlorarachniophyceae","Chlorarachniales","Chlorarachniaceae","Chlorarachnion","Chlorarachnion reptans",FALSE,,119,1,,"COI",FALSE,FALSE,TRUE,,,,
 214524,"Chordata","Leptocardii",,"Branchiostomatidae","Branchiostoma","Branchiostoma capense",FALSE,1,,,1987,,TRUE,TRUE,FALSE,,,,
 413970,"Chordata",,"Squamata","Scincidae","Cryptoblepharus","Cryptoblepharus boutonii",FALSE,,,,,,FALSE,TRUE,FALSE,"NT","NT",,
 1485229,"Chordata",,"Squamata","Gekkonidae","Hemidactylus","Hemidactylus mabouia",FALSE,,921,1,,"16S",FALSE,FALSE,TRUE,"LC","LC",,
@@ -3954,7 +3955,7 @@
 1606288,"Chordata",,"Squamata","Varanidae","Varanus","Varanus niloticus",FALSE,,1817,7,,"12S;16S;COI",FALSE,FALSE,TRUE,"LC","LC",,
 1361130,"Cryptophyta","Cryptophyceae","Cryptophyceae incertae sedis",,"Hemiarma","Hemiarma marina",FALSE,,94,1,,"COI",FALSE,FALSE,TRUE,,,,
 623449,"Cryptophyta","Cryptophyceae","Pyrenomonadales","Chroomonadaceae","Hemiselmis","Hemiselmis andersenii",FALSE,,2,1,,"COI",FALSE,FALSE,TRUE,,,,
-163898,"Euglenozoa","Euglenoidea","Euglenida","Phacaceae","Lepocinclis","Lepocinclis steinii",FALSE,,114,2,,"12S",FALSE,FALSE,TRUE,,,,
+163898,"Euglenozoa","Euglenophyceae","Euglenales","Phacaceae","Lepocinclis","Lepocinclis steinii",FALSE,,114,2,,"12S",FALSE,FALSE,TRUE,,,,
 230483,"Nematoda","Chromadorea","Monhysterida","Monhysteridae","Geomonhystera","Geomonhystera villosa",FALSE,,,,,,FALSE,TRUE,FALSE,,,,
 1498086,"Platyhelminthes","Trematoda","Plagiorchiida","Gorgocephalidae","Gorgocephalus","Gorgocephalus euryaleae",FALSE,,,,,,FALSE,TRUE,FALSE,,,,
 396279,"Platyhelminthes","Trematoda","Plagiorchiida","Gorgocephalidae","Gorgocephalus","Gorgocephalus yaaji",FALSE,,,,,,FALSE,TRUE,FALSE,,,,

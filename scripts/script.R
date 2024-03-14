@@ -13,6 +13,8 @@ library(jsonlite)
 # TODO: remove contaminants and bacteria from reads/ASV statistics
 
 include_dna <- TRUE
+marine_only <- TRUE
+
 threatened_categories <- c("CR", "EN", "EW", "EX", "VU")
 markers <- c("16s", "coi", "mifish", "mimammal", "teleo")
 fish_classes <- c("Actinopteri", "Cladistii", "Coelacanthi", "Elasmobranchii", "Holocephali", "Myxini", "Petromyzonti", "Teleostei")
@@ -141,17 +143,17 @@ plan(multisession, workers = 3)
 aphiaid_mapping <- future_map(aphiaid_batches, wm_record) %>%
   bind_rows() %>%
   select(aphiaid = AphiaID, valid_aphiaid = valid_AphiaID) %>%
-  distinct() %>%
-  filter(aphiaid != valid_aphiaid)
+  distinct()
 
 valid_aphiaids <- unique(aphiaid_mapping$valid_aphiaid)
 valid_aphiaid_batches <- split(valid_aphiaids, as.integer((seq_along(valid_aphiaids) - 1) / 50))
 valid_taxa <- map(valid_aphiaid_batches, wm_record) %>%
   bind_rows() %>%
-  select(valid_aphiaid = AphiaID, scientificName = scientificname, scientificNameID = lsid, taxonRank = rank, kingdom, phylum, class, order, family, genus) %>%
+  select(valid_aphiaid = AphiaID, scientificName = scientificname, scientificNameID = lsid, taxonRank = rank, kingdom, phylum, class, order, family, genus, isMarine, isBrackish, isFreshwater, isTerrestrial) %>%
   mutate(taxonRank = tolower(taxonRank))
 
 occurrence <- occurrence %>%
+  mutate(isMarine = NA, isBrackish = NA, isFreshwater = NA, isTerrestrial = NA) %>%
   mutate(verbatimScientificName = scientificName) %>%
   left_join(aphiaid_mapping, by = "aphiaid") %>%
   rows_update(valid_taxa, by = "valid_aphiaid") %>%
@@ -166,13 +168,22 @@ dna_species <- occurrence %>%
   select(-species) %>%
   rename(species = scientificName) %>%
   mutate(AphiaID = as.numeric(str_extract(scientificNameID, "[0-9]+"))) %>%
-  group_by(phylum, class, order, family, genus, species, AphiaID, site, remove) %>%
+  group_by(phylum, class, order, family, genus, species, AphiaID, site, isMarine, isBrackish, isFreshwater, isTerrestrial, remove) %>%
   summarize(
     target_gene = paste0(sort(unique(target_gene)), collapse = ";"),
     reads = sum(organismQuantity),
     asvs = n_distinct(DNA_sequence)
   ) %>%
-  mutate(source_dna = TRUE)
+  mutate(source_dna = TRUE) %>% 
+  ungroup()
+
+if (marine_only) {
+  dna_species <- dna_species %>%
+    filter(!(isFALSE(isMarine) & isFALSE(isBrackish)))
+}
+
+dna_species <- dna_species %>%
+  select(-isMarine, -isBrackish, -isFreshwater, -isTerrestrial)
 
 # make list
 

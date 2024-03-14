@@ -10,9 +10,9 @@
 212668,"Chordata","Aves","Ciconiiformes","Ardeidae","Ardea","Ardea cinerea",FALSE,,6,1,,"12S",FALSE,FALSE,TRUE,"LC","LC",,"birds"
 159072,"Chordata","Aves","Falconiformes","Falconidae","Falco","Falco sparverius",FALSE,,120,2,,"12S",FALSE,FALSE,TRUE,"LC","LC",,"birds"
 1525634,"Chordata","Aves","Galliformes","Phasianidae","Meleagris","Meleagris gallopavo",FALSE,,1183,4,,"12S",FALSE,FALSE,TRUE,"LC","LC",,"birds"
-158230,"Cnidaria","Anthozoa","Actiniaria","Diadumenidae","Diadumene","Diadumene leucolena",FALSE,,4563,3,,"16S;COI",FALSE,FALSE,TRUE,,,"white anemone","cnidarians"
-1264073,"Cnidaria","Anthozoa","Actiniaria","Aiptasiidae","Exaiptasia","Exaiptasia diaphana",FALSE,,14586,8,,"16S;COI",FALSE,TRUE,TRUE,,,,"cnidarians"
-743536,"Cnidaria","Anthozoa","Zoantharia","Nanozoanthidae","Nanozoanthus","Nanozoanthus harenaceus",FALSE,,38,1,,"COI",FALSE,FALSE,TRUE,,,,"cnidarians"
+158230,"Cnidaria","Hexacorallia","Actiniaria","Diadumenidae","Diadumene","Diadumene leucolena",FALSE,,4563,3,,"16S;COI",FALSE,FALSE,TRUE,,,"white anemone","cnidarians"
+1264073,"Cnidaria","Hexacorallia","Actiniaria","Aiptasiidae","Exaiptasia","Exaiptasia diaphana",FALSE,,14586,8,,"16S;COI",FALSE,FALSE,TRUE,,,,"cnidarians"
+743536,"Cnidaria","Hexacorallia","Zoantharia","Nanozoanthidae","Nanozoanthus","Nanozoanthus harenaceus",FALSE,,38,1,,"COI",FALSE,FALSE,TRUE,,,,"cnidarians"
 288110,"Cnidaria","Hydrozoa","Anthoathecata","Zancleopsidae","Zancleopsis","Zancleopsis dichotoma",FALSE,,31,1,,"COI",FALSE,FALSE,TRUE,,,,"cnidarians"
 117368,"Cnidaria","Hydrozoa","Leptothecata","Campanulariidae","Clytia","Clytia hemisphaerica",FALSE,,149,4,,"12S;COI",FALSE,FALSE,TRUE,,,,"cnidarians"
 117673,"Cnidaria","Hydrozoa","Leptothecata","Kirchenpaueriidae","Kirchenpaueria","Kirchenpaueria halecioides",FALSE,,21823,18,,"12S;16S;COI",FALSE,FALSE,TRUE,,,,"cnidarians"
@@ -176,8 +176,6 @@
 137205,"Chordata",,"Testudines","Cheloniidae","Caretta","Caretta caretta",FALSE,67,2495,8,2013,"12S;16S",TRUE,TRUE,TRUE,"VU","VU","logerhead sea turtle, tortue Caouanne","turtles"
 120664,"Amoebozoa","Discosea","Dactylopodida","Vexilliferidae","Neoparamoeba","Neoparamoeba aestuarina",FALSE,,322,5,,"COI",FALSE,FALSE,TRUE,,,,"unicellular"
 1501261,"Amoebozoa","Myxogastrea","Physarida","Physaridae","Craterium","Craterium leucocephalum",FALSE,,60,3,,"16S",FALSE,FALSE,TRUE,,,,"unicellular"
-376277,"Cercozoa","Chlorarachnea","Chlorachniida","Chlorarachniaceae","Bigelowiella","Bigelowiella natans",FALSE,,20668,13,,"12S;16S;COI",FALSE,FALSE,TRUE,,,,"unicellular"
-376147,"Cercozoa","Chlorarachnea","Chlorachniida","Chlorarachniaceae","Chlorarachnion","Chlorarachnion reptans",FALSE,,19391,12,,"COI",FALSE,FALSE,TRUE,,,,"unicellular"
 109743,"Myzozoa","Dinophyceae","Amphidiniales","Amphidiniaceae","Amphidinium","Amphidinium massartii",FALSE,,1529,8,,"16S;COI",FALSE,FALSE,TRUE,,,,"unicellular"
 110303,"Myzozoa","Dinophyceae","Prorocentrales","Prorocentraceae","Prorocentrum","Prorocentrum micans",FALSE,,12,2,,"16S;COI",FALSE,FALSE,TRUE,,,,"unicellular"
 1306108,"Myzozoa","Dinophyceae","Suessiales","Suessiaceae","Yihiella","Yihiella yeosuensis",FALSE,,6,1,,"COI",FALSE,FALSE,TRUE,,,,"unicellular"
@@ -203,6 +201,8 @@
 150514,"Arthropoda","Merostomata","Xiphosurida","Limulidae","Limulus","Limulus polyphemus",FALSE,4,12,1,1971,"COI",TRUE,TRUE,TRUE,"VU","VU","horseshoe crab",
 134643,"Arthropoda","Pycnogonida","Pantopoda","Callipallenidae","Callipallene","Callipallene brevirostris",FALSE,1,28,2,1994,"COI",TRUE,FALSE,TRUE,,,,
 437835,"Basidiomycota","Agaricomycetes","Agaricales","Schizophyllaceae","Schizophyllum","Schizophyllum commune",FALSE,,11,1,,"COI",FALSE,FALSE,TRUE,,,,
+376277,"Chlorarachniophyta","Chlorarachniophyceae","Chlorarachniales","Chlorarachniaceae","Bigelowiella","Bigelowiella natans",FALSE,,20668,13,,"12S;16S;COI",FALSE,FALSE,TRUE,,,,
+376147,"Chlorarachniophyta","Chlorarachniophyceae","Chlorarachniales","Chlorarachniaceae","Chlorarachnion","Chlorarachnion reptans",FALSE,,19391,12,,"COI",FALSE,FALSE,TRUE,,,,
 1361130,"Cryptophyta","Cryptophyceae","Cryptophyceae incertae sedis",,"Hemiarma","Hemiarma marina",FALSE,,4850,6,,"12S;16S;COI",FALSE,FALSE,TRUE,,,,
 119077,"Cryptophyta","Cryptophyta incertae sedis",,"Katablepharidaceae","Leucocryptos","Leucocryptos marina",FALSE,,2286,2,,"12S;COI",FALSE,FALSE,TRUE,,,,
 103429,,,,,"Amastigomonas","Amastigomonas debruynei",FALSE,,3,1,,"COI",FALSE,FALSE,TRUE,,,,
