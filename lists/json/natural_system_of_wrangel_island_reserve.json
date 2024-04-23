@@ -1,5 +1,5 @@
 {
-  "created": "2024-03-14T20:14:49",
+  "created": "2024-04-23T11:01:49",
   "species": [],
   "stats": {
     "samples": [],
@@ -10,19 +10,23 @@
     "markers": [],
     "redlist": [
       {
+        "category": "CR",
+        "obis_species": 3
+      },
+      {
         "category": "EN",
         "obis_species": 3
       },
       {
         "category": "VU",
-        "obis_species": 20
+        "obis_species": 10
       }
     ],
     "groups_edna": {},
     "source": {
       "obis": 35,
-      "gbif": 1781,
-      "db": 1784,
+      "gbif": 373,
+      "db": 408,
       "edna": 0,
       "both": 0
     }
